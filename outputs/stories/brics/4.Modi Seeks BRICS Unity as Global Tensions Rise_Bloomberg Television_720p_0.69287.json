@@ -1,0 +1,14 @@
+{
+  "start": 10.0,
+  "end": 32.24,
+  "duration": 22.240000000000002,
+  "max_len": 30,
+  "text": "And Modi is hosting it, and he had some comments already this morning, talking about, you know, countries like his are bearing the brunt of global crises and that they shouldn't remain on the sidelines while decisions are being made. He says, quote, we must transform this pyramid of privilege into a platform of partnership. But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting?",
+  "parts": {
+    "centrality": 0.6559008072930067,
+    "lead": 0.9346304108702228,
+    "density": 0.5614679373336524,
+    "clarity": 0.6405234336853027
+  },
+  "importance": 0.6928685854322355
+}

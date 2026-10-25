@@ -1,0 +1,14 @@
+{
+  "start": 546.0,
+  "end": 571.64,
+  "duration": 25.639999999999986,
+  "max_len": 30,
+  "text": "Yeah, it is interesting. I mean, the Houthis and Saudi Arabia have been involved in a conflict for many years, but it sort of subsided a few years ago and sort of bubbles along because the Houthis were very ill-equipped. Saudi was much better equipped, and although it was an irritation, it wasn't something that was really causing the Saudis too much problem. But of course, the Houthis as well as Hamas and Hezbollah are all uh proxies of Iran.",
+  "parts": {
+    "centrality": 0.8254070181292561,
+    "lead": 0.04217399310746206,
+    "density": 0.48833744189125955,
+    "clarity": 0.8373541831970215
+  },
+  "importance": 0.6217841262095274
+}

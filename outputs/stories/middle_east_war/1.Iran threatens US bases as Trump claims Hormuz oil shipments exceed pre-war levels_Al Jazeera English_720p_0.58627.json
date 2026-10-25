@@ -1,0 +1,14 @@
+{
+  "start": 199.6,
+  "end": 244.0,
+  "duration": 44.400000000000006,
+  "max_len": 45,
+  "text": "But what we do know is that the US president, when it comes to any sort of interruption or decrease in oil, is pointing the finger at Iran, saying that it is Iran that is responsible for any interruptions, particularly ahead of the US midterm elections, making the case that Iran may even even be able, even may even be deliberately taking this sort of action. Now, uh, what is also important to note here is that the US President, as he has said before in his social media post, claims that the United States is in complete control of the Strait of Hormuz and Iran is not able to export its oil.",
+  "parts": {
+    "centrality": 0.7999325724339904,
+    "lead": 0.09390332790229823,
+    "density": 0.17907819330882507,
+    "clarity": 0.8688268065452576
+  },
+  "importance": 0.5862668368922573
+}

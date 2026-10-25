@@ -1,0 +1,14 @@
+{
+  "start": 126.56,
+  "end": 163.76,
+  "duration": 37.19999999999999,
+  "max_len": 45,
+  "text": "The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+  "parts": {
+    "centrality": 0.9381745650487909,
+    "lead": 0.22315660520441646,
+    "density": 0.7255491020040947,
+    "clarity": 0.8902941942214966
+  },
+  "importance": 0.7489130423750232
+}

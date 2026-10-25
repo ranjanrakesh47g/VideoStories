@@ -1,0 +1,14 @@
+{
+  "start": 232.72,
+  "end": 260.4,
+  "duration": 27.67999999999998,
+  "max_len": 30,
+  "text": "We tend to look at these problems through a Western lens. Um, that our economy is based, you know, on a on a um a democratic system. We have to remember in Iran, it's an autocratic system. The leadership have stowed money away for years. There's no doubt I have friends who have relations in Iran, and they say life is very difficult there indeed. But that hasn't stopped the Iranian leadership having plenty of money and facilities to actually make these weapons.",
+  "parts": {
+    "centrality": 0.5892291962138446,
+    "lead": 0.25939212736771755,
+    "density": 0.830189824830422,
+    "clarity": 0.860251784324646
+  },
+  "importance": 0.6407126531703462
+}

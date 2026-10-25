@@ -1,0 +1,14 @@
+{
+  "start": 212.32,
+  "end": 254.32,
+  "duration": 42.0,
+  "max_len": 45,
+  "text": "To what extent do you think it can, given the limited resources of Iran, given that uh even before the start of the war, its economy uh was in the doldrums and kind of uh in many uh people's opinion, kind of it's on its last legs. How can it stock up weapons? Yeah, it's interesting, isn't it? We tend to look at these problems through a Western lens. Um, that our economy is based, you know, on a on a um a democratic system. We have to remember in Iran, it's an autocratic system. The leadership have stowed money away for years. There's no doubt I have friends who have relations in Iran, and they say life is very difficult there indeed.",
+  "parts": {
+    "centrality": 0.4140982161176073,
+    "lead": 0.2919636244671639,
+    "density": 0.6996999370423626,
+    "clarity": 0.6888871788978577
+  },
+  "importance": 0.514948244760307
+}

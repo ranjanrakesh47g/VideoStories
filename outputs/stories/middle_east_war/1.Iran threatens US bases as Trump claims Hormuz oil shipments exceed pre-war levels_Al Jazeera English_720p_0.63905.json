@@ -1,0 +1,14 @@
+{
+  "start": 31.44,
+  "end": 69.84,
+  "duration": 38.400000000000006,
+  "max_len": 45,
+  "text": "Neither claim has been independently confirmed. Three hit mines and four were directly attacked by the IRGC. This is a this is a major escalation because this is uh probably the highest number in just one day's that is uh acknowledged by the IRGC.",
+  "parts": {
+    "centrality": 0.48259659794649784,
+    "lead": 0.6889406560607865,
+    "density": 0.31202298514045346,
+    "clarity": 0.9518184661865234
+  },
+  "importance": 0.6390459281204566
+}

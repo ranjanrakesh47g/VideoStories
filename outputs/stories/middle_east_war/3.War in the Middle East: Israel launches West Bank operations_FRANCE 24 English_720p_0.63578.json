@@ -1,0 +1,14 @@
+{
+  "start": 57.76,
+  "end": 84.32000000000001,
+  "duration": 26.56000000000001,
+  "max_len": 45,
+  "text": "Uh the Israeli emergency services say that five Israelis, all in their 20s, were injured in uh that attack, and that two at least are currently in a critical uh condition, though it is unclear whether uh those who were wounded uh were civilians or uh were Israeli uh soldiers. That we don't know at this point. Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react.",
+  "parts": {
+    "centrality": 0.5937208931946347,
+    "lead": 0.4915063726155956,
+    "density": 0.63250382788557,
+    "clarity": 0.7826624512672424
+  },
+  "importance": 0.6357778967042496
+}

@@ -1,0 +1,14 @@
+{
+  "start": 513.2,
+  "end": 547.04,
+  "duration": 33.83999999999992,
+  "max_len": 45,
+  "text": "So the danger here is that America won't run out of its ability to strike Iran. What it will do is it will struggle to help the Middle East protect itself. And that will be incredibly dangerous, very unpopular, and will cause America a great deal of diplomatic difficulty in the region. Let's talk a little bit about the rest of the Middle East. You uh mentioned the Houthis earlier in Yemen and Saudi Arabia. They have been trading fire. Where do things stand there and how does that fighting fit into the larger uh Middle East conflict? Yeah, it is interesting.",
+  "parts": {
+    "centrality": 0.6833143032276211,
+    "lead": 0.05100852539343143,
+    "density": 0.7234993990572272,
+    "clarity": 0.7786493301391602
+  },
+  "importance": 0.5914814201086858
+}

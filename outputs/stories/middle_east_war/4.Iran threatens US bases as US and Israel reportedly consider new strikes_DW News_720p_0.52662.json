@@ -1,0 +1,14 @@
+{
+  "start": 241.52,
+  "end": 268.64,
+  "duration": 27.119999999999976,
+  "max_len": 30,
+  "text": "We have to remember in Iran, it's an autocratic system. The leadership have stowed money away for years. There's no doubt I have friends who have relations in Iran, and they say life is very difficult there indeed. But that hasn't stopped the Iranian leadership having plenty of money and facilities to actually make these weapons. It's also worth noting that although there's a blockade on the Strait of Hormuz, there's lots of land routes that provide resupply in to Iran.",
+  "parts": {
+    "centrality": 0.5228490150185349,
+    "lead": 0.2464883170647944,
+    "density": 0.6863250464388553,
+    "clarity": 0.6379334926605225
+  },
+  "importance": 0.526623623433431
+}

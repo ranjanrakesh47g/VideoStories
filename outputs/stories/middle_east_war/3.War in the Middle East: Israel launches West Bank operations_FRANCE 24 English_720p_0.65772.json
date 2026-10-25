@@ -1,0 +1,14 @@
+{
+  "start": 104.16,
+  "end": 126.0,
+  "duration": 21.840000000000003,
+  "max_len": 30,
+  "text": "Now, authorities are not uh giving for now any details on what that major attack uh would have entailed, what the target was, and they didn't give more indication about the identities of uh the two men, uh, besides saying that they were from uh the Hebron uh area. Uh Hamas has reacted uh to the attack.",
+  "parts": {
+    "centrality": 0.7787543392612396,
+    "lead": 0.2777967033588481,
+    "density": 0.5377588746396866,
+    "clarity": 0.8297680616378784
+  },
+  "importance": 0.65771760910052
+}

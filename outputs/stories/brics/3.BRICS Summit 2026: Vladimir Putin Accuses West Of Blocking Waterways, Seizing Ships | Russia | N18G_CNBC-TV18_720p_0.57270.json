@@ -1,0 +1,14 @@
+{
+  "start": 41.12,
+  "end": 68.0,
+  "duration": 26.880000000000003,
+  "max_len": 45,
+  "text": "And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space. It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations. It helps build these relations in a stronger, resilient manner.",
+  "parts": {
+    "centrality": 0.7501361493730544,
+    "lead": 0.7908267143733323,
+    "density": 0.3009241171286053,
+    "clarity": 0.35616669058799744
+  },
+  "importance": 0.5727016199009255
+}

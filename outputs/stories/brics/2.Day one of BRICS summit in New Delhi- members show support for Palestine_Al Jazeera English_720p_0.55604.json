@@ -1,0 +1,14 @@
+{
+  "start": 7.12,
+  "end": 30.560000000000002,
+  "duration": 23.44,
+  "max_len": 30,
+  "text": "India's Prime Minister Nuraindamodi made the announcement this afternoon on day one of the summit. New Delhi Declaration. BRICS Nations have expressed deep concern over the escalating tensions in the Gulf.",
+  "parts": {
+    "centrality": 0.31212481997731395,
+    "lead": 0.7991701835600761,
+    "density": 0.695658389763018,
+    "clarity": 0.6087103486061096
+  },
+  "importance": 0.5560395867503607
+}

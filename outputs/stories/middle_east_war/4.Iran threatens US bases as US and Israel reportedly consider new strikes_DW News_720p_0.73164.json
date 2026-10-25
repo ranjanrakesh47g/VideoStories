@@ -1,0 +1,14 @@
+{
+  "start": 0.64,
+  "end": 45.04,
+  "duration": 44.4,
+  "max_len": 45,
+  "text": "This footage is from Iran state television, so take it with a grain of salt, but it claims to show an underground drone manufacturing facility with the military saying there's more as the country expands production. It's meant to signal in part that Iran has been building its stockpile back up during the past few months of relative quiet in the Middle East war. Tehran is ready should fighting resume in a big way. That is the message, at least. Another message on Thursday, Iran also claimed that it struck seven oil tankers in the Strait of Hormuz, which, if true, would be the largest single-day hit in the strait since the start of the war in late February.",
+  "parts": {
+    "centrality": 0.7394621320724272,
+    "lead": 0.996295871820361,
+    "density": 0.2699034596749454,
+    "clarity": 0.7769615650177002
+  },
+  "importance": 0.7316449090459736
+}

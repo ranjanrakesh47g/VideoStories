@@ -1,0 +1,14 @@
+{
+  "start": 343.92,
+  "end": 384.0,
+  "duration": 40.079999999999984,
+  "max_len": 45,
+  "text": "Well, I know the conjecture is all that there'll be a big increase in military action again, but you have to go back to the start of this war. President Trump claimed within four to six weeks the war would be over, that he would have won, that America's superpower would have devastated Iran. And in many respects it did. But ever since then, it has proven that America's been incapable of actually stopping Iran controlling the Strada Formuz. And even if America was to return to a military campaign, it looks very unlikely that there would be any difference to the military campaign that was before. And the bad side is that Iran has learnt from that experience.",
+  "parts": {
+    "centrality": 0.5681156456361102,
+    "lead": 0.13612229709418835,
+    "density": 0.501933857505077,
+    "clarity": 0.8923750519752502
+  },
+  "importance": 0.5690675296098129
+}

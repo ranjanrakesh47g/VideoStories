@@ -1,0 +1,14 @@
+{
+  "start": 44.96,
+  "end": 68.64,
+  "duration": 23.68,
+  "max_len": 30,
+  "text": "We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks.",
+  "parts": {
+    "centrality": 0.34276915775900557,
+    "lead": 0.4976193256192967,
+    "density": 0.412024813047232,
+    "clarity": 0.7893961071968079
+  },
+  "importance": 0.5181156244556384
+}

@@ -1,0 +1,14 @@
+{
+  "start": 0.16,
+  "end": 26.080000000000002,
+  "duration": 25.92,
+  "max_len": 30,
+  "text": "Crude on track for a third weekly game with mounting attacks on Saudi Arabia fueling concerns of a wider war across the region. Blimberg's a bit about Amal from Dubai. Joins us now for more. Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now.",
+  "parts": {
+    "centrality": 0.7340258944099792,
+    "lead": 0.994310114967866,
+    "density": 0.8319918312638284,
+    "clarity": 0.01863565482199192
+  },
+  "importance": 0.5861605571732378
+}

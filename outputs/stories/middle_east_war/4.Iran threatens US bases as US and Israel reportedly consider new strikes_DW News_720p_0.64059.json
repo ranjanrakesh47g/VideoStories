@@ -1,0 +1,14 @@
+{
+  "start": 662.96,
+  "end": 689.84,
+  "duration": 26.879999999999995,
+  "max_len": 30,
+  "text": "It's very significant, and I think there's lots going on behind the scenes. If you look at this grand strategically, for many decades, America and the UK and other nations provided strategic security guarantors to the Middle East in return for oil. In other words, oil for arms. Now that's prevailed for many years, but when America suddenly struck Iran, they didn't talk to Saudi Arabia. They didn't talk to Qatar, they didn't talk to the UA",
+  "parts": {
+    "centrality": 0.8147257988844043,
+    "lead": 0.021404849487159275,
+    "density": 0.6594388511803816,
+    "clarity": 0.840782642364502
+  },
+  "importance": 0.6405856198933813
+}

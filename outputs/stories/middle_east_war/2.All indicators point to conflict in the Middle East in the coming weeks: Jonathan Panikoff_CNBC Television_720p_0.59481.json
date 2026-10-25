@@ -1,0 +1,14 @@
+{
+  "start": 47.04,
+  "end": 85.04,
+  "duration": 38.00000000000001,
+  "max_len": 45,
+  "text": "My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks. Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right.",
+  "parts": {
+    "centrality": 0.7506733432062584,
+    "lead": 0.48180875865752115,
+    "density": 0.36731412829084314,
+    "clarity": 0.6020615696907043
+  },
+  "importance": 0.5948130120045325
+}

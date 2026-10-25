@@ -1,0 +1,14 @@
+{
+  "start": 251.44,
+  "end": 276.16,
+  "duration": 24.720000000000027,
+  "max_len": 30,
+  "text": "This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members.",
+  "parts": {
+    "centrality": 0.8721098321527564,
+    "lead": 0.03323079195152574,
+    "density": 0.9923477195493452,
+    "clarity": 0.7859664559364319
+  },
+  "importance": 0.6965266943571011
+}

@@ -1,0 +1,14 @@
+{
+  "start": 141.28,
+  "end": 170.64000000000001,
+  "duration": 29.360000000000014,
+  "max_len": 30,
+  "text": "What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals.",
+  "parts": {
+    "centrality": 0.5287277585274768,
+    "lead": 0.3847694825104187,
+    "density": 0.6700092960966176,
+    "clarity": 0.6018276214599609
+  },
+  "importance": 0.5430582928391815
+}

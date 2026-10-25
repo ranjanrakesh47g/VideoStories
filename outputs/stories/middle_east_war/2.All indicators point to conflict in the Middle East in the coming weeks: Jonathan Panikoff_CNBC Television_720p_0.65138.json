@@ -1,0 +1,14 @@
+{
+  "start": 150.8,
+  "end": 189.68,
+  "duration": 38.879999999999995,
+  "max_len": 45,
+  "text": "Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open.",
+  "parts": {
+    "centrality": 0.9007950549341903,
+    "lead": 0.09624214466593244,
+    "density": 0.46402091910114,
+    "clarity": 0.8241790533065796
+  },
+  "importance": 0.651383552017298
+}

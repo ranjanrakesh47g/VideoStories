@@ -1,0 +1,14 @@
+{
+  "start": 185.76,
+  "end": 212.16,
+  "duration": 26.400000000000006,
+  "max_len": 30,
+  "text": "We'll talk about the Houthis in a little bit. It's a very interesting what's been happening, of course, with the Houthis and with Saudi Arabia. Now, whether these uh oil tanker strikes happened or not, uh, it is, as you say, something about the narrative. Uh, now, along with the release of the video showing that its military is uh uh is is building these drones, uh the Iran is also saying that it's stocking up weapons, as you said, it's been a relatively quiet time.",
+  "parts": {
+    "centrality": 0.8862427395496583,
+    "lead": 0.3405751979800492,
+    "density": 0.3371823595135423,
+    "clarity": 0.6592954397201538
+  },
+  "importance": 0.6266659842814677
+}

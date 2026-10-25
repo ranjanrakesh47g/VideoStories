@@ -1,0 +1,14 @@
+{
+  "start": 45.28,
+  "end": 87.36,
+  "duration": 42.08,
+  "max_len": 45,
+  "text": "US President Donald Trump, however, called those claims fake, saying the regime is intentionally driving up the price of oil ahead of the US midterm elections. Now, there are a number of indicators that the fighting might pick back up after Americans vote on November 3rd from the New York Times, US and Israel draw up plans for renewed strikes on Iran after elections. It doesn't get more explicit than that. And the Wall Street Journal says quote, Iran threatens wider strikes on economic and civilian targets if U.S. attacks. The Guardian reports on how Iran will hit AI facilities across the Gulf if the fighting resumes.",
+  "parts": {
+    "centrality": 0.6711850775267906,
+    "lead": 0.7690851129010959,
+    "density": 0.564043778879813,
+    "clarity": 0.7577943801879883
+  },
+  "importance": 0.7006766806029644
+}

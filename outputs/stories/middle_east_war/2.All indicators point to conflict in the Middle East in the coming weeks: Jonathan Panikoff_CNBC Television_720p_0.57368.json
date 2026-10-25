@@ -1,0 +1,14 @@
+{
+  "start": 2.24,
+  "end": 29.76,
+  "duration": 27.520000000000003,
+  "max_len": 30,
+  "text": "He's director of the Atlantic Council's Scowcroft Middle East Security Initiative. Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right?",
+  "parts": {
+    "centrality": 0.7729792678979723,
+    "lead": 0.9658257829022766,
+    "density": 0.5030154347739687,
+    "clarity": 0.11506275087594986
+  },
+  "importance": 0.5736790408236259
+}

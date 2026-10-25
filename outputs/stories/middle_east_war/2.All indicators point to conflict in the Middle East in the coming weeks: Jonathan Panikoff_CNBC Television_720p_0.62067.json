@@ -1,0 +1,14 @@
+{
+  "start": 134.24,
+  "end": 163.92000000000002,
+  "duration": 29.680000000000007,
+  "max_len": 30,
+  "text": "Finally, where does this leave Russia? As many would say, the bigger provocateur, again, more and more uh uh kind of write-ups of that Leipzig drone attack in Germany, the extent to which it's kind of in this, what do they call it, kind of this gray area with Europe? Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia?",
+  "parts": {
+    "centrality": 0.7888686585275743,
+    "lead": 0.1244532794337299,
+    "density": 0.35004088288745927,
+    "clarity": 0.8905800580978394
+  },
+  "importance": 0.6206748362338677
+}

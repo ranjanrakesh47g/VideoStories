@@ -1,0 +1,14 @@
+{
+  "start": 208.0,
+  "end": 234.48000000000002,
+  "duration": 26.480000000000018,
+  "max_len": 30,
+  "text": "And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic. In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran? Uh could you see that relationship getting tighter?",
+  "parts": {
+    "centrality": 0.7914309011455161,
+    "lead": 0.039604563467491694,
+    "density": 0.24978429931579357,
+    "clarity": 0.6120778322219849
+  },
+  "importance": 0.5060127226583934
+}

@@ -1,0 +1,14 @@
+{
+  "start": 471.68,
+  "end": 513.04,
+  "duration": 41.35999999999996,
+  "max_len": 45,
+  "text": "So it's having an impact on the ability of NATO to support Ukraine and stop the Russian aggression. But I think more importantly, things like patriot. We're gonna pick on Patriot for a minute because um the ballistic missile threat from Iran is significant for every one ballistic missile fired, you generally fire two patriots. The system in America, the industry can only actually replace Patriots at two a day. Well, it therefore that's only one ballistic missile a day, and all of a sudden that day's supply of patriots is used up. When we're in the war, regularly there will be a dozen ballistic missiles fired, 24 patriots. That's just not sustainable. And of course, Iran knows it.",
+  "parts": {
+    "centrality": 0.6218070754225736,
+    "lead": 0.06489329216745325,
+    "density": 0.6375047746578734,
+    "clarity": 0.8230441212654114
+  },
+  "importance": 0.5731500874096958
+}

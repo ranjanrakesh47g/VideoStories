@@ -1,0 +1,14 @@
+{
+  "start": 7.92,
+  "end": 35.52,
+  "duration": 27.6,
+  "max_len": 30,
+  "text": "Before the summit even got off to a start on Saturday, the Black's members had already agreed to a joint declaration. Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi.",
+  "parts": {
+    "centrality": 0.4861285417308285,
+    "lead": 0.8983191307168654,
+    "density": 0.8739544300739954,
+    "clarity": 0.5421361327171326
+  },
+  "importance": 0.6435428200754021
+}

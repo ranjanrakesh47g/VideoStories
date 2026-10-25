@@ -1,0 +1,14 @@
+{
+  "start": 8.72,
+  "end": 35.68,
+  "duration": 26.96,
+  "max_len": 30,
+  "text": "The Israeli army says it's launched offensive counter-terrorism operations in the territory after thwarting a terror attack against Israeli civilians. Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank?",
+  "parts": {
+    "centrality": 0.6583956702797524,
+    "lead": 0.8983184128150706,
+    "density": 0.7738860780001118,
+    "clarity": 0.2080180048942566
+  },
+  "importance": 0.5885904803292212
+}

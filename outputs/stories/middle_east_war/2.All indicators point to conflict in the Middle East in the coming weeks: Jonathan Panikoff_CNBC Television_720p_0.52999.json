@@ -1,0 +1,14 @@
+{
+  "start": 29.84,
+  "end": 59.28,
+  "duration": 29.44,
+  "max_len": 30,
+  "text": "That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit.",
+  "parts": {
+    "centrality": 0.3755582140065794,
+    "lead": 0.6292603586689995,
+    "density": 0.391897580503306,
+    "clarity": 0.7130321264266968
+  },
+  "importance": 0.5299917216396076
+}

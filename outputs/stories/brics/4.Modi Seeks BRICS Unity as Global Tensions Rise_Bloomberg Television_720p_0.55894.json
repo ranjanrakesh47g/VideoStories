@@ -1,0 +1,14 @@
+{
+  "start": 168.24,
+  "end": 188.16,
+  "duration": 19.919999999999987,
+  "max_len": 30,
+  "text": "These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved.",
+  "parts": {
+    "centrality": 0.524071758136713,
+    "lead": 0.32066075516515297,
+    "density": 0.49414949460548085,
+    "clarity": 0.7908535599708557
+  },
+  "importance": 0.5589357585629591
+}

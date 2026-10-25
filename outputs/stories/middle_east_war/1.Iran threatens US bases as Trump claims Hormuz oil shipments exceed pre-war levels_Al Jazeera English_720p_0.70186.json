@@ -1,0 +1,14 @@
+{
+  "start": 100.0,
+  "end": 126.32000000000001,
+  "duration": 26.320000000000007,
+  "max_len": 30,
+  "text": "Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans. So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz.",
+  "parts": {
+    "centrality": 0.8405725844725601,
+    "lead": 0.30571103411493883,
+    "density": 0.44425120656385264,
+    "clarity": 0.9329437017440796
+  },
+  "importance": 0.7018634028961855
+}

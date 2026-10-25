@@ -1,0 +1,14 @@
+{
+  "start": 0.72,
+  "end": 34.08,
+  "duration": 33.36,
+  "max_len": 45,
+  "text": "Iran's revolutionary guard is threatening to attack U.S. bases across the Middle East if American warships keep escorting ships through the Strait of Hormuz. Shipping through the vital waterway has been disrupted since the war began late February. The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers. Neither claim has been independently confirmed.",
+  "parts": {
+    "centrality": 0.7747547430807163,
+    "lead": 0.9915034735657126,
+    "density": 0.5874114724345533,
+    "clarity": 0.9360515475273132
+  },
+  "importance": 0.8383920399147702
+}

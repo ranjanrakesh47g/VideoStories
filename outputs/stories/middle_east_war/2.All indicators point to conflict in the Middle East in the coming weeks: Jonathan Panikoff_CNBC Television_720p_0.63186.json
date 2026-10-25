@@ -1,0 +1,14 @@
+{
+  "start": 137.12,
+  "end": 171.68,
+  "duration": 34.56,
+  "max_len": 45,
+  "text": "As many would say, the bigger provocateur, again, more and more uh uh kind of write-ups of that Leipzig drone attack in Germany, the extent to which it's kind of in this, what do they call it, kind of this gray area with Europe? Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want.",
+  "parts": {
+    "centrality": 0.8651305005739548,
+    "lead": 0.11901193319450205,
+    "density": 0.42753016930165344,
+    "clarity": 0.8037906289100647
+  },
+  "importance": 0.631864775908052
+}

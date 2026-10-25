@@ -1,0 +1,14 @@
+{
+  "start": 61.36,
+  "end": 83.12,
+  "duration": 21.760000000000005,
+  "max_len": 30,
+  "text": "This is a this is a major escalation because this is uh probably the highest number in just one day's that is uh acknowledged by the IRGC. Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran.",
+  "parts": {
+    "centrality": 0.887001672666659,
+    "lead": 0.48326673224082123,
+    "density": 0.3604982461176923,
+    "clarity": 0.7450276017189026
+  },
+  "importance": 0.6846869493148194
+}

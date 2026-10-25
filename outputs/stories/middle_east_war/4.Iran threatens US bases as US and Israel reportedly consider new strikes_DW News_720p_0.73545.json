@@ -1,0 +1,14 @@
+{
+  "start": 24.72,
+  "end": 45.04,
+  "duration": 20.32,
+  "max_len": 30,
+  "text": "Tehran is ready should fighting resume in a big way. That is the message, at least. Another message on Thursday, Iran also claimed that it struck seven oil tankers in the Strait of Hormuz, which, if true, would be the largest single-day hit in the strait since the start of the war in late February.",
+  "parts": {
+    "centrality": 0.6781539390619287,
+    "lead": 0.8664615146501112,
+    "density": 0.5328660019480981,
+    "clarity": 0.8162599802017212
+  },
+  "importance": 0.7354540759544284
+}

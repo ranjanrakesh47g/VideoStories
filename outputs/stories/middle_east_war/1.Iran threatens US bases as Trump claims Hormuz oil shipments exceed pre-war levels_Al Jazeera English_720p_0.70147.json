@@ -1,0 +1,14 @@
+{
+  "start": 135.28,
+  "end": 163.76,
+  "duration": 28.47999999999999,
+  "max_len": 45,
+  "text": "Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+  "parts": {
+    "centrality": 0.7796820197015824,
+    "lead": 0.20124674983929536,
+    "density": 0.8385828206286767,
+    "clarity": 0.8751481771469116
+  },
+  "importance": 0.7014699331017878
+}

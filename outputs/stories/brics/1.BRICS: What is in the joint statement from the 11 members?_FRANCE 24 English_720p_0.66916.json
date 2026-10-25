@@ -1,0 +1,14 @@
+{
+  "start": 0.16,
+  "end": 24.72,
+  "duration": 24.56,
+  "max_len": 30,
+  "text": "First review of this hour, the BRIC alliance is meeting in India to discuss the consequences of the wars in the Middle East amongst a host of other topics. Before the summit even got off to a start on Saturday, the Black's members had already agreed to a joint declaration. Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East.",
+  "parts": {
+    "centrality": 0.8929807803356945,
+    "lead": 0.9978360841560915,
+    "density": 0.7548318270517924,
+    "clarity": 0.14608724415302277
+  },
+  "importance": 0.6691614372523872
+}

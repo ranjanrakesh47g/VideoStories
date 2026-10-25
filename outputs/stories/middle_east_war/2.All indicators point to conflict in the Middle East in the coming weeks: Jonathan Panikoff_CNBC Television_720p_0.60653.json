@@ -1,0 +1,14 @@
+{
+  "start": 231.92000000000002,
+  "end": 257.68,
+  "duration": 25.75999999999999,
+  "max_len": 30,
+  "text": "Uh could you see that relationship getting tighter? And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+  "parts": {
+    "centrality": 1.0,
+    "lead": 0.02732032946052835,
+    "density": 0.7405582340570669,
+    "clarity": 0.4666025936603546
+  },
+  "importance": 0.606528579098772
+}

@@ -1,0 +1,14 @@
+{
+  "start": 189.76,
+  "end": 207.68,
+  "duration": 17.920000000000016,
+  "max_len": 30,
+  "text": "But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+  "parts": {
+    "centrality": 0.6933522708941935,
+    "lead": 0.05256687834261995,
+    "density": 0.3450790021300216,
+    "clarity": 0.6817267537117004
+  },
+  "importance": 0.5094665469145051
+}

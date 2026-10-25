@@ -1,0 +1,14 @@
+{
+  "start": 437.44,
+  "end": 476.72,
+  "duration": 39.28000000000003,
+  "max_len": 45,
+  "text": "Um, and so uh uh, you know, the fact that this is happening in India, which is a country that does sort of really pride itself on having um uh what they call strategic autonomy, which is this kind of ability to kind of maintain relationships with China, with Russia, with Iran, but also with the US, kind of keep everybody happy and be a conduit of communication for everybody, is is very notable, and I think is is a big reason why you do see kind of really all the BRICS leaders coming here today in New Delhi. It says a lot about kind of India's ability to kind of be that that middle ground kind of country where where everybody can kind of come together and at least hash out uh uh uh some of these issues and and be heard.",
+  "parts": {
+    "centrality": 0.9706600960200947,
+    "lead": 0.05196035774106368,
+    "density": 0.16634867989792068,
+    "clarity": 0.4990234673023224
+  },
+  "importance": 0.5247824473306307
+}

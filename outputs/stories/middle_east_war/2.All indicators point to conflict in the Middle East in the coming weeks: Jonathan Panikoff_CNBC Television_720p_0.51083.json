@@ -1,0 +1,14 @@
+{
+  "start": 17.28,
+  "end": 46.88,
+  "duration": 29.6,
+  "max_len": 30,
+  "text": "Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+  "parts": {
+    "centrality": 0.6881351619406022,
+    "lead": 0.7647244721780146,
+    "density": 0.426288730527288,
+    "clarity": 0.17698252201080322
+  },
+  "importance": 0.5108302672971479
+}

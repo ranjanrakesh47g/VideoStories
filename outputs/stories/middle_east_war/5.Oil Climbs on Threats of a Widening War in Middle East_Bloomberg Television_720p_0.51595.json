@@ -1,0 +1,14 @@
+{
+  "start": 42.88,
+  "end": 86.08,
+  "duration": 43.199999999999996,
+  "max_len": 45,
+  "text": "Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran. The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran. Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets. Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week.",
+  "parts": {
+    "centrality": 0.48558106738567985,
+    "lead": 0.21669944377673547,
+    "density": 0.4517213474115943,
+    "clarity": 0.7829945087432861
+  },
+  "importance": 0.51594981707506
+}

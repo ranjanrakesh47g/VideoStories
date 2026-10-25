@@ -1,0 +1,14 @@
+{
+  "start": 244.8,
+  "end": 271.68,
+  "duration": 26.879999999999995,
+  "max_len": 30,
+  "text": "The leadership have stowed money away for years. There's no doubt I have friends who have relations in Iran, and they say life is very difficult there indeed. But that hasn't stopped the Iranian leadership having plenty of money and facilities to actually make these weapons. It's also worth noting that although there's a blockade on the Strait of Hormuz, there's lots of land routes that provide resupply in to Iran. So they're not short of getting kids and equipment in.",
+  "parts": {
+    "centrality": 0.5593798309960436,
+    "lead": 0.2418446781207371,
+    "density": 0.7506295951905809,
+    "clarity": 0.7680379748344421
+  },
+  "importance": 0.5871577082016824
+}

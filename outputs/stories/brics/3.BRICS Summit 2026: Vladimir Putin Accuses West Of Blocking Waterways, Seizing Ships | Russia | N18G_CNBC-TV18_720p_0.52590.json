@@ -1,0 +1,14 @@
+{
+  "start": 36.4,
+  "end": 68.0,
+  "duration": 31.6,
+  "max_len": 45,
+  "text": "As a tradition is a prelude to the BRICS summit. And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space. It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations. It helps build these relations in a stronger, resilient manner.",
+  "parts": {
+    "centrality": 0.7249698937964334,
+    "lead": 0.8124191782915989,
+    "density": 0.31788453557745255,
+    "clarity": 0.20665378868579865
+  },
+  "importance": 0.5259021154294289
+}

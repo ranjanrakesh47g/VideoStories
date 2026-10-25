@@ -1,0 +1,14 @@
+{
+  "start": 510.56,
+  "end": 530.24,
+  "duration": 19.680000000000007,
+  "max_len": 30,
+  "text": "I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+  "parts": {
+    "centrality": 0.7347613633076275,
+    "lead": 0.03169502796267955,
+    "density": 0.3448771573383524,
+    "clarity": 0.7345005869865417
+  },
+  "importance": 0.5355872324469209
+}

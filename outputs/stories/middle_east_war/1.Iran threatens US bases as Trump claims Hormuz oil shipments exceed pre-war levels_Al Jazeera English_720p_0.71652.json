@@ -1,0 +1,14 @@
+{
+  "start": 100.0,
+  "end": 140.28,
+  "duration": 40.28,
+  "max_len": 45,
+  "text": "Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans. So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures.",
+  "parts": {
+    "centrality": 0.8868443899107525,
+    "lead": 0.30571103411493883,
+    "density": 0.44489989186448076,
+    "clarity": 0.9274947643280029
+  },
+  "importance": 0.7165211563698242
+}

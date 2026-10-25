@@ -1,0 +1,14 @@
+{
+  "start": 110.96000000000001,
+  "end": 150.12,
+  "duration": 39.16,
+  "max_len": 45,
+  "text": "So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center.",
+  "parts": {
+    "centrality": 1.0,
+    "lead": 0.2684733687221259,
+    "density": 0.572004433469776,
+    "clarity": 0.9146726131439209
+  },
+  "importance": 0.7638971227080678
+}

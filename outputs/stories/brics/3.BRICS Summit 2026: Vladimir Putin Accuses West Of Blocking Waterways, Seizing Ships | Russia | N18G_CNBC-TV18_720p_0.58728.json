@@ -1,0 +1,14 @@
+{
+  "start": 413.84000000000003,
+  "end": 436.72,
+  "duration": 22.879999999999995,
+  "max_len": 30,
+  "text": "These innovations are mostly based on our domestic Russian solutions as well as on solutions from our partners in BICS. All of that is yet another testimony that even amid uh very hard restrictions from the outside, we can set forth uh ambitious goals and be successful in achieving them. There's another thing we've got to state and accept.",
+  "parts": {
+    "centrality": 0.7430051113517956,
+    "lead": 0.09424751290970154,
+    "density": 0.512868586357628,
+    "clarity": 0.7714993357658386
+  },
+  "importance": 0.5872813802384644
+}

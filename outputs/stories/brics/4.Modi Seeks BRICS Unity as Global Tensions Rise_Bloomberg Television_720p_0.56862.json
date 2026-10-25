@@ -1,0 +1,14 @@
+{
+  "start": 296.64,
+  "end": 323.6,
+  "duration": 26.960000000000036,
+  "max_len": 30,
+  "text": "And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship. Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries.",
+  "parts": {
+    "centrality": 0.6781500076737851,
+    "lead": 0.1346053212395942,
+    "density": 0.35532562415329877,
+    "clarity": 0.836821436882019
+  },
+  "importance": 0.5686188416213441
+}

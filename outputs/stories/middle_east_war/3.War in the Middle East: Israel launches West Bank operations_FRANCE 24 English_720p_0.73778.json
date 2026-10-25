@@ -1,0 +1,14 @@
+{
+  "start": 78.4,
+  "end": 104.0,
+  "duration": 25.599999999999994,
+  "max_len": 30,
+  "text": "That we don't know at this point. Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react. And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack.",
+  "parts": {
+    "centrality": 0.8668462115358729,
+    "lead": 0.3813291087685222,
+    "density": 0.5922414611830269,
+    "clarity": 0.8976055979728699
+  },
+  "importance": 0.7377798943605749
+}

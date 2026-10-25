@@ -1,0 +1,14 @@
+{
+  "start": 56.64,
+  "end": 100.72,
+  "duration": 44.08,
+  "max_len": 45,
+  "text": "Now, there are a number of indicators that the fighting might pick back up after Americans vote on November 3rd from the New York Times, US and Israel draw up plans for renewed strikes on Iran after elections. It doesn't get more explicit than that. And the Wall Street Journal says quote, Iran threatens wider strikes on economic and civilian targets if U.S. attacks. The Guardian reports on how Iran will hit AI facilities across the Gulf if the fighting resumes. There have been other clues, including US Secretary of Defense Pete Heggseth's visit to Israel earlier this week, where he met Prime Minister Benjamin Netanyahu. Keep in mind that Israel also has elections happening in just a matter of days.",
+  "parts": {
+    "centrality": 0.40436741634236173,
+    "lead": 0.7200576632204417,
+    "density": 0.5631495952382566,
+    "clarity": 0.6922260522842407
+  },
+  "importance": 0.5776803833349257
+}

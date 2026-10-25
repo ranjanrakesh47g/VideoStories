@@ -1,0 +1,14 @@
+{
+  "start": 168.0,
+  "end": 210.96,
+  "duration": 42.96000000000001,
+  "max_len": 45,
+  "text": "Uh he had been uh warning of potential uh attacks uh in the lead up uh to uh this vote, and now he has said, as you mentioned, that he ordered uh the immediate uh closing off of the city of uh Hebron, and he ordered uh the Israeli forces to prepare for a full lockdown across all of Judea and Samaria starting today, using, of course, uh the Israeli uh term for uh the occupied uh West Bank. What's interesting, this is uh the statement that he posted on X in a Hebrew originally that has been translated. And that line that was equaled in yellow is actually not the same one as the one uh that uh was posted uh in uh the English uh language.",
+  "parts": {
+    "centrality": 0.8723145723408532,
+    "lead": 0.12670262867115284,
+    "density": 0.35146254415591494,
+    "clarity": 0.9682764410972595
+  },
+  "importance": 0.6738529400060942
+}

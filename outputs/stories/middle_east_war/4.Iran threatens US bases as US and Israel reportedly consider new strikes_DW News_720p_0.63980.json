@@ -1,0 +1,14 @@
+{
+  "start": 142.8,
+  "end": 165.12,
+  "duration": 22.319999999999993,
+  "max_len": 30,
+  "text": "Well, part of that is the run-up to the midterm elections. But part of it is both sides have hit a bit of a stalemate. The one thing that's not been widely reported is the US is providing escorts to oil coming through the Strait of Hormuz, but the US blockade of Iranian oil exports remains pretty robust. So the stemate doesn't suit Iran at all.",
+  "parts": {
+    "centrality": 0.6185554813738651,
+    "lead": 0.4369143532191541,
+    "density": 0.6629462526843528,
+    "clarity": 0.7882573008537292
+  },
+  "importance": 0.6397964172834553
+}

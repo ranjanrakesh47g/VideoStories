@@ -1,0 +1,14 @@
+{
+  "start": 152.72,
+  "end": 171.68,
+  "duration": 18.960000000000008,
+  "max_len": 30,
+  "text": "You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want.",
+  "parts": {
+    "centrality": 0.704337027527977,
+    "lead": 0.0934160290182536,
+    "density": 0.7051151148944897,
+    "clarity": 0.8836382031440735
+  },
+  "importance": 0.6360598936158381
+}

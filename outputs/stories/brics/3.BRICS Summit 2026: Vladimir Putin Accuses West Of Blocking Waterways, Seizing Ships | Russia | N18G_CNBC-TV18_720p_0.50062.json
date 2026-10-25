@@ -1,0 +1,14 @@
+{
+  "start": 195.04,
+  "end": 218.4,
+  "duration": 23.360000000000014,
+  "max_len": 30,
+  "text": "Our countries see an explosion of growth of urban settlements, urbanization is happening very fast, and national companies are on the ascendant, demonstrating themselves to be world leaders. Mohindra, a company from Mindia offers IT and AI based solutions.",
+  "parts": {
+    "centrality": 0.4099106959831772,
+    "lead": 0.3285340014572175,
+    "density": 0.4295041821048068,
+    "clarity": 0.756717324256897
+  },
+  "importance": 0.5006163684783457
+}

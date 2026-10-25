@@ -1,0 +1,14 @@
+{
+  "start": 274.88,
+  "end": 297.44,
+  "duration": 22.560000000000002,
+  "max_len": 45,
+  "text": "He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank. And he said in the next government, this will be one of the first measures that we must demand and apply. So using this as a political uh tool to motivate his base on uh the far right.",
+  "parts": {
+    "centrality": 0.5331432366693605,
+    "lead": 0.03403975180423186,
+    "density": 0.6519152002004305,
+    "clarity": 0.9135609269142151
+  },
+  "importance": 0.5652636412994516
+}

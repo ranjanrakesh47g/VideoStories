@@ -1,0 +1,14 @@
+{
+  "start": 91.92,
+  "end": 117.04,
+  "duration": 25.120000000000005,
+  "max_len": 30,
+  "text": "So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel. Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans. So that's the major new development in the rhetoric or in the threats by the IRGC.",
+  "parts": {
+    "centrality": 0.8759118637789534,
+    "lead": 0.3364325257972975,
+    "density": 0.508734004725213,
+    "clarity": 0.8382830023765564
+  },
+  "importance": 0.701650658903842
+}

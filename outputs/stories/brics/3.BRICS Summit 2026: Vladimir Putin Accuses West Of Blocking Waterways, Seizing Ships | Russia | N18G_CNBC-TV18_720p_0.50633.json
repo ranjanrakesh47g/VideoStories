@@ -1,0 +1,14 @@
+{
+  "start": 618.48,
+  "end": 657.52,
+  "duration": 39.039999999999964,
+  "max_len": 45,
+  "text": "And based on the NDB, Russia proposes that a new investment platform should be set up which will be trying to secure funding from private sectors and make our economy more competitive. We're hopeful that this idea will be supported by our partners and other BRICS members, uh, distinguished friends through the combined efforts of the government, private sector, academia, and the rest, because building a resilient and viable platform for global growth. The most important elements of these growth are not being imposed on anyone from the outside.",
+  "parts": {
+    "centrality": 0.8048721014341758,
+    "lead": 0.029312710586184166,
+    "density": 0.27877206327516746,
+    "clarity": 0.5898345112800598
+  },
+  "importance": 0.5063339404944913
+}

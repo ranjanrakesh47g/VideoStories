@@ -1,0 +1,1068 @@
+{
+  "clips": [
+    {
+      "start": 0.32,
+      "end": 29.76,
+      "duration": 29.44,
+      "max_len": 30,
+      "text": "For more, let's bring in Jonathan Panakoff. He's director of the Atlantic Council's Scowcroft Middle East Security Initiative. Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right?",
+      "parts": {
+        "centrality": 0.8158359498666322,
+        "lead": 0.995044915707188,
+        "density": 0.4890036949355223,
+        "clarity": 0.32562774419784546
+      },
+      "importance": 0.6555904430944408
+    },
+    {
+      "start": 2.24,
+      "end": 29.76,
+      "duration": 27.520000000000003,
+      "max_len": 30,
+      "text": "He's director of the Atlantic Council's Scowcroft Middle East Security Initiative. Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right?",
+      "parts": {
+        "centrality": 0.7729792678979723,
+        "lead": 0.9658257829022766,
+        "density": 0.5030154347739687,
+        "clarity": 0.11506275087594986
+      },
+      "importance": 0.5736790408236259
+    },
+    {
+      "start": 6.32,
+      "end": 33.2,
+      "duration": 26.880000000000003,
+      "max_len": 30,
+      "text": "Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment.",
+      "parts": {
+        "centrality": 0.6885566518919696,
+        "lead": 0.9065526425107915,
+        "density": 0.47471141644405707,
+        "clarity": 0.07081620395183563
+      },
+      "importance": 0.5147569303165069
+    },
+    {
+      "start": 7.84,
+      "end": 33.2,
+      "duration": 25.360000000000003,
+      "max_len": 30,
+      "text": "You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment.",
+      "parts": {
+        "centrality": 0.707893674216367,
+        "lead": 0.885412770831621,
+        "density": 0.42964669262686495,
+        "clarity": 0.2920902371406555
+      },
+      "importance": 0.576919415178279
+    },
+    {
+      "start": 12.72,
+      "end": 33.2,
+      "duration": 20.480000000000004,
+      "max_len": 30,
+      "text": "Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment.",
+      "parts": {
+        "centrality": 0.5352672610542244,
+        "lead": 0.8208177276636656,
+        "density": 0.6237795152457677,
+        "clarity": 0.21166114509105682
+      },
+      "importance": 0.5085723577158938
+    },
+    {
+      "start": 17.28,
+      "end": 46.88,
+      "duration": 29.6,
+      "max_len": 30,
+      "text": "Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+      "parts": {
+        "centrality": 0.6881351619406022,
+        "lead": 0.7647244721780146,
+        "density": 0.426288730527288,
+        "clarity": 0.17698252201080322
+      },
+      "importance": 0.5108302672971479
+    },
+    {
+      "start": 18.32,
+      "end": 46.88,
+      "duration": 28.560000000000002,
+      "max_len": 30,
+      "text": "Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+      "parts": {
+        "centrality": 0.5114148324915676,
+        "lead": 0.7524778396518905,
+        "density": 0.4555232108658285,
+        "clarity": 0.7816641926765442
+      },
+      "importance": 0.6323184987352642
+    },
+    {
+      "start": 26.8,
+      "end": 46.88,
+      "duration": 20.080000000000002,
+      "max_len": 30,
+      "text": "And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+      "parts": {
+        "centrality": 0.9068520216427285,
+        "lead": 0.6596671630277386,
+        "density": 0.5203984029353854,
+        "clarity": 0.8217604160308838
+      },
+      "importance": 0.7739195254300756
+    },
+    {
+      "start": 29.84,
+      "end": 59.28,
+      "duration": 29.44,
+      "max_len": 30,
+      "text": "That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit.",
+      "parts": {
+        "centrality": 0.3755582140065794,
+        "lead": 0.6292603586689995,
+        "density": 0.391897580503306,
+        "clarity": 0.7130321264266968
+      },
+      "importance": 0.5299917216396076
+    },
+    {
+      "start": 44.96,
+      "end": 68.64,
+      "duration": 23.68,
+      "max_len": 30,
+      "text": "We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks.",
+      "parts": {
+        "centrality": 0.34276915775900557,
+        "lead": 0.4976193256192967,
+        "density": 0.412024813047232,
+        "clarity": 0.7893961071968079
+      },
+      "importance": 0.5181156244556384
+    },
+    {
+      "start": 47.04,
+      "end": 68.64,
+      "duration": 21.6,
+      "max_len": 30,
+      "text": "My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks.",
+      "parts": {
+        "centrality": 0.4266188596459276,
+        "lead": 0.48180875865752115,
+        "density": 0.30230422098445897,
+        "clarity": 0.7254541516304016
+      },
+      "importance": 0.5086602312443682
+    },
+    {
+      "start": 57.120000000000005,
+      "end": 85.04,
+      "duration": 27.92,
+      "max_len": 30,
+      "text": "But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks. Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right.",
+      "parts": {
+        "centrality": 0.8389541533411664,
+        "lead": 0.41202091971234445,
+        "density": 0.43620281296013214,
+        "clarity": 0.7114309072494507
+      },
+      "importance": 0.6548978317307321
+    },
+    {
+      "start": 59.36,
+      "end": 85.04,
+      "duration": 25.680000000000007,
+      "max_len": 30,
+      "text": "But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks. Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right.",
+      "parts": {
+        "centrality": 0.8162446910478657,
+        "lead": 0.39794042735329116,
+        "density": 0.4040162675432831,
+        "clarity": 0.7512834072113037
+      },
+      "importance": 0.6512611896322948
+    },
+    {
+      "start": 69.04,
+      "end": 96.56,
+      "duration": 27.519999999999996,
+      "max_len": 30,
+      "text": "Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months.",
+      "parts": {
+        "centrality": 0.6524183116049193,
+        "lead": 0.34242012569790864,
+        "density": 0.4159265364244748,
+        "clarity": 0.7859664559364319
+      },
+      "importance": 0.5950093514459042
+    },
+    {
+      "start": 79.36,
+      "end": 102.08,
+      "duration": 22.72,
+      "max_len": 30,
+      "text": "And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February.",
+      "parts": {
+        "centrality": 0.5261867543920814,
+        "lead": 0.291733211332465,
+        "density": 0.43149881041641575,
+        "clarity": 0.7371581196784973
+      },
+      "importance": 0.528384263769733
+    },
+    {
+      "start": 83.60000000000001,
+      "end": 112.72,
+      "duration": 29.11999999999999,
+      "max_len": 30,
+      "text": "I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February. The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight.",
+      "parts": {
+        "centrality": 0.3413550849900664,
+        "lead": 0.2731501532486636,
+        "density": 0.3221479195920674,
+        "clarity": 0.475605309009552
+      },
+      "importance": 0.3651080910379316
+    },
+    {
+      "start": 85.2,
+      "end": 112.72,
+      "duration": 27.519999999999996,
+      "max_len": 30,
+      "text": "Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February. The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight.",
+      "parts": {
+        "centrality": 0.29020623867570977,
+        "lead": 0.2664494777585889,
+        "density": 0.2551097609822964,
+        "clarity": 0.7552762031555176
+      },
+      "importance": 0.4197114041822159
+    },
+    {
+      "start": 96.72,
+      "end": 118.0,
+      "duration": 21.28,
+      "max_len": 30,
+      "text": "I still think that's a mystery, just as it has been since the war began at the very end of February. The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight. What Iran really doesn't want is to have to fight another war after this.",
+      "parts": {
+        "centrality": 0.0,
+        "lead": 0.22281864675124866,
+        "density": 0.32570914570397475,
+        "clarity": 0.5978427529335022
+      },
+      "importance": 0.2727729270858966
+    },
+    {
+      "start": 102.32000000000001,
+      "end": 118.0,
+      "duration": 15.679999999999993,
+      "max_len": 30,
+      "text": "The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight. What Iran really doesn't want is to have to fight another war after this.",
+      "parts": {
+        "centrality": 0.04547954628948346,
+        "lead": 0.20426714517822814,
+        "density": 0.4314435987467291,
+        "clarity": 0.6664968132972717
+      },
+      "importance": 0.3214368540381557
+    },
+    {
+      "start": 112.88,
+      "end": 136.88,
+      "duration": 24.0,
+      "max_len": 30,
+      "text": "What Iran really doesn't want is to have to fight another war after this. And so I think there's a little bit of uh mispectations on both sides, frankly, still, about how much each side is going to be willing to give for what it is they want for their own domestic constituencies and for their own government. Finally, where does this leave Russia?",
+      "parts": {
+        "centrality": 0.47200239989093296,
+        "lead": 0.17338324358341978,
+        "density": 0.279110895229224,
+        "clarity": 0.7405498623847961
+      },
+      "importance": 0.46390908167833295
+    },
+    {
+      "start": 118.24000000000001,
+      "end": 136.88,
+      "duration": 18.639999999999986,
+      "max_len": 30,
+      "text": "And so I think there's a little bit of uh mispectations on both sides, frankly, still, about how much each side is going to be willing to give for what it is they want for their own domestic constituencies and for their own government. Finally, where does this leave Russia?",
+      "parts": {
+        "centrality": 0.3020664975850187,
+        "lead": 0.15954092163427383,
+        "density": 0.1575412512165682,
+        "clarity": 0.6744794249534607
+      },
+      "importance": 0.36360647365013476
+    },
+    {
+      "start": 134.24,
+      "end": 163.92000000000002,
+      "duration": 29.680000000000007,
+      "max_len": 30,
+      "text": "Finally, where does this leave Russia? As many would say, the bigger provocateur, again, more and more uh uh kind of write-ups of that Leipzig drone attack in Germany, the extent to which it's kind of in this, what do they call it, kind of this gray area with Europe? Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia?",
+      "parts": {
+        "centrality": 0.7888686585275743,
+        "lead": 0.1244532794337299,
+        "density": 0.35004088288745927,
+        "clarity": 0.8905800580978394
+      },
+      "importance": 0.6206748362338677
+    },
+    {
+      "start": 137.12,
+      "end": 164.88,
+      "duration": 27.75999999999999,
+      "max_len": 30,
+      "text": "As many would say, the bigger provocateur, again, more and more uh uh kind of write-ups of that Leipzig drone attack in Germany, the extent to which it's kind of in this, what do they call it, kind of this gray area with Europe? Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next?",
+      "parts": {
+        "centrality": 0.817865085749789,
+        "lead": 0.11901193319450205,
+        "density": 0.37102456244521054,
+        "clarity": 0.8258707523345947
+      },
+      "importance": 0.6134700767184866
+    },
+    {
+      "start": 150.8,
+      "end": 171.68,
+      "duration": 20.879999999999995,
+      "max_len": 30,
+      "text": "Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want.",
+      "parts": {
+        "centrality": 0.8070832687222194,
+        "lead": 0.09624214466593244,
+        "density": 0.6952105937685177,
+        "clarity": 0.8455602526664734
+      },
+      "importance": 0.6596772378511829
+    },
+    {
+      "start": 152.72,
+      "end": 171.68,
+      "duration": 18.960000000000008,
+      "max_len": 30,
+      "text": "You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want.",
+      "parts": {
+        "centrality": 0.704337027527977,
+        "lead": 0.0934160290182536,
+        "density": 0.7051151148944897,
+        "clarity": 0.8836382031440735
+      },
+      "importance": 0.6360598936158381
+    },
+    {
+      "start": 158.48,
+      "end": 188.16,
+      "duration": 29.680000000000007,
+      "max_len": 30,
+      "text": "And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink.",
+      "parts": {
+        "centrality": 0.7291110100460308,
+        "lead": 0.08542593316220634,
+        "density": 0.41721830859118353,
+        "clarity": 0.7858021259307861
+      },
+      "importance": 0.5705974242164654
+    },
+    {
+      "start": 164.0,
+      "end": 189.68,
+      "duration": 25.680000000000007,
+      "max_len": 30,
+      "text": "Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open.",
+      "parts": {
+        "centrality": 0.7608975966747045,
+        "lead": 0.07841082933313627,
+        "density": 0.44932918922298665,
+        "clarity": 0.7418610453605652
+      },
+      "importance": 0.5719540166943914
+    },
+    {
+      "start": 165.04,
+      "end": 189.68,
+      "duration": 24.640000000000015,
+      "max_len": 30,
+      "text": "Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open.",
+      "parts": {
+        "centrality": 0.6583587181293755,
+        "lead": 0.07715512398062337,
+        "density": 0.4333211644582286,
+        "clarity": 0.7390459179878235
+      },
+      "importance": 0.5325685262064874
+    },
+    {
+      "start": 168.32,
+      "end": 189.68,
+      "duration": 21.360000000000014,
+      "max_len": 30,
+      "text": "Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open.",
+      "parts": {
+        "centrality": 0.4746681937438403,
+        "lead": 0.07332503761011368,
+        "density": 0.396094753342734,
+        "clarity": 0.6969905495643616
+      },
+      "importance": 0.4493102532030854
+    },
+    {
+      "start": 171.76,
+      "end": 199.92000000000002,
+      "duration": 28.160000000000025,
+      "max_len": 30,
+      "text": "And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing.",
+      "parts": {
+        "centrality": 0.5006621555100185,
+        "lead": 0.06951221985968402,
+        "density": 0.2586850560750907,
+        "clarity": 0.7181992530822754
+      },
+      "importance": 0.44339673273638947
+    },
+    {
+      "start": 188.48,
+      "end": 207.68,
+      "duration": 19.200000000000017,
+      "max_len": 30,
+      "text": "I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+      "parts": {
+        "centrality": 0.8703312182516597,
+        "lead": 0.053621807292931756,
+        "density": 0.4431557086184362,
+        "clarity": 0.600422739982605
+      },
+      "importance": 0.5619404661342141
+    },
+    {
+      "start": 189.76,
+      "end": 207.68,
+      "duration": 17.920000000000016,
+      "max_len": 30,
+      "text": "But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+      "parts": {
+        "centrality": 0.6933522708941935,
+        "lead": 0.05256687834261995,
+        "density": 0.3450790021300216,
+        "clarity": 0.6817267537117004
+      },
+      "importance": 0.5094665469145051
+    },
+    {
+      "start": 200.08,
+      "end": 222.24,
+      "duration": 22.159999999999997,
+      "max_len": 30,
+      "text": "And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute. And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic.",
+      "parts": {
+        "centrality": 0.7961973801017196,
+        "lead": 0.044785639270937226,
+        "density": 0.26396414725890727,
+        "clarity": 0.5805898904800415
+      },
+      "importance": 0.5013978001226378
+    },
+    {
+      "start": 208.0,
+      "end": 234.48000000000002,
+      "duration": 26.480000000000018,
+      "max_len": 30,
+      "text": "And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic. In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran? Uh could you see that relationship getting tighter?",
+      "parts": {
+        "centrality": 0.7914309011455161,
+        "lead": 0.039604563467491694,
+        "density": 0.24978429931579357,
+        "clarity": 0.6120778322219849
+      },
+      "importance": 0.5060127226583934
+    },
+    {
+      "start": 222.4,
+      "end": 248.32,
+      "duration": 25.919999999999987,
+      "max_len": 30,
+      "text": "In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran? Uh could you see that relationship getting tighter? And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world?",
+      "parts": {
+        "centrality": 0.8135757750471705,
+        "lead": 0.0316713119848797,
+        "density": 0.3767429352068299,
+        "clarity": 0.7341195344924927
+      },
+      "importance": 0.5678330842922579
+    },
+    {
+      "start": 231.92000000000002,
+      "end": 257.68,
+      "duration": 25.75999999999999,
+      "max_len": 30,
+      "text": "Uh could you see that relationship getting tighter? And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+      "parts": {
+        "centrality": 1.0,
+        "lead": 0.02732032946052835,
+        "density": 0.7405582340570669,
+        "clarity": 0.4666025936603546
+      },
+      "importance": 0.606528579098772
+    },
+    {
+      "start": 234.64000000000001,
+      "end": 257.68,
+      "duration": 23.039999999999992,
+      "max_len": 30,
+      "text": "And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+      "parts": {
+        "centrality": 0.7931290893631547,
+        "lead": 0.026190799417105903,
+        "density": 0.784146628797905,
+        "clarity": 0.7004851698875427
+      },
+      "importance": 0.6106008864464738
+    },
+    {
+      "start": 241.52,
+      "end": 257.68,
+      "duration": 16.159999999999997,
+      "max_len": 30,
+      "text": "How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+      "parts": {
+        "centrality": 0.7170769515765285,
+        "lead": 0.023537833225554878,
+        "density": 1.0,
+        "clarity": 0.6757645606994629
+      },
+      "importance": 0.6084138679067348
+    },
+    {
+      "start": 0.32,
+      "end": 33.2,
+      "duration": 32.88,
+      "max_len": 45,
+      "text": "For more, let's bring in Jonathan Panakoff. He's director of the Atlantic Council's Scowcroft Middle East Security Initiative. Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment.",
+      "parts": {
+        "centrality": 0.8664225494001834,
+        "lead": 0.995044915707188,
+        "density": 0.5326506323522804,
+        "clarity": 0.30476537346839905
+      },
+      "importance": 0.6735840823248636
+    },
+    {
+      "start": 2.24,
+      "end": 46.88,
+      "duration": 44.64,
+      "max_len": 45,
+      "text": "He's director of the Atlantic Council's Scowcroft Middle East Security Initiative. Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+      "parts": {
+        "centrality": 0.8840606029699951,
+        "lead": 0.9658257829022766,
+        "density": 0.44628358454777084,
+        "clarity": 0.1088029220700264
+      },
+      "importance": 0.6021697819231271
+    },
+    {
+      "start": 6.32,
+      "end": 46.88,
+      "duration": 40.56,
+      "max_len": 45,
+      "text": "Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+      "parts": {
+        "centrality": 0.7786272332462948,
+        "lead": 0.9065526425107915,
+        "density": 0.3876434162156124,
+        "clarity": 0.06572467088699341
+      },
+      "importance": 0.5316939738368013
+    },
+    {
+      "start": 7.84,
+      "end": 46.88,
+      "duration": 39.040000000000006,
+      "max_len": 45,
+      "text": "You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+      "parts": {
+        "centrality": 0.7699260675403824,
+        "lead": 0.885412770831621,
+        "density": 0.3550439764345494,
+        "clarity": 0.22669804096221924
+      },
+      "importance": 0.5678226865593062
+    },
+    {
+      "start": 12.72,
+      "end": 56.88,
+      "duration": 44.160000000000004,
+      "max_len": 45,
+      "text": "Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal.",
+      "parts": {
+        "centrality": 0.7630412113100844,
+        "lead": 0.8208177276636656,
+        "density": 0.39291145609938743,
+        "clarity": 0.1980254054069519
+      },
+      "importance": 0.5495723095282563
+    },
+    {
+      "start": 17.28,
+      "end": 59.28,
+      "duration": 42.0,
+      "max_len": 45,
+      "text": "Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit.",
+      "parts": {
+        "centrality": 0.7798409681988433,
+        "lead": 0.7647244721780146,
+        "density": 0.3773595416511166,
+        "clarity": 0.14211280643939972
+      },
+      "importance": 0.5251270064846855
+    },
+    {
+      "start": 18.32,
+      "end": 59.28,
+      "duration": 40.96,
+      "max_len": 45,
+      "text": "Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit.",
+      "parts": {
+        "centrality": 0.7560286071994646,
+        "lead": 0.7524778396518905,
+        "density": 0.39655922859146536,
+        "clarity": 0.6699607968330383
+      },
+      "importance": 0.675577703788822
+    },
+    {
+      "start": 26.8,
+      "end": 68.64,
+      "duration": 41.84,
+      "max_len": 45,
+      "text": "And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks.",
+      "parts": {
+        "centrality": 0.7520975629555083,
+        "lead": 0.6596671630277386,
+        "density": 0.3578696211283419,
+        "clarity": 0.7051762938499451
+      },
+      "importance": 0.6604009109642104
+    },
+    {
+      "start": 29.84,
+      "end": 68.64,
+      "duration": 38.8,
+      "max_len": 45,
+      "text": "That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks.",
+      "parts": {
+        "centrality": 0.44861907403340906,
+        "lead": 0.6292603586689995,
+        "density": 0.33044159140204715,
+        "clarity": 0.7735586762428284
+      },
+      "importance": 0.5645025892286486
+    },
+    {
+      "start": 44.96,
+      "end": 85.04,
+      "duration": 40.080000000000005,
+      "max_len": 45,
+      "text": "We're pretty far from a negotiated settlement. My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks. Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right.",
+      "parts": {
+        "centrality": 0.7267712204579775,
+        "lead": 0.4976193256192967,
+        "density": 0.42878214194176834,
+        "clarity": 0.6930575966835022
+      },
+      "importance": 0.6261283925804674
+    },
+    {
+      "start": 47.04,
+      "end": 85.04,
+      "duration": 38.00000000000001,
+      "max_len": 45,
+      "text": "My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks. Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right.",
+      "parts": {
+        "centrality": 0.7506733432062584,
+        "lead": 0.48180875865752115,
+        "density": 0.36731412829084314,
+        "clarity": 0.6020615696907043
+      },
+      "importance": 0.5948130120045325
+    },
+    {
+      "start": 57.120000000000005,
+      "end": 102.08,
+      "duration": 44.959999999999994,
+      "max_len": 45,
+      "text": "But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks. Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February.",
+      "parts": {
+        "centrality": 0.7217102188937814,
+        "lead": 0.41202091971234445,
+        "density": 0.33311821489926663,
+        "clarity": 0.4402286410331726
+      },
+      "importance": 0.5170390851001341
+    },
+    {
+      "start": 59.36,
+      "end": 102.08,
+      "duration": 42.72,
+      "max_len": 45,
+      "text": "But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks. Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February.",
+      "parts": {
+        "centrality": 0.746591134973571,
+        "lead": 0.39794042735329116,
+        "density": 0.30838532211434033,
+        "clarity": 0.4561674892902374
+      },
+      "importance": 0.5240030278156304
+    },
+    {
+      "start": 69.04,
+      "end": 112.72,
+      "duration": 43.67999999999999,
+      "max_len": 45,
+      "text": "Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February. The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight.",
+      "parts": {
+        "centrality": 0.5946983849129494,
+        "lead": 0.34242012569790864,
+        "density": 0.3381011347955891,
+        "clarity": 0.7994422912597656
+      },
+      "importance": 0.567176317456382
+    },
+    {
+      "start": 79.36,
+      "end": 118.0,
+      "duration": 38.64,
+      "max_len": 45,
+      "text": "And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February. The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight. What Iran really doesn't want is to have to fight another war after this.",
+      "parts": {
+        "centrality": 0.37854246693385313,
+        "lead": 0.291733211332465,
+        "density": 0.36509160264554386,
+        "clarity": 0.7134315967559814
+      },
+      "importance": 0.4596297251169676
+    },
+    {
+      "start": 83.60000000000001,
+      "end": 118.0,
+      "duration": 34.39999999999999,
+      "max_len": 45,
+      "text": "I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February. The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight. What Iran really doesn't want is to have to fight another war after this.",
+      "parts": {
+        "centrality": 0.24885391158285608,
+        "lead": 0.2731501532486636,
+        "density": 0.33121070478374653,
+        "clarity": 0.44987595081329346
+      },
+      "importance": 0.3263732906652823
+    },
+    {
+      "start": 85.2,
+      "end": 118.0,
+      "duration": 32.8,
+      "max_len": 45,
+      "text": "Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February. The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight. What Iran really doesn't want is to have to fight another war after this.",
+      "parts": {
+        "centrality": 0.19862193600221464,
+        "lead": 0.2664494777585889,
+        "density": 0.27562293302196805,
+        "clarity": 0.7049732208251953
+      },
+      "importance": 0.3756429793533467
+    },
+    {
+      "start": 96.72,
+      "end": 136.88,
+      "duration": 40.16,
+      "max_len": 45,
+      "text": "I still think that's a mystery, just as it has been since the war began at the very end of February. The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight. What Iran really doesn't want is to have to fight another war after this. And so I think there's a little bit of uh mispectations on both sides, frankly, still, about how much each side is going to be willing to give for what it is they want for their own domestic constituencies and for their own government. Finally, where does this leave Russia?",
+      "parts": {
+        "centrality": 0.35140397782442495,
+        "lead": 0.22281864675124866,
+        "density": 0.2175175343842961,
+        "clarity": 0.5612147450447083
+      },
+      "importance": 0.36854717525985536
+    },
+    {
+      "start": 102.32000000000001,
+      "end": 136.88,
+      "duration": 34.55999999999999,
+      "max_len": 45,
+      "text": "The Iranians fundamentally want whatever this war ends up being, whether it resolves through negotiations or through military conflict, to be the last war they fight. What Iran really doesn't want is to have to fight another war after this. And so I think there's a little bit of uh mispectations on both sides, frankly, still, about how much each side is going to be willing to give for what it is they want for their own domestic constituencies and for their own government. Finally, where does this leave Russia?",
+      "parts": {
+        "centrality": 0.2668341005144259,
+        "lead": 0.20426714517822814,
+        "density": 0.24778382151303407,
+        "clarity": 0.5921950340270996
+      },
+      "importance": 0.3490714476507797
+    },
+    {
+      "start": 112.88,
+      "end": 152.64000000000001,
+      "duration": 39.76000000000002,
+      "max_len": 45,
+      "text": "What Iran really doesn't want is to have to fight another war after this. And so I think there's a little bit of uh mispectations on both sides, frankly, still, about how much each side is going to be willing to give for what it is they want for their own domestic constituencies and for their own government. Finally, where does this leave Russia? As many would say, the bigger provocateur, again, more and more uh uh kind of write-ups of that Leipzig drone attack in Germany, the extent to which it's kind of in this, what do they call it, kind of this gray area with Europe? Um, seems like kind of a big deal.",
+      "parts": {
+        "centrality": 0.6932716154096726,
+        "lead": 0.17338324358341978,
+        "density": 0.22229293816525986,
+        "clarity": 0.7375364303588867
+      },
+      "importance": 0.5319265839425243
+    },
+    {
+      "start": 118.24000000000001,
+      "end": 158.4,
+      "duration": 40.16,
+      "max_len": 45,
+      "text": "And so I think there's a little bit of uh mispectations on both sides, frankly, still, about how much each side is going to be willing to give for what it is they want for their own domestic constituencies and for their own government. Finally, where does this leave Russia? As many would say, the bigger provocateur, again, more and more uh uh kind of write-ups of that Leipzig drone attack in Germany, the extent to which it's kind of in this, what do they call it, kind of this gray area with Europe? Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal.",
+      "parts": {
+        "centrality": 0.6876015348478526,
+        "lead": 0.15954092163427383,
+        "density": 0.19361823337252895,
+        "clarity": 0.7487199306488037
+      },
+      "importance": 0.5262274357241236
+    },
+    {
+      "start": 134.24,
+      "end": 171.68,
+      "duration": 37.44,
+      "max_len": 45,
+      "text": "Finally, where does this leave Russia? As many would say, the bigger provocateur, again, more and more uh uh kind of write-ups of that Leipzig drone attack in Germany, the extent to which it's kind of in this, what do they call it, kind of this gray area with Europe? Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want.",
+      "parts": {
+        "centrality": 0.8397755383883682,
+        "lead": 0.1244532794337299,
+        "density": 0.4428120802129339,
+        "clarity": 0.8615382313728333
+      },
+      "importance": 0.6436953757664649
+    },
+    {
+      "start": 137.12,
+      "end": 171.68,
+      "duration": 34.56,
+      "max_len": 45,
+      "text": "As many would say, the bigger provocateur, again, more and more uh uh kind of write-ups of that Leipzig drone attack in Germany, the extent to which it's kind of in this, what do they call it, kind of this gray area with Europe? Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want.",
+      "parts": {
+        "centrality": 0.8651305005739548,
+        "lead": 0.11901193319450205,
+        "density": 0.42753016930165344,
+        "clarity": 0.8037906289100647
+      },
+      "importance": 0.631864775908052
+    },
+    {
+      "start": 150.8,
+      "end": 189.68,
+      "duration": 38.879999999999995,
+      "max_len": 45,
+      "text": "Um, seems like kind of a big deal. You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open.",
+      "parts": {
+        "centrality": 0.9007950549341903,
+        "lead": 0.09624214466593244,
+        "density": 0.46402091910114,
+        "clarity": 0.8241790533065796
+      },
+      "importance": 0.651383552017298
+    },
+    {
+      "start": 152.72,
+      "end": 189.68,
+      "duration": 36.96000000000001,
+      "max_len": 45,
+      "text": "You know, the Ukraine issue, far from settled, um, no matter what the president wants to do to make a deal. And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open.",
+      "parts": {
+        "centrality": 0.8708874809158716,
+        "lead": 0.0934160290182536,
+        "density": 0.4571278405935305,
+        "clarity": 0.8565725088119507
+      },
+      "importance": 0.6490347528568206
+    },
+    {
+      "start": 158.48,
+      "end": 199.92000000000002,
+      "duration": 41.440000000000026,
+      "max_len": 45,
+      "text": "And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing.",
+      "parts": {
+        "centrality": 0.7714855803604416,
+        "lead": 0.08542593316220634,
+        "density": 0.3882348488899388,
+        "clarity": 0.6963714361190796
+      },
+      "importance": 0.5542517979278104
+    },
+    {
+      "start": 164.0,
+      "end": 207.68,
+      "duration": 43.68000000000001,
+      "max_len": 45,
+      "text": "Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+      "parts": {
+        "centrality": 0.9891029236832601,
+        "lead": 0.07841082933313627,
+        "density": 0.3638022317768442,
+        "clarity": 0.7082125544548035
+      },
+      "importance": 0.628902290258736
+    },
+    {
+      "start": 165.04,
+      "end": 207.68,
+      "duration": 42.640000000000015,
+      "max_len": 45,
+      "text": "Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+      "parts": {
+        "centrality": 0.9513228540177359,
+        "lead": 0.07715512398062337,
+        "density": 0.35230991614454255,
+        "clarity": 0.7229184508323669
+      },
+      "importance": 0.6181160463737236
+    },
+    {
+      "start": 168.32,
+      "end": 207.68,
+      "duration": 39.360000000000014,
+      "max_len": 45,
+      "text": "Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+      "parts": {
+        "centrality": 0.8190392734970241,
+        "lead": 0.07332503761011368,
+        "density": 0.32529517205221387,
+        "clarity": 0.6680145859718323
+      },
+      "importance": 0.5505274048453629
+    },
+    {
+      "start": 171.76,
+      "end": 207.68,
+      "duration": 35.920000000000016,
+      "max_len": 45,
+      "text": "And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+      "parts": {
+        "centrality": 0.7133033156168792,
+        "lead": 0.06951221985968402,
+        "density": 0.27268039450635523,
+        "clarity": 0.7367795705795288
+      },
+      "importance": 0.5254945347876565
+    },
+    {
+      "start": 188.48,
+      "end": 231.76,
+      "duration": 43.28,
+      "max_len": 45,
+      "text": "I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute. And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic. In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran?",
+      "parts": {
+        "centrality": 0.8983147686956812,
+        "lead": 0.053621807292931756,
+        "density": 0.2686790383206115,
+        "clarity": 0.5961980819702148
+      },
+      "importance": 0.5442958108412309
+    },
+    {
+      "start": 189.76,
+      "end": 234.48000000000002,
+      "duration": 44.72000000000003,
+      "max_len": 45,
+      "text": "But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute. And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic. In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran? Uh could you see that relationship getting tighter?",
+      "parts": {
+        "centrality": 0.8657734028392812,
+        "lead": 0.05256687834261995,
+        "density": 0.23665013430947393,
+        "clarity": 0.6113819479942322
+      },
+      "importance": 0.5324461712069631
+    },
+    {
+      "start": 200.08,
+      "end": 241.36,
+      "duration": 41.28,
+      "max_len": 45,
+      "text": "And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute. And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic. In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran? Uh could you see that relationship getting tighter? And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine?",
+      "parts": {
+        "centrality": 0.8553688453360836,
+        "lead": 0.044785639270937226,
+        "density": 0.26480104327284515,
+        "clarity": 0.683208167552948
+      },
+      "importance": 0.5530188304786279
+    },
+    {
+      "start": 208.0,
+      "end": 252.8,
+      "duration": 44.80000000000001,
+      "max_len": 45,
+      "text": "And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic. In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran? Uh could you see that relationship getting tighter? And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran.",
+      "parts": {
+        "centrality": 0.8286604320844395,
+        "lead": 0.039604563467491694,
+        "density": 0.2918877683727864,
+        "clarity": 0.6943027377128601
+      },
+      "importance": 0.5500260504928282
+    },
+    {
+      "start": 222.4,
+      "end": 257.68,
+      "duration": 35.28,
+      "max_len": 45,
+      "text": "In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran? Uh could you see that relationship getting tighter? And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+      "parts": {
+        "centrality": 0.8384587725588186,
+        "lead": 0.0316713119848797,
+        "density": 0.6121510956149289,
+        "clarity": 0.642432451248169
+      },
+      "importance": 0.5843472325092525
+    },
+    {
+      "start": 231.92000000000002,
+      "end": 257.68,
+      "duration": 25.75999999999999,
+      "max_len": 45,
+      "text": "Uh could you see that relationship getting tighter? And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+      "parts": {
+        "centrality": 1.0,
+        "lead": 0.02732032946052835,
+        "density": 0.7405582340570669,
+        "clarity": 0.46635952591896057
+      },
+      "importance": 0.6064556587763539
+    },
+    {
+      "start": 234.64000000000001,
+      "end": 257.68,
+      "duration": 23.039999999999992,
+      "max_len": 45,
+      "text": "And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+      "parts": {
+        "centrality": 0.7931290893631547,
+        "lead": 0.026190799417105903,
+        "density": 0.784146628797905,
+        "clarity": 0.7006900310516357
+      },
+      "importance": 0.6106623447957018
+    },
+    {
+      "start": 241.52,
+      "end": 257.68,
+      "duration": 16.159999999999997,
+      "max_len": 45,
+      "text": "How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+      "parts": {
+        "centrality": 0.7170769515765285,
+        "lead": 0.023537833225554878,
+        "density": 1.0,
+        "clarity": 0.6751223206520081
+      },
+      "importance": 0.6082211958924983
+    }
+  ]
+}

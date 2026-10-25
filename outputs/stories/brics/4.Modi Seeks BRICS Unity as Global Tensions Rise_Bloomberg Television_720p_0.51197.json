@@ -1,0 +1,14 @@
+{
+  "start": 414.48,
+  "end": 437.28000000000003,
+  "duration": 22.80000000000001,
+  "max_len": 45,
+  "text": "That's all an alternative to the US-led order. Um, on the other hand, you have countries like India that really wants to kind of keep this group something, something a bit more informal, something that's just kind of a uh a meetup of countries to kind of discuss uh, you know, the issues of the day, issues like trade and and and cooperation on AI and and and things that are that are sort of a bit a bit softer in nature.",
+  "parts": {
+    "centrality": 0.7341743164946546,
+    "lead": 0.060685216249549104,
+    "density": 0.3298068536367884,
+    "clarity": 0.6446726322174072
+  },
+  "importance": 0.5119708717337794
+}

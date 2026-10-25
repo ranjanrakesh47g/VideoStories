@@ -1,0 +1,14 @@
+{
+  "start": 74.08,
+  "end": 91.2,
+  "duration": 17.120000000000005,
+  "max_len": 30,
+  "text": "Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility.",
+  "parts": {
+    "centrality": 0.4686590771277353,
+    "lead": 0.0712229567981701,
+    "density": 1.0,
+    "clarity": 0.8493474721908569
+  },
+  "importance": 0.5830795100115984
+}

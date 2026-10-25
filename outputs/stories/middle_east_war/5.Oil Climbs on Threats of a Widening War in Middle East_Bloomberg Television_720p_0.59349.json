@@ -1,0 +1,14 @@
+{
+  "start": 53.28,
+  "end": 91.2,
+  "duration": 37.92,
+  "max_len": 45,
+  "text": "The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran. Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets. Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility.",
+  "parts": {
+    "centrality": 0.685533695868804,
+    "lead": 0.14954728427948277,
+    "density": 0.6313576324223213,
+    "clarity": 0.7631309032440186
+  },
+  "importance": 0.5934891662465317
+}

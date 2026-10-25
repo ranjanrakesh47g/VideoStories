@@ -1,0 +1,14 @@
+{
+  "start": 558.8000000000001,
+  "end": 584.0,
+  "duration": 25.199999999999932,
+  "max_len": 30,
+  "text": "Saudi was much better equipped, and although it was an irritation, it wasn't something that was really causing the Saudis too much problem. But of course, the Houthis as well as Hamas and Hezbollah are all uh proxies of Iran. When Iran got stuck in this stalemate around the Strait of Hormuz, they've been providing a lot of high grade weapons to the Houthis, and they've therefore been able to terrorize the Bab al-Mandab straits.",
+  "parts": {
+    "centrality": 0.5708141344540465,
+    "lead": 0.03915717381975041,
+    "density": 0.5149001983597847,
+    "clarity": 0.9107043743133545
+  },
+  "importance": 0.5580627238708404
+}

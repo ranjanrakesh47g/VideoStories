@@ -1,0 +1,14 @@
+{
+  "start": 0.32,
+  "end": 29.76,
+  "duration": 29.44,
+  "max_len": 30,
+  "text": "For more, let's bring in Jonathan Panakoff. He's director of the Atlantic Council's Scowcroft Middle East Security Initiative. Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right?",
+  "parts": {
+    "centrality": 0.8158359498666322,
+    "lead": 0.995044915707188,
+    "density": 0.4890036949355223,
+    "clarity": 0.32562774419784546
+  },
+  "importance": 0.6555904430944408
+}

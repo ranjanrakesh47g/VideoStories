@@ -1,0 +1,14 @@
+{
+  "start": 200.64000000000001,
+  "end": 245.52,
+  "duration": 44.879999999999995,
+  "max_len": 45,
+  "text": "And that line that was equaled in yellow is actually not the same one as the one uh that uh was posted uh in uh the English uh language. So you're seeing uh the English the Hebrew there talking about this full lockdown of uh the occupied West Bank in the English language statement that was sent to foreign reporters to uh the press, uh, he simply speaks of additional measures to prevent terrorist attacks originating from uh the occupied West Bank. So not exactly as uh strong of a worded uh statement uh as it is in Hebrew, which is obviously for a domestic audience just four days uh before uh those elections. He was not the only one to react, obviously.",
+  "parts": {
+    "centrality": 0.8752906057962883,
+    "lead": 0.08481441862979604,
+    "density": 0.4294004870205311,
+    "clarity": 0.937953770160675
+  },
+  "importance": 0.6691107998559422
+}

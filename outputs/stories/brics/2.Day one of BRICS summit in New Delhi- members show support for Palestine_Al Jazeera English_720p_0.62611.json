@@ -1,0 +1,14 @@
+{
+  "start": 7.12,
+  "end": 45.28,
+  "duration": 38.160000000000004,
+  "max_len": 45,
+  "text": "India's Prime Minister Nuraindamodi made the announcement this afternoon on day one of the summit. New Delhi Declaration. BRICS Nations have expressed deep concern over the escalating tensions in the Gulf. They've called for maximum restraint to avoid a wider regional war, but they've fallen short of naming any country. Ahead of the summit, Iran wanted member states to condemn the US and Israeli aggression.",
+  "parts": {
+    "centrality": 0.976176466839715,
+    "lead": 0.7991701835600761,
+    "density": 0.5735139285211118,
+    "clarity": 0.12863457202911377
+  },
+  "importance": 0.6261132609928164
+}

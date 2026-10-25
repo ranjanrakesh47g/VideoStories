@@ -1,0 +1,14 @@
+{
+  "start": 0.16,
+  "end": 44.72,
+  "duration": 44.56,
+  "max_len": 45,
+  "text": "First review of this hour, the BRIC alliance is meeting in India to discuss the consequences of the wars in the Middle East amongst a host of other topics. Before the summit even got off to a start on Saturday, the Black's members had already agreed to a joint declaration. Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions.",
+  "parts": {
+    "centrality": 0.8259592989682785,
+    "lead": 0.9978360841560915,
+    "density": 0.6836661452104307,
+    "clarity": 0.5095202922821045
+  },
+  "importance": 0.7440589809363117
+}

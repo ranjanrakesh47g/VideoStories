@@ -1,0 +1,14 @@
+{
+  "start": 565.76,
+  "end": 594.32,
+  "duration": 28.56000000000006,
+  "max_len": 30,
+  "text": "But of course, the Houthis as well as Hamas and Hezbollah are all uh proxies of Iran. When Iran got stuck in this stalemate around the Strait of Hormuz, they've been providing a lot of high grade weapons to the Houthis, and they've therefore been able to terrorize the Bab al-Mandab straits. They've also been able to use drones and ballistic missiles, weapons they didn't have before, that are actually therefore able to kill a lot of people tragically in Saudi Arabia.",
+  "parts": {
+    "centrality": 0.8176505151063915,
+    "lead": 0.037608363557676695,
+    "density": 0.4936603124403314,
+    "clarity": 0.9079671502113342
+  },
+  "importance": 0.6401385449282223
+}

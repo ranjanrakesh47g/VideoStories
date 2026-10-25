@@ -1,0 +1,14 @@
+{
+  "start": 537.92,
+  "end": 571.64,
+  "duration": 33.72000000000003,
+  "max_len": 45,
+  "text": "Where do things stand there and how does that fighting fit into the larger uh Middle East conflict? Yeah, it is interesting. I mean, the Houthis and Saudi Arabia have been involved in a conflict for many years, but it sort of subsided a few years ago and sort of bubbles along because the Houthis were very ill-equipped. Saudi was much better equipped, and although it was an irritation, it wasn't something that was really causing the Saudis too much problem. But of course, the Houthis as well as Hamas and Hezbollah are all uh proxies of Iran.",
+  "parts": {
+    "centrality": 0.642271213610883,
+    "lead": 0.04419692417246128,
+    "density": 0.4323544160751771,
+    "clarity": 0.807460606098175
+  },
+  "importance": 0.5407256538390304
+}

@@ -1,0 +1,14 @@
+{
+  "start": 54.24,
+  "end": 81.52,
+  "duration": 27.279999999999994,
+  "max_len": 30,
+  "text": "Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement.",
+  "parts": {
+    "centrality": 0.7449992300585155,
+    "lead": 0.4798113337339342,
+    "density": 0.4324895559647668,
+    "clarity": 0.3993430435657501
+  },
+  "importance": 0.5413883437317074
+}

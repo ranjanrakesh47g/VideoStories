@@ -1,0 +1,14 @@
+{
+  "start": 558.5600000000001,
+  "end": 591.6800000000001,
+  "duration": 33.120000000000005,
+  "max_len": 45,
+  "text": "And uh, you know, it it's notable, hard to say if it's coincidence that just overnight you had this this major development in the Middle East where um, you know, these Iranian backed militants in Yemen, the Houthis have attacked uh uh undertaken these attacks that have caused more disruptions in the oil flow from the Middle East, Saudi Arabia closing down its pipeline um and causing further disruptions as well. And and that's all kind of just just reminded everybody here in New Delhi today what what the real elephant in the room is, which is which is this war. Um, and and um uh is is is absolutely kind of at the top of the agenda as well.",
+  "parts": {
+    "centrality": 0.7698742247246562,
+    "lead": 0.022911983998644154,
+    "density": 0.2810375436247923,
+    "clarity": 0.6779006123542786
+  },
+  "importance": 0.5195641907033608
+}

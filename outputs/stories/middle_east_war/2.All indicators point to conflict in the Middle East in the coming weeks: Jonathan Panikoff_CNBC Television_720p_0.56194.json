@@ -1,0 +1,14 @@
+{
+  "start": 188.48,
+  "end": 207.68,
+  "duration": 19.200000000000017,
+  "max_len": 30,
+  "text": "I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+  "parts": {
+    "centrality": 0.8703312182516597,
+    "lead": 0.053621807292931756,
+    "density": 0.4431557086184362,
+    "clarity": 0.600422739982605
+  },
+  "importance": 0.5619404661342141
+}

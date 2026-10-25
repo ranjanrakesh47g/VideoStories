@@ -1,0 +1,14 @@
+{
+  "start": 87.60000000000001,
+  "end": 126.8,
+  "duration": 39.19999999999999,
+  "max_len": 45,
+  "text": "There have been other clues, including US Secretary of Defense Pete Heggseth's visit to Israel earlier this week, where he met Prime Minister Benjamin Netanyahu. Keep in mind that Israel also has elections happening in just a matter of days. So for both the US and Israel, everything after the election. To dive into all this, we have military analyst Sean Bell joining us. Sean, uh first off, has there been any other verification beyond what Tehran says that Iran did indeed hit seven oil tankers? Great to join you. No, there hasn't.",
+  "parts": {
+    "centrality": 0.5678527837442581,
+    "lead": 0.601731545378562,
+    "density": 0.5359705956554501,
+    "clarity": 0.6526843309402466
+  },
+  "importance": 0.5952956720165943
+}

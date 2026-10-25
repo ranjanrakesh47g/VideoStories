@@ -1,0 +1,14 @@
+{
+  "start": 330.32,
+  "end": 369.84000000000003,
+  "duration": 39.52000000000004,
+  "max_len": 45,
+  "text": "Um, once public opinion matters less after the elections. We, for example, have seen that the US has moved another aircraft carrier into the region in recent weeks. What do you think will happen? Well, I know the conjecture is all that there'll be a big increase in military action again, but you have to go back to the start of this war. President Trump claimed within four to six weeks the war would be over, that he would have won, that America's superpower would have devastated Iran. And in many respects it did. But ever since then, it has proven that America's been incapable of actually stopping Iran controlling the Strada Formuz.",
+  "parts": {
+    "centrality": 0.5062932479334324,
+    "lead": 0.14729134893529358,
+    "density": 0.6482970563530331,
+    "clarity": 0.8734309077262878
+  },
+  "importance": 0.5659347373346014
+}

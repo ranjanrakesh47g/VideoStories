@@ -1,0 +1,1712 @@
+{
+  "clips": [
+    {
+      "start": 16.16,
+      "end": 40.800000000000004,
+      "duration": 24.640000000000004,
+      "max_len": 30,
+      "text": "Thank you very much. I thank you, dear friends. Excellency, Honourable Prime Minister, colleagues, excellencies, heads of state, friends in the audience, representing the business communities of our countries, our today's event. As a tradition is a prelude to the BRICS summit.",
+      "parts": {
+        "centrality": 0.11428080628274911,
+        "lead": 0.911898202926602,
+        "density": 0.5284966510060691,
+        "clarity": 0.4809662699699402
+      },
+      "importance": 0.445942301426175
+    },
+    {
+      "start": 17.52,
+      "end": 40.800000000000004,
+      "duration": 23.280000000000005,
+      "max_len": 30,
+      "text": "I thank you, dear friends. Excellency, Honourable Prime Minister, colleagues, excellencies, heads of state, friends in the audience, representing the business communities of our countries, our today's event. As a tradition is a prelude to the BRICS summit.",
+      "parts": {
+        "centrality": 0.1638566759383394,
+        "lead": 0.9048477461101756,
+        "density": 0.42111731545065445,
+        "clarity": 0.11162799596786499
+      },
+      "importance": 0.3349753819084116
+    },
+    {
+      "start": 20.64,
+      "end": 40.800000000000004,
+      "duration": 20.160000000000004,
+      "max_len": 30,
+      "text": "Excellency, Honourable Prime Minister, colleagues, excellencies, heads of state, friends in the audience, representing the business communities of our countries, our today's event. As a tradition is a prelude to the BRICS summit.",
+      "parts": {
+        "centrality": 0.20808977043837512,
+        "lead": 0.8888784563902122,
+        "density": 0.4504203368692239,
+        "clarity": 0.2245279997587204
+      },
+      "importance": 0.38552856138947345
+    },
+    {
+      "start": 36.4,
+      "end": 63.68,
+      "duration": 27.28,
+      "max_len": 30,
+      "text": "As a tradition is a prelude to the BRICS summit. And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space. It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations.",
+      "parts": {
+        "centrality": 0.6691923484663828,
+        "lead": 0.8124191782915989,
+        "density": 0.3561959065510717,
+        "clarity": 0.19744446873664856
+      },
+      "importance": 0.5093638842252092
+    },
+    {
+      "start": 41.12,
+      "end": 68.0,
+      "duration": 26.880000000000003,
+      "max_len": 30,
+      "text": "And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space. It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations. It helps build these relations in a stronger, resilient manner.",
+      "parts": {
+        "centrality": 0.7501361493730544,
+        "lead": 0.7908267143733323,
+        "density": 0.3009241171286053,
+        "clarity": 0.35605472326278687
+      },
+      "importance": 0.5726680297033624
+    },
+    {
+      "start": 53.120000000000005,
+      "end": 68.0,
+      "duration": 14.879999999999995,
+      "max_len": 30,
+      "text": "It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations. It helps build these relations in a stronger, resilient manner.",
+      "parts": {
+        "centrality": 0.6033317061574324,
+        "lead": 0.7384796453618949,
+        "density": 0.31767040780350725,
+        "clarity": 0.37983834743499756
+      },
+      "importance": 0.5204640916285057
+    },
+    {
+      "start": 64.16,
+      "end": 89.84,
+      "duration": 25.680000000000007,
+      "max_len": 30,
+      "text": "It helps build these relations in a stronger, resilient manner. It helps overcome the problems the world is facing, and right now the world is undergoing structural, deep, profound shifts, which is explained by the fact that the so-called old leaders, which used to be the vanguard of economic growth in the second half of the 20th century, are being replaced by new engines of growth.",
+      "parts": {
+        "centrality": 0.5860814465352301,
+        "lead": 0.6933861322060443,
+        "density": 0.1552323444649779,
+        "clarity": 0.04616273194551468
+      },
+      "importance": 0.3809394039819405
+    },
+    {
+      "start": 68.08,
+      "end": 97.633333,
+      "duration": 29.553332999999995,
+      "max_len": 30,
+      "text": "It helps overcome the problems the world is facing, and right now the world is undergoing structural, deep, profound shifts, which is explained by the fact that the so-called old leaders, which used to be the vanguard of economic growth in the second half of the 20th century, are being replaced by new engines of growth. Certainly, when I say, oh, this is just a formality, all of us we understand what we're talking about.",
+      "parts": {
+        "centrality": 0.48591426667628734,
+        "lead": 0.6780460174561551,
+        "density": 0.20869565016797986,
+        "clarity": 0.29320207238197327
+      },
+      "importance": 0.42494416606772056
+    },
+    {
+      "start": 90.08,
+      "end": 119.2,
+      "duration": 29.120000000000005,
+      "max_len": 30,
+      "text": "Certainly, when I say, oh, this is just a formality, all of us we understand what we're talking about. And these so-called old leaders are still in possession of great strong suits and well developed infrastructure, technological advantages, scientific advantages, scientific schools, and so on and so forth. That said, this isn't the nature of things.",
+      "parts": {
+        "centrality": 0.38392429859671834,
+        "lead": 0.5980406418870037,
+        "density": 0.29180372157956763,
+        "clarity": 0.5862860083580017
+      },
+      "importance": 0.4736379936305878
+    },
+    {
+      "start": 97.633333,
+      "end": 119.2,
+      "duration": 21.56666700000001,
+      "max_len": 30,
+      "text": "And these so-called old leaders are still in possession of great strong suits and well developed infrastructure, technological advantages, scientific advantages, scientific schools, and so on and so forth. That said, this isn't the nature of things.",
+      "parts": {
+        "centrality": 0.44086140666456003,
+        "lead": 0.5728082419121064,
+        "density": 0.3682168075191873,
+        "clarity": 0.7468782067298889
+      },
+      "importance": 0.548159123861862
+    },
+    {
+      "start": 115.52,
+      "end": 140.72,
+      "duration": 25.200000000000003,
+      "max_len": 30,
+      "text": "That said, this isn't the nature of things. This is in the nature of humanity and in the nature of economy that changes cannot be stopped. The world is always changing, and this is attested to by the objective facts over the last five years. And I think these statistics have already been cited by our colleague from Indonesia.",
+      "parts": {
+        "centrality": 0.41191391916494924,
+        "lead": 0.5172207724048232,
+        "density": 0.41077501640121583,
+        "clarity": 0.6111499071121216
+      },
+      "importance": 0.49257525078251574
+    },
+    {
+      "start": 119.36,
+      "end": 140.72,
+      "duration": 21.36,
+      "max_len": 30,
+      "text": "This is in the nature of humanity and in the nature of economy that changes cannot be stopped. The world is always changing, and this is attested to by the objective facts over the last five years. And I think these statistics have already been cited by our colleague from Indonesia.",
+      "parts": {
+        "centrality": 0.34999706957818577,
+        "lead": 0.5060090238454124,
+        "density": 0.431036857772149,
+        "clarity": 0.5416513085365295
+      },
+      "importance": 0.4508517003482287
+    },
+    {
+      "start": 128.32,
+      "end": 140.72,
+      "duration": 12.400000000000006,
+      "max_len": 30,
+      "text": "The world is always changing, and this is attested to by the objective facts over the last five years. And I think these statistics have already been cited by our colleague from Indonesia.",
+      "parts": {
+        "centrality": 0.3109302664030949,
+        "lead": 0.48078432833565793,
+        "density": 0.5060637344662086,
+        "clarity": 0.42536649107933044
+      },
+      "importance": 0.40850196640194525
+    },
+    {
+      "start": 135.2,
+      "end": 163.76,
+      "duration": 28.560000000000002,
+      "max_len": 30,
+      "text": "And I think these statistics have already been cited by our colleague from Indonesia. Over the last five years, more than 40% of the world GDP have been produced by the BRICS countries, whereas the contribution of the so-called G7, the Great Seven, well, I don't know why they call that that the group of seven, it stands at only 29%. This is the case.",
+      "parts": {
+        "centrality": 0.17902779422775578,
+        "lead": 0.46227218545903914,
+        "density": 0.46749570833034265,
+        "clarity": 0.7687332034111023
+      },
+      "importance": 0.4558584823444044
+    },
+    {
+      "start": 140.88,
+      "end": 163.76,
+      "duration": 22.879999999999995,
+      "max_len": 30,
+      "text": "Over the last five years, more than 40% of the world GDP have been produced by the BRICS countries, whereas the contribution of the so-called G7, the Great Seven, well, I don't know why they call that that the group of seven, it stands at only 29%. This is the case.",
+      "parts": {
+        "centrality": 0.2696930695947429,
+        "lead": 0.447527269279441,
+        "density": 0.4640591216641833,
+        "clarity": 0.79692542552948
+      },
+      "importance": 0.4925845241225197
+    },
+    {
+      "start": 162.96,
+      "end": 185.36,
+      "duration": 22.400000000000006,
+      "max_len": 30,
+      "text": "This is the case. Now, speaking about the growth of the world economy over the same period, we see that more than half of that growth has been accounted for by BRICS, whereas the G7 has only accounted for 18%. Why is that? The answer is simple.",
+      "parts": {
+        "centrality": 0.11679099714210965,
+        "lead": 0.39454155104500793,
+        "density": 0.8063835901867459,
+        "clarity": 0.8147907853126526
+      },
+      "importance": 0.4851799333305476
+    },
+    {
+      "start": 165.44,
+      "end": 194.8,
+      "duration": 29.360000000000014,
+      "max_len": 30,
+      "text": "Now, speaking about the growth of the world economy over the same period, we see that more than half of that growth has been accounted for by BRICS, whereas the G7 has only accounted for 18%. Why is that? The answer is simple. The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets.",
+      "parts": {
+        "centrality": 0.10820274454934486,
+        "lead": 0.388996686330925,
+        "density": 0.5979597386435594,
+        "clarity": 0.7838230729103088
+      },
+      "importance": 0.44051118052808225
+    },
+    {
+      "start": 181.20000000000002,
+      "end": 194.8,
+      "duration": 13.599999999999994,
+      "max_len": 30,
+      "text": "Why is that? The answer is simple. The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets.",
+      "parts": {
+        "centrality": 0.2356442962749588,
+        "lead": 0.35553608707149315,
+        "density": 1.0,
+        "clarity": 0.575588047504425
+      },
+      "importance": 0.4762591353618617
+    },
+    {
+      "start": 183.92000000000002,
+      "end": 213.28,
+      "duration": 29.359999999999985,
+      "max_len": 30,
+      "text": "The answer is simple. The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets. Our countries see an explosion of growth of urban settlements, urbanization is happening very fast, and national companies are on the ascendant, demonstrating themselves to be world leaders.",
+      "parts": {
+        "centrality": 0.42784544193348006,
+        "lead": 0.35005959546884313,
+        "density": 0.479812661403122,
+        "clarity": 0.531938910484314
+      },
+      "importance": 0.45131139612624915
+    },
+    {
+      "start": 185.92000000000002,
+      "end": 213.28,
+      "duration": 27.359999999999985,
+      "max_len": 30,
+      "text": "The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets. Our countries see an explosion of growth of urban settlements, urbanization is happening very fast, and national companies are on the ascendant, demonstrating themselves to be world leaders.",
+      "parts": {
+        "centrality": 0.5531196104110032,
+        "lead": 0.34608665463948635,
+        "density": 0.35995656406075177,
+        "clarity": 0.3609394431114197
+      },
+      "importance": 0.42508451211428705
+    },
+    {
+      "start": 195.04,
+      "end": 218.4,
+      "duration": 23.360000000000014,
+      "max_len": 30,
+      "text": "Our countries see an explosion of growth of urban settlements, urbanization is happening very fast, and national companies are on the ascendant, demonstrating themselves to be world leaders. Mohindra, a company from Mindia offers IT and AI based solutions.",
+      "parts": {
+        "centrality": 0.4099106959831772,
+        "lead": 0.3285340014572175,
+        "density": 0.4295041821048068,
+        "clarity": 0.756717324256897
+      },
+      "importance": 0.5006163684783457
+    },
+    {
+      "start": 218.56,
+      "end": 246.56,
+      "duration": 28.0,
+      "max_len": 30,
+      "text": "The Chinese Hue is global technological giant of world renown, whereas Brazil's empire has strong positions in aerospace industry, whereas DPO from the UAE is a company that is working efficiently in logistics, whereas Russia's Ross Atom has been recognized as the world's top one company in peaceful nuclear energy.",
+      "parts": {
+        "centrality": 0.019109642837555195,
+        "lead": 0.28726613496861375,
+        "density": 0.22740587406000135,
+        "clarity": 0.8756807446479797
+      },
+      "importance": 0.3609567064902612
+    },
+    {
+      "start": 246.8,
+      "end": 265.28000000000003,
+      "duration": 18.480000000000018,
+      "max_len": 30,
+      "text": "And there are many other success stories from our business community, but behind eating one of that is uh hard work on a daily basis. I mean great competition and competition is something I would like to dwell on more.",
+      "parts": {
+        "centrality": 0.11350102244910074,
+        "lead": 0.244506102885437,
+        "density": 0.33499744157179556,
+        "clarity": 0.7176059484481812
+      },
+      "importance": 0.3541579792044963
+    },
+    {
+      "start": 260.48,
+      "end": 287.2,
+      "duration": 26.71999999999997,
+      "max_len": 30,
+      "text": "I mean great competition and competition is something I would like to dwell on more. Because uh we have been told for quite some time that competition is sacred sanct, not to be touched by our Western competitors are doing everything to get back their erstwhile competitive edge, and sometimes this competition is taking some ugly forms, and this is something our colleague from Iran has spoken about.",
+      "parts": {
+        "centrality": 0.32116632857846134,
+        "lead": 0.22614287504168826,
+        "density": 0.2790589563368999,
+        "clarity": 0.7235048413276672
+      },
+      "importance": 0.4165470858596343
+    },
+    {
+      "start": 265.68,
+      "end": 287.2,
+      "duration": 21.519999999999982,
+      "max_len": 30,
+      "text": "Because uh we have been told for quite some time that competition is sacred sanct, not to be touched by our Western competitors are doing everything to get back their erstwhile competitive edge, and sometimes this competition is taking some ugly forms, and this is something our colleague from Iran has spoken about.",
+      "parts": {
+        "centrality": 0.21884756999357188,
+        "lead": 0.21953024478140326,
+        "density": 0.269894070520527,
+        "clarity": 0.8404554724693298
+      },
+      "importance": 0.4131234507729088
+    },
+    {
+      "start": 322.56,
+      "end": 339.92,
+      "duration": 17.360000000000014,
+      "max_len": 30,
+      "text": "And I know Kulik can cite hundreds of examples to support that, but you know that more than 30,000 sanctions have been slapped on Russia, which is twice as much as uh the number of all sanctions against all the other countries of the world combined. This is the statistics.",
+      "parts": {
+        "centrality": 0.11699429221564255,
+        "lead": 0.15867681686343404,
+        "density": 0.6487904089104719,
+        "clarity": 0.9079671502113342
+      },
+      "importance": 0.44239207204813275
+    },
+    {
+      "start": 338.40000000000003,
+      "end": 363.44,
+      "duration": 25.039999999999964,
+      "max_len": 30,
+      "text": "This is the statistics. Against this uh difficult backdrop, Russia has been working actively, relying on its business, science, education, engineering schools on our personnel, on Russian citizens. And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners.",
+      "parts": {
+        "centrality": 0.7630085563613249,
+        "lead": 0.14496160237559838,
+        "density": 0.689603478526012,
+        "clarity": 0.8800775408744812
+      },
+      "importance": 0.6635090992428295
+    },
+    {
+      "start": 340.72,
+      "end": 363.44,
+      "duration": 22.71999999999997,
+      "max_len": 30,
+      "text": "Against this uh difficult backdrop, Russia has been working actively, relying on its business, science, education, engineering schools on our personnel, on Russian citizens. And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners.",
+      "parts": {
+        "centrality": 0.7752612003026566,
+        "lead": 0.14305488938849437,
+        "density": 0.5392612521320989,
+        "clarity": 0.636353075504303
+      },
+      "importance": 0.5717475084547344
+    },
+    {
+      "start": 353.44,
+      "end": 380.16,
+      "duration": 26.720000000000027,
+      "max_len": 30,
+      "text": "And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners. Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile.",
+      "parts": {
+        "centrality": 0.8105434789459776,
+        "lead": 0.13303788613310114,
+        "density": 0.6063711938396373,
+        "clarity": 0.23891626298427582
+      },
+      "importance": 0.4729283528289407
+    },
+    {
+      "start": 356.88,
+      "end": 380.16,
+      "duration": 23.28000000000003,
+      "max_len": 30,
+      "text": "We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners. Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile.",
+      "parts": {
+        "centrality": 0.7749469913505049,
+        "lead": 0.13045149655323185,
+        "density": 0.5201758613838529,
+        "clarity": 0.659514844417572
+      },
+      "importance": 0.5732025788161726
+    },
+    {
+      "start": 363.76,
+      "end": 388.24,
+      "duration": 24.480000000000018,
+      "max_len": 30,
+      "text": "Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile. During the last three years, the world grow the economic growth in Russia has been superior to the world average.",
+      "parts": {
+        "centrality": 0.3603495019552922,
+        "lead": 0.1254285858626484,
+        "density": 0.5430136495960999,
+        "clarity": 0.5348554849624634
+      },
+      "importance": 0.3931167357850359
+    },
+    {
+      "start": 371.04,
+      "end": 388.24,
+      "duration": 17.19999999999999,
+      "max_len": 30,
+      "text": "Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile. During the last three years, the world grow the economic growth in Russia has been superior to the world average.",
+      "parts": {
+        "centrality": 0.29892494441841194,
+        "lead": 0.12032408263957374,
+        "density": 0.5755162306306383,
+        "clarity": 0.6797104477882385
+      },
+      "importance": 0.4189291160054262
+    },
+    {
+      "start": 388.56,
+      "end": 413.68,
+      "duration": 25.120000000000005,
+      "max_len": 30,
+      "text": "In 2023, 2024, the GDP rose by 10.3%, whereas the unemployment rate has decreased to a record low of 2.3%. We have greenly large-scale technological innovations such as the implementation of AI, autonomous systems, uh, digital platforms and cutting-edge financial instruments.",
+      "parts": {
+        "centrality": 0.25005472786165095,
+        "lead": 0.1088749749791928,
+        "density": 0.4024513552346346,
+        "clarity": 0.7181992530822754
+      },
+      "importance": 0.3851216289572942
+    },
+    {
+      "start": 413.84000000000003,
+      "end": 436.72,
+      "duration": 22.879999999999995,
+      "max_len": 30,
+      "text": "These innovations are mostly based on our domestic Russian solutions as well as on solutions from our partners in BICS. All of that is yet another testimony that even amid uh very hard restrictions from the outside, we can set forth uh ambitious goals and be successful in achieving them. There's another thing we've got to state and accept.",
+      "parts": {
+        "centrality": 0.7430051113517956,
+        "lead": 0.09424751290970154,
+        "density": 0.512868586357628,
+        "clarity": 0.7714993357658386
+      },
+      "importance": 0.5872813802384644
+    },
+    {
+      "start": 421.6,
+      "end": 436.72,
+      "duration": 15.120000000000005,
+      "max_len": 30,
+      "text": "All of that is yet another testimony that even amid uh very hard restrictions from the outside, we can set forth uh ambitious goals and be successful in achieving them. There's another thing we've got to state and accept.",
+      "parts": {
+        "centrality": 0.39532763762187473,
+        "lead": 0.09016463309827852,
+        "density": 0.47635992122171045,
+        "clarity": 0.6406358480453491
+      },
+      "importance": 0.4200423423841731
+    },
+    {
+      "start": 434.16,
+      "end": 454.64,
+      "duration": 20.47999999999996,
+      "max_len": 30,
+      "text": "There's another thing we've got to state and accept. The countries that initiated the sanctions pressure are facing the problem of industrial decline and uh budget deficit. They cannot follow suit.",
+      "parts": {
+        "centrality": 0.3824930485973063,
+        "lead": 0.08392771905802278,
+        "density": 0.6047105870760258,
+        "clarity": 0.8275495767593384
+      },
+      "importance": 0.4896295719098671
+    },
+    {
+      "start": 439.2,
+      "end": 466.24,
+      "duration": 27.04000000000002,
+      "max_len": 30,
+      "text": "The countries that initiated the sanctions pressure are facing the problem of industrial decline and uh budget deficit. They cannot follow suit. They are facing some very difficult consequences, and this is not just pure speculation, this is what we can judge of based on their statistics.",
+      "parts": {
+        "centrality": 0.12010496084194452,
+        "lead": 0.08154802424649156,
+        "density": 0.5309015692450462,
+        "clarity": 0.9410340785980225
+      },
+      "importance": 0.42029180011014255
+    },
+    {
+      "start": 452.8,
+      "end": 474.72,
+      "duration": 21.920000000000016,
+      "max_len": 30,
+      "text": "They cannot follow suit. They are facing some very difficult consequences, and this is not just pure speculation, this is what we can judge of based on their statistics. I've spoken about their budget deficit, about their growing public debt, as well as industrial decline. All these are facts of life.",
+      "parts": {
+        "centrality": 0.08855490128805915,
+        "lead": 0.07545793818217002,
+        "density": 0.720163989665195,
+        "clarity": 0.6897237300872803
+      },
+      "importance": 0.361027520563218
+    },
+    {
+      "start": 454.88,
+      "end": 474.72,
+      "duration": 19.840000000000032,
+      "max_len": 30,
+      "text": "They are facing some very difficult consequences, and this is not just pure speculation, this is what we can judge of based on their statistics. I've spoken about their budget deficit, about their growing public debt, as well as industrial decline. All these are facts of life.",
+      "parts": {
+        "centrality": 0.1515650851388667,
+        "lead": 0.07456748839645362,
+        "density": 0.6482579565612443,
+        "clarity": 0.7442848086357117
+      },
+      "importance": 0.3884854135527942
+    },
+    {
+      "start": 466.32,
+      "end": 490.96000000000004,
+      "duration": 24.640000000000043,
+      "max_len": 30,
+      "text": "I've spoken about their budget deficit, about their growing public debt, as well as industrial decline. All these are facts of life. In Eurozone, the leading economies, and I'm not going to name them specifically, but they are facing a decline of industrial output of 8% of the last several years, and this is a very big figure for them.",
+      "parts": {
+        "centrality": 0.16112889067588698,
+        "lead": 0.06985455182591797,
+        "density": 0.47613323539040064,
+        "clarity": 0.5539878606796265
+      },
+      "importance": 0.307982365614192
+    },
+    {
+      "start": 472.40000000000003,
+      "end": 490.96000000000004,
+      "duration": 18.560000000000002,
+      "max_len": 30,
+      "text": "All these are facts of life. In Eurozone, the leading economies, and I'm not going to name them specifically, but they are facing a decline of industrial output of 8% of the last several years, and this is a very big figure for them.",
+      "parts": {
+        "centrality": 0.39773481686368856,
+        "lead": 0.06747222380862769,
+        "density": 0.4758333643406926,
+        "clarity": 0.3928025960922241
+      },
+      "importance": 0.34191741414278765
+    },
+    {
+      "start": 474.96000000000004,
+      "end": 490.96000000000004,
+      "duration": 16.0,
+      "max_len": 30,
+      "text": "In Eurozone, the leading economies, and I'm not going to name them specifically, but they are facing a decline of industrial output of 8% of the last several years, and this is a very big figure for them.",
+      "parts": {
+        "centrality": 0.23685512963518177,
+        "lead": 0.06649360713573345,
+        "density": 0.383594922764114,
+        "clarity": 0.5034179091453552
+      },
+      "importance": 0.30476262795768394
+    },
+    {
+      "start": 491.2,
+      "end": 520.72,
+      "duration": 29.52000000000004,
+      "max_len": 30,
+      "text": "Whereas our goal is to tap into the potential of development for our countries for the sake of our nations, to pursue business diplomacy to make sure that our companies and our entrepreneurs find it easier to find partners, uh, pay and invest uh in our countries at the same time, far be it from us, to isolate ourselves either at the government level or at the corporate level.",
+      "parts": {
+        "centrality": 0.718988446612089,
+        "lead": 0.060607722934753,
+        "density": 0.15524478222352586,
+        "clarity": 0.45956116914749146
+      },
+      "importance": 0.4249225689789581
+    },
+    {
+      "start": 521.12,
+      "end": 544.88,
+      "duration": 23.75999999999999,
+      "max_len": 30,
+      "text": "We're not against anyone, and what we are doing is not against anyone either. We are in favor of our interests, and we stand ready to work together with all of our partners, old ones and new ones. We are open to working with the whole world. And I'm confident that the business council is become the mechanism that gives an additional impetus to our trade and economic ties.",
+      "parts": {
+        "centrality": 0.3081917566434732,
+        "lead": 0.051093922833313786,
+        "density": 0.5968303983965759,
+        "clarity": 0.3459196090698242
+      },
+      "importance": 0.311386341872312
+    },
+    {
+      "start": 526.16,
+      "end": 553.52,
+      "duration": 27.360000000000014,
+      "max_len": 30,
+      "text": "We are in favor of our interests, and we stand ready to work together with all of our partners, old ones and new ones. We are open to working with the whole world. And I'm confident that the business council is become the mechanism that gives an additional impetus to our trade and economic ties. It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere.",
+      "parts": {
+        "centrality": 0.3781292130693238,
+        "lead": 0.049645200713472136,
+        "density": 0.49509751769412563,
+        "clarity": 0.14306795597076416
+      },
+      "importance": 0.2594592791623058
+    },
+    {
+      "start": 534.4,
+      "end": 553.52,
+      "duration": 19.120000000000005,
+      "max_len": 30,
+      "text": "We are open to working with the whole world. And I'm confident that the business council is become the mechanism that gives an additional impetus to our trade and economic ties. It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere.",
+      "parts": {
+        "centrality": 0.4758309815483145,
+        "lead": 0.047364600666748254,
+        "density": 0.5696958182956653,
+        "clarity": 0.13747456669807434
+      },
+      "importance": 0.30271050642903186
+    },
+    {
+      "start": 537.12,
+      "end": 566.72,
+      "duration": 29.600000000000023,
+      "max_len": 30,
+      "text": "And I'm confident that the business council is become the mechanism that gives an additional impetus to our trade and economic ties. It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere. In order to intensify these activities, Russia has set up a national committee for business cooperation, which counts more than 40 biggest Russian companies.",
+      "parts": {
+        "centrality": 0.561976916178365,
+        "lead": 0.04663502117468911,
+        "density": 0.35870929634746745,
+        "clarity": 0.14045411348342896
+      },
+      "importance": 0.30196155339451436
+    },
+    {
+      "start": 545.04,
+      "end": 573.2,
+      "duration": 28.160000000000082,
+      "max_len": 30,
+      "text": "It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere. In order to intensify these activities, Russia has set up a national committee for business cooperation, which counts more than 40 biggest Russian companies. This committee seeks to build a substantive program for cooperating with foreign partners.",
+      "parts": {
+        "centrality": 0.5156738055755908,
+        "lead": 0.04457403286149044,
+        "density": 0.4923493516727271,
+        "clarity": 0.6551154255867004
+      },
+      "importance": 0.459787668950674
+    },
+    {
+      "start": 553.6800000000001,
+      "end": 573.2,
+      "duration": 19.519999999999982,
+      "max_len": 30,
+      "text": "In order to intensify these activities, Russia has set up a national committee for business cooperation, which counts more than 40 biggest Russian companies. This committee seeks to build a substantive program for cooperating with foreign partners.",
+      "parts": {
+        "centrality": 0.3116494662351907,
+        "lead": 0.042429421592073455,
+        "density": 0.532241893516279,
+        "clarity": 0.7405498623847961
+      },
+      "importance": 0.4195644402436121
+    },
+    {
+      "start": 566.96,
+      "end": 595.6,
+      "duration": 28.639999999999986,
+      "max_len": 30,
+      "text": "This committee seeks to build a substantive program for cooperating with foreign partners. I would like to reiterate Russia is open to interesting, promising initiatives in tourism industry and trade, together with our partners will stand ready to contribute to world energy and uh food security to building reliable logistics rules such as the Arctic Transport Corridor and the North South Transport Corridor.",
+      "parts": {
+        "centrality": 0.5411619842163624,
+        "lead": 0.039332517426502026,
+        "density": 0.2723067551622485,
+        "clarity": 0.2409754991531372
+      },
+      "importance": 0.3104118609813057
+    },
+    {
+      "start": 573.36,
+      "end": 595.6,
+      "duration": 22.24000000000001,
+      "max_len": 30,
+      "text": "I would like to reiterate Russia is open to interesting, promising initiatives in tourism industry and trade, together with our partners will stand ready to contribute to world energy and uh food security to building reliable logistics rules such as the Arctic Transport Corridor and the North South Transport Corridor.",
+      "parts": {
+        "centrality": 0.5792000823340344,
+        "lead": 0.03792179760286023,
+        "density": 0.10023387241984053,
+        "clarity": 0.056913942098617554
+      },
+      "importance": 0.24241365183004543
+    },
+    {
+      "start": 595.76,
+      "end": 618.24,
+      "duration": 22.480000000000018,
+      "max_len": 30,
+      "text": "We also intend to reinforce our cooperation in personal training and applied research and smart technology, uh unmanned transport and so on and so forth. But in order to be successful in that regard, we need funding, and the NDB is already doing a lot.",
+      "parts": {
+        "centrality": 0.3939703302082086,
+        "lead": 0.033370984459091285,
+        "density": 0.2957031979463445,
+        "clarity": 0.7090191841125488
+      },
+      "importance": 0.40162504739040755
+    },
+    {
+      "start": 609.52,
+      "end": 633.6800000000001,
+      "duration": 24.160000000000082,
+      "max_len": 30,
+      "text": "But in order to be successful in that regard, we need funding, and the NDB is already doing a lot. And based on the NDB, Russia proposes that a new investment platform should be set up which will be trying to secure funding from private sectors and make our economy more competitive.",
+      "parts": {
+        "centrality": 0.5105047860890853,
+        "lead": 0.0308506230253472,
+        "density": 0.2805102996949386,
+        "clarity": 0.6491338610649109
+      },
+      "importance": 0.42166350300996336
+    },
+    {
+      "start": 618.48,
+      "end": 633.6800000000001,
+      "duration": 15.200000000000045,
+      "max_len": 30,
+      "text": "And based on the NDB, Russia proposes that a new investment platform should be set up which will be trying to secure funding from private sectors and make our economy more competitive.",
+      "parts": {
+        "centrality": 0.394939297934904,
+        "lead": 0.029312710586184166,
+        "density": 0.34710750553630676,
+        "clarity": 0.7080106735229492
+      },
+      "importance": 0.40856062428178397
+    },
+    {
+      "start": 633.84,
+      "end": 657.52,
+      "duration": 23.67999999999995,
+      "max_len": 30,
+      "text": "We're hopeful that this idea will be supported by our partners and other BRICS members, uh, distinguished friends through the combined efforts of the government, private sector, academia, and the rest, because building a resilient and viable platform for global growth. The most important elements of these growth are not being imposed on anyone from the outside.",
+      "parts": {
+        "centrality": 0.9772206035652933,
+        "lead": 0.026852528946474354,
+        "density": 0.32626542947955495,
+        "clarity": 0.2821962237358093
+      },
+      "importance": 0.4809963985798235
+    },
+    {
+      "start": 650.5600000000001,
+      "end": 675.92,
+      "duration": 25.3599999999999,
+      "max_len": 30,
+      "text": "The most important elements of these growth are not being imposed on anyone from the outside. It's not been imposed on us by the so-called golden billion, nor are we trying to impose anything on anyone else. Our approaches are based on innovative and cutting edge solutions. We prioritize national interests of our respective countries and pursuing these goals.",
+      "parts": {
+        "centrality": 0.7521749327296507,
+        "lead": 0.024408638524711028,
+        "density": 0.6506398428053151,
+        "clarity": 0.6203916668891907
+      },
+      "importance": 0.5518564306478744
+    },
+    {
+      "start": 659.04,
+      "end": 675.92,
+      "duration": 16.879999999999995,
+      "max_len": 30,
+      "text": "It's not been imposed on us by the so-called golden billion, nor are we trying to impose anything on anyone else. Our approaches are based on innovative and cutting edge solutions. We prioritize national interests of our respective countries and pursuing these goals.",
+      "parts": {
+        "centrality": 0.6048673788924398,
+        "lead": 0.023255480059604244,
+        "density": 0.8141471554196389,
+        "clarity": 0.7019174695014954
+      },
+      "importance": 0.5490519927876691
+    },
+    {
+      "start": 671.28,
+      "end": 700.88,
+      "duration": 29.600000000000023,
+      "max_len": 30,
+      "text": "We prioritize national interests of our respective countries and pursuing these goals. Yes, this work is very difficult, very meticulous and assiduous, but the BRICS countries have shown they are ready to work hard, to cooperate on an equal footing, to see a shared future, and they are up to any challenges that might arise, and that means that our endeavors will be met with success. I would like to wish you all the best. Thank you.",
+      "parts": {
+        "centrality": 0.7840347797324689,
+        "lead": 0.021686409334040337,
+        "density": 0.4463059133882668,
+        "clarity": 0.14541850984096527
+      },
+      "importance": 0.38932089473370174
+    },
+    {
+      "start": 676.16,
+      "end": 700.88,
+      "duration": 24.720000000000027,
+      "max_len": 30,
+      "text": "Yes, this work is very difficult, very meticulous and assiduous, but the BRICS countries have shown they are ready to work hard, to cooperate on an equal footing, to see a shared future, and they are up to any challenges that might arise, and that means that our endeavors will be met with success. I would like to wish you all the best. Thank you.",
+      "parts": {
+        "centrality": 0.5706009170950272,
+        "lead": 0.021090760727996618,
+        "density": 0.3890589320544944,
+        "clarity": 0.11951085180044174
+      },
+      "importance": 0.2981405684771655
+    },
+    {
+      "start": 16.16,
+      "end": 52.96,
+      "duration": 36.8,
+      "max_len": 45,
+      "text": "Thank you very much. I thank you, dear friends. Excellency, Honourable Prime Minister, colleagues, excellencies, heads of state, friends in the audience, representing the business communities of our countries, our today's event. As a tradition is a prelude to the BRICS summit. And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space.",
+      "parts": {
+        "centrality": 0.33745439384060144,
+        "lead": 0.911898202926602,
+        "density": 0.4274233440219645,
+        "clarity": 0.19238758087158203
+      },
+      "importance": 0.42231845429430026
+    },
+    {
+      "start": 17.52,
+      "end": 52.96,
+      "duration": 35.44,
+      "max_len": 45,
+      "text": "I thank you, dear friends. Excellency, Honourable Prime Minister, colleagues, excellencies, heads of state, friends in the audience, representing the business communities of our countries, our today's event. As a tradition is a prelude to the BRICS summit. And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space.",
+      "parts": {
+        "centrality": 0.3780817054283548,
+        "lead": 0.9048477461101756,
+        "density": 0.3529995790195305,
+        "clarity": 0.10334072262048721
+      },
+      "importance": 0.39725029976103504
+    },
+    {
+      "start": 20.64,
+      "end": 63.68,
+      "duration": 43.04,
+      "max_len": 45,
+      "text": "Excellency, Honourable Prime Minister, colleagues, excellencies, heads of state, friends in the audience, representing the business communities of our countries, our today's event. As a tradition is a prelude to the BRICS summit. And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space. It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations.",
+      "parts": {
+        "centrality": 0.693851918589025,
+        "lead": 0.8888784563902122,
+        "density": 0.3262917841780122,
+        "clarity": 0.24990463256835938
+      },
+      "importance": 0.5445390201814108
+    },
+    {
+      "start": 36.4,
+      "end": 68.0,
+      "duration": 31.6,
+      "max_len": 45,
+      "text": "As a tradition is a prelude to the BRICS summit. And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space. It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations. It helps build these relations in a stronger, resilient manner.",
+      "parts": {
+        "centrality": 0.7249698937964334,
+        "lead": 0.8124191782915989,
+        "density": 0.31788453557745255,
+        "clarity": 0.20665378868579865
+      },
+      "importance": 0.5259021154294289
+    },
+    {
+      "start": 41.12,
+      "end": 68.0,
+      "duration": 26.880000000000003,
+      "max_len": 45,
+      "text": "And this august assembly shows the growing interest in strengthening business contacts and relationships across the BRICS space. It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations. It helps build these relations in a stronger, resilient manner.",
+      "parts": {
+        "centrality": 0.7501361493730544,
+        "lead": 0.7908267143733323,
+        "density": 0.3009241171286053,
+        "clarity": 0.35616669058799744
+      },
+      "importance": 0.5727016199009255
+    },
+    {
+      "start": 53.120000000000005,
+      "end": 97.633333,
+      "duration": 44.51333299999999,
+      "max_len": 45,
+      "text": "It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations. It helps build these relations in a stronger, resilient manner. It helps overcome the problems the world is facing, and right now the world is undergoing structural, deep, profound shifts, which is explained by the fact that the so-called old leaders, which used to be the vanguard of economic growth in the second half of the 20th century, are being replaced by new engines of growth. Certainly, when I say, oh, this is just a formality, all of us we understand what we're talking about.",
+      "parts": {
+        "centrality": 0.6777038362373046,
+        "lead": 0.7384796453618949,
+        "density": 0.19108703155189682,
+        "clarity": 0.2255018800497055
+      },
+      "importance": 0.4812058905031318
+    },
+    {
+      "start": 64.16,
+      "end": 97.633333,
+      "duration": 33.473333,
+      "max_len": 45,
+      "text": "It helps build these relations in a stronger, resilient manner. It helps overcome the problems the world is facing, and right now the world is undergoing structural, deep, profound shifts, which is explained by the fact that the so-called old leaders, which used to be the vanguard of economic growth in the second half of the 20th century, are being replaced by new engines of growth. Certainly, when I say, oh, this is just a formality, all of us we understand what we're talking about.",
+      "parts": {
+        "centrality": 0.510778542990511,
+        "lead": 0.6933861322060443,
+        "density": 0.16749545989910478,
+        "clarity": 0.032161448150873184
+      },
+      "importance": 0.35222246991801537
+    },
+    {
+      "start": 68.08,
+      "end": 97.633333,
+      "duration": 29.553332999999995,
+      "max_len": 45,
+      "text": "It helps overcome the problems the world is facing, and right now the world is undergoing structural, deep, profound shifts, which is explained by the fact that the so-called old leaders, which used to be the vanguard of economic growth in the second half of the 20th century, are being replaced by new engines of growth. Certainly, when I say, oh, this is just a formality, all of us we understand what we're talking about.",
+      "parts": {
+        "centrality": 0.48591426667628734,
+        "lead": 0.6780460174561551,
+        "density": 0.20869565016797986,
+        "clarity": 0.2934044599533081
+      },
+      "importance": 0.42500488233912104
+    },
+    {
+      "start": 90.08,
+      "end": 128.16,
+      "duration": 38.08,
+      "max_len": 45,
+      "text": "Certainly, when I say, oh, this is just a formality, all of us we understand what we're talking about. And these so-called old leaders are still in possession of great strong suits and well developed infrastructure, technological advantages, scientific advantages, scientific schools, and so on and so forth. That said, this isn't the nature of things. This is in the nature of humanity and in the nature of economy that changes cannot be stopped.",
+      "parts": {
+        "centrality": 0.49621034840598693,
+        "lead": 0.5980406418870037,
+        "density": 0.292517417009775,
+        "clarity": 0.5175708532333374
+      },
+      "importance": 0.4924306188409636
+    },
+    {
+      "start": 97.633333,
+      "end": 140.72,
+      "duration": 43.086667000000006,
+      "max_len": 45,
+      "text": "And these so-called old leaders are still in possession of great strong suits and well developed infrastructure, technological advantages, scientific advantages, scientific schools, and so on and so forth. That said, this isn't the nature of things. This is in the nature of humanity and in the nature of economy that changes cannot be stopped. The world is always changing, and this is attested to by the objective facts over the last five years. And I think these statistics have already been cited by our colleague from Indonesia.",
+      "parts": {
+        "centrality": 0.4925651482628808,
+        "lead": 0.5728082419121064,
+        "density": 0.34627999820739097,
+        "clarity": 0.576780378818512
+      },
+      "importance": 0.5119355636510917
+    },
+    {
+      "start": 115.52,
+      "end": 158.64000000000001,
+      "duration": 43.12000000000002,
+      "max_len": 45,
+      "text": "That said, this isn't the nature of things. This is in the nature of humanity and in the nature of economy that changes cannot be stopped. The world is always changing, and this is attested to by the objective facts over the last five years. And I think these statistics have already been cited by our colleague from Indonesia. Over the last five years, more than 40% of the world GDP have been produced by the BRICS countries, whereas the contribution of the so-called G7, the Great Seven, well, I don't know why they call that that the group of seven, it stands at only 29%.",
+      "parts": {
+        "centrality": 0.5310442678080041,
+        "lead": 0.5172207724048232,
+        "density": 0.3236655298289409,
+        "clarity": 0.5600120425224304
+      },
+      "importance": 0.5058630904448363
+    },
+    {
+      "start": 119.36,
+      "end": 163.76,
+      "duration": 44.39999999999999,
+      "max_len": 45,
+      "text": "This is in the nature of humanity and in the nature of economy that changes cannot be stopped. The world is always changing, and this is attested to by the objective facts over the last five years. And I think these statistics have already been cited by our colleague from Indonesia. Over the last five years, more than 40% of the world GDP have been produced by the BRICS countries, whereas the contribution of the so-called G7, the Great Seven, well, I don't know why they call that that the group of seven, it stands at only 29%. This is the case.",
+      "parts": {
+        "centrality": 0.4421011209075107,
+        "lead": 0.5060090238454124,
+        "density": 0.3861821326266784,
+        "clarity": 0.5151320695877075
+      },
+      "importance": 0.46840413785702517
+    },
+    {
+      "start": 128.32,
+      "end": 163.76,
+      "duration": 35.44,
+      "max_len": 45,
+      "text": "The world is always changing, and this is attested to by the objective facts over the last five years. And I think these statistics have already been cited by our colleague from Indonesia. Over the last five years, more than 40% of the world GDP have been produced by the BRICS countries, whereas the contribution of the so-called G7, the Great Seven, well, I don't know why they call that that the group of seven, it stands at only 29%. This is the case.",
+      "parts": {
+        "centrality": 0.30295547386331856,
+        "lead": 0.48078432833565793,
+        "density": 0.40278449770050656,
+        "clarity": 0.5481898188591003
+      },
+      "importance": 0.42706590183209914
+    },
+    {
+      "start": 135.2,
+      "end": 179.20000000000002,
+      "duration": 44.00000000000003,
+      "max_len": 45,
+      "text": "And I think these statistics have already been cited by our colleague from Indonesia. Over the last five years, more than 40% of the world GDP have been produced by the BRICS countries, whereas the contribution of the so-called G7, the Great Seven, well, I don't know why they call that that the group of seven, it stands at only 29%. This is the case. Now, speaking about the growth of the world economy over the same period, we see that more than half of that growth has been accounted for by BRICS, whereas the G7 has only accounted for 18%.",
+      "parts": {
+        "centrality": 0.19709970085238115,
+        "lead": 0.46227218545903914,
+        "density": 0.3689528081501757,
+        "clarity": 0.7895583510398865
+      },
+      "importance": 0.45364975892463355
+    },
+    {
+      "start": 140.88,
+      "end": 185.36,
+      "duration": 44.48000000000002,
+      "max_len": 45,
+      "text": "Over the last five years, more than 40% of the world GDP have been produced by the BRICS countries, whereas the contribution of the so-called G7, the Great Seven, well, I don't know why they call that that the group of seven, it stands at only 29%. This is the case. Now, speaking about the growth of the world economy over the same period, we see that more than half of that growth has been accounted for by BRICS, whereas the G7 has only accounted for 18%. Why is that? The answer is simple.",
+      "parts": {
+        "centrality": 0.1057082641375919,
+        "lead": 0.447527269279441,
+        "density": 0.4579715752683632,
+        "clarity": 0.7874413132667542
+      },
+      "importance": 0.4314314765743261
+    },
+    {
+      "start": 162.96,
+      "end": 194.8,
+      "duration": 31.840000000000003,
+      "max_len": 45,
+      "text": "This is the case. Now, speaking about the growth of the world economy over the same period, we see that more than half of that growth has been accounted for by BRICS, whereas the G7 has only accounted for 18%. Why is that? The answer is simple. The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets.",
+      "parts": {
+        "centrality": 0.1347264956887051,
+        "lead": 0.39454155104500793,
+        "density": 0.6724209016271117,
+        "clarity": 0.7594038844108582
+      },
+      "importance": 0.45474688426737253
+    },
+    {
+      "start": 165.44,
+      "end": 194.8,
+      "duration": 29.360000000000014,
+      "max_len": 45,
+      "text": "Now, speaking about the growth of the world economy over the same period, we see that more than half of that growth has been accounted for by BRICS, whereas the G7 has only accounted for 18%. Why is that? The answer is simple. The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets.",
+      "parts": {
+        "centrality": 0.10820274454934486,
+        "lead": 0.388996686330925,
+        "density": 0.5979597386435594,
+        "clarity": 0.7829945087432861
+      },
+      "importance": 0.44026261127797545
+    },
+    {
+      "start": 181.20000000000002,
+      "end": 218.4,
+      "duration": 37.19999999999999,
+      "max_len": 45,
+      "text": "Why is that? The answer is simple. The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets. Our countries see an explosion of growth of urban settlements, urbanization is happening very fast, and national companies are on the ascendant, demonstrating themselves to be world leaders. Mohindra, a company from Mindia offers IT and AI based solutions.",
+      "parts": {
+        "centrality": 0.43356291596820246,
+        "lead": 0.35553608707149315,
+        "density": 0.5644737107912505,
+        "clarity": 0.6573185324668884
+      },
+      "importance": 0.5047208543619236
+    },
+    {
+      "start": 183.92000000000002,
+      "end": 218.4,
+      "duration": 34.47999999999999,
+      "max_len": 45,
+      "text": "The answer is simple. The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets. Our countries see an explosion of growth of urban settlements, urbanization is happening very fast, and national companies are on the ascendant, demonstrating themselves to be world leaders. Mohindra, a company from Mindia offers IT and AI based solutions.",
+      "parts": {
+        "centrality": 0.5181812682733907,
+        "lead": 0.35005959546884313,
+        "density": 0.53383797308802,
+        "clarity": 0.6588566303253174
+      },
+      "importance": 0.5291080480502536
+    },
+    {
+      "start": 185.92000000000002,
+      "end": 218.4,
+      "duration": 32.47999999999999,
+      "max_len": 45,
+      "text": "The BRICS countries account for more than half of the world's population, and that is why they have a great dynamic, vibrant domestic markets. Our countries see an explosion of growth of urban settlements, urbanization is happening very fast, and national companies are on the ascendant, demonstrating themselves to be world leaders. Mohindra, a company from Mindia offers IT and AI based solutions.",
+      "parts": {
+        "centrality": 0.6184423345198328,
+        "lead": 0.34608665463948635,
+        "density": 0.43876081166394904,
+        "clarity": 0.6134681701660156
+      },
+      "importance": 0.5355267208092357
+    },
+    {
+      "start": 195.04,
+      "end": 218.4,
+      "duration": 23.360000000000014,
+      "max_len": 45,
+      "text": "Our countries see an explosion of growth of urban settlements, urbanization is happening very fast, and national companies are on the ascendant, demonstrating themselves to be world leaders. Mohindra, a company from Mindia offers IT and AI based solutions.",
+      "parts": {
+        "centrality": 0.4099106959831772,
+        "lead": 0.3285340014572175,
+        "density": 0.4295041821048068,
+        "clarity": 0.7568970918655396
+      },
+      "importance": 0.5006702987609384
+    },
+    {
+      "start": 213.44,
+      "end": 246.56,
+      "duration": 33.120000000000005,
+      "max_len": 45,
+      "text": "Mohindra, a company from Mindia offers IT and AI based solutions. The Chinese Hue is global technological giant of world renown, whereas Brazil's empire has strong positions in aerospace industry, whereas DPO from the UAE is a company that is working efficiently in logistics, whereas Russia's Ross Atom has been recognized as the world's top one company in peaceful nuclear energy.",
+      "parts": {
+        "centrality": 0.14948161637739843,
+        "lead": 0.29578401066075777,
+        "density": 0.32369663107989566,
+        "clarity": 0.8746136426925659
+      },
+      "importance": 0.4224139553339951
+    },
+    {
+      "start": 218.56,
+      "end": 259.44,
+      "duration": 40.879999999999995,
+      "max_len": 45,
+      "text": "The Chinese Hue is global technological giant of world renown, whereas Brazil's empire has strong positions in aerospace industry, whereas DPO from the UAE is a company that is working efficiently in logistics, whereas Russia's Ross Atom has been recognized as the world's top one company in peaceful nuclear energy. And there are many other success stories from our business community, but behind eating one of that is uh hard work on a daily basis.",
+      "parts": {
+        "centrality": 0.18248540974493666,
+        "lead": 0.28726613496861375,
+        "density": 0.2128262582382286,
+        "clarity": 0.6601723432540894
+      },
+      "importance": 0.35129876211641164
+    },
+    {
+      "start": 246.8,
+      "end": 287.2,
+      "duration": 40.39999999999998,
+      "max_len": 45,
+      "text": "And there are many other success stories from our business community, but behind eating one of that is uh hard work on a daily basis. I mean great competition and competition is something I would like to dwell on more. Because uh we have been told for quite some time that competition is sacred sanct, not to be touched by our Western competitors are doing everything to get back their erstwhile competitive edge, and sometimes this competition is taking some ugly forms, and this is something our colleague from Iran has spoken about.",
+      "parts": {
+        "centrality": 0.3925268505190421,
+        "lead": 0.244506102885437,
+        "density": 0.22758897504374975,
+        "clarity": 0.6940953731536865
+      },
+      "importance": 0.4286525764614205
+    },
+    {
+      "start": 260.48,
+      "end": 287.2,
+      "duration": 26.71999999999997,
+      "max_len": 45,
+      "text": "I mean great competition and competition is something I would like to dwell on more. Because uh we have been told for quite some time that competition is sacred sanct, not to be touched by our Western competitors are doing everything to get back their erstwhile competitive edge, and sometimes this competition is taking some ugly forms, and this is something our colleague from Iran has spoken about.",
+      "parts": {
+        "centrality": 0.32116632857846134,
+        "lead": 0.22614287504168826,
+        "density": 0.2790589563368999,
+        "clarity": 0.7235048413276672
+      },
+      "importance": 0.4165470858596343
+    },
+    {
+      "start": 265.68,
+      "end": 287.2,
+      "duration": 21.519999999999982,
+      "max_len": 45,
+      "text": "Because uh we have been told for quite some time that competition is sacred sanct, not to be touched by our Western competitors are doing everything to get back their erstwhile competitive edge, and sometimes this competition is taking some ugly forms, and this is something our colleague from Iran has spoken about.",
+      "parts": {
+        "centrality": 0.21884756999357188,
+        "lead": 0.21953024478140326,
+        "density": 0.269894070520527,
+        "clarity": 0.8402589559555054
+      },
+      "importance": 0.4130644958187615
+    },
+    {
+      "start": 287.36,
+      "end": 321.04,
+      "duration": 33.68000000000001,
+      "max_len": 45,
+      "text": "These ugly forms is something we see even at the state level, at the government level, sometimes there are measures resorted to of a physical nature when uh pipelines are being destroyed, when attempts are undertaken to block international transport corridors, to seize maritime vessels, other illegal restrictions are being applied, and there's also the threat of so-called secondary sanctions against those who do not want to follow someone else's interest and rather looks after their own.",
+      "parts": {
+        "centrality": 0.0,
+        "lead": 0.19398092794542957,
+        "density": 0.19667736652175985,
+        "clarity": 0.894051730632782
+      },
+      "importance": 0.3365133097571845
+    },
+    {
+      "start": 322.56,
+      "end": 363.44,
+      "duration": 40.879999999999995,
+      "max_len": 45,
+      "text": "And I know Kulik can cite hundreds of examples to support that, but you know that more than 30,000 sanctions have been slapped on Russia, which is twice as much as uh the number of all sanctions against all the other countries of the world combined. This is the statistics. Against this uh difficult backdrop, Russia has been working actively, relying on its business, science, education, engineering schools on our personnel, on Russian citizens. And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners.",
+      "parts": {
+        "centrality": 0.5075322188824717,
+        "lead": 0.15867681686343404,
+        "density": 0.5091413906454124,
+        "clarity": 0.7980294227600098
+      },
+      "importance": 0.5251516754063666
+    },
+    {
+      "start": 338.40000000000003,
+      "end": 380.16,
+      "duration": 41.75999999999999,
+      "max_len": 45,
+      "text": "This is the statistics. Against this uh difficult backdrop, Russia has been working actively, relying on its business, science, education, engineering schools on our personnel, on Russian citizens. And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners. Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile.",
+      "parts": {
+        "centrality": 0.6851202964025239,
+        "lead": 0.14496160237559838,
+        "density": 0.574022943455872,
+        "clarity": 0.7379143238067627
+      },
+      "importance": 0.5762621628764126
+    },
+    {
+      "start": 340.72,
+      "end": 380.16,
+      "duration": 39.44,
+      "max_len": 45,
+      "text": "Against this uh difficult backdrop, Russia has been working actively, relying on its business, science, education, engineering schools on our personnel, on Russian citizens. And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners. Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile.",
+      "parts": {
+        "centrality": 0.7508323009436899,
+        "lead": 0.14305488938849437,
+        "density": 0.4807528318467383,
+        "clarity": 0.5616957545280457
+      },
+      "importance": 0.5320239343434148
+    },
+    {
+      "start": 353.44,
+      "end": 388.24,
+      "duration": 34.80000000000001,
+      "max_len": 45,
+      "text": "And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners. Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile. During the last three years, the world grow the economic growth in Russia has been superior to the world average.",
+      "parts": {
+        "centrality": 0.654333275414777,
+        "lead": 0.13303788613310114,
+        "density": 0.5700015595895933,
+        "clarity": 0.23003210127353668
+      },
+      "importance": 0.4101340879422921
+    },
+    {
+      "start": 356.88,
+      "end": 388.24,
+      "duration": 31.360000000000014,
+      "max_len": 45,
+      "text": "We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners. Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile. During the last three years, the world grow the economic growth in Russia has been superior to the world average.",
+      "parts": {
+        "centrality": 0.7026149616707412,
+        "lead": 0.13045149655323185,
+        "density": 0.5021447496111096,
+        "clarity": 0.6377079486846924
+      },
+      "importance": 0.5386396329424799
+    },
+    {
+      "start": 363.76,
+      "end": 388.24,
+      "duration": 24.480000000000018,
+      "max_len": 45,
+      "text": "Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile. During the last three years, the world grow the economic growth in Russia has been superior to the world average.",
+      "parts": {
+        "centrality": 0.3603495019552922,
+        "lead": 0.1254285858626484,
+        "density": 0.5430136495960999,
+        "clarity": 0.5341265201568604
+      },
+      "importance": 0.392898046343355
+    },
+    {
+      "start": 371.04,
+      "end": 413.68,
+      "duration": 42.639999999999986,
+      "max_len": 45,
+      "text": "Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile. During the last three years, the world grow the economic growth in Russia has been superior to the world average. In 2023, 2024, the GDP rose by 10.3%, whereas the unemployment rate has decreased to a record low of 2.3%. We have greenly large-scale technological innovations such as the implementation of AI, autonomous systems, uh, digital platforms and cutting-edge financial instruments.",
+      "parts": {
+        "centrality": 0.41271336457674124,
+        "lead": 0.12032408263957374,
+        "density": 0.395601509925303,
+        "clarity": 0.6825737357139587
+      },
+      "importance": 0.43262684133275725
+    },
+    {
+      "start": 380.32,
+      "end": 421.36,
+      "duration": 41.04000000000002,
+      "max_len": 45,
+      "text": "During the last three years, the world grow the economic growth in Russia has been superior to the world average. In 2023, 2024, the GDP rose by 10.3%, whereas the unemployment rate has decreased to a record low of 2.3%. We have greenly large-scale technological innovations such as the implementation of AI, autonomous systems, uh, digital platforms and cutting-edge financial instruments. These innovations are mostly based on our domestic Russian solutions as well as on solutions from our partners in BICS.",
+      "parts": {
+        "centrality": 0.5523596763045716,
+        "lead": 0.11411729243841973,
+        "density": 0.4284601389174808,
+        "clarity": 0.8919052481651306
+      },
+      "importance": 0.5479899404814452
+    },
+    {
+      "start": 388.56,
+      "end": 421.36,
+      "duration": 32.80000000000001,
+      "max_len": 45,
+      "text": "In 2023, 2024, the GDP rose by 10.3%, whereas the unemployment rate has decreased to a record low of 2.3%. We have greenly large-scale technological innovations such as the implementation of AI, autonomous systems, uh, digital platforms and cutting-edge financial instruments. These innovations are mostly based on our domestic Russian solutions as well as on solutions from our partners in BICS.",
+      "parts": {
+        "centrality": 0.5770969519944225,
+        "lead": 0.1088749749791928,
+        "density": 0.41154085945886454,
+        "clarity": 0.9108630418777466
+      },
+      "importance": 0.5587489696760402
+    },
+    {
+      "start": 413.84000000000003,
+      "end": 454.64,
+      "duration": 40.799999999999955,
+      "max_len": 45,
+      "text": "These innovations are mostly based on our domestic Russian solutions as well as on solutions from our partners in BICS. All of that is yet another testimony that even amid uh very hard restrictions from the outside, we can set forth uh ambitious goals and be successful in achieving them. There's another thing we've got to state and accept. The countries that initiated the sanctions pressure are facing the problem of industrial decline and uh budget deficit. They cannot follow suit.",
+      "parts": {
+        "centrality": 0.7324102488939421,
+        "lead": 0.09424751290970154,
+        "density": 0.4761682114432116,
+        "clarity": 0.7209579944610596
+      },
+      "importance": 0.5629057197496197
+    },
+    {
+      "start": 421.6,
+      "end": 466.24,
+      "duration": 44.639999999999986,
+      "max_len": 45,
+      "text": "All of that is yet another testimony that even amid uh very hard restrictions from the outside, we can set forth uh ambitious goals and be successful in achieving them. There's another thing we've got to state and accept. The countries that initiated the sanctions pressure are facing the problem of industrial decline and uh budget deficit. They cannot follow suit. They are facing some very difficult consequences, and this is not just pure speculation, this is what we can judge of based on their statistics.",
+      "parts": {
+        "centrality": 0.4351010346411607,
+        "lead": 0.09016463309827852,
+        "density": 0.42847088268607153,
+        "clarity": 0.639510989189148
+      },
+      "importance": 0.426442217903717
+    },
+    {
+      "start": 434.16,
+      "end": 474.72,
+      "duration": 40.56,
+      "max_len": 45,
+      "text": "There's another thing we've got to state and accept. The countries that initiated the sanctions pressure are facing the problem of industrial decline and uh budget deficit. They cannot follow suit. They are facing some very difficult consequences, and this is not just pure speculation, this is what we can judge of based on their statistics. I've spoken about their budget deficit, about their growing public debt, as well as industrial decline. All these are facts of life.",
+      "parts": {
+        "centrality": 0.2505670577878241,
+        "lead": 0.08392771905802278,
+        "density": 0.5435642640396802,
+        "clarity": 0.7754347920417786
+      },
+      "importance": 0.41864909125582855
+    },
+    {
+      "start": 439.2,
+      "end": 474.72,
+      "duration": 35.52000000000004,
+      "max_len": 45,
+      "text": "The countries that initiated the sanctions pressure are facing the problem of industrial decline and uh budget deficit. They cannot follow suit. They are facing some very difficult consequences, and this is not just pure speculation, this is what we can judge of based on their statistics. I've spoken about their budget deficit, about their growing public debt, as well as industrial decline. All these are facts of life.",
+      "parts": {
+        "centrality": 0.11127484261565218,
+        "lead": 0.08154802424649156,
+        "density": 0.5581116329727607,
+        "clarity": 0.8568122982978821
+      },
+      "importance": 0.3960162342000553
+    },
+    {
+      "start": 452.8,
+      "end": 490.96000000000004,
+      "duration": 38.160000000000025,
+      "max_len": 45,
+      "text": "They cannot follow suit. They are facing some very difficult consequences, and this is not just pure speculation, this is what we can judge of based on their statistics. I've spoken about their budget deficit, about their growing public debt, as well as industrial decline. All these are facts of life. In Eurozone, the leading economies, and I'm not going to name them specifically, but they are facing a decline of industrial output of 8% of the last several years, and this is a very big figure for them.",
+      "parts": {
+        "centrality": 0.14817360402089622,
+        "lead": 0.07545793818217002,
+        "density": 0.5006966431812152,
+        "clarity": 0.4431183934211731
+      },
+      "importance": 0.27499236354728185
+    },
+    {
+      "start": 454.88,
+      "end": 490.96000000000004,
+      "duration": 36.08000000000004,
+      "max_len": 45,
+      "text": "They are facing some very difficult consequences, and this is not just pure speculation, this is what we can judge of based on their statistics. I've spoken about their budget deficit, about their growing public debt, as well as industrial decline. All these are facts of life. In Eurozone, the leading economies, and I'm not going to name them specifically, but they are facing a decline of industrial output of 8% of the last several years, and this is a very big figure for them.",
+      "parts": {
+        "centrality": 0.09785238181204303,
+        "lead": 0.07456748839645362,
+        "density": 0.4483717209075767,
+        "clarity": 0.565058708190918
+      },
+      "importance": 0.2859352019069177
+    },
+    {
+      "start": 466.32,
+      "end": 490.96000000000004,
+      "duration": 24.640000000000043,
+      "max_len": 45,
+      "text": "I've spoken about their budget deficit, about their growing public debt, as well as industrial decline. All these are facts of life. In Eurozone, the leading economies, and I'm not going to name them specifically, but they are facing a decline of industrial output of 8% of the last several years, and this is a very big figure for them.",
+      "parts": {
+        "centrality": 0.16112889067588698,
+        "lead": 0.06985455182591797,
+        "density": 0.47613323539040064,
+        "clarity": 0.5539879202842712
+      },
+      "importance": 0.3079823834955855
+    },
+    {
+      "start": 472.40000000000003,
+      "end": 490.96000000000004,
+      "duration": 18.560000000000002,
+      "max_len": 45,
+      "text": "All these are facts of life. In Eurozone, the leading economies, and I'm not going to name them specifically, but they are facing a decline of industrial output of 8% of the last several years, and this is a very big figure for them.",
+      "parts": {
+        "centrality": 0.39773481686368856,
+        "lead": 0.06747222380862769,
+        "density": 0.4758333643406926,
+        "clarity": 0.39326852560043335
+      },
+      "importance": 0.3420571929952504
+    },
+    {
+      "start": 474.96000000000004,
+      "end": 490.96000000000004,
+      "duration": 16.0,
+      "max_len": 45,
+      "text": "In Eurozone, the leading economies, and I'm not going to name them specifically, but they are facing a decline of industrial output of 8% of the last several years, and this is a very big figure for them.",
+      "parts": {
+        "centrality": 0.23685512963518177,
+        "lead": 0.06649360713573345,
+        "density": 0.383594922764114,
+        "clarity": 0.501953125
+      },
+      "importance": 0.3043231927140774
+    },
+    {
+      "start": 491.2,
+      "end": 534.16,
+      "duration": 42.95999999999998,
+      "max_len": 45,
+      "text": "Whereas our goal is to tap into the potential of development for our countries for the sake of our nations, to pursue business diplomacy to make sure that our companies and our entrepreneurs find it easier to find partners, uh, pay and invest uh in our countries at the same time, far be it from us, to isolate ourselves either at the government level or at the corporate level. We're not against anyone, and what we are doing is not against anyone either. We are in favor of our interests, and we stand ready to work together with all of our partners, old ones and new ones.",
+      "parts": {
+        "centrality": 0.6405156074830273,
+        "lead": 0.060607722934753,
+        "density": 0.25873078624522305,
+        "clarity": 0.405095636844635
+      },
+      "importance": 0.39664031619618406
+    },
+    {
+      "start": 521.12,
+      "end": 553.52,
+      "duration": 32.39999999999998,
+      "max_len": 45,
+      "text": "We're not against anyone, and what we are doing is not against anyone either. We are in favor of our interests, and we stand ready to work together with all of our partners, old ones and new ones. We are open to working with the whole world. And I'm confident that the business council is become the mechanism that gives an additional impetus to our trade and economic ties. It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere.",
+      "parts": {
+        "centrality": 0.2729677101382905,
+        "lead": 0.051093922833313786,
+        "density": 0.5389110507892263,
+        "clarity": 0.2548333704471588
+      },
+      "importance": 0.263044151867596
+    },
+    {
+      "start": 526.16,
+      "end": 566.72,
+      "duration": 40.56000000000006,
+      "max_len": 45,
+      "text": "We are in favor of our interests, and we stand ready to work together with all of our partners, old ones and new ones. We are open to working with the whole world. And I'm confident that the business council is become the mechanism that gives an additional impetus to our trade and economic ties. It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere. In order to intensify these activities, Russia has set up a national committee for business cooperation, which counts more than 40 biggest Russian companies.",
+      "parts": {
+        "centrality": 0.465360861925956,
+        "lead": 0.049645200713472136,
+        "density": 0.4278269854543702,
+        "clarity": 0.14229147136211395
+      },
+      "importance": 0.27966683104356876
+    },
+    {
+      "start": 534.4,
+      "end": 573.2,
+      "duration": 38.80000000000007,
+      "max_len": 45,
+      "text": "We are open to working with the whole world. And I'm confident that the business council is become the mechanism that gives an additional impetus to our trade and economic ties. It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere. In order to intensify these activities, Russia has set up a national committee for business cooperation, which counts more than 40 biggest Russian companies. This committee seeks to build a substantive program for cooperating with foreign partners.",
+      "parts": {
+        "centrality": 0.5454551697673791,
+        "lead": 0.047364600666748254,
+        "density": 0.47885385119383306,
+        "clarity": 0.15009109675884247
+      },
+      "importance": 0.31723763625865997
+    },
+    {
+      "start": 537.12,
+      "end": 573.2,
+      "duration": 36.08000000000004,
+      "max_len": 45,
+      "text": "And I'm confident that the business council is become the mechanism that gives an additional impetus to our trade and economic ties. It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere. In order to intensify these activities, Russia has set up a national committee for business cooperation, which counts more than 40 biggest Russian companies. This committee seeks to build a substantive program for cooperating with foreign partners.",
+      "parts": {
+        "centrality": 0.5408449530281135,
+        "lead": 0.04663502117468911,
+        "density": 0.401549015256567,
+        "clarity": 0.1528523862361908
+      },
+      "importance": 0.3047108059541198
+    },
+    {
+      "start": 545.04,
+      "end": 573.2,
+      "duration": 28.160000000000082,
+      "max_len": 45,
+      "text": "It'll help implement numerous projects in infrastructure, logistics, finance, technological cooperation and elsewhere. In order to intensify these activities, Russia has set up a national committee for business cooperation, which counts more than 40 biggest Russian companies. This committee seeks to build a substantive program for cooperating with foreign partners.",
+      "parts": {
+        "centrality": 0.5156738055755908,
+        "lead": 0.04457403286149044,
+        "density": 0.4923493516727271,
+        "clarity": 0.6553360223770142
+      },
+      "importance": 0.4598538479877682
+    },
+    {
+      "start": 553.6800000000001,
+      "end": 595.6,
+      "duration": 41.91999999999996,
+      "max_len": 45,
+      "text": "In order to intensify these activities, Russia has set up a national committee for business cooperation, which counts more than 40 biggest Russian companies. This committee seeks to build a substantive program for cooperating with foreign partners. I would like to reiterate Russia is open to interesting, promising initiatives in tourism industry and trade, together with our partners will stand ready to contribute to world energy and uh food security to building reliable logistics rules such as the Arctic Transport Corridor and the North South Transport Corridor.",
+      "parts": {
+        "centrality": 0.5632299890055089,
+        "lead": 0.042429421592073455,
+        "density": 0.26079566297365575,
+        "clarity": 0.3284352123737335
+      },
+      "importance": 0.3432662936285112
+    },
+    {
+      "start": 566.96,
+      "end": 609.36,
+      "duration": 42.39999999999998,
+      "max_len": 45,
+      "text": "This committee seeks to build a substantive program for cooperating with foreign partners. I would like to reiterate Russia is open to interesting, promising initiatives in tourism industry and trade, together with our partners will stand ready to contribute to world energy and uh food security to building reliable logistics rules such as the Arctic Transport Corridor and the North South Transport Corridor. We also intend to reinforce our cooperation in personal training and applied research and smart technology, uh unmanned transport and so on and so forth.",
+      "parts": {
+        "centrality": 0.5310184913849832,
+        "lead": 0.039332517426502026,
+        "density": 0.23121295631481578,
+        "clarity": 0.32263267040252686
+      },
+      "importance": 0.32519472003802496
+    },
+    {
+      "start": 573.36,
+      "end": 618.24,
+      "duration": 44.879999999999995,
+      "max_len": 45,
+      "text": "I would like to reiterate Russia is open to interesting, promising initiatives in tourism industry and trade, together with our partners will stand ready to contribute to world energy and uh food security to building reliable logistics rules such as the Arctic Transport Corridor and the North South Transport Corridor. We also intend to reinforce our cooperation in personal training and applied research and smart technology, uh unmanned transport and so on and so forth. But in order to be successful in that regard, we need funding, and the NDB is already doing a lot.",
+      "parts": {
+        "centrality": 0.5538253575843691,
+        "lead": 0.03792179760286023,
+        "density": 0.15061958026426878,
+        "clarity": 0.10383947193622589
+      },
+      "importance": 0.25516801329560934
+    },
+    {
+      "start": 595.76,
+      "end": 633.6800000000001,
+      "duration": 37.92000000000007,
+      "max_len": 45,
+      "text": "We also intend to reinforce our cooperation in personal training and applied research and smart technology, uh unmanned transport and so on and so forth. But in order to be successful in that regard, we need funding, and the NDB is already doing a lot. And based on the NDB, Russia proposes that a new investment platform should be set up which will be trying to secure funding from private sectors and make our economy more competitive.",
+      "parts": {
+        "centrality": 0.4266856910466159,
+        "lead": 0.033370984459091285,
+        "density": 0.23565466693014017,
+        "clarity": 0.7258430123329163
+      },
+      "importance": 0.4091152924975297
+    },
+    {
+      "start": 609.52,
+      "end": 650.4,
+      "duration": 40.879999999999995,
+      "max_len": 45,
+      "text": "But in order to be successful in that regard, we need funding, and the NDB is already doing a lot. And based on the NDB, Russia proposes that a new investment platform should be set up which will be trying to secure funding from private sectors and make our economy more competitive. We're hopeful that this idea will be supported by our partners and other BRICS members, uh, distinguished friends through the combined efforts of the government, private sector, academia, and the rest, because building a resilient and viable platform for global growth.",
+      "parts": {
+        "centrality": 0.7358610910444898,
+        "lead": 0.0308506230253472,
+        "density": 0.21332667795189858,
+        "clarity": 0.5619361400604248
+      },
+      "importance": 0.46430135018155305
+    },
+    {
+      "start": 618.48,
+      "end": 657.52,
+      "duration": 39.039999999999964,
+      "max_len": 45,
+      "text": "And based on the NDB, Russia proposes that a new investment platform should be set up which will be trying to secure funding from private sectors and make our economy more competitive. We're hopeful that this idea will be supported by our partners and other BRICS members, uh, distinguished friends through the combined efforts of the government, private sector, academia, and the rest, because building a resilient and viable platform for global growth. The most important elements of these growth are not being imposed on anyone from the outside.",
+      "parts": {
+        "centrality": 0.8048721014341758,
+        "lead": 0.029312710586184166,
+        "density": 0.27877206327516746,
+        "clarity": 0.5898345112800598
+      },
+      "importance": 0.5063339404944913
+    },
+    {
+      "start": 633.84,
+      "end": 675.92,
+      "duration": 42.07999999999993,
+      "max_len": 45,
+      "text": "We're hopeful that this idea will be supported by our partners and other BRICS members, uh, distinguished friends through the combined efforts of the government, private sector, academia, and the rest, because building a resilient and viable platform for global growth. The most important elements of these growth are not being imposed on anyone from the outside. It's not been imposed on us by the so-called golden billion, nor are we trying to impose anything on anyone else. Our approaches are based on innovative and cutting edge solutions. We prioritize national interests of our respective countries and pursuing these goals.",
+      "parts": {
+        "centrality": 1.0,
+        "lead": 0.026852528946474354,
+        "density": 0.4249045421885632,
+        "clarity": 0.1932234913110733
+      },
+      "importance": 0.47707323451090133
+    },
+    {
+      "start": 650.5600000000001,
+      "end": 675.92,
+      "duration": 25.3599999999999,
+      "max_len": 45,
+      "text": "The most important elements of these growth are not being imposed on anyone from the outside. It's not been imposed on us by the so-called golden billion, nor are we trying to impose anything on anyone else. Our approaches are based on innovative and cutting edge solutions. We prioritize national interests of our respective countries and pursuing these goals.",
+      "parts": {
+        "centrality": 0.7521749327296507,
+        "lead": 0.024408638524711028,
+        "density": 0.6506398428053151,
+        "clarity": 0.6201616525650024
+      },
+      "importance": 0.551787426350618
+    },
+    {
+      "start": 659.04,
+      "end": 700.88,
+      "duration": 41.84000000000003,
+      "max_len": 45,
+      "text": "It's not been imposed on us by the so-called golden billion, nor are we trying to impose anything on anyone else. Our approaches are based on innovative and cutting edge solutions. We prioritize national interests of our respective countries and pursuing these goals. Yes, this work is very difficult, very meticulous and assiduous, but the BRICS countries have shown they are ready to work hard, to cooperate on an equal footing, to see a shared future, and they are up to any challenges that might arise, and that means that our endeavors will be met with success. I would like to wish you all the best. Thank you.",
+      "parts": {
+        "centrality": 0.8662617573179876,
+        "lead": 0.023255480059604244,
+        "density": 0.4925271725006834,
+        "clarity": 0.18676157295703888
+      },
+      "importance": 0.43775025883543073
+    },
+    {
+      "start": 665.92,
+      "end": 700.88,
+      "duration": 34.960000000000036,
+      "max_len": 45,
+      "text": "Our approaches are based on innovative and cutting edge solutions. We prioritize national interests of our respective countries and pursuing these goals. Yes, this work is very difficult, very meticulous and assiduous, but the BRICS countries have shown they are ready to work hard, to cooperate on an equal footing, to see a shared future, and they are up to any challenges that might arise, and that means that our endeavors will be met with success. I would like to wish you all the best. Thank you.",
+      "parts": {
+        "centrality": 0.8624073354055445,
+        "lead": 0.02236004993812325,
+        "density": 0.4564737614012516,
+        "clarity": 0.15215818583965302
+      },
+      "importance": 0.4204330973416488
+    },
+    {
+      "start": 671.28,
+      "end": 700.88,
+      "duration": 29.600000000000023,
+      "max_len": 45,
+      "text": "We prioritize national interests of our respective countries and pursuing these goals. Yes, this work is very difficult, very meticulous and assiduous, but the BRICS countries have shown they are ready to work hard, to cooperate on an equal footing, to see a shared future, and they are up to any challenges that might arise, and that means that our endeavors will be met with success. I would like to wish you all the best. Thank you.",
+      "parts": {
+        "centrality": 0.7840345915833958,
+        "lead": 0.021686409334040337,
+        "density": 0.4463059133882668,
+        "clarity": 0.14517594873905182
+      },
+      "importance": 0.38924806055095207
+    },
+    {
+      "start": 676.16,
+      "end": 700.88,
+      "duration": 24.720000000000027,
+      "max_len": 45,
+      "text": "Yes, this work is very difficult, very meticulous and assiduous, but the BRICS countries have shown they are ready to work hard, to cooperate on an equal footing, to see a shared future, and they are up to any challenges that might arise, and that means that our endeavors will be met with success. I would like to wish you all the best. Thank you.",
+      "parts": {
+        "centrality": 0.5706009170950272,
+        "lead": 0.021090760727996618,
+        "density": 0.3890589320544944,
+        "clarity": 0.11976800858974457
+      },
+      "importance": 0.29821771551395637
+    }
+  ]
+}

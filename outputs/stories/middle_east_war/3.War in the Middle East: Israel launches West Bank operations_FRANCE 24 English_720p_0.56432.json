@@ -1,0 +1,14 @@
+{
+  "start": 251.04,
+  "end": 292.08,
+  "duration": 41.03999999999999,
+  "max_len": 45,
+  "text": "He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack. Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister. He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank. And he said in the next government, this will be one of the first measures that we must demand and apply.",
+  "parts": {
+    "centrality": 0.8006355073153358,
+    "lead": 0.045635769412048124,
+    "density": 0.5092744986762585,
+    "clarity": 0.6619228720664978
+  },
+  "importance": 0.5643176178641652
+}

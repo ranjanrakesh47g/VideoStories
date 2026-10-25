@@ -1,0 +1,14 @@
+{
+  "start": 79.36,
+  "end": 102.08,
+  "duration": 22.72,
+  "max_len": 30,
+  "text": "And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right. Look, I I think if President Trump's goal of a renewed conflict in a really intense manner is to fundamentally compel Iran to capitulate as he's wanted it to for months. I still think that's a mystery, just as it has been since the war began at the very end of February.",
+  "parts": {
+    "centrality": 0.5261867543920814,
+    "lead": 0.291733211332465,
+    "density": 0.43149881041641575,
+    "clarity": 0.7371581196784973
+  },
+  "importance": 0.528384263769733
+}

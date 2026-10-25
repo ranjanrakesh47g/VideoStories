@@ -1,0 +1,14 @@
+{
+  "start": 536.48,
+  "end": 565.52,
+  "duration": 29.039999999999964,
+  "max_len": 30,
+  "text": "They have been trading fire. Where do things stand there and how does that fighting fit into the larger uh Middle East conflict? Yeah, it is interesting. I mean, the Houthis and Saudi Arabia have been involved in a conflict for many years, but it sort of subsided a few years ago and sort of bubbles along because the Houthis were very ill-equipped. Saudi was much better equipped, and although it was an irritation, it wasn't something that was really causing the Saudis too much problem.",
+  "parts": {
+    "centrality": 0.6289338051628757,
+    "lead": 0.044567502951426044,
+    "density": 0.5391683834904091,
+    "clarity": 0.8951566219329834
+  },
+  "importance": 0.5784625765007481
+}

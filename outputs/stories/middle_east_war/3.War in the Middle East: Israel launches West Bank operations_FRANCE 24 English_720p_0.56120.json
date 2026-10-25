@@ -1,0 +1,14 @@
+{
+  "start": 0.16,
+  "end": 35.68,
+  "duration": 35.52,
+  "max_len": 45,
+  "text": "All political events this Friday and ordered a closure of the West Bank following a shooting there that wounded at least five Israelis. The Israeli army says it's launched offensive counter-terrorism operations in the territory after thwarting a terror attack against Israeli civilians. Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank?",
+  "parts": {
+    "centrality": 0.5727576655419637,
+    "lead": 0.9980343986678772,
+    "density": 0.7213803266702308,
+    "clarity": 0.17638768255710602
+  },
+  "importance": 0.5611954164409292
+}

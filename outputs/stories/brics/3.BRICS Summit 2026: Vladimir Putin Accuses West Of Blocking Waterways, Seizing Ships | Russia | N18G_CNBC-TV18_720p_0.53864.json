@@ -1,0 +1,14 @@
+{
+  "start": 356.88,
+  "end": 388.24,
+  "duration": 31.360000000000014,
+  "max_len": 45,
+  "text": "We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners. Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile. During the last three years, the world grow the economic growth in Russia has been superior to the world average.",
+  "parts": {
+    "centrality": 0.7026149616707412,
+    "lead": 0.13045149655323185,
+    "density": 0.5021447496111096,
+    "clarity": 0.6377079486846924
+  },
+  "importance": 0.5386396329424799
+}

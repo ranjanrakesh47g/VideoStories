@@ -1,0 +1,14 @@
+{
+  "start": 205.68,
+  "end": 240.64000000000001,
+  "duration": 34.96000000000001,
+  "max_len": 45,
+  "text": "Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend.",
+  "parts": {
+    "centrality": 0.804348490237981,
+    "lead": 0.24895544325874652,
+    "density": 0.3728913268463346,
+    "clarity": 0.4863315224647522
+  },
+  "importance": 0.5331462160014184
+}

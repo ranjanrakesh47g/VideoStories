@@ -1,0 +1,14 @@
+{
+  "start": 83.2,
+  "end": 110.8,
+  "duration": 27.599999999999994,
+  "max_len": 30,
+  "text": "Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel. Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans.",
+  "parts": {
+    "centrality": 0.6449346849714662,
+    "lead": 0.3730601383486921,
+    "density": 0.3846644630802254,
+    "clarity": 0.8991214036941528
+  },
+  "importance": 0.6277752579800313
+}

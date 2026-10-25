@@ -1,0 +1,14 @@
+{
+  "start": 76.8,
+  "end": 100.56,
+  "duration": 23.760000000000005,
+  "max_len": 30,
+  "text": "Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation.",
+  "parts": {
+    "centrality": 0.826202311749307,
+    "lead": 0.3535235994189724,
+    "density": 0.6645853562038614,
+    "clarity": 0.7922232151031494
+  },
+  "importance": 0.6972302969575759
+}

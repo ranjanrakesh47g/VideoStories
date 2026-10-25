@@ -1,0 +1,14 @@
+{
+  "start": 126.16,
+  "end": 153.36,
+  "duration": 27.200000000000017,
+  "max_len": 30,
+  "text": "Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+  "parts": {
+    "centrality": 0.6064731599114978,
+    "lead": 0.42618001313582393,
+    "density": 0.6275842364821284,
+    "clarity": 0.6920179724693298
+  },
+  "importance": 0.5992446358093072
+}

@@ -1,0 +1,14 @@
+{
+  "start": 403.6,
+  "end": 431.52,
+  "duration": 27.91999999999996,
+  "max_len": 30,
+  "text": "In short, what I'm saying is that there is no military answer to this predicament. If President Trump decides to revert back to using the military, it isn't going to change the game. All we are going to see is a lot more uproar from the Middle East. And I think that's why the Middle East are looking at where do they get their relationships in the future? Because their America is clearly wavering as a key supporter of its national security. I want to talk a little bit about the American stockpile that you referenced there.",
+  "parts": {
+    "centrality": 0.570304650701017,
+    "lead": 0.09630328850197391,
+    "density": 0.6335023835844659,
+    "clarity": 0.63409024477005
+  },
+  "importance": 0.5041197164144355
+}

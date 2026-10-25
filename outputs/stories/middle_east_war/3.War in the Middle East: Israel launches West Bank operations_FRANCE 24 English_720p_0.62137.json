@@ -1,0 +1,14 @@
+{
+  "start": 245.6,
+  "end": 285.92,
+  "duration": 40.32000000000002,
+  "max_len": 45,
+  "text": "Uh the far right national security minister uh Itamar Ben Kvir, he went even further. He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack. Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister. He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank.",
+  "parts": {
+    "centrality": 0.8909236978682581,
+    "lead": 0.04879305750276146,
+    "density": 0.5265565665536439,
+    "clarity": 0.7360212802886963
+  },
+  "importance": 0.6213717748240981
+}

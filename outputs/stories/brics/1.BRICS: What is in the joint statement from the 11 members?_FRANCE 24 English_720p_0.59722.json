@@ -1,0 +1,14 @@
+{
+  "start": 64.0,
+  "end": 100.56,
+  "duration": 36.56,
+  "max_len": 45,
+  "text": "Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation.",
+  "parts": {
+    "centrality": 0.9296995303356945,
+    "lead": 0.4204186841891733,
+    "density": 0.40899052225154114,
+    "clarity": 0.42131370306015015
+  },
+  "importance": 0.5972212617111039
+}

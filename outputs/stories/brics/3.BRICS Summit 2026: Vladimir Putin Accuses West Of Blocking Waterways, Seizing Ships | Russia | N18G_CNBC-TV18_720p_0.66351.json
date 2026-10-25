@@ -1,0 +1,14 @@
+{
+  "start": 338.40000000000003,
+  "end": 363.44,
+  "duration": 25.039999999999964,
+  "max_len": 30,
+  "text": "This is the statistics. Against this uh difficult backdrop, Russia has been working actively, relying on its business, science, education, engineering schools on our personnel, on Russian citizens. And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners.",
+  "parts": {
+    "centrality": 0.7630085563613249,
+    "lead": 0.14496160237559838,
+    "density": 0.689603478526012,
+    "clarity": 0.8800775408744812
+  },
+  "importance": 0.6635090992428295
+}

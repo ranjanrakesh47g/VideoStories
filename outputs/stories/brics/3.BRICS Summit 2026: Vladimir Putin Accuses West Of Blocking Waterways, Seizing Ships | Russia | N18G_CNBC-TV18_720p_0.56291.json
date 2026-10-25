@@ -1,0 +1,14 @@
+{
+  "start": 413.84000000000003,
+  "end": 454.64,
+  "duration": 40.799999999999955,
+  "max_len": 45,
+  "text": "These innovations are mostly based on our domestic Russian solutions as well as on solutions from our partners in BICS. All of that is yet another testimony that even amid uh very hard restrictions from the outside, we can set forth uh ambitious goals and be successful in achieving them. There's another thing we've got to state and accept. The countries that initiated the sanctions pressure are facing the problem of industrial decline and uh budget deficit. They cannot follow suit.",
+  "parts": {
+    "centrality": 0.7324102488939421,
+    "lead": 0.09424751290970154,
+    "density": 0.4761682114432116,
+    "clarity": 0.7209579944610596
+  },
+  "importance": 0.5629057197496197
+}

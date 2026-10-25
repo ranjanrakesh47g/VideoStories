@@ -1,0 +1,14 @@
+{
+  "start": 36.0,
+  "end": 79.84,
+  "duration": 43.84,
+  "max_len": 45,
+  "text": "Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces. Uh the Israeli emergency services say that five Israelis, all in their 20s, were injured in uh that attack, and that two at least are currently in a critical uh condition, though it is unclear whether uh those who were wounded uh were civilians or uh were Israeli uh soldiers. That we don't know at this point.",
+  "parts": {
+    "centrality": 0.5987372690212948,
+    "lead": 0.6423027431805336,
+    "density": 0.36809356942438837,
+    "clarity": 0.888372004032135
+  },
+  "importance": 0.6597442294168587
+}

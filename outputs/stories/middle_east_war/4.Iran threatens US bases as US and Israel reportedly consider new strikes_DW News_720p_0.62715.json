@@ -1,0 +1,14 @@
+{
+  "start": 546.0,
+  "end": 584.0,
+  "duration": 38.0,
+  "max_len": 45,
+  "text": "Yeah, it is interesting. I mean, the Houthis and Saudi Arabia have been involved in a conflict for many years, but it sort of subsided a few years ago and sort of bubbles along because the Houthis were very ill-equipped. Saudi was much better equipped, and although it was an irritation, it wasn't something that was really causing the Saudis too much problem. But of course, the Houthis as well as Hamas and Hezbollah are all uh proxies of Iran. When Iran got stuck in this stalemate around the Strait of Hormuz, they've been providing a lot of high grade weapons to the Houthis, and they've therefore been able to terrorize the Bab al-Mandab straits.",
+  "parts": {
+    "centrality": 0.888127716133328,
+    "lead": 0.04217399310746206,
+    "density": 0.4222885451349183,
+    "clarity": 0.8150853514671326
+  },
+  "importance": 0.6271483864785347
+}

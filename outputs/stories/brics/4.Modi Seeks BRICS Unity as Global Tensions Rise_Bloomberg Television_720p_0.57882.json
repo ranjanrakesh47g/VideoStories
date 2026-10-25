@@ -1,0 +1,14 @@
+{
+  "start": 33.52,
+  "end": 77.92,
+  "duration": 44.4,
+  "max_len": 45,
+  "text": "So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today. I mean, you have, of course, most notably Iran, uh, whose president is is is here and delivered a very fiery speech last night, uh, essentially a speech of defiance against the US saying that Iran will not surrender in the face of the uh uh the the US Israeli war, which is now in its sixth uh sixth month. Um you have uh at the same time, you have the UAE uh and Saudi Arabia, which have sort of been at odds with uh with Iran throughout this war.",
+  "parts": {
+    "centrality": 0.7153269956189582,
+    "lead": 0.7972324569189289,
+    "density": 0.2597259511453607,
+    "clarity": 0.4335017502307892
+  },
+  "importance": 0.578820357591462
+}

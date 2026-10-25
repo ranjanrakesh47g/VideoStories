@@ -1,0 +1,14 @@
+{
+  "start": 158.48,
+  "end": 188.16,
+  "duration": 29.680000000000007,
+  "max_len": 30,
+  "text": "And so if we're going this fiercely against Iran, shouldn't we be going at least as fiercely against Russia? Could that be next? Or is is that a far cry? Well, from a from a European side, that's absolutely what they want. And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink.",
+  "parts": {
+    "centrality": 0.7291110100460308,
+    "lead": 0.08542593316220634,
+    "density": 0.41721830859118353,
+    "clarity": 0.7858021259307861
+  },
+  "importance": 0.5705974242164654
+}

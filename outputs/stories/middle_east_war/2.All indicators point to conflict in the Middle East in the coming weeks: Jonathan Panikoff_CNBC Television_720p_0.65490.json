@@ -1,0 +1,14 @@
+{
+  "start": 57.120000000000005,
+  "end": 85.04,
+  "duration": 27.92,
+  "max_len": 30,
+  "text": "But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks. Valinasser, the Iranian expert, was warning on social media yesterday that um Washington and Israel want to knock out Iran with bigger blows, but the likelihood of that is low. And he says there will be a lot of devastation before there is an end in sight. I think that's absolutely right.",
+  "parts": {
+    "centrality": 0.8389541533411664,
+    "lead": 0.41202091971234445,
+    "density": 0.43620281296013214,
+    "clarity": 0.7114309072494507
+  },
+  "importance": 0.6548978317307321
+}

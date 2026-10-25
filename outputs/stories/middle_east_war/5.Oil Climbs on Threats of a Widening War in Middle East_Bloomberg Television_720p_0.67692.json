@@ -1,0 +1,14 @@
+{
+  "start": 74.08,
+  "end": 112.16,
+  "duration": 38.08,
+  "max_len": 45,
+  "text": "Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility. But again, just a volatile situation overall, creating an upside in energy markets, creating an upside not just in Brent crude, NY crude, but of course crude products diesel, which is key to President Trump.",
+  "parts": {
+    "centrality": 1.0,
+    "lead": 0.0712229567981701,
+    "density": 0.53913068460841,
+    "clarity": 0.7727022171020508
+  },
+  "importance": 0.6769248591815107
+}

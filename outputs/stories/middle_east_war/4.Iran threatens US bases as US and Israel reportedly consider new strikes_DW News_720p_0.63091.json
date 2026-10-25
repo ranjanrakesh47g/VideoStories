@@ -1,0 +1,14 @@
+{
+  "start": 370.0,
+  "end": 390.64,
+  "duration": 20.639999999999986,
+  "max_len": 30,
+  "text": "And even if America was to return to a military campaign, it looks very unlikely that there would be any difference to the military campaign that was before. And the bad side is that Iran has learnt from that experience. It has been targeting Saudi Arabia and targeting US military facilities in the Middle East.",
+  "parts": {
+    "centrality": 0.7048227131558317,
+    "lead": 0.11701829064623298,
+    "density": 0.6218008765227818,
+    "clarity": 0.8918110728263855
+  },
+  "importance": 0.6309050610601206
+}

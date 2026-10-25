@@ -79,6 +79,9 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Model weights
+models/
+
 # IPython
 profile_default/
 ipython_config.py
@@ -218,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Source videos
+data/

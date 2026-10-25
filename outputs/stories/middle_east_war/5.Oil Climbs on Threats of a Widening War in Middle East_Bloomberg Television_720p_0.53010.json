@@ -1,0 +1,14 @@
+{
+  "start": 64.96000000000001,
+  "end": 91.2,
+  "duration": 26.239999999999995,
+  "max_len": 30,
+  "text": "Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets. Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility.",
+  "parts": {
+    "centrality": 0.48505646721158047,
+    "lead": 0.09859936651164308,
+    "density": 0.7851551176122604,
+    "clarity": 0.7427949905395508
+  },
+  "importance": 0.530101401630086
+}

@@ -1,0 +1,844 @@
+{
+  "clips": [
+    {
+      "start": 0.72,
+      "end": 25.36,
+      "duration": 24.64,
+      "max_len": 30,
+      "text": "Iran's revolutionary guard is threatening to attack U.S. bases across the Middle East if American warships keep escorting ships through the Strait of Hormuz. Shipping through the vital waterway has been disrupted since the war began late February. The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers.",
+      "parts": {
+        "centrality": 0.7285036289342394,
+        "lead": 0.9915034735657126,
+        "density": 0.6871648930488398,
+        "clarity": 0.958304226398468
+      },
+      "importance": 0.8438429667169925
+    },
+    {
+      "start": 10.96,
+      "end": 34.08,
+      "duration": 23.119999999999997,
+      "max_len": 30,
+      "text": "Shipping through the vital waterway has been disrupted since the war began late February. The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers. Neither claim has been independently confirmed.",
+      "parts": {
+        "centrality": 0.4888782136614615,
+        "lead": 0.8781932569080495,
+        "density": 0.522834131580274,
+        "clarity": 0.9405717849731445
+      },
+      "importance": 0.7073426813921059
+    },
+    {
+      "start": 15.84,
+      "end": 34.08,
+      "duration": 18.24,
+      "max_len": 30,
+      "text": "The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers. Neither claim has been independently confirmed.",
+      "parts": {
+        "centrality": 0.3952096042320203,
+        "lead": 0.8288449208699933,
+        "density": 0.4887463396685717,
+        "clarity": 0.9879868626594543
+      },
+      "importance": 0.6738003554033278
+    },
+    {
+      "start": 31.44,
+      "end": 61.2,
+      "duration": 29.76,
+      "max_len": 30,
+      "text": "Neither claim has been independently confirmed. Three hit mines and four were directly attacked by the IRGC.",
+      "parts": {
+        "centrality": 0.31105537163296254,
+        "lead": 0.6889406560607865,
+        "density": 0.2735741302839135,
+        "clarity": 0.9206470847129822
+      },
+      "importance": 0.5638877562401758
+    },
+    {
+      "start": 56.96,
+      "end": 83.12,
+      "duration": 26.160000000000004,
+      "max_len": 30,
+      "text": "Three hit mines and four were directly attacked by the IRGC. This is a this is a major escalation because this is uh probably the highest number in just one day's that is uh acknowledged by the IRGC. Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran.",
+      "parts": {
+        "centrality": 0.7954913241269143,
+        "lead": 0.5091353017344294,
+        "density": 0.43990220491707605,
+        "clarity": 0.8575296401977539
+      },
+      "importance": 0.7034932465881935
+    },
+    {
+      "start": 61.36,
+      "end": 83.12,
+      "duration": 21.760000000000005,
+      "max_len": 30,
+      "text": "This is a this is a major escalation because this is uh probably the highest number in just one day's that is uh acknowledged by the IRGC. Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran.",
+      "parts": {
+        "centrality": 0.887001672666659,
+        "lead": 0.48326673224082123,
+        "density": 0.3604982461176923,
+        "clarity": 0.7450276017189026
+      },
+      "importance": 0.6846869493148194
+    },
+    {
+      "start": 70.32000000000001,
+      "end": 99.84,
+      "duration": 29.519999999999996,
+      "max_len": 30,
+      "text": "Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran. Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel.",
+      "parts": {
+        "centrality": 0.7410347382189862,
+        "lead": 0.43458104055161983,
+        "density": 0.27805365559494233,
+        "clarity": 0.7041601538658142
+      },
+      "importance": 0.5992344609859548
+    },
+    {
+      "start": 83.2,
+      "end": 110.8,
+      "duration": 27.599999999999994,
+      "max_len": 30,
+      "text": "Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel. Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans.",
+      "parts": {
+        "centrality": 0.6449346849714662,
+        "lead": 0.3730601383486921,
+        "density": 0.3846644630802254,
+        "clarity": 0.8991214036941528
+      },
+      "importance": 0.6277752579800313
+    },
+    {
+      "start": 91.92,
+      "end": 117.04,
+      "duration": 25.120000000000005,
+      "max_len": 30,
+      "text": "So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel. Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans. So that's the major new development in the rhetoric or in the threats by the IRGC.",
+      "parts": {
+        "centrality": 0.8759118637789534,
+        "lead": 0.3364325257972975,
+        "density": 0.508734004725213,
+        "clarity": 0.8382830023765564
+      },
+      "importance": 0.701650658903842
+    },
+    {
+      "start": 100.0,
+      "end": 126.32000000000001,
+      "duration": 26.320000000000007,
+      "max_len": 30,
+      "text": "Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans. So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz.",
+      "parts": {
+        "centrality": 0.8405725844725601,
+        "lead": 0.30571103411493883,
+        "density": 0.44425120656385264,
+        "clarity": 0.9329437017440796
+      },
+      "importance": 0.7018634028961855
+    },
+    {
+      "start": 110.96000000000001,
+      "end": 140.28,
+      "duration": 29.319999999999993,
+      "max_len": 30,
+      "text": "So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures.",
+      "parts": {
+        "centrality": 0.9783094491196795,
+        "lead": 0.2684733687221259,
+        "density": 0.5348236629189917,
+        "clarity": 0.9334914684295654
+      },
+      "importance": 0.7563739709030314
+    },
+    {
+      "start": 117.04,
+      "end": 146.72,
+      "duration": 29.679999999999993,
+      "max_len": 30,
+      "text": "It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased.",
+      "parts": {
+        "centrality": 0.8616636666705252,
+        "lead": 0.2498090270887373,
+        "density": 0.5001249611753626,
+        "clarity": 0.9237988591194153
+      },
+      "importance": 0.7037024906645601
+    },
+    {
+      "start": 126.56,
+      "end": 150.12,
+      "duration": 23.560000000000002,
+      "max_len": 30,
+      "text": "The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center.",
+      "parts": {
+        "centrality": 0.9015763002234081,
+        "lead": 0.22315660520441646,
+        "density": 0.703862746681023,
+        "clarity": 0.9438154697418213
+      },
+      "importance": 0.748907079043776
+    },
+    {
+      "start": 135.28,
+      "end": 163.76,
+      "duration": 28.47999999999999,
+      "max_len": 30,
+      "text": "Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+      "parts": {
+        "centrality": 0.7796820197015824,
+        "lead": 0.20124674983929536,
+        "density": 0.8385828206286767,
+        "clarity": 0.8749346137046814
+      },
+      "importance": 0.7014058640691188
+    },
+    {
+      "start": 141.36,
+      "end": 163.76,
+      "duration": 22.399999999999977,
+      "max_len": 30,
+      "text": "The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+      "parts": {
+        "centrality": 0.43304543981293914,
+        "lead": 0.18725602104005504,
+        "density": 0.9134034351514662,
+        "clarity": 0.8428632020950317
+      },
+      "importance": 0.5788865840437691
+    },
+    {
+      "start": 146.88,
+      "end": 163.76,
+      "duration": 16.879999999999995,
+      "max_len": 30,
+      "text": "That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+      "parts": {
+        "centrality": 0.27620530391600784,
+        "lead": 0.17539813225424594,
+        "density": 0.9838663411523151,
+        "clarity": 0.8047130107879639
+      },
+      "importance": 0.5207453372306883
+    },
+    {
+      "start": 150.56,
+      "end": 163.76,
+      "duration": 13.199999999999989,
+      "max_len": 30,
+      "text": "The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+      "parts": {
+        "centrality": 0.3052157248029263,
+        "lead": 0.16791303574456623,
+        "density": 1.0,
+        "clarity": 0.8901987671852112
+      },
+      "importance": 0.5574677409855008
+    },
+    {
+      "start": 156.88,
+      "end": 182.32,
+      "duration": 25.439999999999998,
+      "max_len": 30,
+      "text": "The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before. That's correct.",
+      "parts": {
+        "centrality": 0.03330777066524673,
+        "lead": 0.15579591845744328,
+        "density": 0.5119309789168903,
+        "clarity": 0.8636218309402466
+      },
+      "importance": 0.37869309954393254
+    },
+    {
+      "start": 161.28,
+      "end": 182.32,
+      "duration": 21.039999999999992,
+      "max_len": 30,
+      "text": "That's down from 60 the week before. That's correct.",
+      "parts": {
+        "centrality": 0.0,
+        "lead": 0.1478801099686045,
+        "density": 0.4390045920596445,
+        "clarity": 0.900617241859436
+      },
+      "importance": 0.3656118833604984
+    },
+    {
+      "start": 181.68,
+      "end": 199.36,
+      "duration": 17.680000000000007,
+      "max_len": 30,
+      "text": "That's correct. The US President is posting on his social media platform that he believes that the amount of oil that is going through the Strait of Hormuz exceeds pre-war levels, making that claim, even as it's unclear where this data is coming from.",
+      "parts": {
+        "centrality": 0.7585476738936671,
+        "lead": 0.11612165907531051,
+        "density": 0.4233429448616544,
+        "clarity": 0.9511195421218872
+      },
+      "importance": 0.6375533220436598
+    },
+    {
+      "start": 182.48,
+      "end": 199.36,
+      "duration": 16.880000000000024,
+      "max_len": 30,
+      "text": "The US President is posting on his social media platform that he believes that the amount of oil that is going through the Strait of Hormuz exceeds pre-war levels, making that claim, even as it's unclear where this data is coming from.",
+      "parts": {
+        "centrality": 0.7649790482584589,
+        "lead": 0.11502592146398788,
+        "density": 0.190991255557195,
+        "clarity": 0.9244834184646606
+      },
+      "importance": 0.5967415650562355
+    },
+    {
+      "start": 199.6,
+      "end": 228.8,
+      "duration": 29.200000000000017,
+      "max_len": 30,
+      "text": "But what we do know is that the US president, when it comes to any sort of interruption or decrease in oil, is pointing the finger at Iran, saying that it is Iran that is responsible for any interruptions, particularly ahead of the US midterm elections, making the case that Iran may even even be able, even may even be deliberately taking this sort of action.",
+      "parts": {
+        "centrality": 0.719145377304981,
+        "lead": 0.09390332790229823,
+        "density": 0.19438366786048608,
+        "clarity": 0.8849372267723083
+      },
+      "importance": 0.5651202658479684
+    },
+    {
+      "start": 228.96,
+      "end": 258.72,
+      "duration": 29.76000000000002,
+      "max_len": 30,
+      "text": "Now, uh, what is also important to note here is that the US President, as he has said before in his social media post, claims that the United States is in complete control of the Strait of Hormuz and Iran is not able to export its oil. Why is the US President making these claims? Well, he's saying this because he is paying the price right now domestically as well as politically, and that is a real vulnerability ahead of those November 3rd polls. Yeah, can we talk about the elections?",
+      "parts": {
+        "centrality": 0.7393363159661531,
+        "lead": 0.06630836614163711,
+        "density": 0.47342084559666964,
+        "clarity": 0.8566924333572388
+      },
+      "importance": 0.6000502406631532
+    },
+    {
+      "start": 244.16,
+      "end": 266.64,
+      "duration": 22.47999999999999,
+      "max_len": 30,
+      "text": "Why is the US President making these claims? Well, he's saying this because he is paying the price right now domestically as well as politically, and that is a real vulnerability ahead of those November 3rd polls. Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day?",
+      "parts": {
+        "centrality": 0.5114052425656044,
+        "lead": 0.05537778951274269,
+        "density": 0.7516379835150307,
+        "clarity": 0.7086160182952881
+      },
+      "importance": 0.5153978958163511
+    },
+    {
+      "start": 246.64000000000001,
+      "end": 266.64,
+      "duration": 19.99999999999997,
+      "max_len": 30,
+      "text": "Well, he's saying this because he is paying the price right now domestically as well as politically, and that is a real vulnerability ahead of those November 3rd polls. Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day?",
+      "parts": {
+        "centrality": 0.5252935848314021,
+        "lead": 0.05377387482249623,
+        "density": 0.6581404552906734,
+        "clarity": 0.5535053014755249
+      },
+      "importance": 0.45938018839174843
+    },
+    {
+      "start": 257.04,
+      "end": 282.48,
+      "duration": 25.439999999999998,
+      "max_len": 30,
+      "text": "Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election.",
+      "parts": {
+        "centrality": 0.41714382039380016,
+        "lead": 0.04753830445719737,
+        "density": 0.5326909063129887,
+        "clarity": 0.5836780071258545
+      },
+      "importance": 0.41051503611397416
+    },
+    {
+      "start": 258.8,
+      "end": 287.84000000000003,
+      "duration": 29.04000000000002,
+      "max_len": 30,
+      "text": "Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue.",
+      "parts": {
+        "centrality": 0.3656915232263367,
+        "lead": 0.046557018813985794,
+        "density": 0.48153970150090597,
+        "clarity": 0.7977144122123718
+      },
+      "importance": 0.4488487157808624
+    },
+    {
+      "start": 262.88,
+      "end": 289.28000000000003,
+      "duration": 26.400000000000034,
+      "max_len": 30,
+      "text": "How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue. It's a domestic issue.",
+      "parts": {
+        "centrality": 0.5013918149301416,
+        "lead": 0.044359419764831404,
+        "density": 0.5640511691300812,
+        "clarity": 0.7272012233734131
+      },
+      "importance": 0.4871270615600519
+    },
+    {
+      "start": 275.92,
+      "end": 289.28000000000003,
+      "duration": 13.360000000000014,
+      "max_len": 30,
+      "text": "According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue. It's a domestic issue.",
+      "parts": {
+        "centrality": 0.44061903135815905,
+        "lead": 0.038007598184830974,
+        "density": 0.9683949045117776,
+        "clarity": 0.6424325108528137
+      },
+      "importance": 0.49980716954493254
+    },
+    {
+      "start": 323.2,
+      "end": 337.52,
+      "duration": 14.319999999999993,
+      "max_len": 30,
+      "text": "Uh, he's trying to reassure Americans that all of this will come down after the midterm elections, but again, has offered no sort of evidence about why that might be the case. White House correspondent Kimberly Halcott joining us. Thank you very much.",
+      "parts": {
+        "centrality": 0.5321178043500908,
+        "lead": 0.02170328736837552,
+        "density": 0.7037399595653719,
+        "clarity": 0.6684475541114807
+      },
+      "importance": 0.4966771491644568
+    },
+    {
+      "start": 0.72,
+      "end": 34.08,
+      "duration": 33.36,
+      "max_len": 45,
+      "text": "Iran's revolutionary guard is threatening to attack U.S. bases across the Middle East if American warships keep escorting ships through the Strait of Hormuz. Shipping through the vital waterway has been disrupted since the war began late February. The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers. Neither claim has been independently confirmed.",
+      "parts": {
+        "centrality": 0.7747547430807163,
+        "lead": 0.9915034735657126,
+        "density": 0.5874114724345533,
+        "clarity": 0.9360515475273132
+      },
+      "importance": 0.8383920399147702
+    },
+    {
+      "start": 10.96,
+      "end": 34.08,
+      "duration": 23.119999999999997,
+      "max_len": 45,
+      "text": "Shipping through the vital waterway has been disrupted since the war began late February. The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers. Neither claim has been independently confirmed.",
+      "parts": {
+        "centrality": 0.4888782136614615,
+        "lead": 0.8781932569080495,
+        "density": 0.522834131580274,
+        "clarity": 0.9404078125953674
+      },
+      "importance": 0.7072934896787728
+    },
+    {
+      "start": 15.84,
+      "end": 34.08,
+      "duration": 18.24,
+      "max_len": 45,
+      "text": "The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers. Neither claim has been independently confirmed.",
+      "parts": {
+        "centrality": 0.3952096042320203,
+        "lead": 0.8288449208699933,
+        "density": 0.4887463396685717,
+        "clarity": 0.9879519939422607
+      },
+      "importance": 0.6737898947881698
+    },
+    {
+      "start": 31.44,
+      "end": 69.84,
+      "duration": 38.400000000000006,
+      "max_len": 45,
+      "text": "Neither claim has been independently confirmed. Three hit mines and four were directly attacked by the IRGC. This is a this is a major escalation because this is uh probably the highest number in just one day's that is uh acknowledged by the IRGC.",
+      "parts": {
+        "centrality": 0.48259659794649784,
+        "lead": 0.6889406560607865,
+        "density": 0.31202298514045346,
+        "clarity": 0.9518184661865234
+      },
+      "importance": 0.6390459281204566
+    },
+    {
+      "start": 56.96,
+      "end": 99.84,
+      "duration": 42.88,
+      "max_len": 45,
+      "text": "Three hit mines and four were directly attacked by the IRGC. This is a this is a major escalation because this is uh probably the highest number in just one day's that is uh acknowledged by the IRGC. Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran. Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel.",
+      "parts": {
+        "centrality": 0.7277144659621017,
+        "lead": 0.5091353017344294,
+        "density": 0.3937878741928923,
+        "clarity": 0.9059898853302002
+      },
+      "importance": 0.6873922701616153
+    },
+    {
+      "start": 61.36,
+      "end": 99.84,
+      "duration": 38.480000000000004,
+      "max_len": 45,
+      "text": "This is a this is a major escalation because this is uh probably the highest number in just one day's that is uh acknowledged by the IRGC. Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran. Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel.",
+      "parts": {
+        "centrality": 0.891003339545544,
+        "lead": 0.48326673224082123,
+        "density": 0.3436070726417202,
+        "clarity": 0.8034824132919312
+      },
+      "importance": 0.701090300172942
+    },
+    {
+      "start": 70.32000000000001,
+      "end": 110.8,
+      "duration": 40.47999999999999,
+      "max_len": 45,
+      "text": "Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran. Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel. Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans.",
+      "parts": {
+        "centrality": 0.7732454363402748,
+        "lead": 0.43458104055161983,
+        "density": 0.27021527517882077,
+        "clarity": 0.6872103214263916
+      },
+      "importance": 0.6042474985341607
+    },
+    {
+      "start": 83.2,
+      "end": 126.32000000000001,
+      "duration": 43.120000000000005,
+      "max_len": 45,
+      "text": "Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel. Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans. So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz.",
+      "parts": {
+        "centrality": 0.8522663475673986,
+        "lead": 0.3730601383486921,
+        "density": 0.3966640975270528,
+        "clarity": 0.9217106699943542
+      },
+      "importance": 0.7089180649456921
+    },
+    {
+      "start": 91.92,
+      "end": 135.12,
+      "duration": 43.2,
+      "max_len": 45,
+      "text": "So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel. Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans. So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran.",
+      "parts": {
+        "centrality": 0.903408420053479,
+        "lead": 0.3364325257972975,
+        "density": 0.4277683539296052,
+        "clarity": 0.8670357465744019
+      },
+      "importance": 0.7077554292399384
+    },
+    {
+      "start": 100.0,
+      "end": 140.28,
+      "duration": 40.28,
+      "max_len": 45,
+      "text": "Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans. So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures.",
+      "parts": {
+        "centrality": 0.8868443899107525,
+        "lead": 0.30571103411493883,
+        "density": 0.44489989186448076,
+        "clarity": 0.9274947643280029
+      },
+      "importance": 0.7165211563698242
+    },
+    {
+      "start": 110.96000000000001,
+      "end": 150.12,
+      "duration": 39.16,
+      "max_len": 45,
+      "text": "So that's the major new development in the rhetoric or in the threats by the IRGC. It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center.",
+      "parts": {
+        "centrality": 1.0,
+        "lead": 0.2684733687221259,
+        "density": 0.572004433469776,
+        "clarity": 0.9146726131439209
+      },
+      "importance": 0.7638971227080678
+    },
+    {
+      "start": 117.04,
+      "end": 161.12,
+      "duration": 44.08,
+      "max_len": 45,
+      "text": "It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period.",
+      "parts": {
+        "centrality": 0.8604635717510332,
+        "lead": 0.2498090270887373,
+        "density": 0.5725912730881394,
+        "clarity": 0.8553685545921326
+      },
+      "importance": 0.6936233128714697
+    },
+    {
+      "start": 126.56,
+      "end": 163.76,
+      "duration": 37.19999999999999,
+      "max_len": 45,
+      "text": "The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+      "parts": {
+        "centrality": 0.9381745650487909,
+        "lead": 0.22315660520441646,
+        "density": 0.7255491020040947,
+        "clarity": 0.8902941942214966
+      },
+      "importance": 0.7489130423750232
+    },
+    {
+      "start": 135.28,
+      "end": 163.76,
+      "duration": 28.47999999999999,
+      "max_len": 45,
+      "text": "Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+      "parts": {
+        "centrality": 0.7796820197015824,
+        "lead": 0.20124674983929536,
+        "density": 0.8385828206286767,
+        "clarity": 0.8751481771469116
+      },
+      "importance": 0.7014699331017878
+    },
+    {
+      "start": 141.36,
+      "end": 182.32,
+      "duration": 40.95999999999998,
+      "max_len": 45,
+      "text": "The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before. That's correct.",
+      "parts": {
+        "centrality": 0.47367836182847356,
+        "lead": 0.18725602104005504,
+        "density": 0.5811519089772059,
+        "clarity": 0.8683809638023376
+      },
+      "importance": 0.550925706335259
+    },
+    {
+      "start": 146.88,
+      "end": 182.32,
+      "duration": 35.44,
+      "max_len": 45,
+      "text": "That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before. That's correct.",
+      "parts": {
+        "centrality": 0.30398068619847435,
+        "lead": 0.17539813225424594,
+        "density": 0.563024982435787,
+        "clarity": 0.8258707523345947
+      },
+      "importance": 0.47368783968606165
+    },
+    {
+      "start": 150.56,
+      "end": 182.32,
+      "duration": 31.75999999999999,
+      "max_len": 45,
+      "text": "The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before. That's correct.",
+      "parts": {
+        "centrality": 0.35673942863096,
+        "lead": 0.16791303574456623,
+        "density": 0.5209074610128381,
+        "clarity": 0.900617241859436
+      },
+      "importance": 0.5067626988795058
+    },
+    {
+      "start": 156.88,
+      "end": 199.36,
+      "duration": 42.48000000000002,
+      "max_len": 45,
+      "text": "The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before. That's correct. The US President is posting on his social media platform that he believes that the amount of oil that is going through the Strait of Hormuz exceeds pre-war levels, making that claim, even as it's unclear where this data is coming from.",
+      "parts": {
+        "centrality": 0.6546927270833092,
+        "lead": 0.15579591845744328,
+        "density": 0.34896288761368427,
+        "clarity": 0.8891443610191345
+      },
+      "importance": 0.5793893796184397
+    },
+    {
+      "start": 161.28,
+      "end": 199.36,
+      "duration": 38.08000000000001,
+      "max_len": 45,
+      "text": "That's down from 60 the week before. That's correct. The US President is posting on his social media platform that he believes that the amount of oil that is going through the Strait of Hormuz exceeds pre-war levels, making that claim, even as it's unclear where this data is coming from.",
+      "parts": {
+        "centrality": 0.7367477340865156,
+        "lead": 0.1478801099686045,
+        "density": 0.28998486790095596,
+        "clarity": 0.921428382396698
+      },
+      "importance": 0.6073639738281541
+    },
+    {
+      "start": 181.68,
+      "end": 199.36,
+      "duration": 17.680000000000007,
+      "max_len": 45,
+      "text": "That's correct. The US President is posting on his social media platform that he believes that the amount of oil that is going through the Strait of Hormuz exceeds pre-war levels, making that claim, even as it's unclear where this data is coming from.",
+      "parts": {
+        "centrality": 0.7585476738936671,
+        "lead": 0.11612165907531051,
+        "density": 0.4233429448616544,
+        "clarity": 0.9512102603912354
+      },
+      "importance": 0.6375805375244643
+    },
+    {
+      "start": 182.48,
+      "end": 199.36,
+      "duration": 16.880000000000024,
+      "max_len": 45,
+      "text": "The US President is posting on his social media platform that he believes that the amount of oil that is going through the Strait of Hormuz exceeds pre-war levels, making that claim, even as it's unclear where this data is coming from.",
+      "parts": {
+        "centrality": 0.7649790482584589,
+        "lead": 0.11502592146398788,
+        "density": 0.190991255557195,
+        "clarity": 0.9246877431869507
+      },
+      "importance": 0.5968028624729226
+    },
+    {
+      "start": 199.6,
+      "end": 244.0,
+      "duration": 44.400000000000006,
+      "max_len": 45,
+      "text": "But what we do know is that the US president, when it comes to any sort of interruption or decrease in oil, is pointing the finger at Iran, saying that it is Iran that is responsible for any interruptions, particularly ahead of the US midterm elections, making the case that Iran may even even be able, even may even be deliberately taking this sort of action. Now, uh, what is also important to note here is that the US President, as he has said before in his social media post, claims that the United States is in complete control of the Strait of Hormuz and Iran is not able to export its oil.",
+      "parts": {
+        "centrality": 0.7999325724339904,
+        "lead": 0.09390332790229823,
+        "density": 0.17907819330882507,
+        "clarity": 0.8688268065452576
+      },
+      "importance": 0.5862668368922573
+    },
+    {
+      "start": 228.96,
+      "end": 266.64,
+      "duration": 37.67999999999998,
+      "max_len": 45,
+      "text": "Now, uh, what is also important to note here is that the US President, as he has said before in his social media post, claims that the United States is in complete control of the Strait of Hormuz and Iran is not able to export its oil. Why is the US President making these claims? Well, he's saying this because he is paying the price right now domestically as well as politically, and that is a real vulnerability ahead of those November 3rd polls. Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day?",
+      "parts": {
+        "centrality": 0.6841105349060644,
+        "lead": 0.06630836614163711,
+        "density": 0.5124487744930459,
+        "clarity": 0.7962924242019653
+      },
+      "importance": 0.5684554038799965
+    },
+    {
+      "start": 244.16,
+      "end": 287.84000000000003,
+      "duration": 43.680000000000035,
+      "max_len": 45,
+      "text": "Why is the US President making these claims? Well, he's saying this because he is paying the price right now domestically as well as politically, and that is a real vulnerability ahead of those November 3rd polls. Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue.",
+      "parts": {
+        "centrality": 0.503328838162266,
+        "lead": 0.05537778951274269,
+        "density": 0.5252070838930167,
+        "clarity": 0.7819972634315491
+      },
+      "importance": 0.5006208928727589
+    },
+    {
+      "start": 246.64000000000001,
+      "end": 289.28000000000003,
+      "duration": 42.640000000000015,
+      "max_len": 45,
+      "text": "Well, he's saying this because he is paying the price right now domestically as well as politically, and that is a real vulnerability ahead of those November 3rd polls. Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue. It's a domestic issue.",
+      "parts": {
+        "centrality": 0.4984263042748498,
+        "lead": 0.05377387482249623,
+        "density": 0.5241333007153036,
+        "clarity": 0.6638869643211365
+      },
+      "importance": 0.46299006586433317
+    },
+    {
+      "start": 257.04,
+      "end": 289.28000000000003,
+      "duration": 32.24000000000001,
+      "max_len": 45,
+      "text": "Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue. It's a domestic issue.",
+      "parts": {
+        "centrality": 0.40655660732269155,
+        "lead": 0.04753830445719737,
+        "density": 0.5963203330345933,
+        "clarity": 0.5765419602394104
+      },
+      "importance": 0.4142131114813936
+    },
+    {
+      "start": 258.8,
+      "end": 289.28000000000003,
+      "duration": 30.480000000000018,
+      "max_len": 45,
+      "text": "Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue. It's a domestic issue.",
+      "parts": {
+        "centrality": 0.3503086330435588,
+        "lead": 0.046557018813985794,
+        "density": 0.5619676779904726,
+        "clarity": 0.7356416583061218
+      },
+      "importance": 0.4369070745184501
+    },
+    {
+      "start": 262.88,
+      "end": 289.28000000000003,
+      "duration": 26.400000000000034,
+      "max_len": 45,
+      "text": "How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue. It's a domestic issue.",
+      "parts": {
+        "centrality": 0.5013918149301416,
+        "lead": 0.044359419764831404,
+        "density": 0.5640511691300812,
+        "clarity": 0.7279754281044006
+      },
+      "importance": 0.4873593229793482
+    },
+    {
+      "start": 275.92,
+      "end": 289.28000000000003,
+      "duration": 13.360000000000014,
+      "max_len": 45,
+      "text": "According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue. It's a domestic issue.",
+      "parts": {
+        "centrality": 0.44061903135815905,
+        "lead": 0.038007598184830974,
+        "density": 0.9683949045117776,
+        "clarity": 0.6428810358047485
+      },
+      "importance": 0.499941727030513
+    },
+    {
+      "start": 323.2,
+      "end": 337.52,
+      "duration": 14.319999999999993,
+      "max_len": 45,
+      "text": "Uh, he's trying to reassure Americans that all of this will come down after the midterm elections, but again, has offered no sort of evidence about why that might be the case. White House correspondent Kimberly Halcott joining us. Thank you very much.",
+      "parts": {
+        "centrality": 0.5321178043500908,
+        "lead": 0.02170328736837552,
+        "density": 0.7037399595653719,
+        "clarity": 0.6701766848564148
+      },
+      "importance": 0.49719588838793705
+    }
+  ]
+}

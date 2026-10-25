@@ -1,0 +1,14 @@
+{
+  "start": 282.32,
+  "end": 301.04,
+  "duration": 18.720000000000027,
+  "max_len": 30,
+  "text": "I have played Iran in those war games. And the might of America always prevails over the conventional Iranian forces. But Iran has prepared for this day to be able to control the Strait of Hormuz with drones, with anti-ship missiles, with uh fast patrol boats and mines.",
+  "parts": {
+    "centrality": 0.4538719396157892,
+    "lead": 0.19455949430715486,
+    "density": 0.7444315481859749,
+    "clarity": 0.9319905638694763
+  },
+  "importance": 0.5890289791156963
+}

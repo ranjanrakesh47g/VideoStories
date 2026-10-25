@@ -1,0 +1,14 @@
+{
+  "start": 351.68,
+  "end": 379.44,
+  "duration": 27.75999999999999,
+  "max_len": 30,
+  "text": "President Trump claimed within four to six weeks the war would be over, that he would have won, that America's superpower would have devastated Iran. And in many respects it did. But ever since then, it has proven that America's been incapable of actually stopping Iran controlling the Strada Formuz. And even if America was to return to a military campaign, it looks very unlikely that there would be any difference to the military campaign that was before.",
+  "parts": {
+    "centrality": 0.4152916695346372,
+    "lead": 0.13013310144114376,
+    "density": 0.5949414975291654,
+    "clarity": 0.837221086025238
+  },
+  "importance": 0.511786255062298
+}

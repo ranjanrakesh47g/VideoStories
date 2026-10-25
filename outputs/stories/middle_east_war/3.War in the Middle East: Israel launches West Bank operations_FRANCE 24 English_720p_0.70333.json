@@ -1,0 +1,14 @@
+{
+  "start": 152.56,
+  "end": 167.84,
+  "duration": 15.280000000000001,
+  "max_len": 30,
+  "text": "How have uh Israeli political figures been reacting to all of this? Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement.",
+  "parts": {
+    "centrality": 0.78842369499199,
+    "lead": 0.15319475580181113,
+    "density": 0.7996942635753101,
+    "clarity": 0.9226219058036804
+  },
+  "importance": 0.7033279556849594
+}

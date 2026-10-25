@@ -1,0 +1,14 @@
+{
+  "start": 289.84000000000003,
+  "end": 316.72,
+  "duration": 26.879999999999995,
+  "max_len": 30,
+  "text": "Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship.",
+  "parts": {
+    "centrality": 0.8042836032706275,
+    "lead": 0.14093767130725132,
+    "density": 0.3365670358833248,
+    "clarity": 0.7453984022140503
+  },
+  "importance": 0.5837913714528837
+}

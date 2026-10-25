@@ -1,0 +1,14 @@
+{
+  "start": 182.48,
+  "end": 199.36,
+  "duration": 16.880000000000024,
+  "max_len": 30,
+  "text": "The US President is posting on his social media platform that he believes that the amount of oil that is going through the Strait of Hormuz exceeds pre-war levels, making that claim, even as it's unclear where this data is coming from.",
+  "parts": {
+    "centrality": 0.7649790482584589,
+    "lead": 0.11502592146398788,
+    "density": 0.190991255557195,
+    "clarity": 0.9244834184646606
+  },
+  "importance": 0.5967415650562355
+}

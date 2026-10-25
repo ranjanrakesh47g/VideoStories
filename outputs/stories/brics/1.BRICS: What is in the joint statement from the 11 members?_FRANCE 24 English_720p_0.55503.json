@@ -1,0 +1,14 @@
+{
+  "start": 24.88,
+  "end": 52.0,
+  "duration": 27.12,
+  "max_len": 30,
+  "text": "Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved.",
+  "parts": {
+    "centrality": 0.2286201686171851,
+    "lead": 0.7140134304722965,
+    "density": 0.8103671193125385,
+    "clarity": 0.7021728157997131
+  },
+  "importance": 0.5550266577472688
+}

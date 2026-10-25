@@ -1,0 +1,14 @@
+{
+  "start": 13.44,
+  "end": 56.36,
+  "duration": 42.92,
+  "max_len": 45,
+  "text": "New Delhi Declaration. BRICS Nations have expressed deep concern over the escalating tensions in the Gulf. They've called for maximum restraint to avoid a wider regional war, but they've fallen short of naming any country. Ahead of the summit, Iran wanted member states to condemn the US and Israeli aggression. The declaration has also emphasized the need for protecting civilians safeguarding critical infrastructure like nuclear infrastructure under the International Atomic Energy Agency.",
+  "parts": {
+    "centrality": 1.0,
+    "lead": 0.6549647880288956,
+    "density": 0.5038971197007068,
+    "clarity": 0.016094738617539406
+  },
+  "importance": 0.561405947146147
+}

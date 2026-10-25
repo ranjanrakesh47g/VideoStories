@@ -1,0 +1,14 @@
+{
+  "start": 81.68,
+  "end": 110.32000000000001,
+  "duration": 28.64,
+  "max_len": 30,
+  "text": "So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation. Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities.",
+  "parts": {
+    "centrality": 0.3710639147674777,
+    "lead": 0.3309208746469951,
+    "density": 0.4837076727975897,
+    "clarity": 0.8231862783432007
+  },
+  "importance": 0.5155685795206149
+}

@@ -1,0 +1,14 @@
+{
+  "start": 453.12,
+  "end": 496.40000000000003,
+  "duration": 43.28000000000003,
+  "max_len": 45,
+  "text": "Well, there's little doubt that we're hearing already that um supplies of weapons that were being bought by NATO by NATO countries to provide to Ukraine. Um, Pete Hex said that's been very public and saying, well, we're not providing those. I know they NATO's paid for them, but we have to prioritize getting our own stockpiles sorted first. So it's having an impact on the ability of NATO to support Ukraine and stop the Russian aggression. But I think more importantly, things like patriot. We're gonna pick on Patriot for a minute because um the ballistic missile threat from Iran is significant for every one ballistic missile fired, you generally fire two patriots. The system in America, the industry can only actually replace Patriots at two a day.",
+  "parts": {
+    "centrality": 0.48613597078984994,
+    "lead": 0.0722666983991811,
+    "density": 0.5182531337015095,
+    "clarity": 0.8333246111869812
+  },
+  "importance": 0.5123362828676045
+}

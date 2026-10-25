@@ -1,0 +1,14 @@
+{
+  "start": 70.32000000000001,
+  "end": 99.84,
+  "duration": 29.519999999999996,
+  "max_len": 30,
+  "text": "Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran. Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel.",
+  "parts": {
+    "centrality": 0.7410347382189862,
+    "lead": 0.43458104055161983,
+    "density": 0.27805365559494233,
+    "clarity": 0.7041601538658142
+  },
+  "importance": 0.5992344609859548
+}

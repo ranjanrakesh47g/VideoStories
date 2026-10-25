@@ -1,0 +1,14 @@
+{
+  "start": 290.88,
+  "end": 315.76,
+  "duration": 24.879999999999995,
+  "max_len": 30,
+  "text": "But Iran has prepared for this day to be able to control the Strait of Hormuz with drones, with anti-ship missiles, with uh fast patrol boats and mines. They're all very well hidden, they're very well supplied, and even though America has had a very successful military campaign, most analysts believe Iran probably has at least half of its ballistic missiles left and many thousands of drones.",
+  "parts": {
+    "centrality": 0.8293017929277121,
+    "lead": 0.18513833487183962,
+    "density": 0.39775934097426724,
+    "clarity": 0.8514593839645386
+  },
+  "importance": 0.6423850108345688
+}

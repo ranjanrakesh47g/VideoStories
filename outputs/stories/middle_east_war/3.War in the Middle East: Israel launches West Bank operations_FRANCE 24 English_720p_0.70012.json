@@ -1,0 +1,14 @@
+{
+  "start": 145.44,
+  "end": 167.84,
+  "duration": 22.400000000000006,
+  "max_len": 30,
+  "text": "And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday. How have uh Israeli political figures been reacting to all of this? Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement.",
+  "parts": {
+    "centrality": 0.7694607063161039,
+    "lead": 0.16721248394437327,
+    "density": 0.7463830077655169,
+    "clarity": 0.9513686299324036
+  },
+  "importance": 0.7001217841440596
+}

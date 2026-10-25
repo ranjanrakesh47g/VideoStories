@@ -1,0 +1,14 @@
+{
+  "start": 61.36,
+  "end": 99.84,
+  "duration": 38.480000000000004,
+  "max_len": 45,
+  "text": "This is a this is a major escalation because this is uh probably the highest number in just one day's that is uh acknowledged by the IRGC. Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran. Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel.",
+  "parts": {
+    "centrality": 0.891003339545544,
+    "lead": 0.48326673224082123,
+    "density": 0.3436070726417202,
+    "clarity": 0.8034824132919312
+  },
+  "importance": 0.701090300172942
+}

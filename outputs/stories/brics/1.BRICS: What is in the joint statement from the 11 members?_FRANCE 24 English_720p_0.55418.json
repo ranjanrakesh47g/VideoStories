@@ -1,0 +1,14 @@
+{
+  "start": 76.8,
+  "end": 118.32000000000001,
+  "duration": 41.52000000000001,
+  "max_len": 45,
+  "text": "Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation. Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities. So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities.",
+  "parts": {
+    "centrality": 0.6743272636279642,
+    "lead": 0.3535235994189724,
+    "density": 0.5388630182036807,
+    "clarity": 0.5554352402687073
+  },
+  "importance": 0.5541792869647462
+}

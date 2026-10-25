@@ -1,0 +1,14 @@
+{
+  "start": 193.36,
+  "end": 231.68,
+  "duration": 38.31999999999999,
+  "max_len": 45,
+  "text": "What's interesting, this is uh the statement that he posted on X in a Hebrew originally that has been translated. And that line that was equaled in yellow is actually not the same one as the one uh that uh was posted uh in uh the English uh language. So you're seeing uh the English the Hebrew there talking about this full lockdown of uh the occupied West Bank in the English language statement that was sent to foreign reporters to uh the press, uh, he simply speaks of additional measures to prevent terrorist attacks originating from uh the occupied West Bank.",
+  "parts": {
+    "centrality": 0.6974044392814064,
+    "lead": 0.09275748805339094,
+    "density": 0.30672630791285777,
+    "clarity": 0.6855285167694092
+  },
+  "importance": 0.5143105525769218
+}

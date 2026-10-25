@@ -1,0 +1,14 @@
+{
+  "start": 156.88,
+  "end": 199.36,
+  "duration": 42.48000000000002,
+  "max_len": 45,
+  "text": "The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before. That's correct. The US President is posting on his social media platform that he believes that the amount of oil that is going through the Strait of Hormuz exceeds pre-war levels, making that claim, even as it's unclear where this data is coming from.",
+  "parts": {
+    "centrality": 0.6546927270833092,
+    "lead": 0.15579591845744328,
+    "density": 0.34896288761368427,
+    "clarity": 0.8891443610191345
+  },
+  "importance": 0.5793893796184397
+}

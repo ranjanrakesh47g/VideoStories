@@ -1,0 +1,14 @@
+{
+  "start": 244.16,
+  "end": 287.84000000000003,
+  "duration": 43.680000000000035,
+  "max_len": 45,
+  "text": "Why is the US President making these claims? Well, he's saying this because he is paying the price right now domestically as well as politically, and that is a real vulnerability ahead of those November 3rd polls. Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day? According to most polls, and those numbers continue to get higher as we get closer to that November election. The issue for Americans is that the high price of oil isn't a foreign policy issue.",
+  "parts": {
+    "centrality": 0.503328838162266,
+    "lead": 0.05537778951274269,
+    "density": 0.5252070838930167,
+    "clarity": 0.7819972634315491
+  },
+  "importance": 0.5006208928727589
+}

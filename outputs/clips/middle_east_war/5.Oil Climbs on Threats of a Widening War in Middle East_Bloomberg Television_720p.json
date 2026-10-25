@@ -1,0 +1,452 @@
+{
+  "clips": [
+    {
+      "start": 0.16,
+      "end": 26.080000000000002,
+      "duration": 25.92,
+      "max_len": 30,
+      "text": "Crude on track for a third weekly game with mounting attacks on Saudi Arabia fueling concerns of a wider war across the region. Blimberg's a bit about Amal from Dubai. Joins us now for more. Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now.",
+      "parts": {
+        "centrality": 0.7340258944099792,
+        "lead": 0.994310114967866,
+        "density": 0.8319918312638284,
+        "clarity": 0.01863565482199192
+      },
+      "importance": 0.5861605571732378
+    },
+    {
+      "start": 6.4,
+      "end": 31.2,
+      "duration": 24.799999999999997,
+      "max_len": 30,
+      "text": "Blimberg's a bit about Amal from Dubai. Joins us now for more. Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel.",
+      "parts": {
+        "centrality": 0.20794884360796495,
+        "lead": 0.7959289437515428,
+        "density": 0.9020778267473126,
+        "clarity": 0.04023794084787369
+      },
+      "importance": 0.3793509402795553
+    },
+    {
+      "start": 8.56,
+      "end": 31.2,
+      "duration": 22.64,
+      "max_len": 30,
+      "text": "Joins us now for more. Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel.",
+      "parts": {
+        "centrality": 0.12243477481264929,
+        "lead": 0.7369183543236919,
+        "density": 0.7596353906567036,
+        "clarity": 0.04240382835268974
+      },
+      "importance": 0.31690229915347806
+    },
+    {
+      "start": 9.44,
+      "end": 31.2,
+      "duration": 21.759999999999998,
+      "max_len": 30,
+      "text": "Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel.",
+      "parts": {
+        "centrality": 0.12531371514452855,
+        "lead": 0.7141502450381746,
+        "density": 0.6992400355125442,
+        "clarity": 0.03785683959722519
+      },
+      "importance": 0.30293290651426913
+    },
+    {
+      "start": 12.48,
+      "end": 31.2,
+      "duration": 18.72,
+      "max_len": 30,
+      "text": "Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel.",
+      "parts": {
+        "centrality": 0.025977098112953807,
+        "lead": 0.6407739993524971,
+        "density": 0.8681763560952162,
+        "clarity": 0.029035642743110657
+      },
+      "importance": 0.27618393044724887
+    },
+    {
+      "start": 13.44,
+      "end": 42.72,
+      "duration": 29.28,
+      "max_len": 30,
+      "text": "Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date.",
+      "parts": {
+        "centrality": 0.048322884743645586,
+        "lead": 0.6192072402227999,
+        "density": 0.6270703500990911,
+        "clarity": 0.7859664559364319
+      },
+      "importance": 0.47060494700062916
+    },
+    {
+      "start": 17.36,
+      "end": 42.72,
+      "duration": 25.36,
+      "max_len": 30,
+      "text": "We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date.",
+      "parts": {
+        "centrality": 0.2728987067333583,
+        "lead": 0.5384204334409936,
+        "density": 0.7788922991991566,
+        "clarity": 0.6834194660186768
+      },
+      "importance": 0.5250583187303506
+    },
+    {
+      "start": 20.16,
+      "end": 42.72,
+      "duration": 22.56,
+      "max_len": 30,
+      "text": "President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date.",
+      "parts": {
+        "centrality": 0.3006074094625514,
+        "lead": 0.4872524580515816,
+        "density": 0.6946233519464634,
+        "clarity": 0.7377254366874695
+      },
+      "importance": 0.5281742187204196
+    },
+    {
+      "start": 26.16,
+      "end": 53.120000000000005,
+      "duration": 26.960000000000004,
+      "max_len": 30,
+      "text": "But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran.",
+      "parts": {
+        "centrality": 0.4109197404137799,
+        "lead": 0.39339034161096503,
+        "density": 0.4653750294874791,
+        "clarity": 0.5903069376945496
+      },
+      "importance": 0.46939831319850267
+    },
+    {
+      "start": 31.28,
+      "end": 60.56,
+      "duration": 29.28,
+      "max_len": 30,
+      "text": "So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran. The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran.",
+      "parts": {
+        "centrality": 0.4687254093668391,
+        "lead": 0.32773523222309986,
+        "density": 0.3672519632504355,
+        "clarity": 0.7397986054420471
+      },
+      "importance": 0.5066283158431931
+    },
+    {
+      "start": 42.88,
+      "end": 60.56,
+      "duration": 17.68,
+      "max_len": 30,
+      "text": "Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran. The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran.",
+      "parts": {
+        "centrality": 0.19744533042238796,
+        "lead": 0.21669944377673547,
+        "density": 0.43913138476408886,
+        "clarity": 0.6884683966636658
+      },
+      "importance": 0.3848559811168959
+    },
+    {
+      "start": 53.28,
+      "end": 73.92,
+      "duration": 20.64,
+      "max_len": 30,
+      "text": "The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran. Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets.",
+      "parts": {
+        "centrality": 0.06883317653886252,
+        "lead": 0.14954728427948277,
+        "density": 0.4880814466263697,
+        "clarity": 0.9107837677001953
+      },
+      "importance": 0.4004484159485125
+    },
+    {
+      "start": 64.96000000000001,
+      "end": 91.2,
+      "duration": 26.239999999999995,
+      "max_len": 30,
+      "text": "Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets. Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility.",
+      "parts": {
+        "centrality": 0.48505646721158047,
+        "lead": 0.09859936651164308,
+        "density": 0.7851551176122604,
+        "clarity": 0.7427949905395508
+      },
+      "importance": 0.530101401630086
+    },
+    {
+      "start": 74.08,
+      "end": 91.2,
+      "duration": 17.120000000000005,
+      "max_len": 30,
+      "text": "Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility.",
+      "parts": {
+        "centrality": 0.4686590771277353,
+        "lead": 0.0712229567981701,
+        "density": 1.0,
+        "clarity": 0.8493474721908569
+      },
+      "importance": 0.5830795100115984
+    },
+    {
+      "start": 84.24,
+      "end": 112.16,
+      "duration": 27.92,
+      "max_len": 30,
+      "text": "Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility. But again, just a volatile situation overall, creating an upside in energy markets, creating an upside not just in Brent crude, NY crude, but of course crude products diesel, which is key to President Trump.",
+      "parts": {
+        "centrality": 0.40253855599258775,
+        "lead": 0.0495744548765779,
+        "density": 0.6071850483604045,
+        "clarity": 0.7730451226234436
+      },
+      "importance": 0.47379467961381505
+    },
+    {
+      "start": 86.32000000000001,
+      "end": 112.16,
+      "duration": 25.83999999999999,
+      "max_len": 30,
+      "text": "John one in the Damam Airport in the eastern province, two on an Aramco facility. But again, just a volatile situation overall, creating an upside in energy markets, creating an upside not just in Brent crude, NY crude, but of course crude products diesel, which is key to President Trump.",
+      "parts": {
+        "centrality": 0.0,
+        "lead": 0.046030118635960376,
+        "density": 0.439577186689442,
+        "clarity": 0.7640123963356018
+      },
+      "importance": 0.3043463206312889
+    },
+    {
+      "start": 0.16,
+      "end": 42.72,
+      "duration": 42.56,
+      "max_len": 45,
+      "text": "Crude on track for a third weekly game with mounting attacks on Saudi Arabia fueling concerns of a wider war across the region. Blimberg's a bit about Amal from Dubai. Joins us now for more. Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date.",
+      "parts": {
+        "centrality": 0.47154286365059933,
+        "lead": 0.994310114967866,
+        "density": 0.6614051200294068,
+        "clarity": 0.011508148163557053
+      },
+      "importance": 0.46656523772476116
+    },
+    {
+      "start": 6.4,
+      "end": 42.72,
+      "duration": 36.32,
+      "max_len": 45,
+      "text": "Blimberg's a bit about Amal from Dubai. Joins us now for more. Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date.",
+      "parts": {
+        "centrality": 0.3861354110569482,
+        "lead": 0.7959289437515428,
+        "density": 0.6954554736912837,
+        "clarity": 0.023621806874871254
+      },
+      "importance": 0.4057380457363944
+    },
+    {
+      "start": 8.56,
+      "end": 53.120000000000005,
+      "duration": 44.56,
+      "max_len": 45,
+      "text": "Joins us now for more. Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran.",
+      "parts": {
+        "centrality": 0.9142999586256445,
+        "lead": 0.7369183543236919,
+        "density": 0.5079244533823011,
+        "clarity": 0.014475689269602299
+      },
+      "importance": 0.5479200311719398
+    },
+    {
+      "start": 9.44,
+      "end": 53.120000000000005,
+      "duration": 43.68000000000001,
+      "max_len": 45,
+      "text": "Good morning, Gabir. Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran.",
+      "parts": {
+        "centrality": 0.8405336625512408,
+        "lead": 0.7141502450381746,
+        "density": 0.47304350395702954,
+        "clarity": 0.012053780257701874
+      },
+      "importance": 0.5115894905714342
+    },
+    {
+      "start": 12.48,
+      "end": 53.120000000000005,
+      "duration": 40.64,
+      "max_len": 45,
+      "text": "Good morning, John. Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran.",
+      "parts": {
+        "centrality": 0.7934692730289481,
+        "lead": 0.6407739993524971,
+        "density": 0.5335534818767393,
+        "clarity": 0.00932196993380785
+      },
+      "importance": 0.48869865869228446
+    },
+    {
+      "start": 13.44,
+      "end": 53.120000000000005,
+      "duration": 39.68000000000001,
+      "max_len": 45,
+      "text": "Well, let's start by the discrepancy because crude is flowing through the Strait of Hermos. We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran.",
+      "parts": {
+        "centrality": 0.7021173614186255,
+        "lead": 0.6192072402227999,
+        "density": 0.5268286177778856,
+        "clarity": 0.7843189835548401
+      },
+      "importance": 0.6839025122742137
+    },
+    {
+      "start": 17.36,
+      "end": 60.56,
+      "duration": 43.2,
+      "max_len": 45,
+      "text": "We have data to provide uh evidence for that. President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran. The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran.",
+      "parts": {
+        "centrality": 0.8341300269387641,
+        "lead": 0.5384204334409936,
+        "density": 0.5869647584929775,
+        "clarity": 0.7170118689537048
+      },
+      "importance": 0.7027778705768243
+    },
+    {
+      "start": 20.16,
+      "end": 60.56,
+      "duration": 40.400000000000006,
+      "max_len": 45,
+      "text": "President Trump says pre-war uh record levels in the Strait of Hermuz are flowing through the waterway right now. But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran. The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran.",
+      "parts": {
+        "centrality": 0.9085778186203984,
+        "lead": 0.4872524580515816,
+        "density": 0.5269825148520348,
+        "clarity": 0.7181992530822754
+      },
+      "importance": 0.7099598812799436
+    },
+    {
+      "start": 26.16,
+      "end": 60.56,
+      "duration": 34.400000000000006,
+      "max_len": 45,
+      "text": "But then Brent Crude is, as you guys have mentioned, is edging towards $115 a barrel. So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran. The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran.",
+      "parts": {
+        "centrality": 0.4873081286978709,
+        "lead": 0.39339034161096503,
+        "density": 0.45375361865292874,
+        "clarity": 0.6675812602043152
+      },
+      "importance": 0.5175733342256816
+    },
+    {
+      "start": 31.28,
+      "end": 73.92,
+      "duration": 42.64,
+      "max_len": 45,
+      "text": "So that discrepancy is widely perceived by the market is because that risk, that that potential risk of the war escalating even further after that November 3rd key uh date. Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran. The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran. Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets.",
+      "parts": {
+        "centrality": 0.2428701929571518,
+        "lead": 0.32773523222309986,
+        "density": 0.3250915194783038,
+        "clarity": 0.8190264701843262
+      },
+      "importance": 0.4450232829566665
+    },
+    {
+      "start": 42.88,
+      "end": 86.08,
+      "duration": 43.199999999999996,
+      "max_len": 45,
+      "text": "Of course, the midterm elections, there have been so many reports and escalation in the narrative that we could see a return to uh a direct involvement by the United States and Israel hitting Iran. The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran. Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets. Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week.",
+      "parts": {
+        "centrality": 0.48558106738567985,
+        "lead": 0.21669944377673547,
+        "density": 0.4517213474115943,
+        "clarity": 0.7829945087432861
+      },
+      "importance": 0.51594981707506
+    },
+    {
+      "start": 53.28,
+      "end": 91.2,
+      "duration": 37.92,
+      "max_len": 45,
+      "text": "The New York Times reporting earlier this week that there are plans that are being discussed by the United States and Israel to come back to hitting Iran. Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets. Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility.",
+      "parts": {
+        "centrality": 0.685533695868804,
+        "lead": 0.14954728427948277,
+        "density": 0.6313576324223213,
+        "clarity": 0.7631309032440186
+      },
+      "importance": 0.5934891662465317
+    },
+    {
+      "start": 64.96000000000001,
+      "end": 91.2,
+      "duration": 26.239999999999995,
+      "max_len": 45,
+      "text": "Saying that if that were to happen, Iran is more than prepared for the consequences, and the consequences would catch up to the global economy and would hit civilian targets. Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility.",
+      "parts": {
+        "centrality": 0.48505646721158047,
+        "lead": 0.09859936651164308,
+        "density": 0.7851551176122604,
+        "clarity": 0.7416739463806152
+      },
+      "importance": 0.5297650883824053
+    },
+    {
+      "start": 74.08,
+      "end": 112.16,
+      "duration": 38.08,
+      "max_len": 45,
+      "text": "Of course, that is an escalation in the narrative in the context of the wider war, but we're still monitoring the escalations in Saudi Arabia and the Yemen-based houthis that are hitting Saudi Arabia. Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility. But again, just a volatile situation overall, creating an upside in energy markets, creating an upside not just in Brent crude, NY crude, but of course crude products diesel, which is key to President Trump.",
+      "parts": {
+        "centrality": 1.0,
+        "lead": 0.0712229567981701,
+        "density": 0.53913068460841,
+        "clarity": 0.7727022171020508
+      },
+      "importance": 0.6769248591815107
+    },
+    {
+      "start": 84.24,
+      "end": 112.16,
+      "duration": 27.92,
+      "max_len": 45,
+      "text": "Three casualties reported this week. John one in the Damam Airport in the eastern province, two on an Aramco facility. But again, just a volatile situation overall, creating an upside in energy markets, creating an upside not just in Brent crude, NY crude, but of course crude products diesel, which is key to President Trump.",
+      "parts": {
+        "centrality": 0.40253855599258775,
+        "lead": 0.0495744548765779,
+        "density": 0.6071850483604045,
+        "clarity": 0.7727022171020508
+      },
+      "importance": 0.4736918079573972
+    },
+    {
+      "start": 86.32000000000001,
+      "end": 112.16,
+      "duration": 25.83999999999999,
+      "max_len": 45,
+      "text": "John one in the Damam Airport in the eastern province, two on an Aramco facility. But again, just a volatile situation overall, creating an upside in energy markets, creating an upside not just in Brent crude, NY crude, but of course crude products diesel, which is key to President Trump.",
+      "parts": {
+        "centrality": 0.0,
+        "lead": 0.046030118635960376,
+        "density": 0.439577186689442,
+        "clarity": 0.7640123963356018
+      },
+      "importance": 0.3043463206312889
+    }
+  ]
+}

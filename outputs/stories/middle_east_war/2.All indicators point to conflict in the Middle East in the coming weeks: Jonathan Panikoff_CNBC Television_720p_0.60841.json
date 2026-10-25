@@ -1,0 +1,14 @@
+{
+  "start": 241.52,
+  "end": 257.68,
+  "duration": 16.159999999999997,
+  "max_len": 30,
+  "text": "How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+  "parts": {
+    "centrality": 0.7170769515765285,
+    "lead": 0.023537833225554878,
+    "density": 1.0,
+    "clarity": 0.6757645606994629
+  },
+  "importance": 0.6084138679067348
+}

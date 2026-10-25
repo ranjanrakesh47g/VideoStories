@@ -1,0 +1,14 @@
+{
+  "start": 380.32,
+  "end": 421.36,
+  "duration": 41.04000000000002,
+  "max_len": 45,
+  "text": "During the last three years, the world grow the economic growth in Russia has been superior to the world average. In 2023, 2024, the GDP rose by 10.3%, whereas the unemployment rate has decreased to a record low of 2.3%. We have greenly large-scale technological innovations such as the implementation of AI, autonomous systems, uh, digital platforms and cutting-edge financial instruments. These innovations are mostly based on our domestic Russian solutions as well as on solutions from our partners in BICS.",
+  "parts": {
+    "centrality": 0.5523596763045716,
+    "lead": 0.11411729243841973,
+    "density": 0.4284601389174808,
+    "clarity": 0.8919052481651306
+  },
+  "importance": 0.5479899404814452
+}

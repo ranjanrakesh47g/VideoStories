@@ -1,0 +1,14 @@
+{
+  "start": 267.28000000000003,
+  "end": 297.44,
+  "duration": 30.159999999999968,
+  "max_len": 45,
+  "text": "Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister. He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank. And he said in the next government, this will be one of the first measures that we must demand and apply. So using this as a political uh tool to motivate his base on uh the far right.",
+  "parts": {
+    "centrality": 0.41885842400562895,
+    "lead": 0.03737443656100154,
+    "density": 0.6583315702438958,
+    "clarity": 0.8892887234687805
+  },
+  "importance": 0.519611688291389
+}

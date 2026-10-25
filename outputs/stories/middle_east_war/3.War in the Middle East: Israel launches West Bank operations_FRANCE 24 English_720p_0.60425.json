@@ -1,0 +1,14 @@
+{
+  "start": 104.16,
+  "end": 144.4,
+  "duration": 40.24000000000001,
+  "max_len": 45,
+  "text": "Now, authorities are not uh giving for now any details on what that major attack uh would have entailed, what the target was, and they didn't give more indication about the identities of uh the two men, uh, besides saying that they were from uh the Hebron uh area. Uh Hamas has reacted uh to the attack. They called it a natural and legitimate response to the ongoing crimes and brutal attacks against our people, but they stopped short of uh endorsing of claiming actual responsibility uh for uh this attack, even though uh the Israeli authorities, as I was saying, are pointing the finger at Hamas.",
+  "parts": {
+    "centrality": 0.7042844724423115,
+    "lead": 0.2777967033588481,
+    "density": 0.38949163469724124,
+    "clarity": 0.8125700354576111
+  },
+  "importance": 0.6042536618684482
+}

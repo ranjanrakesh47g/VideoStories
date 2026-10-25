@@ -1,0 +1,14 @@
+{
+  "start": 171.76,
+  "end": 207.68,
+  "duration": 35.920000000000016,
+  "max_len": 45,
+  "text": "And I still think that even today, there's quite a bit of frustration and shock at how the US has reacted, not only to President Zelensky, but the decisions it's made, the Starlink decision, the slowing down, whether the US government was involved, whether it was just Elon Musk and Starlink. I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute.",
+  "parts": {
+    "centrality": 0.7133033156168792,
+    "lead": 0.06951221985968402,
+    "density": 0.27268039450635523,
+    "clarity": 0.7367795705795288
+  },
+  "importance": 0.5254945347876565
+}

@@ -1,0 +1,14 @@
+{
+  "start": 47.04,
+  "end": 68.64,
+  "duration": 21.6,
+  "max_len": 30,
+  "text": "My understanding is there's been almost no progress, despite efforts by mediators like the Qataris and the Pakistanis to try and advance some sort of deal. But we're gonna have to wait and see a little bit. But certainly, as Ayman just said, all the indicators are pointing that the base case is we're probably gonna be heading back to some sort of conflict in the coming weeks.",
+  "parts": {
+    "centrality": 0.4266188596459276,
+    "lead": 0.48180875865752115,
+    "density": 0.30230422098445897,
+    "clarity": 0.7254541516304016
+  },
+  "importance": 0.5086602312443682
+}

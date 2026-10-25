@@ -1,0 +1,14 @@
+{
+  "start": 84.4,
+  "end": 104.0,
+  "duration": 19.599999999999994,
+  "max_len": 30,
+  "text": "And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack.",
+  "parts": {
+    "centrality": 0.7859455024454031,
+    "lead": 0.3542065499793527,
+    "density": 0.4532857429762431,
+    "clarity": 0.9545204043388367
+  },
+  "importance": 0.7002712185998491
+}

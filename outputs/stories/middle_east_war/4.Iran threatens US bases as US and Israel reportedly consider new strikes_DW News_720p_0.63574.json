@@ -1,0 +1,14 @@
+{
+  "start": 81.04,
+  "end": 125.60000000000001,
+  "duration": 44.56,
+  "max_len": 45,
+  "text": "The Guardian reports on how Iran will hit AI facilities across the Gulf if the fighting resumes. There have been other clues, including US Secretary of Defense Pete Heggseth's visit to Israel earlier this week, where he met Prime Minister Benjamin Netanyahu. Keep in mind that Israel also has elections happening in just a matter of days. So for both the US and Israel, everything after the election. To dive into all this, we have military analyst Sean Bell joining us. Sean, uh first off, has there been any other verification beyond what Tehran says that Iran did indeed hit seven oil tankers? Great to join you.",
+  "parts": {
+    "centrality": 0.6519976701221109,
+    "lead": 0.6250609805192069,
+    "density": 0.49576775645120724,
+    "clarity": 0.6938879489898682
+  },
+  "importance": 0.6357429288112216
+}

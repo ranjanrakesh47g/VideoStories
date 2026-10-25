@@ -1,0 +1,14 @@
+{
+  "start": 15.200000000000001,
+  "end": 45.04,
+  "duration": 29.839999999999996,
+  "max_len": 30,
+  "text": "It's meant to signal in part that Iran has been building its stockpile back up during the past few months of relative quiet in the Middle East war. Tehran is ready should fighting resume in a big way. That is the message, at least. Another message on Thursday, Iran also claimed that it struck seven oil tankers in the Strait of Hormuz, which, if true, would be the largest single-day hit in the strait since the start of the war in late February.",
+  "parts": {
+    "centrality": 0.6587520121822891,
+    "lead": 0.9156359942742386,
+    "density": 0.42461568077585304,
+    "clarity": 0.7118316888809204
+  },
+  "importance": 0.690932261899303
+}

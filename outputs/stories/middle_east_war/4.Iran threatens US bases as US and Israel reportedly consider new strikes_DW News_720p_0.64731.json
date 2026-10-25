@@ -1,0 +1,14 @@
+{
+  "start": 81.04,
+  "end": 110.72,
+  "duration": 29.679999999999993,
+  "max_len": 30,
+  "text": "The Guardian reports on how Iran will hit AI facilities across the Gulf if the fighting resumes. There have been other clues, including US Secretary of Defense Pete Heggseth's visit to Israel earlier this week, where he met Prime Minister Benjamin Netanyahu. Keep in mind that Israel also has elections happening in just a matter of days. So for both the US and Israel, everything after the election. To dive into all this, we have military analyst Sean Bell joining us.",
+  "parts": {
+    "centrality": 0.6152770723907866,
+    "lead": 0.6250609805192069,
+    "density": 0.6067931042816774,
+    "clarity": 0.7197777032852173
+  },
+  "importance": 0.6473114480684334
+}

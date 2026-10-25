@@ -1,0 +1,14 @@
+{
+  "start": 650.5600000000001,
+  "end": 675.92,
+  "duration": 25.3599999999999,
+  "max_len": 45,
+  "text": "The most important elements of these growth are not being imposed on anyone from the outside. It's not been imposed on us by the so-called golden billion, nor are we trying to impose anything on anyone else. Our approaches are based on innovative and cutting edge solutions. We prioritize national interests of our respective countries and pursuing these goals.",
+  "parts": {
+    "centrality": 0.7521749327296507,
+    "lead": 0.024408638524711028,
+    "density": 0.6506398428053151,
+    "clarity": 0.6201616525650024
+  },
+  "importance": 0.551787426350618
+}

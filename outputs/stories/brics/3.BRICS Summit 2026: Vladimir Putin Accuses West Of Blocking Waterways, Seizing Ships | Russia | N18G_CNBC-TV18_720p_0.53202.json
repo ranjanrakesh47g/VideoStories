@@ -1,0 +1,14 @@
+{
+  "start": 340.72,
+  "end": 380.16,
+  "duration": 39.44,
+  "max_len": 45,
+  "text": "Against this uh difficult backdrop, Russia has been working actively, relying on its business, science, education, engineering schools on our personnel, on Russian citizens. And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners. Over four years, only the geography and the scope of our foreign trade have been transformed entirely. Russian economy has kick started some structural economic changes which have rendered our economy more resilient, more agile, and more mobile.",
+  "parts": {
+    "centrality": 0.7508323009436899,
+    "lead": 0.14305488938849437,
+    "density": 0.4807528318467383,
+    "clarity": 0.5616957545280457
+  },
+  "importance": 0.5320239343434148
+}

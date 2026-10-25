@@ -1,0 +1,14 @@
+{
+  "start": 110.88,
+  "end": 136.96,
+  "duration": 26.080000000000013,
+  "max_len": 30,
+  "text": "Sean, uh first off, has there been any other verification beyond what Tehran says that Iran did indeed hit seven oil tankers? Great to join you. No, there hasn't. And as we've had ever since the 28th of February, when America launched its waves of attack against Iran, this has largely become a war of the narrative.",
+  "parts": {
+    "centrality": 0.49905472635406684,
+    "lead": 0.5257488276279132,
+    "density": 0.5146461540894872,
+    "clarity": 0.6838418841362
+  },
+  "importance": 0.5621684081037891
+}

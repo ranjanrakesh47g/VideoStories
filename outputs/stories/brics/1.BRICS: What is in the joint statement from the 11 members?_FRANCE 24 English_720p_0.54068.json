@@ -1,0 +1,14 @@
+{
+  "start": 61.36,
+  "end": 84.88,
+  "duration": 23.519999999999996,
+  "max_len": 30,
+  "text": "So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points.",
+  "parts": {
+    "centrality": 0.710420195565137,
+    "lead": 0.4357176230535753,
+    "density": 0.4907429685838116,
+    "clarity": 0.43758317828178406
+  },
+  "importance": 0.54067699183062
+}

@@ -1,0 +1,14 @@
+{
+  "start": 379.52,
+  "end": 408.72,
+  "duration": 29.200000000000045,
+  "max_len": 30,
+  "text": "And the bad side is that Iran has learnt from that experience. It has been targeting Saudi Arabia and targeting US military facilities in the Middle East. That has caused a great deal of difficulty for America's allies in the region, and also means that things like patriot missile systems are vital to protect against those ballistic missiles are now running in really short supply. In short, what I'm saying is that there is no military answer to this predicament.",
+  "parts": {
+    "centrality": 0.7976501619801432,
+    "lead": 0.11073379158217593,
+    "density": 0.5784193710738588,
+    "clarity": 0.888275146484375
+  },
+  "importance": 0.6545697646158766
+}

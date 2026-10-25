@@ -1,0 +1,14 @@
+{
+  "start": 125.76,
+  "end": 165.12,
+  "duration": 39.36,
+  "max_len": 45,
+  "text": "No, there hasn't. And as we've had ever since the 28th of February, when America launched its waves of attack against Iran, this has largely become a war of the narrative. And where we find ourselves, you you quoted that it actually had been relatively quiet for a few weeks. Well, part of that is the run-up to the midterm elections. But part of it is both sides have hit a bit of a stalemate. The one thing that's not been widely reported is the US is providing escorts to oil coming through the Strait of Hormuz, but the US blockade of Iranian oil exports remains pretty robust. So the stemate doesn't suit Iran at all.",
+  "parts": {
+    "centrality": 0.46775150071574156,
+    "lead": 0.4822886086311416,
+    "density": 0.5937954334217975,
+    "clarity": 0.8433798551559448
+  },
+  "importance": 0.602254018536791
+}

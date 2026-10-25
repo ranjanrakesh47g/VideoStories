@@ -1,0 +1,14 @@
+{
+  "start": 145.52,
+  "end": 174.72,
+  "duration": 29.19999999999999,
+  "max_len": 30,
+  "text": "But part of it is both sides have hit a bit of a stalemate. The one thing that's not been widely reported is the US is providing escorts to oil coming through the Strait of Hormuz, but the US blockade of Iranian oil exports remains pretty robust. So the stemate doesn't suit Iran at all. And that's why they've been fueling arming the Houthi rebels and trying to cause havoc at the bottom of the Baba Mandab straits and the Red Sea.",
+  "parts": {
+    "centrality": 0.6890408024161389,
+    "lead": 0.43007749555298247,
+    "density": 0.5424373969810711,
+    "clarity": 0.8649961948394775
+  },
+  "importance": 0.668044247955249
+}

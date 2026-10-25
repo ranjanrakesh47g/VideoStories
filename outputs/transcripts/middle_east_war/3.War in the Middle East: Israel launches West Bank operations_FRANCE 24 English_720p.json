@@ -1,0 +1,4636 @@
+{
+  "words": [
+    {
+      "word": "All",
+      "start": 0.16,
+      "end": 0.4
+    },
+    {
+      "word": "political",
+      "start": 0.4,
+      "end": 0.88
+    },
+    {
+      "word": "events",
+      "start": 0.88,
+      "end": 1.36
+    },
+    {
+      "word": "this",
+      "start": 1.36,
+      "end": 1.6
+    },
+    {
+      "word": "Friday",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "word": "and",
+      "start": 2.08,
+      "end": 2.32
+    },
+    {
+      "word": "ordered",
+      "start": 2.32,
+      "end": 2.8000000000000003
+    },
+    {
+      "word": "a",
+      "start": 2.8000000000000003,
+      "end": 2.96
+    },
+    {
+      "word": "closure",
+      "start": 2.96,
+      "end": 3.44
+    },
+    {
+      "word": "of",
+      "start": 3.44,
+      "end": 3.6
+    },
+    {
+      "word": "the",
+      "start": 3.6,
+      "end": 3.84
+    },
+    {
+      "word": "West",
+      "start": 3.84,
+      "end": 4.16
+    },
+    {
+      "word": "Bank",
+      "start": 4.32,
+      "end": 4.72
+    },
+    {
+      "word": "following",
+      "start": 4.72,
+      "end": 5.28
+    },
+    {
+      "word": "a",
+      "start": 5.28,
+      "end": 5.44
+    },
+    {
+      "word": "shooting",
+      "start": 5.44,
+      "end": 5.92
+    },
+    {
+      "word": "there",
+      "start": 5.92,
+      "end": 6.16
+    },
+    {
+      "word": "that",
+      "start": 6.16,
+      "end": 6.4
+    },
+    {
+      "word": "wounded",
+      "start": 6.4,
+      "end": 6.96
+    },
+    {
+      "word": "at",
+      "start": 6.96,
+      "end": 7.04
+    },
+    {
+      "word": "least",
+      "start": 7.04,
+      "end": 7.36
+    },
+    {
+      "word": "five",
+      "start": 7.36,
+      "end": 7.76
+    },
+    {
+      "word": "Israelis.",
+      "start": 7.76,
+      "end": 8.32
+    },
+    {
+      "word": "The",
+      "start": 8.72,
+      "end": 8.88
+    },
+    {
+      "word": "Israeli",
+      "start": 8.88,
+      "end": 9.44
+    },
+    {
+      "word": "army",
+      "start": 9.44,
+      "end": 9.84
+    },
+    {
+      "word": "says",
+      "start": 9.84,
+      "end": 10.08
+    },
+    {
+      "word": "it's",
+      "start": 10.08,
+      "end": 10.4
+    },
+    {
+      "word": "launched",
+      "start": 10.4,
+      "end": 10.88
+    },
+    {
+      "word": "offensive",
+      "start": 10.88,
+      "end": 11.52
+    },
+    {
+      "word": "counter-terrorism",
+      "start": 11.52,
+      "end": 12.8
+    },
+    {
+      "word": "operations",
+      "start": 12.8,
+      "end": 13.44
+    },
+    {
+      "word": "in",
+      "start": 13.44,
+      "end": 13.6
+    },
+    {
+      "word": "the",
+      "start": 13.6,
+      "end": 13.84
+    },
+    {
+      "word": "territory",
+      "start": 13.84,
+      "end": 14.48
+    },
+    {
+      "word": "after",
+      "start": 14.48,
+      "end": 14.96
+    },
+    {
+      "word": "thwarting",
+      "start": 14.96,
+      "end": 15.6
+    },
+    {
+      "word": "a",
+      "start": 15.6,
+      "end": 15.84
+    },
+    {
+      "word": "terror",
+      "start": 15.84,
+      "end": 16.240000000000002
+    },
+    {
+      "word": "attack",
+      "start": 16.240000000000002,
+      "end": 16.72
+    },
+    {
+      "word": "against",
+      "start": 16.72,
+      "end": 17.12
+    },
+    {
+      "word": "Israeli",
+      "start": 17.12,
+      "end": 17.76
+    },
+    {
+      "word": "civilians.",
+      "start": 17.76,
+      "end": 18.48
+    },
+    {
+      "word": "Two",
+      "start": 18.88,
+      "end": 19.2
+    },
+    {
+      "word": "suspected",
+      "start": 19.2,
+      "end": 19.84
+    },
+    {
+      "word": "Palestinian",
+      "start": 19.84,
+      "end": 20.64
+    },
+    {
+      "word": "assailants",
+      "start": 20.64,
+      "end": 21.2
+    },
+    {
+      "word": "were",
+      "start": 21.2,
+      "end": 21.44
+    },
+    {
+      "word": "shot",
+      "start": 21.44,
+      "end": 21.76
+    },
+    {
+      "word": "and",
+      "start": 21.76,
+      "end": 21.92
+    },
+    {
+      "word": "killed",
+      "start": 21.92,
+      "end": 22.400000000000002
+    },
+    {
+      "word": "at",
+      "start": 22.400000000000002,
+      "end": 22.56
+    },
+    {
+      "word": "a",
+      "start": 22.56,
+      "end": 22.8
+    },
+    {
+      "word": "checkpoint",
+      "start": 22.8,
+      "end": 23.52
+    },
+    {
+      "word": "near",
+      "start": 23.52,
+      "end": 23.84
+    },
+    {
+      "word": "Hebron.",
+      "start": 23.84,
+      "end": 24.400000000000002
+    },
+    {
+      "word": "For",
+      "start": 24.8,
+      "end": 25.12
+    },
+    {
+      "word": "more",
+      "start": 25.12,
+      "end": 25.44
+    },
+    {
+      "word": "on",
+      "start": 25.44,
+      "end": 25.68
+    },
+    {
+      "word": "this,",
+      "start": 25.68,
+      "end": 25.84
+    },
+    {
+      "word": "I'm",
+      "start": 26.0,
+      "end": 26.240000000000002
+    },
+    {
+      "word": "joined",
+      "start": 26.240000000000002,
+      "end": 26.64
+    },
+    {
+      "word": "by",
+      "start": 26.64,
+      "end": 26.88
+    },
+    {
+      "word": "our",
+      "start": 26.88,
+      "end": 27.12
+    },
+    {
+      "word": "international",
+      "start": 27.12,
+      "end": 27.52
+    },
+    {
+      "word": "affairs",
+      "start": 27.68,
+      "end": 28.080000000000002
+    },
+    {
+      "word": "editor,",
+      "start": 28.080000000000002,
+      "end": 28.400000000000002
+    },
+    {
+      "word": "Kedevin",
+      "start": 28.48,
+      "end": 29.04
+    },
+    {
+      "word": "Gorjistani.",
+      "start": 29.2,
+      "end": 30.16
+    },
+    {
+      "word": "It's",
+      "start": 30.400000000000002,
+      "end": 30.64
+    },
+    {
+      "word": "great",
+      "start": 30.64,
+      "end": 30.88
+    },
+    {
+      "word": "to",
+      "start": 30.88,
+      "end": 31.04
+    },
+    {
+      "word": "see",
+      "start": 31.04,
+      "end": 31.2
+    },
+    {
+      "word": "you.",
+      "start": 31.2,
+      "end": 31.36
+    },
+    {
+      "word": "So",
+      "start": 31.52,
+      "end": 31.68
+    },
+    {
+      "word": "Ket,",
+      "start": 31.92,
+      "end": 32.32
+    },
+    {
+      "word": "at",
+      "start": 32.4,
+      "end": 32.56
+    },
+    {
+      "word": "this",
+      "start": 32.56,
+      "end": 32.72
+    },
+    {
+      "word": "point,",
+      "start": 32.72,
+      "end": 32.88
+    },
+    {
+      "word": "what",
+      "start": 32.96,
+      "end": 33.2
+    },
+    {
+      "word": "more",
+      "start": 33.2,
+      "end": 33.44
+    },
+    {
+      "word": "do",
+      "start": 33.44,
+      "end": 33.6
+    },
+    {
+      "word": "we",
+      "start": 33.6,
+      "end": 33.76
+    },
+    {
+      "word": "know",
+      "start": 33.76,
+      "end": 33.92
+    },
+    {
+      "word": "about",
+      "start": 33.92,
+      "end": 34.08
+    },
+    {
+      "word": "what's",
+      "start": 34.08,
+      "end": 34.4
+    },
+    {
+      "word": "happening",
+      "start": 34.4,
+      "end": 34.72
+    },
+    {
+      "word": "in",
+      "start": 34.72,
+      "end": 34.88
+    },
+    {
+      "word": "the",
+      "start": 34.88,
+      "end": 35.04
+    },
+    {
+      "word": "West",
+      "start": 35.04,
+      "end": 35.28
+    },
+    {
+      "word": "Bank?",
+      "start": 35.28,
+      "end": 35.68
+    },
+    {
+      "word": "Well,",
+      "start": 36.0,
+      "end": 36.160000000000004
+    },
+    {
+      "word": "look,",
+      "start": 36.24,
+      "end": 36.4
+    },
+    {
+      "word": "uh,",
+      "start": 36.480000000000004,
+      "end": 36.64
+    },
+    {
+      "word": "what",
+      "start": 36.72,
+      "end": 36.88
+    },
+    {
+      "word": "we",
+      "start": 36.88,
+      "end": 37.12
+    },
+    {
+      "word": "know",
+      "start": 37.12,
+      "end": 37.28
+    },
+    {
+      "word": "is",
+      "start": 37.28,
+      "end": 37.44
+    },
+    {
+      "word": "that",
+      "start": 37.44,
+      "end": 37.6
+    },
+    {
+      "word": "Israeli",
+      "start": 37.6,
+      "end": 38.160000000000004
+    },
+    {
+      "word": "officials",
+      "start": 38.160000000000004,
+      "end": 38.72
+    },
+    {
+      "word": "uh",
+      "start": 38.72,
+      "end": 39.04
+    },
+    {
+      "word": "say",
+      "start": 39.04,
+      "end": 39.36
+    },
+    {
+      "word": "that",
+      "start": 39.36,
+      "end": 39.68
+    },
+    {
+      "word": "two",
+      "start": 39.68,
+      "end": 40.0
+    },
+    {
+      "word": "Palestinian",
+      "start": 40.08,
+      "end": 40.96
+    },
+    {
+      "word": "uh",
+      "start": 40.96,
+      "end": 41.28
+    },
+    {
+      "word": "men",
+      "start": 41.28,
+      "end": 41.6
+    },
+    {
+      "word": "armed",
+      "start": 41.92,
+      "end": 42.56
+    },
+    {
+      "word": "with",
+      "start": 42.56,
+      "end": 42.72
+    },
+    {
+      "word": "uh",
+      "start": 42.72,
+      "end": 42.96
+    },
+    {
+      "word": "an",
+      "start": 42.96,
+      "end": 43.28
+    },
+    {
+      "word": "M16",
+      "start": 43.28,
+      "end": 44.160000000000004
+    },
+    {
+      "word": "rifle",
+      "start": 44.160000000000004,
+      "end": 44.64
+    },
+    {
+      "word": "and",
+      "start": 44.64,
+      "end": 44.800000000000004
+    },
+    {
+      "word": "a",
+      "start": 44.800000000000004,
+      "end": 44.96
+    },
+    {
+      "word": "handgun",
+      "start": 44.96,
+      "end": 45.44
+    },
+    {
+      "word": "attacked",
+      "start": 45.6,
+      "end": 45.92
+    },
+    {
+      "word": "a",
+      "start": 46.0,
+      "end": 46.160000000000004
+    },
+    {
+      "word": "security",
+      "start": 46.160000000000004,
+      "end": 46.72
+    },
+    {
+      "word": "checkpoint",
+      "start": 46.72,
+      "end": 47.44
+    },
+    {
+      "word": "near",
+      "start": 47.76,
+      "end": 48.08
+    },
+    {
+      "word": "uh",
+      "start": 48.08,
+      "end": 48.32
+    },
+    {
+      "word": "Hebron",
+      "start": 48.32,
+      "end": 48.96
+    },
+    {
+      "word": "in",
+      "start": 49.120000000000005,
+      "end": 49.28
+    },
+    {
+      "word": "the",
+      "start": 49.28,
+      "end": 49.44
+    },
+    {
+      "word": "occupied",
+      "start": 49.44,
+      "end": 49.92
+    },
+    {
+      "word": "uh",
+      "start": 49.92,
+      "end": 50.08
+    },
+    {
+      "word": "West",
+      "start": 50.08,
+      "end": 50.32
+    },
+    {
+      "word": "Bank",
+      "start": 50.480000000000004,
+      "end": 50.800000000000004
+    },
+    {
+      "word": "before",
+      "start": 50.96,
+      "end": 51.36
+    },
+    {
+      "word": "being",
+      "start": 51.36,
+      "end": 51.68
+    },
+    {
+      "word": "uh",
+      "start": 51.68,
+      "end": 51.84
+    },
+    {
+      "word": "in",
+      "start": 51.84,
+      "end": 52.0
+    },
+    {
+      "word": "a",
+      "start": 52.0,
+      "end": 52.160000000000004
+    },
+    {
+      "word": "shootout",
+      "start": 52.160000000000004,
+      "end": 52.88
+    },
+    {
+      "word": "with",
+      "start": 53.120000000000005,
+      "end": 53.36
+    },
+    {
+      "word": "Israeli",
+      "start": 53.36,
+      "end": 54.0
+    },
+    {
+      "word": "uh",
+      "start": 54.0,
+      "end": 54.24
+    },
+    {
+      "word": "forces",
+      "start": 54.24,
+      "end": 54.800000000000004
+    },
+    {
+      "word": "and",
+      "start": 54.800000000000004,
+      "end": 55.04
+    },
+    {
+      "word": "being",
+      "start": 55.04,
+      "end": 55.36
+    },
+    {
+      "word": "killed",
+      "start": 55.36,
+      "end": 55.92
+    },
+    {
+      "word": "by",
+      "start": 55.92,
+      "end": 56.08
+    },
+    {
+      "word": "those",
+      "start": 56.08,
+      "end": 56.4
+    },
+    {
+      "word": "Israeli",
+      "start": 56.4,
+      "end": 57.04
+    },
+    {
+      "word": "forces.",
+      "start": 57.04,
+      "end": 57.6
+    },
+    {
+      "word": "Uh",
+      "start": 57.76,
+      "end": 57.84
+    },
+    {
+      "word": "the",
+      "start": 58.0,
+      "end": 58.24
+    },
+    {
+      "word": "Israeli",
+      "start": 58.24,
+      "end": 59.04
+    },
+    {
+      "word": "emergency",
+      "start": 59.04,
+      "end": 59.84
+    },
+    {
+      "word": "services",
+      "start": 59.84,
+      "end": 60.480000000000004
+    },
+    {
+      "word": "say",
+      "start": 60.480000000000004,
+      "end": 60.800000000000004
+    },
+    {
+      "word": "that",
+      "start": 60.800000000000004,
+      "end": 61.120000000000005
+    },
+    {
+      "word": "five",
+      "start": 61.120000000000005,
+      "end": 61.44
+    },
+    {
+      "word": "Israelis,",
+      "start": 61.44,
+      "end": 62.08
+    },
+    {
+      "word": "all",
+      "start": 62.32,
+      "end": 62.480000000000004
+    },
+    {
+      "word": "in",
+      "start": 62.480000000000004,
+      "end": 62.72
+    },
+    {
+      "word": "their",
+      "start": 62.72,
+      "end": 62.88
+    },
+    {
+      "word": "20s,",
+      "start": 62.88,
+      "end": 63.52
+    },
+    {
+      "word": "were",
+      "start": 63.76,
+      "end": 64.0
+    },
+    {
+      "word": "injured",
+      "start": 64.0,
+      "end": 64.72
+    },
+    {
+      "word": "in",
+      "start": 64.72,
+      "end": 64.88
+    },
+    {
+      "word": "uh",
+      "start": 64.88,
+      "end": 65.04
+    },
+    {
+      "word": "that",
+      "start": 65.04,
+      "end": 65.28
+    },
+    {
+      "word": "attack,",
+      "start": 65.28,
+      "end": 65.76
+    },
+    {
+      "word": "and",
+      "start": 65.84,
+      "end": 66.08
+    },
+    {
+      "word": "that",
+      "start": 66.08,
+      "end": 66.4
+    },
+    {
+      "word": "two",
+      "start": 66.4,
+      "end": 66.72
+    },
+    {
+      "word": "at",
+      "start": 66.8,
+      "end": 67.04
+    },
+    {
+      "word": "least",
+      "start": 67.04,
+      "end": 67.6
+    },
+    {
+      "word": "are",
+      "start": 67.6,
+      "end": 67.92
+    },
+    {
+      "word": "currently",
+      "start": 67.92,
+      "end": 68.64
+    },
+    {
+      "word": "in",
+      "start": 68.64,
+      "end": 68.88
+    },
+    {
+      "word": "a",
+      "start": 68.88,
+      "end": 69.04
+    },
+    {
+      "word": "critical",
+      "start": 69.04,
+      "end": 69.60000000000001
+    },
+    {
+      "word": "uh",
+      "start": 69.60000000000001,
+      "end": 69.84
+    },
+    {
+      "word": "condition,",
+      "start": 69.84,
+      "end": 70.24
+    },
+    {
+      "word": "though",
+      "start": 70.56,
+      "end": 70.88
+    },
+    {
+      "word": "it",
+      "start": 70.88,
+      "end": 71.04
+    },
+    {
+      "word": "is",
+      "start": 71.04,
+      "end": 71.2
+    },
+    {
+      "word": "unclear",
+      "start": 71.2,
+      "end": 71.84
+    },
+    {
+      "word": "whether",
+      "start": 71.84,
+      "end": 72.24
+    },
+    {
+      "word": "uh",
+      "start": 72.24,
+      "end": 72.4
+    },
+    {
+      "word": "those",
+      "start": 72.4,
+      "end": 72.72
+    },
+    {
+      "word": "who",
+      "start": 72.72,
+      "end": 72.96000000000001
+    },
+    {
+      "word": "were",
+      "start": 72.96000000000001,
+      "end": 73.2
+    },
+    {
+      "word": "wounded",
+      "start": 73.2,
+      "end": 73.92
+    },
+    {
+      "word": "uh",
+      "start": 74.0,
+      "end": 74.24
+    },
+    {
+      "word": "were",
+      "start": 74.48,
+      "end": 74.8
+    },
+    {
+      "word": "civilians",
+      "start": 74.8,
+      "end": 75.76
+    },
+    {
+      "word": "or",
+      "start": 75.76,
+      "end": 76.0
+    },
+    {
+      "word": "uh",
+      "start": 76.0,
+      "end": 76.32000000000001
+    },
+    {
+      "word": "were",
+      "start": 76.32000000000001,
+      "end": 76.64
+    },
+    {
+      "word": "Israeli",
+      "start": 76.64,
+      "end": 77.44
+    },
+    {
+      "word": "uh",
+      "start": 77.44,
+      "end": 77.68
+    },
+    {
+      "word": "soldiers.",
+      "start": 77.68,
+      "end": 78.24
+    },
+    {
+      "word": "That",
+      "start": 78.4,
+      "end": 78.64
+    },
+    {
+      "word": "we",
+      "start": 78.64,
+      "end": 78.8
+    },
+    {
+      "word": "don't",
+      "start": 78.8,
+      "end": 79.04
+    },
+    {
+      "word": "know",
+      "start": 79.04,
+      "end": 79.2
+    },
+    {
+      "word": "at",
+      "start": 79.2,
+      "end": 79.36
+    },
+    {
+      "word": "this",
+      "start": 79.36,
+      "end": 79.60000000000001
+    },
+    {
+      "word": "point.",
+      "start": 79.60000000000001,
+      "end": 79.84
+    },
+    {
+      "word": "Now,",
+      "start": 80.0,
+      "end": 80.16
+    },
+    {
+      "word": "of",
+      "start": 80.24,
+      "end": 80.4
+    },
+    {
+      "word": "course,",
+      "start": 80.4,
+      "end": 80.56
+    },
+    {
+      "word": "uh",
+      "start": 80.64,
+      "end": 80.72
+    },
+    {
+      "word": "the",
+      "start": 80.8,
+      "end": 80.88
+    },
+    {
+      "word": "Prime",
+      "start": 80.88,
+      "end": 81.12
+    },
+    {
+      "word": "Minister",
+      "start": 81.12,
+      "end": 81.28
+    },
+    {
+      "word": "Benjamin",
+      "start": 81.36,
+      "end": 81.84
+    },
+    {
+      "word": "Netanyahu",
+      "start": 81.92,
+      "end": 82.72
+    },
+    {
+      "word": "was",
+      "start": 82.8,
+      "end": 82.96000000000001
+    },
+    {
+      "word": "quick",
+      "start": 82.96000000000001,
+      "end": 83.36
+    },
+    {
+      "word": "uh",
+      "start": 83.36,
+      "end": 83.60000000000001
+    },
+    {
+      "word": "to",
+      "start": 83.60000000000001,
+      "end": 83.84
+    },
+    {
+      "word": "react.",
+      "start": 83.84,
+      "end": 84.32000000000001
+    },
+    {
+      "word": "And",
+      "start": 84.4,
+      "end": 84.64
+    },
+    {
+      "word": "uh",
+      "start": 84.64,
+      "end": 84.72
+    },
+    {
+      "word": "one",
+      "start": 84.8,
+      "end": 85.04
+    },
+    {
+      "word": "of",
+      "start": 85.04,
+      "end": 85.28
+    },
+    {
+      "word": "his",
+      "start": 85.28,
+      "end": 85.44
+    },
+    {
+      "word": "uh",
+      "start": 85.44,
+      "end": 85.76
+    },
+    {
+      "word": "first",
+      "start": 85.76,
+      "end": 86.0
+    },
+    {
+      "word": "uh",
+      "start": 86.0,
+      "end": 86.24
+    },
+    {
+      "word": "reactions",
+      "start": 86.24,
+      "end": 86.88
+    },
+    {
+      "word": "was",
+      "start": 86.88,
+      "end": 87.12
+    },
+    {
+      "word": "to",
+      "start": 87.12,
+      "end": 87.36
+    },
+    {
+      "word": "point",
+      "start": 87.36,
+      "end": 87.68
+    },
+    {
+      "word": "uh",
+      "start": 87.68,
+      "end": 87.84
+    },
+    {
+      "word": "the",
+      "start": 87.84,
+      "end": 88.08
+    },
+    {
+      "word": "finger",
+      "start": 88.08,
+      "end": 88.64
+    },
+    {
+      "word": "at",
+      "start": 88.64,
+      "end": 88.8
+    },
+    {
+      "word": "uh",
+      "start": 88.8,
+      "end": 89.12
+    },
+    {
+      "word": "Hamas",
+      "start": 89.12,
+      "end": 89.68
+    },
+    {
+      "word": "uh",
+      "start": 90.0,
+      "end": 90.16
+    },
+    {
+      "word": "uh",
+      "start": 90.16,
+      "end": 90.32000000000001
+    },
+    {
+      "word": "and",
+      "start": 90.56,
+      "end": 90.88
+    },
+    {
+      "word": "saying",
+      "start": 90.88,
+      "end": 91.52
+    },
+    {
+      "word": "that",
+      "start": 91.52,
+      "end": 91.76
+    },
+    {
+      "word": "it",
+      "start": 91.76,
+      "end": 92.0
+    },
+    {
+      "word": "appears",
+      "start": 92.0,
+      "end": 92.64
+    },
+    {
+      "word": "that",
+      "start": 92.64,
+      "end": 92.88
+    },
+    {
+      "word": "Hamas",
+      "start": 92.88,
+      "end": 93.28
+    },
+    {
+      "word": "terrorists",
+      "start": 93.52,
+      "end": 94.08
+    },
+    {
+      "word": "were",
+      "start": 94.08,
+      "end": 94.24
+    },
+    {
+      "word": "planning",
+      "start": 94.24,
+      "end": 94.72
+    },
+    {
+      "word": "a",
+      "start": 94.72,
+      "end": 94.96000000000001
+    },
+    {
+      "word": "major",
+      "start": 94.96000000000001,
+      "end": 95.52
+    },
+    {
+      "word": "attack,",
+      "start": 95.52,
+      "end": 96.16
+    },
+    {
+      "word": "uh,",
+      "start": 96.24000000000001,
+      "end": 96.32000000000001
+    },
+    {
+      "word": "pointing",
+      "start": 96.48,
+      "end": 96.96000000000001
+    },
+    {
+      "word": "to",
+      "start": 96.96000000000001,
+      "end": 97.12
+    },
+    {
+      "word": "the",
+      "start": 97.12,
+      "end": 97.28
+    },
+    {
+      "word": "large",
+      "start": 97.28,
+      "end": 97.60000000000001
+    },
+    {
+      "word": "quantities",
+      "start": 97.60000000000001,
+      "end": 98.24000000000001
+    },
+    {
+      "word": "of",
+      "start": 98.24000000000001,
+      "end": 98.48
+    },
+    {
+      "word": "weapons",
+      "start": 98.48,
+      "end": 99.12
+    },
+    {
+      "word": "and",
+      "start": 99.12,
+      "end": 99.36
+    },
+    {
+      "word": "ammunition",
+      "start": 99.36,
+      "end": 99.84
+    },
+    {
+      "word": "that",
+      "start": 100.08,
+      "end": 100.24000000000001
+    },
+    {
+      "word": "he",
+      "start": 100.24000000000001,
+      "end": 100.56
+    },
+    {
+      "word": "said",
+      "start": 100.56,
+      "end": 100.88
+    },
+    {
+      "word": "were",
+      "start": 100.88,
+      "end": 101.2
+    },
+    {
+      "word": "found",
+      "start": 101.2,
+      "end": 101.68
+    },
+    {
+      "word": "at",
+      "start": 101.68,
+      "end": 101.92
+    },
+    {
+      "word": "the",
+      "start": 101.92,
+      "end": 102.16
+    },
+    {
+      "word": "scene",
+      "start": 102.16,
+      "end": 102.64
+    },
+    {
+      "word": "of",
+      "start": 102.64,
+      "end": 102.8
+    },
+    {
+      "word": "uh",
+      "start": 102.8,
+      "end": 103.12
+    },
+    {
+      "word": "that",
+      "start": 103.12,
+      "end": 103.36
+    },
+    {
+      "word": "attack.",
+      "start": 103.60000000000001,
+      "end": 104.0
+    },
+    {
+      "word": "Now,",
+      "start": 104.16,
+      "end": 104.4
+    },
+    {
+      "word": "authorities",
+      "start": 104.48,
+      "end": 105.44
+    },
+    {
+      "word": "are",
+      "start": 105.44,
+      "end": 105.76
+    },
+    {
+      "word": "not",
+      "start": 105.76,
+      "end": 106.0
+    },
+    {
+      "word": "uh",
+      "start": 106.0,
+      "end": 106.16
+    },
+    {
+      "word": "giving",
+      "start": 106.16,
+      "end": 106.64
+    },
+    {
+      "word": "for",
+      "start": 106.8,
+      "end": 107.12
+    },
+    {
+      "word": "now",
+      "start": 107.12,
+      "end": 107.36
+    },
+    {
+      "word": "any",
+      "start": 107.60000000000001,
+      "end": 107.84
+    },
+    {
+      "word": "details",
+      "start": 107.84,
+      "end": 108.48
+    },
+    {
+      "word": "on",
+      "start": 108.48,
+      "end": 108.72
+    },
+    {
+      "word": "what",
+      "start": 108.72,
+      "end": 108.96000000000001
+    },
+    {
+      "word": "that",
+      "start": 108.96000000000001,
+      "end": 109.2
+    },
+    {
+      "word": "major",
+      "start": 109.2,
+      "end": 109.68
+    },
+    {
+      "word": "attack",
+      "start": 109.68,
+      "end": 110.24000000000001
+    },
+    {
+      "word": "uh",
+      "start": 110.24000000000001,
+      "end": 110.56
+    },
+    {
+      "word": "would",
+      "start": 110.56,
+      "end": 110.88
+    },
+    {
+      "word": "have",
+      "start": 110.88,
+      "end": 111.2
+    },
+    {
+      "word": "entailed,",
+      "start": 111.2,
+      "end": 111.84
+    },
+    {
+      "word": "what",
+      "start": 112.0,
+      "end": 112.24000000000001
+    },
+    {
+      "word": "the",
+      "start": 112.24000000000001,
+      "end": 112.48
+    },
+    {
+      "word": "target",
+      "start": 112.48,
+      "end": 113.04
+    },
+    {
+      "word": "was,",
+      "start": 113.04,
+      "end": 113.36
+    },
+    {
+      "word": "and",
+      "start": 113.44,
+      "end": 113.68
+    },
+    {
+      "word": "they",
+      "start": 113.68,
+      "end": 113.92
+    },
+    {
+      "word": "didn't",
+      "start": 113.92,
+      "end": 114.24000000000001
+    },
+    {
+      "word": "give",
+      "start": 114.24000000000001,
+      "end": 114.48
+    },
+    {
+      "word": "more",
+      "start": 114.48,
+      "end": 114.8
+    },
+    {
+      "word": "indication",
+      "start": 114.8,
+      "end": 115.44
+    },
+    {
+      "word": "about",
+      "start": 115.44,
+      "end": 115.68
+    },
+    {
+      "word": "the",
+      "start": 115.68,
+      "end": 115.92
+    },
+    {
+      "word": "identities",
+      "start": 115.92,
+      "end": 116.72
+    },
+    {
+      "word": "of",
+      "start": 116.72,
+      "end": 116.88
+    },
+    {
+      "word": "uh",
+      "start": 116.88,
+      "end": 117.04
+    },
+    {
+      "word": "the",
+      "start": 117.04,
+      "end": 117.28
+    },
+    {
+      "word": "two",
+      "start": 117.28,
+      "end": 117.60000000000001
+    },
+    {
+      "word": "men,",
+      "start": 117.60000000000001,
+      "end": 117.76
+    },
+    {
+      "word": "uh,",
+      "start": 117.84,
+      "end": 118.0
+    },
+    {
+      "word": "besides",
+      "start": 118.08,
+      "end": 118.56
+    },
+    {
+      "word": "saying",
+      "start": 118.56,
+      "end": 118.96000000000001
+    },
+    {
+      "word": "that",
+      "start": 118.96000000000001,
+      "end": 119.2
+    },
+    {
+      "word": "they",
+      "start": 119.2,
+      "end": 119.52
+    },
+    {
+      "word": "were",
+      "start": 119.52,
+      "end": 119.84
+    },
+    {
+      "word": "from",
+      "start": 119.84,
+      "end": 120.16
+    },
+    {
+      "word": "uh",
+      "start": 120.16,
+      "end": 120.32000000000001
+    },
+    {
+      "word": "the",
+      "start": 120.32000000000001,
+      "end": 120.56
+    },
+    {
+      "word": "Hebron",
+      "start": 120.56,
+      "end": 121.28
+    },
+    {
+      "word": "uh",
+      "start": 121.44,
+      "end": 121.68
+    },
+    {
+      "word": "area.",
+      "start": 121.68,
+      "end": 122.32000000000001
+    },
+    {
+      "word": "Uh",
+      "start": 122.48,
+      "end": 122.56
+    },
+    {
+      "word": "Hamas",
+      "start": 122.8,
+      "end": 123.36
+    },
+    {
+      "word": "has",
+      "start": 123.92,
+      "end": 124.24000000000001
+    },
+    {
+      "word": "reacted",
+      "start": 124.24000000000001,
+      "end": 124.96000000000001
+    },
+    {
+      "word": "uh",
+      "start": 125.04,
+      "end": 125.2
+    },
+    {
+      "word": "to",
+      "start": 125.2,
+      "end": 125.36
+    },
+    {
+      "word": "the",
+      "start": 125.36,
+      "end": 125.60000000000001
+    },
+    {
+      "word": "attack.",
+      "start": 125.60000000000001,
+      "end": 126.0
+    },
+    {
+      "word": "They",
+      "start": 126.16,
+      "end": 126.48
+    },
+    {
+      "word": "called",
+      "start": 126.48,
+      "end": 126.96000000000001
+    },
+    {
+      "word": "it",
+      "start": 126.96000000000001,
+      "end": 127.2
+    },
+    {
+      "word": "a",
+      "start": 127.2,
+      "end": 127.44
+    },
+    {
+      "word": "natural",
+      "start": 127.44,
+      "end": 127.92
+    },
+    {
+      "word": "and",
+      "start": 127.92,
+      "end": 128.16
+    },
+    {
+      "word": "legitimate",
+      "start": 128.16,
+      "end": 128.88
+    },
+    {
+      "word": "response",
+      "start": 128.88,
+      "end": 129.36
+    },
+    {
+      "word": "to",
+      "start": 129.36,
+      "end": 129.52
+    },
+    {
+      "word": "the",
+      "start": 129.52,
+      "end": 129.76
+    },
+    {
+      "word": "ongoing",
+      "start": 129.76,
+      "end": 130.32
+    },
+    {
+      "word": "crimes",
+      "start": 130.32,
+      "end": 130.88
+    },
+    {
+      "word": "and",
+      "start": 130.88,
+      "end": 131.12
+    },
+    {
+      "word": "brutal",
+      "start": 131.12,
+      "end": 131.6
+    },
+    {
+      "word": "attacks",
+      "start": 131.6,
+      "end": 132.08
+    },
+    {
+      "word": "against",
+      "start": 132.08,
+      "end": 132.48
+    },
+    {
+      "word": "our",
+      "start": 132.48,
+      "end": 132.8
+    },
+    {
+      "word": "people,",
+      "start": 132.8,
+      "end": 133.12
+    },
+    {
+      "word": "but",
+      "start": 133.36,
+      "end": 133.6
+    },
+    {
+      "word": "they",
+      "start": 133.6,
+      "end": 133.92000000000002
+    },
+    {
+      "word": "stopped",
+      "start": 133.92000000000002,
+      "end": 134.4
+    },
+    {
+      "word": "short",
+      "start": 134.4,
+      "end": 134.88
+    },
+    {
+      "word": "of",
+      "start": 134.88,
+      "end": 135.12
+    },
+    {
+      "word": "uh",
+      "start": 135.12,
+      "end": 135.36
+    },
+    {
+      "word": "endorsing",
+      "start": 135.36,
+      "end": 136.08
+    },
+    {
+      "word": "of",
+      "start": 136.24,
+      "end": 136.48
+    },
+    {
+      "word": "claiming",
+      "start": 136.48,
+      "end": 137.20000000000002
+    },
+    {
+      "word": "actual",
+      "start": 137.20000000000002,
+      "end": 137.76
+    },
+    {
+      "word": "responsibility",
+      "start": 137.76,
+      "end": 138.56
+    },
+    {
+      "word": "uh",
+      "start": 138.64000000000001,
+      "end": 138.88
+    },
+    {
+      "word": "for",
+      "start": 138.88,
+      "end": 139.12
+    },
+    {
+      "word": "uh",
+      "start": 139.12,
+      "end": 139.28
+    },
+    {
+      "word": "this",
+      "start": 139.28,
+      "end": 139.52
+    },
+    {
+      "word": "attack,",
+      "start": 139.52,
+      "end": 139.92000000000002
+    },
+    {
+      "word": "even",
+      "start": 140.0,
+      "end": 140.32
+    },
+    {
+      "word": "though",
+      "start": 140.32,
+      "end": 140.56
+    },
+    {
+      "word": "uh",
+      "start": 140.64000000000001,
+      "end": 140.8
+    },
+    {
+      "word": "the",
+      "start": 140.8,
+      "end": 140.96
+    },
+    {
+      "word": "Israeli",
+      "start": 140.96,
+      "end": 141.52
+    },
+    {
+      "word": "authorities,",
+      "start": 141.52,
+      "end": 141.92000000000002
+    },
+    {
+      "word": "as",
+      "start": 142.0,
+      "end": 142.16
+    },
+    {
+      "word": "I",
+      "start": 142.16,
+      "end": 142.24
+    },
+    {
+      "word": "was",
+      "start": 142.24,
+      "end": 142.4
+    },
+    {
+      "word": "saying,",
+      "start": 142.4,
+      "end": 142.64000000000001
+    },
+    {
+      "word": "are",
+      "start": 142.8,
+      "end": 143.04
+    },
+    {
+      "word": "pointing",
+      "start": 143.04,
+      "end": 143.44
+    },
+    {
+      "word": "the",
+      "start": 143.44,
+      "end": 143.52
+    },
+    {
+      "word": "finger",
+      "start": 143.52,
+      "end": 143.76
+    },
+    {
+      "word": "at",
+      "start": 143.76,
+      "end": 144.0
+    },
+    {
+      "word": "Hamas.",
+      "start": 144.0,
+      "end": 144.4
+    },
+    {
+      "word": "And",
+      "start": 145.44,
+      "end": 145.68
+    },
+    {
+      "word": "uh",
+      "start": 145.76,
+      "end": 145.92000000000002
+    },
+    {
+      "word": "this",
+      "start": 146.08,
+      "end": 146.4
+    },
+    {
+      "word": "is",
+      "start": 146.4,
+      "end": 146.64000000000001
+    },
+    {
+      "word": "happening",
+      "start": 146.64000000000001,
+      "end": 147.20000000000002
+    },
+    {
+      "word": "uh",
+      "start": 147.28,
+      "end": 147.44
+    },
+    {
+      "word": "just",
+      "start": 147.68,
+      "end": 148.0
+    },
+    {
+      "word": "four",
+      "start": 148.32,
+      "end": 148.64000000000001
+    },
+    {
+      "word": "days",
+      "start": 148.64000000000001,
+      "end": 148.96
+    },
+    {
+      "word": "ahead",
+      "start": 148.96,
+      "end": 149.28
+    },
+    {
+      "word": "of",
+      "start": 149.28,
+      "end": 149.44
+    },
+    {
+      "word": "elections",
+      "start": 149.44,
+      "end": 150.0
+    },
+    {
+      "word": "in",
+      "start": 150.08,
+      "end": 150.24
+    },
+    {
+      "word": "Israel,",
+      "start": 150.24,
+      "end": 150.72
+    },
+    {
+      "word": "elections",
+      "start": 150.88,
+      "end": 151.36
+    },
+    {
+      "word": "on",
+      "start": 151.36,
+      "end": 151.6
+    },
+    {
+      "word": "Tuesday.",
+      "start": 151.6,
+      "end": 152.4
+    },
+    {
+      "word": "How",
+      "start": 152.56,
+      "end": 153.04
+    },
+    {
+      "word": "have",
+      "start": 153.04,
+      "end": 153.28
+    },
+    {
+      "word": "uh",
+      "start": 153.28,
+      "end": 153.44
+    },
+    {
+      "word": "Israeli",
+      "start": 153.44,
+      "end": 154.08
+    },
+    {
+      "word": "political",
+      "start": 154.08,
+      "end": 154.56
+    },
+    {
+      "word": "figures",
+      "start": 154.56,
+      "end": 155.12
+    },
+    {
+      "word": "been",
+      "start": 155.12,
+      "end": 155.36
+    },
+    {
+      "word": "reacting",
+      "start": 155.36,
+      "end": 155.84
+    },
+    {
+      "word": "to",
+      "start": 155.84,
+      "end": 156.0
+    },
+    {
+      "word": "all",
+      "start": 156.0,
+      "end": 156.16
+    },
+    {
+      "word": "of",
+      "start": 156.16,
+      "end": 156.4
+    },
+    {
+      "word": "this?",
+      "start": 156.4,
+      "end": 156.64000000000001
+    },
+    {
+      "word": "Well,",
+      "start": 157.04,
+      "end": 157.12
+    },
+    {
+      "word": "look,",
+      "start": 157.20000000000002,
+      "end": 157.44
+    },
+    {
+      "word": "uh",
+      "start": 157.52,
+      "end": 157.6
+    },
+    {
+      "word": "the",
+      "start": 157.68,
+      "end": 157.84
+    },
+    {
+      "word": "immediate",
+      "start": 157.84,
+      "end": 158.32
+    },
+    {
+      "word": "reactions",
+      "start": 158.32,
+      "end": 158.88
+    },
+    {
+      "word": "uh",
+      "start": 158.96,
+      "end": 159.12
+    },
+    {
+      "word": "came,",
+      "start": 159.12,
+      "end": 159.44
+    },
+    {
+      "word": "of",
+      "start": 159.52,
+      "end": 159.68
+    },
+    {
+      "word": "course,",
+      "start": 159.68,
+      "end": 159.92000000000002
+    },
+    {
+      "word": "from",
+      "start": 160.0,
+      "end": 160.24
+    },
+    {
+      "word": "the",
+      "start": 160.24,
+      "end": 160.32
+    },
+    {
+      "word": "whole",
+      "start": 160.32,
+      "end": 160.64000000000001
+    },
+    {
+      "word": "uh",
+      "start": 160.64000000000001,
+      "end": 160.88
+    },
+    {
+      "word": "political",
+      "start": 160.88,
+      "end": 161.84
+    },
+    {
+      "word": "class,",
+      "start": 161.84,
+      "end": 162.16
+    },
+    {
+      "word": "but",
+      "start": 162.24,
+      "end": 162.4
+    },
+    {
+      "word": "I",
+      "start": 162.4,
+      "end": 162.48
+    },
+    {
+      "word": "was",
+      "start": 162.48,
+      "end": 162.64000000000001
+    },
+    {
+      "word": "talking",
+      "start": 162.64000000000001,
+      "end": 162.96
+    },
+    {
+      "word": "about",
+      "start": 162.96,
+      "end": 163.12
+    },
+    {
+      "word": "the",
+      "start": 163.12,
+      "end": 163.28
+    },
+    {
+      "word": "the",
+      "start": 163.28,
+      "end": 163.44
+    },
+    {
+      "word": "prime",
+      "start": 163.44,
+      "end": 163.6
+    },
+    {
+      "word": "minister,",
+      "start": 163.76,
+      "end": 164.08
+    },
+    {
+      "word": "and",
+      "start": 164.16,
+      "end": 164.32
+    },
+    {
+      "word": "I'll",
+      "start": 164.32,
+      "end": 164.56
+    },
+    {
+      "word": "get",
+      "start": 164.56,
+      "end": 164.72
+    },
+    {
+      "word": "a",
+      "start": 164.72,
+      "end": 164.8
+    },
+    {
+      "word": "little",
+      "start": 164.8,
+      "end": 164.96
+    },
+    {
+      "word": "bit",
+      "start": 164.96,
+      "end": 165.12
+    },
+    {
+      "word": "deeper",
+      "start": 165.12,
+      "end": 165.6
+    },
+    {
+      "word": "into",
+      "start": 165.6,
+      "end": 165.92000000000002
+    },
+    {
+      "word": "what",
+      "start": 165.92000000000002,
+      "end": 166.16
+    },
+    {
+      "word": "he",
+      "start": 166.16,
+      "end": 166.4
+    },
+    {
+      "word": "said",
+      "start": 166.4,
+      "end": 166.56
+    },
+    {
+      "word": "in",
+      "start": 166.72,
+      "end": 166.96
+    },
+    {
+      "word": "his",
+      "start": 166.96,
+      "end": 167.20000000000002
+    },
+    {
+      "word": "statement.",
+      "start": 167.20000000000002,
+      "end": 167.84
+    },
+    {
+      "word": "Uh",
+      "start": 168.0,
+      "end": 168.08
+    },
+    {
+      "word": "he",
+      "start": 168.16,
+      "end": 168.32
+    },
+    {
+      "word": "had",
+      "start": 168.32,
+      "end": 168.56
+    },
+    {
+      "word": "been",
+      "start": 168.56,
+      "end": 168.72
+    },
+    {
+      "word": "uh",
+      "start": 168.8,
+      "end": 168.96
+    },
+    {
+      "word": "warning",
+      "start": 168.96,
+      "end": 169.52
+    },
+    {
+      "word": "of",
+      "start": 169.52,
+      "end": 169.84
+    },
+    {
+      "word": "potential",
+      "start": 169.84,
+      "end": 170.32
+    },
+    {
+      "word": "uh",
+      "start": 170.32,
+      "end": 170.56
+    },
+    {
+      "word": "attacks",
+      "start": 170.56,
+      "end": 171.28
+    },
+    {
+      "word": "uh",
+      "start": 171.36,
+      "end": 171.52
+    },
+    {
+      "word": "in",
+      "start": 171.68,
+      "end": 171.84
+    },
+    {
+      "word": "the",
+      "start": 171.84,
+      "end": 172.0
+    },
+    {
+      "word": "lead",
+      "start": 172.0,
+      "end": 172.32
+    },
+    {
+      "word": "up",
+      "start": 172.48,
+      "end": 172.64000000000001
+    },
+    {
+      "word": "uh",
+      "start": 172.64000000000001,
+      "end": 172.88
+    },
+    {
+      "word": "to",
+      "start": 172.88,
+      "end": 173.04
+    },
+    {
+      "word": "uh",
+      "start": 173.04,
+      "end": 173.28
+    },
+    {
+      "word": "this",
+      "start": 173.28,
+      "end": 173.52
+    },
+    {
+      "word": "vote,",
+      "start": 173.52,
+      "end": 173.92000000000002
+    },
+    {
+      "word": "and",
+      "start": 174.0,
+      "end": 174.24
+    },
+    {
+      "word": "now",
+      "start": 174.24,
+      "end": 174.56
+    },
+    {
+      "word": "he",
+      "start": 174.56,
+      "end": 174.8
+    },
+    {
+      "word": "has",
+      "start": 174.8,
+      "end": 175.12
+    },
+    {
+      "word": "said,",
+      "start": 175.12,
+      "end": 175.36
+    },
+    {
+      "word": "as",
+      "start": 175.44,
+      "end": 175.68
+    },
+    {
+      "word": "you",
+      "start": 175.68,
+      "end": 175.84
+    },
+    {
+      "word": "mentioned,",
+      "start": 175.84,
+      "end": 176.24
+    },
+    {
+      "word": "that",
+      "start": 176.32,
+      "end": 176.48
+    },
+    {
+      "word": "he",
+      "start": 176.48,
+      "end": 176.64000000000001
+    },
+    {
+      "word": "ordered",
+      "start": 176.64000000000001,
+      "end": 177.12
+    },
+    {
+      "word": "uh",
+      "start": 177.12,
+      "end": 177.28
+    },
+    {
+      "word": "the",
+      "start": 177.28,
+      "end": 177.44
+    },
+    {
+      "word": "immediate",
+      "start": 177.44,
+      "end": 177.92000000000002
+    },
+    {
+      "word": "uh",
+      "start": 178.0,
+      "end": 178.16
+    },
+    {
+      "word": "closing",
+      "start": 178.16,
+      "end": 178.8
+    },
+    {
+      "word": "off",
+      "start": 178.8,
+      "end": 178.96
+    },
+    {
+      "word": "of",
+      "start": 178.96,
+      "end": 179.12
+    },
+    {
+      "word": "the",
+      "start": 179.12,
+      "end": 179.36
+    },
+    {
+      "word": "city",
+      "start": 179.36,
+      "end": 179.68
+    },
+    {
+      "word": "of",
+      "start": 179.68,
+      "end": 179.84
+    },
+    {
+      "word": "uh",
+      "start": 179.84,
+      "end": 180.0
+    },
+    {
+      "word": "Hebron,",
+      "start": 180.0,
+      "end": 180.72
+    },
+    {
+      "word": "and",
+      "start": 181.12,
+      "end": 181.36
+    },
+    {
+      "word": "he",
+      "start": 181.36,
+      "end": 181.6
+    },
+    {
+      "word": "ordered",
+      "start": 181.6,
+      "end": 182.08
+    },
+    {
+      "word": "uh",
+      "start": 182.08,
+      "end": 182.16
+    },
+    {
+      "word": "the",
+      "start": 182.16,
+      "end": 182.4
+    },
+    {
+      "word": "Israeli",
+      "start": 182.4,
+      "end": 182.96
+    },
+    {
+      "word": "forces",
+      "start": 182.96,
+      "end": 183.44
+    },
+    {
+      "word": "to",
+      "start": 183.44,
+      "end": 183.6
+    },
+    {
+      "word": "prepare",
+      "start": 183.6,
+      "end": 183.92000000000002
+    },
+    {
+      "word": "for",
+      "start": 183.92000000000002,
+      "end": 184.08
+    },
+    {
+      "word": "a",
+      "start": 184.08,
+      "end": 184.24
+    },
+    {
+      "word": "full",
+      "start": 184.24,
+      "end": 184.56
+    },
+    {
+      "word": "lockdown",
+      "start": 184.56,
+      "end": 185.44
+    },
+    {
+      "word": "across",
+      "start": 185.44,
+      "end": 186.16
+    },
+    {
+      "word": "all",
+      "start": 186.16,
+      "end": 186.4
+    },
+    {
+      "word": "of",
+      "start": 186.4,
+      "end": 186.64000000000001
+    },
+    {
+      "word": "Judea",
+      "start": 186.64000000000001,
+      "end": 187.20000000000002
+    },
+    {
+      "word": "and",
+      "start": 187.20000000000002,
+      "end": 187.44
+    },
+    {
+      "word": "Samaria",
+      "start": 187.44,
+      "end": 187.92000000000002
+    },
+    {
+      "word": "starting",
+      "start": 188.08,
+      "end": 188.4
+    },
+    {
+      "word": "today,",
+      "start": 188.4,
+      "end": 188.72
+    },
+    {
+      "word": "using,",
+      "start": 188.8,
+      "end": 189.12
+    },
+    {
+      "word": "of",
+      "start": 189.20000000000002,
+      "end": 189.36
+    },
+    {
+      "word": "course,",
+      "start": 189.36,
+      "end": 189.6
+    },
+    {
+      "word": "uh",
+      "start": 189.68,
+      "end": 189.92000000000002
+    },
+    {
+      "word": "the",
+      "start": 189.92000000000002,
+      "end": 190.08
+    },
+    {
+      "word": "Israeli",
+      "start": 190.08,
+      "end": 190.72
+    },
+    {
+      "word": "uh",
+      "start": 190.72,
+      "end": 190.96
+    },
+    {
+      "word": "term",
+      "start": 190.96,
+      "end": 191.28
+    },
+    {
+      "word": "for",
+      "start": 191.44,
+      "end": 191.6
+    },
+    {
+      "word": "uh",
+      "start": 191.6,
+      "end": 191.76
+    },
+    {
+      "word": "the",
+      "start": 191.76,
+      "end": 191.92000000000002
+    },
+    {
+      "word": "occupied",
+      "start": 191.92000000000002,
+      "end": 192.4
+    },
+    {
+      "word": "uh",
+      "start": 192.48000000000002,
+      "end": 192.64000000000001
+    },
+    {
+      "word": "West",
+      "start": 192.64000000000001,
+      "end": 192.72
+    },
+    {
+      "word": "Bank.",
+      "start": 192.96,
+      "end": 193.20000000000002
+    },
+    {
+      "word": "What's",
+      "start": 193.36,
+      "end": 193.68
+    },
+    {
+      "word": "interesting,",
+      "start": 193.68,
+      "end": 194.16
+    },
+    {
+      "word": "this",
+      "start": 194.32,
+      "end": 194.64000000000001
+    },
+    {
+      "word": "is",
+      "start": 194.64000000000001,
+      "end": 194.88
+    },
+    {
+      "word": "uh",
+      "start": 194.88,
+      "end": 195.04
+    },
+    {
+      "word": "the",
+      "start": 195.04,
+      "end": 195.28
+    },
+    {
+      "word": "statement",
+      "start": 195.28,
+      "end": 195.68
+    },
+    {
+      "word": "that",
+      "start": 195.68,
+      "end": 195.84
+    },
+    {
+      "word": "he",
+      "start": 195.84,
+      "end": 196.08
+    },
+    {
+      "word": "posted",
+      "start": 196.08,
+      "end": 196.48000000000002
+    },
+    {
+      "word": "on",
+      "start": 196.48000000000002,
+      "end": 196.72
+    },
+    {
+      "word": "X",
+      "start": 196.72,
+      "end": 196.96
+    },
+    {
+      "word": "in",
+      "start": 197.44,
+      "end": 197.6
+    },
+    {
+      "word": "a",
+      "start": 197.6,
+      "end": 197.84
+    },
+    {
+      "word": "Hebrew",
+      "start": 197.84,
+      "end": 198.48000000000002
+    },
+    {
+      "word": "originally",
+      "start": 198.64000000000001,
+      "end": 199.28
+    },
+    {
+      "word": "that",
+      "start": 199.36,
+      "end": 199.6
+    },
+    {
+      "word": "has",
+      "start": 199.6,
+      "end": 199.76
+    },
+    {
+      "word": "been",
+      "start": 199.76,
+      "end": 199.92000000000002
+    },
+    {
+      "word": "translated.",
+      "start": 199.92000000000002,
+      "end": 200.56
+    },
+    {
+      "word": "And",
+      "start": 200.64000000000001,
+      "end": 200.8
+    },
+    {
+      "word": "that",
+      "start": 200.8,
+      "end": 201.12
+    },
+    {
+      "word": "line",
+      "start": 201.12,
+      "end": 201.52
+    },
+    {
+      "word": "that",
+      "start": 201.52,
+      "end": 201.76
+    },
+    {
+      "word": "was",
+      "start": 201.76,
+      "end": 202.0
+    },
+    {
+      "word": "equaled",
+      "start": 202.0,
+      "end": 202.72
+    },
+    {
+      "word": "in",
+      "start": 202.72,
+      "end": 202.88
+    },
+    {
+      "word": "yellow",
+      "start": 202.88,
+      "end": 203.36
+    },
+    {
+      "word": "is",
+      "start": 203.52,
+      "end": 203.84
+    },
+    {
+      "word": "actually",
+      "start": 203.84,
+      "end": 204.4
+    },
+    {
+      "word": "not",
+      "start": 204.4,
+      "end": 204.64000000000001
+    },
+    {
+      "word": "the",
+      "start": 204.64000000000001,
+      "end": 204.88
+    },
+    {
+      "word": "same",
+      "start": 204.88,
+      "end": 205.28
+    },
+    {
+      "word": "one",
+      "start": 205.28,
+      "end": 205.6
+    },
+    {
+      "word": "as",
+      "start": 205.6,
+      "end": 205.92000000000002
+    },
+    {
+      "word": "the",
+      "start": 205.92000000000002,
+      "end": 206.16
+    },
+    {
+      "word": "one",
+      "start": 206.16,
+      "end": 206.4
+    },
+    {
+      "word": "uh",
+      "start": 206.4,
+      "end": 206.64000000000001
+    },
+    {
+      "word": "that",
+      "start": 206.64000000000001,
+      "end": 206.88
+    },
+    {
+      "word": "uh",
+      "start": 206.88,
+      "end": 207.12
+    },
+    {
+      "word": "was",
+      "start": 207.12,
+      "end": 207.44
+    },
+    {
+      "word": "posted",
+      "start": 207.44,
+      "end": 208.08
+    },
+    {
+      "word": "uh",
+      "start": 208.24,
+      "end": 208.48000000000002
+    },
+    {
+      "word": "in",
+      "start": 208.72,
+      "end": 208.96
+    },
+    {
+      "word": "uh",
+      "start": 208.96,
+      "end": 209.28
+    },
+    {
+      "word": "the",
+      "start": 209.28,
+      "end": 209.6
+    },
+    {
+      "word": "English",
+      "start": 209.6,
+      "end": 210.16
+    },
+    {
+      "word": "uh",
+      "start": 210.16,
+      "end": 210.4
+    },
+    {
+      "word": "language.",
+      "start": 210.4,
+      "end": 210.96
+    },
+    {
+      "word": "So",
+      "start": 211.12,
+      "end": 211.36
+    },
+    {
+      "word": "you're",
+      "start": 211.44,
+      "end": 211.76
+    },
+    {
+      "word": "seeing",
+      "start": 211.76,
+      "end": 212.16
+    },
+    {
+      "word": "uh",
+      "start": 212.16,
+      "end": 212.4
+    },
+    {
+      "word": "the",
+      "start": 212.4,
+      "end": 212.56
+    },
+    {
+      "word": "English",
+      "start": 212.56,
+      "end": 212.96
+    },
+    {
+      "word": "the",
+      "start": 213.52,
+      "end": 213.84
+    },
+    {
+      "word": "Hebrew",
+      "start": 213.84,
+      "end": 214.64000000000001
+    },
+    {
+      "word": "there",
+      "start": 214.64000000000001,
+      "end": 214.88
+    },
+    {
+      "word": "talking",
+      "start": 215.04,
+      "end": 215.52
+    },
+    {
+      "word": "about",
+      "start": 215.52,
+      "end": 215.76
+    },
+    {
+      "word": "this",
+      "start": 215.76,
+      "end": 216.0
+    },
+    {
+      "word": "full",
+      "start": 216.0,
+      "end": 216.32
+    },
+    {
+      "word": "lockdown",
+      "start": 216.32,
+      "end": 217.04
+    },
+    {
+      "word": "of",
+      "start": 217.04,
+      "end": 217.20000000000002
+    },
+    {
+      "word": "uh",
+      "start": 217.20000000000002,
+      "end": 217.36
+    },
+    {
+      "word": "the",
+      "start": 217.36,
+      "end": 217.52
+    },
+    {
+      "word": "occupied",
+      "start": 217.52,
+      "end": 218.08
+    },
+    {
+      "word": "West",
+      "start": 218.08,
+      "end": 218.4
+    },
+    {
+      "word": "Bank",
+      "start": 218.4,
+      "end": 218.88
+    },
+    {
+      "word": "in",
+      "start": 219.04,
+      "end": 219.28
+    },
+    {
+      "word": "the",
+      "start": 219.28,
+      "end": 219.52
+    },
+    {
+      "word": "English",
+      "start": 219.52,
+      "end": 219.92000000000002
+    },
+    {
+      "word": "language",
+      "start": 219.92000000000002,
+      "end": 220.48000000000002
+    },
+    {
+      "word": "statement",
+      "start": 220.48000000000002,
+      "end": 220.88
+    },
+    {
+      "word": "that",
+      "start": 220.88,
+      "end": 221.04
+    },
+    {
+      "word": "was",
+      "start": 221.04,
+      "end": 221.20000000000002
+    },
+    {
+      "word": "sent",
+      "start": 221.20000000000002,
+      "end": 221.52
+    },
+    {
+      "word": "to",
+      "start": 221.52,
+      "end": 221.68
+    },
+    {
+      "word": "foreign",
+      "start": 221.68,
+      "end": 222.16
+    },
+    {
+      "word": "reporters",
+      "start": 222.16,
+      "end": 222.88
+    },
+    {
+      "word": "to",
+      "start": 222.88,
+      "end": 223.12
+    },
+    {
+      "word": "uh",
+      "start": 223.12,
+      "end": 223.28
+    },
+    {
+      "word": "the",
+      "start": 223.28,
+      "end": 223.6
+    },
+    {
+      "word": "press,",
+      "start": 223.6,
+      "end": 224.08
+    },
+    {
+      "word": "uh,",
+      "start": 224.16,
+      "end": 224.24
+    },
+    {
+      "word": "he",
+      "start": 224.4,
+      "end": 224.72
+    },
+    {
+      "word": "simply",
+      "start": 224.72,
+      "end": 225.12
+    },
+    {
+      "word": "speaks",
+      "start": 225.12,
+      "end": 225.52
+    },
+    {
+      "word": "of",
+      "start": 225.52,
+      "end": 225.76
+    },
+    {
+      "word": "additional",
+      "start": 225.76,
+      "end": 226.32
+    },
+    {
+      "word": "measures",
+      "start": 226.32,
+      "end": 226.8
+    },
+    {
+      "word": "to",
+      "start": 226.8,
+      "end": 227.04
+    },
+    {
+      "word": "prevent",
+      "start": 227.04,
+      "end": 227.44
+    },
+    {
+      "word": "terrorist",
+      "start": 227.44,
+      "end": 228.08
+    },
+    {
+      "word": "attacks",
+      "start": 228.08,
+      "end": 228.72
+    },
+    {
+      "word": "originating",
+      "start": 228.72,
+      "end": 229.84
+    },
+    {
+      "word": "from",
+      "start": 229.84,
+      "end": 230.16
+    },
+    {
+      "word": "uh",
+      "start": 230.24,
+      "end": 230.4
+    },
+    {
+      "word": "the",
+      "start": 230.4,
+      "end": 230.56
+    },
+    {
+      "word": "occupied",
+      "start": 230.56,
+      "end": 231.12
+    },
+    {
+      "word": "West",
+      "start": 231.12,
+      "end": 231.44
+    },
+    {
+      "word": "Bank.",
+      "start": 231.44,
+      "end": 231.68
+    },
+    {
+      "word": "So",
+      "start": 231.76,
+      "end": 231.92000000000002
+    },
+    {
+      "word": "not",
+      "start": 232.08,
+      "end": 232.4
+    },
+    {
+      "word": "exactly",
+      "start": 232.4,
+      "end": 233.20000000000002
+    },
+    {
+      "word": "as",
+      "start": 233.20000000000002,
+      "end": 233.52
+    },
+    {
+      "word": "uh",
+      "start": 233.52,
+      "end": 233.76
+    },
+    {
+      "word": "strong",
+      "start": 233.76,
+      "end": 234.32
+    },
+    {
+      "word": "of",
+      "start": 234.32,
+      "end": 234.56
+    },
+    {
+      "word": "a",
+      "start": 234.56,
+      "end": 234.8
+    },
+    {
+      "word": "worded",
+      "start": 234.8,
+      "end": 235.20000000000002
+    },
+    {
+      "word": "uh",
+      "start": 235.20000000000002,
+      "end": 235.44
+    },
+    {
+      "word": "statement",
+      "start": 235.44,
+      "end": 235.92000000000002
+    },
+    {
+      "word": "uh",
+      "start": 236.0,
+      "end": 236.24
+    },
+    {
+      "word": "as",
+      "start": 236.24,
+      "end": 236.4
+    },
+    {
+      "word": "it",
+      "start": 236.4,
+      "end": 236.64000000000001
+    },
+    {
+      "word": "is",
+      "start": 236.64000000000001,
+      "end": 236.8
+    },
+    {
+      "word": "in",
+      "start": 236.8,
+      "end": 236.96
+    },
+    {
+      "word": "Hebrew,",
+      "start": 236.96,
+      "end": 237.44
+    },
+    {
+      "word": "which",
+      "start": 237.52,
+      "end": 237.76
+    },
+    {
+      "word": "is",
+      "start": 237.76,
+      "end": 237.92000000000002
+    },
+    {
+      "word": "obviously",
+      "start": 237.92000000000002,
+      "end": 238.64000000000001
+    },
+    {
+      "word": "for",
+      "start": 238.64000000000001,
+      "end": 238.8
+    },
+    {
+      "word": "a",
+      "start": 238.8,
+      "end": 238.96
+    },
+    {
+      "word": "domestic",
+      "start": 238.96,
+      "end": 239.52
+    },
+    {
+      "word": "audience",
+      "start": 239.52,
+      "end": 240.0
+    },
+    {
+      "word": "just",
+      "start": 240.16,
+      "end": 240.4
+    },
+    {
+      "word": "four",
+      "start": 240.4,
+      "end": 240.64000000000001
+    },
+    {
+      "word": "days",
+      "start": 240.64000000000001,
+      "end": 240.96
+    },
+    {
+      "word": "uh",
+      "start": 240.96,
+      "end": 241.12
+    },
+    {
+      "word": "before",
+      "start": 241.12,
+      "end": 241.6
+    },
+    {
+      "word": "uh",
+      "start": 241.6,
+      "end": 241.76
+    },
+    {
+      "word": "those",
+      "start": 241.76,
+      "end": 242.08
+    },
+    {
+      "word": "elections.",
+      "start": 242.08,
+      "end": 242.64000000000001
+    },
+    {
+      "word": "He",
+      "start": 242.8,
+      "end": 243.04
+    },
+    {
+      "word": "was",
+      "start": 243.04,
+      "end": 243.28
+    },
+    {
+      "word": "not",
+      "start": 243.28,
+      "end": 243.52
+    },
+    {
+      "word": "the",
+      "start": 243.52,
+      "end": 243.76
+    },
+    {
+      "word": "only",
+      "start": 243.76,
+      "end": 244.0
+    },
+    {
+      "word": "one",
+      "start": 244.0,
+      "end": 244.32
+    },
+    {
+      "word": "to",
+      "start": 244.32,
+      "end": 244.48000000000002
+    },
+    {
+      "word": "react,",
+      "start": 244.48000000000002,
+      "end": 244.96
+    },
+    {
+      "word": "obviously.",
+      "start": 245.04,
+      "end": 245.52
+    },
+    {
+      "word": "Uh",
+      "start": 245.6,
+      "end": 245.68
+    },
+    {
+      "word": "the",
+      "start": 245.76,
+      "end": 245.92000000000002
+    },
+    {
+      "word": "far",
+      "start": 245.92000000000002,
+      "end": 246.16
+    },
+    {
+      "word": "right",
+      "start": 246.24,
+      "end": 246.4
+    },
+    {
+      "word": "national",
+      "start": 246.56,
+      "end": 246.96
+    },
+    {
+      "word": "security",
+      "start": 246.96,
+      "end": 247.6
+    },
+    {
+      "word": "minister",
+      "start": 247.6,
+      "end": 248.0
+    },
+    {
+      "word": "uh",
+      "start": 248.08,
+      "end": 248.24
+    },
+    {
+      "word": "Itamar",
+      "start": 248.24,
+      "end": 248.8
+    },
+    {
+      "word": "Ben",
+      "start": 248.96,
+      "end": 249.12
+    },
+    {
+      "word": "Kvir,",
+      "start": 249.28,
+      "end": 249.6
+    },
+    {
+      "word": "he",
+      "start": 249.92000000000002,
+      "end": 250.08
+    },
+    {
+      "word": "went",
+      "start": 250.08,
+      "end": 250.32
+    },
+    {
+      "word": "even",
+      "start": 250.32,
+      "end": 250.56
+    },
+    {
+      "word": "further.",
+      "start": 250.56,
+      "end": 250.88
+    },
+    {
+      "word": "He",
+      "start": 251.04,
+      "end": 251.28
+    },
+    {
+      "word": "called",
+      "start": 251.28,
+      "end": 251.76000000000002
+    },
+    {
+      "word": "for",
+      "start": 251.76000000000002,
+      "end": 251.92000000000002
+    },
+    {
+      "word": "the",
+      "start": 251.92000000000002,
+      "end": 252.24
+    },
+    {
+      "word": "dismantling",
+      "start": 252.24,
+      "end": 253.04
+    },
+    {
+      "word": "of",
+      "start": 253.04,
+      "end": 253.20000000000002
+    },
+    {
+      "word": "the",
+      "start": 253.20000000000002,
+      "end": 253.36
+    },
+    {
+      "word": "Palestinian",
+      "start": 253.36,
+      "end": 254.08
+    },
+    {
+      "word": "Authority,",
+      "start": 254.08,
+      "end": 254.56
+    },
+    {
+      "word": "uh,",
+      "start": 254.88,
+      "end": 255.04
+    },
+    {
+      "word": "even",
+      "start": 255.12,
+      "end": 255.44
+    },
+    {
+      "word": "though",
+      "start": 255.44,
+      "end": 255.76000000000002
+    },
+    {
+      "word": "there",
+      "start": 255.76000000000002,
+      "end": 256.08
+    },
+    {
+      "word": "is",
+      "start": 256.08,
+      "end": 256.24
+    },
+    {
+      "word": "absolutely",
+      "start": 256.24,
+      "end": 256.88
+    },
+    {
+      "word": "no",
+      "start": 256.88,
+      "end": 257.12
+    },
+    {
+      "word": "evidence",
+      "start": 257.12,
+      "end": 257.6
+    },
+    {
+      "word": "uh",
+      "start": 257.68,
+      "end": 257.92
+    },
+    {
+      "word": "so",
+      "start": 257.92,
+      "end": 258.24
+    },
+    {
+      "word": "far",
+      "start": 258.24,
+      "end": 258.4
+    },
+    {
+      "word": "pointing",
+      "start": 258.72,
+      "end": 259.28000000000003
+    },
+    {
+      "word": "or",
+      "start": 259.28000000000003,
+      "end": 259.52
+    },
+    {
+      "word": "suggesting",
+      "start": 259.52,
+      "end": 260.32
+    },
+    {
+      "word": "uh",
+      "start": 260.4,
+      "end": 260.56
+    },
+    {
+      "word": "that",
+      "start": 260.56,
+      "end": 260.72
+    },
+    {
+      "word": "the",
+      "start": 260.72,
+      "end": 260.88
+    },
+    {
+      "word": "Palestinian",
+      "start": 260.88,
+      "end": 261.52
+    },
+    {
+      "word": "Authority,",
+      "start": 261.52,
+      "end": 261.92
+    },
+    {
+      "word": "which",
+      "start": 262.0,
+      "end": 262.16
+    },
+    {
+      "word": "rules",
+      "start": 262.16,
+      "end": 262.56
+    },
+    {
+      "word": "the",
+      "start": 262.56,
+      "end": 262.72
+    },
+    {
+      "word": "occupied",
+      "start": 262.72,
+      "end": 263.2
+    },
+    {
+      "word": "West",
+      "start": 263.2,
+      "end": 263.44
+    },
+    {
+      "word": "Bank,",
+      "start": 263.44,
+      "end": 263.76
+    },
+    {
+      "word": "had",
+      "start": 264.0,
+      "end": 264.24
+    },
+    {
+      "word": "anything",
+      "start": 264.24,
+      "end": 264.72
+    },
+    {
+      "word": "uh",
+      "start": 264.72,
+      "end": 264.96
+    },
+    {
+      "word": "to",
+      "start": 264.96,
+      "end": 265.28000000000003
+    },
+    {
+      "word": "do",
+      "start": 265.28000000000003,
+      "end": 265.44
+    },
+    {
+      "word": "uh",
+      "start": 265.44,
+      "end": 265.68
+    },
+    {
+      "word": "with",
+      "start": 265.68,
+      "end": 265.92
+    },
+    {
+      "word": "uh",
+      "start": 265.92,
+      "end": 266.16
+    },
+    {
+      "word": "this",
+      "start": 266.16,
+      "end": 266.48
+    },
+    {
+      "word": "attack.",
+      "start": 266.48,
+      "end": 267.12
+    },
+    {
+      "word": "Uh",
+      "start": 267.28000000000003,
+      "end": 267.44
+    },
+    {
+      "word": "his",
+      "start": 267.6,
+      "end": 267.76
+    },
+    {
+      "word": "uh",
+      "start": 268.0,
+      "end": 268.32
+    },
+    {
+      "word": "partner",
+      "start": 268.32,
+      "end": 268.64
+    },
+    {
+      "word": "uh",
+      "start": 268.96,
+      "end": 269.12
+    },
+    {
+      "word": "in",
+      "start": 269.36,
+      "end": 269.6
+    },
+    {
+      "word": "uh",
+      "start": 269.6,
+      "end": 269.84000000000003
+    },
+    {
+      "word": "the",
+      "start": 269.84000000000003,
+      "end": 270.16
+    },
+    {
+      "word": "far",
+      "start": 270.16,
+      "end": 270.4
+    },
+    {
+      "word": "right,",
+      "start": 270.56,
+      "end": 270.88
+    },
+    {
+      "word": "uh",
+      "start": 270.96,
+      "end": 271.12
+    },
+    {
+      "word": "Bezamel",
+      "start": 271.28000000000003,
+      "end": 272.0
+    },
+    {
+      "word": "Smotrich,",
+      "start": 272.0,
+      "end": 272.72
+    },
+    {
+      "word": "uh,",
+      "start": 272.88,
+      "end": 273.04
+    },
+    {
+      "word": "he's",
+      "start": 273.12,
+      "end": 273.44
+    },
+    {
+      "word": "the",
+      "start": 273.44,
+      "end": 273.6
+    },
+    {
+      "word": "finance",
+      "start": 273.6,
+      "end": 274.08
+    },
+    {
+      "word": "minister.",
+      "start": 274.08,
+      "end": 274.64
+    },
+    {
+      "word": "He",
+      "start": 274.88,
+      "end": 275.2
+    },
+    {
+      "word": "went",
+      "start": 275.2,
+      "end": 275.6
+    },
+    {
+      "word": "uh",
+      "start": 275.68,
+      "end": 275.92
+    },
+    {
+      "word": "all",
+      "start": 275.92,
+      "end": 276.16
+    },
+    {
+      "word": "the",
+      "start": 276.16,
+      "end": 276.48
+    },
+    {
+      "word": "way",
+      "start": 276.48,
+      "end": 276.72
+    },
+    {
+      "word": "to",
+      "start": 276.72,
+      "end": 276.96
+    },
+    {
+      "word": "saying",
+      "start": 276.96,
+      "end": 277.36
+    },
+    {
+      "word": "that",
+      "start": 277.36,
+      "end": 277.52
+    },
+    {
+      "word": "uh",
+      "start": 277.52,
+      "end": 277.68
+    },
+    {
+      "word": "he",
+      "start": 277.68,
+      "end": 277.92
+    },
+    {
+      "word": "wanted",
+      "start": 277.92,
+      "end": 278.32
+    },
+    {
+      "word": "a",
+      "start": 278.32,
+      "end": 278.64
+    },
+    {
+      "word": "military",
+      "start": 278.64,
+      "end": 279.2
+    },
+    {
+      "word": "campaign,",
+      "start": 279.2,
+      "end": 279.76
+    },
+    {
+      "word": "quote,",
+      "start": 279.92,
+      "end": 280.40000000000003
+    },
+    {
+      "word": "exactly",
+      "start": 280.56,
+      "end": 281.36
+    },
+    {
+      "word": "like",
+      "start": 281.36,
+      "end": 281.6
+    },
+    {
+      "word": "in",
+      "start": 281.6,
+      "end": 281.84000000000003
+    },
+    {
+      "word": "Gaza",
+      "start": 281.84000000000003,
+      "end": 282.40000000000003
+    },
+    {
+      "word": "and",
+      "start": 282.40000000000003,
+      "end": 282.56
+    },
+    {
+      "word": "in",
+      "start": 282.56,
+      "end": 282.8
+    },
+    {
+      "word": "Lebanon",
+      "start": 282.8,
+      "end": 283.44
+    },
+    {
+      "word": "to",
+      "start": 283.6,
+      "end": 283.76
+    },
+    {
+      "word": "be",
+      "start": 283.76,
+      "end": 283.92
+    },
+    {
+      "word": "happening",
+      "start": 283.92,
+      "end": 284.48
+    },
+    {
+      "word": "uh",
+      "start": 284.56,
+      "end": 284.8
+    },
+    {
+      "word": "in",
+      "start": 284.8,
+      "end": 285.12
+    },
+    {
+      "word": "the",
+      "start": 285.12,
+      "end": 285.36
+    },
+    {
+      "word": "West",
+      "start": 285.36,
+      "end": 285.6
+    },
+    {
+      "word": "Bank.",
+      "start": 285.6,
+      "end": 285.92
+    },
+    {
+      "word": "And",
+      "start": 286.0,
+      "end": 286.16
+    },
+    {
+      "word": "he",
+      "start": 286.16,
+      "end": 286.40000000000003
+    },
+    {
+      "word": "said",
+      "start": 286.40000000000003,
+      "end": 286.64
+    },
+    {
+      "word": "in",
+      "start": 286.72,
+      "end": 286.88
+    },
+    {
+      "word": "the",
+      "start": 286.88,
+      "end": 287.04
+    },
+    {
+      "word": "next",
+      "start": 287.04,
+      "end": 287.36
+    },
+    {
+      "word": "government,",
+      "start": 287.36,
+      "end": 287.76
+    },
+    {
+      "word": "this",
+      "start": 287.92,
+      "end": 288.08
+    },
+    {
+      "word": "will",
+      "start": 288.08,
+      "end": 288.24
+    },
+    {
+      "word": "be",
+      "start": 288.24,
+      "end": 288.40000000000003
+    },
+    {
+      "word": "one",
+      "start": 288.40000000000003,
+      "end": 288.56
+    },
+    {
+      "word": "of",
+      "start": 288.56,
+      "end": 288.64
+    },
+    {
+      "word": "the",
+      "start": 288.64,
+      "end": 288.8
+    },
+    {
+      "word": "first",
+      "start": 288.8,
+      "end": 289.04
+    },
+    {
+      "word": "measures",
+      "start": 289.04,
+      "end": 289.68
+    },
+    {
+      "word": "that",
+      "start": 289.68,
+      "end": 290.0
+    },
+    {
+      "word": "we",
+      "start": 290.0,
+      "end": 290.24
+    },
+    {
+      "word": "must",
+      "start": 290.24,
+      "end": 290.56
+    },
+    {
+      "word": "demand",
+      "start": 290.56,
+      "end": 291.12
+    },
+    {
+      "word": "and",
+      "start": 291.12,
+      "end": 291.44
+    },
+    {
+      "word": "apply.",
+      "start": 291.44,
+      "end": 292.08
+    },
+    {
+      "word": "So",
+      "start": 292.24,
+      "end": 292.48
+    },
+    {
+      "word": "using",
+      "start": 292.72,
+      "end": 293.12
+    },
+    {
+      "word": "this",
+      "start": 293.12,
+      "end": 293.36
+    },
+    {
+      "word": "as",
+      "start": 293.36,
+      "end": 293.52
+    },
+    {
+      "word": "a",
+      "start": 293.52,
+      "end": 293.68
+    },
+    {
+      "word": "political",
+      "start": 293.68,
+      "end": 294.16
+    },
+    {
+      "word": "uh",
+      "start": 294.16,
+      "end": 294.40000000000003
+    },
+    {
+      "word": "tool",
+      "start": 294.40000000000003,
+      "end": 294.72
+    },
+    {
+      "word": "to",
+      "start": 294.72,
+      "end": 295.04
+    },
+    {
+      "word": "motivate",
+      "start": 295.04,
+      "end": 295.6
+    },
+    {
+      "word": "his",
+      "start": 295.6,
+      "end": 295.92
+    },
+    {
+      "word": "base",
+      "start": 295.92,
+      "end": 296.24
+    },
+    {
+      "word": "on",
+      "start": 296.40000000000003,
+      "end": 296.64
+    },
+    {
+      "word": "uh",
+      "start": 296.64,
+      "end": 296.72
+    },
+    {
+      "word": "the",
+      "start": 296.72,
+      "end": 296.96
+    },
+    {
+      "word": "far",
+      "start": 296.96,
+      "end": 297.2
+    },
+    {
+      "word": "right.",
+      "start": 297.2,
+      "end": 297.44
+    },
+    {
+      "word": "In",
+      "start": 297.6,
+      "end": 297.84000000000003
+    },
+    {
+      "word": "contrast,",
+      "start": 297.84000000000003,
+      "end": 298.48
+    },
+    {
+      "word": "you",
+      "start": 298.56,
+      "end": 298.8
+    },
+    {
+      "word": "had",
+      "start": 298.8,
+      "end": 299.04
+    },
+    {
+      "word": "uh",
+      "start": 299.04,
+      "end": 299.12
+    },
+    {
+      "word": "uh",
+      "start": 299.36,
+      "end": 299.44
+    },
+    {
+      "word": "Ghadi",
+      "start": 299.52,
+      "end": 299.92
+    },
+    {
+      "word": "Azankat,",
+      "start": 300.08,
+      "end": 300.96
+    },
+    {
+      "word": "who",
+      "start": 301.04,
+      "end": 301.2
+    },
+    {
+      "word": "is",
+      "start": 301.2,
+      "end": 301.28000000000003
+    },
+    {
+      "word": "the",
+      "start": 301.28000000000003,
+      "end": 301.36
+    },
+    {
+      "word": "top",
+      "start": 301.36,
+      "end": 301.68
+    },
+    {
+      "word": "rival",
+      "start": 301.68,
+      "end": 302.08
+    },
+    {
+      "word": "of",
+      "start": 302.08,
+      "end": 302.24
+    },
+    {
+      "word": "uh",
+      "start": 302.24,
+      "end": 302.40000000000003
+    },
+    {
+      "word": "Benjamin",
+      "start": 302.40000000000003,
+      "end": 302.88
+    },
+    {
+      "word": "Netanyahu",
+      "start": 302.96,
+      "end": 303.84000000000003
+    },
+    {
+      "word": "in",
+      "start": 303.84000000000003,
+      "end": 303.92
+    },
+    {
+      "word": "these",
+      "start": 303.92,
+      "end": 304.08
+    },
+    {
+      "word": "elections,",
+      "start": 304.08,
+      "end": 304.56
+    },
+    {
+      "word": "who",
+      "start": 304.72,
+      "end": 304.96
+    },
+    {
+      "word": "simply",
+      "start": 304.96,
+      "end": 305.44
+    },
+    {
+      "word": "focused",
+      "start": 305.44,
+      "end": 306.08
+    },
+    {
+      "word": "on",
+      "start": 306.08,
+      "end": 306.32
+    },
+    {
+      "word": "uh",
+      "start": 306.32,
+      "end": 306.56
+    },
+    {
+      "word": "hailing",
+      "start": 306.8,
+      "end": 307.52
+    },
+    {
+      "word": "the",
+      "start": 307.52,
+      "end": 307.76
+    },
+    {
+      "word": "heroism,",
+      "start": 307.76,
+      "end": 308.48
+    },
+    {
+      "word": "as",
+      "start": 308.56,
+      "end": 308.8
+    },
+    {
+      "word": "he",
+      "start": 308.8,
+      "end": 309.12
+    },
+    {
+      "word": "said,",
+      "start": 309.12,
+      "end": 309.36
+    },
+    {
+      "word": "of",
+      "start": 309.6,
+      "end": 309.84000000000003
+    },
+    {
+      "word": "the",
+      "start": 309.84000000000003,
+      "end": 310.08
+    },
+    {
+      "word": "soldiers",
+      "start": 310.08,
+      "end": 310.88
+    },
+    {
+      "word": "who",
+      "start": 310.88,
+      "end": 311.04
+    },
+    {
+      "word": "uh",
+      "start": 311.12,
+      "end": 311.28000000000003
+    },
+    {
+      "word": "thwarted",
+      "start": 311.28000000000003,
+      "end": 312.0
+    },
+    {
+      "word": "that",
+      "start": 312.0,
+      "end": 312.24
+    },
+    {
+      "word": "attack,",
+      "start": 312.24,
+      "end": 312.72
+    },
+    {
+      "word": "and",
+      "start": 312.96,
+      "end": 313.2
+    },
+    {
+      "word": "uh",
+      "start": 313.2,
+      "end": 313.36
+    },
+    {
+      "word": "speaking",
+      "start": 313.52,
+      "end": 314.08
+    },
+    {
+      "word": "and",
+      "start": 314.08,
+      "end": 314.24
+    },
+    {
+      "word": "focusing",
+      "start": 314.24,
+      "end": 315.04
+    },
+    {
+      "word": "on",
+      "start": 315.04,
+      "end": 315.28000000000003
+    },
+    {
+      "word": "the",
+      "start": 315.28000000000003,
+      "end": 315.44
+    },
+    {
+      "word": "recovery",
+      "start": 315.44,
+      "end": 316.08
+    },
+    {
+      "word": "of",
+      "start": 316.08,
+      "end": 316.24
+    },
+    {
+      "word": "those",
+      "start": 316.24,
+      "end": 316.56
+    },
+    {
+      "word": "who",
+      "start": 316.56,
+      "end": 316.8
+    },
+    {
+      "word": "were",
+      "start": 316.8,
+      "end": 316.96
+    },
+    {
+      "word": "wounded",
+      "start": 316.96,
+      "end": 317.44
+    },
+    {
+      "word": "in",
+      "start": 317.44,
+      "end": 317.6
+    },
+    {
+      "word": "the",
+      "start": 317.6,
+      "end": 317.76
+    },
+    {
+      "word": "attack,",
+      "start": 317.76,
+      "end": 318.08
+    },
+    {
+      "word": "but",
+      "start": 318.16,
+      "end": 318.32
+    },
+    {
+      "word": "it",
+      "start": 318.32,
+      "end": 318.48
+    },
+    {
+      "word": "gives",
+      "start": 318.48,
+      "end": 318.72
+    },
+    {
+      "word": "you",
+      "start": 318.72,
+      "end": 318.88
+    },
+    {
+      "word": "an",
+      "start": 318.88,
+      "end": 319.04
+    },
+    {
+      "word": "idea",
+      "start": 319.04,
+      "end": 319.52
+    },
+    {
+      "word": "of",
+      "start": 319.52,
+      "end": 319.76
+    },
+    {
+      "word": "how",
+      "start": 319.76,
+      "end": 320.0
+    },
+    {
+      "word": "heightened",
+      "start": 320.0,
+      "end": 320.64
+    },
+    {
+      "word": "the",
+      "start": 320.64,
+      "end": 320.8
+    },
+    {
+      "word": "tensions",
+      "start": 320.8,
+      "end": 321.44
+    },
+    {
+      "word": "and",
+      "start": 321.44,
+      "end": 321.68
+    },
+    {
+      "word": "the",
+      "start": 321.68,
+      "end": 321.84000000000003
+    },
+    {
+      "word": "concerns",
+      "start": 321.84000000000003,
+      "end": 322.32
+    },
+    {
+      "word": "about",
+      "start": 322.32,
+      "end": 322.56
+    },
+    {
+      "word": "security",
+      "start": 322.56,
+      "end": 323.2
+    },
+    {
+      "word": "are",
+      "start": 323.2,
+      "end": 323.36
+    },
+    {
+      "word": "just",
+      "start": 323.44,
+      "end": 323.68
+    },
+    {
+      "word": "uh",
+      "start": 323.68,
+      "end": 323.84000000000003
+    },
+    {
+      "word": "a",
+      "start": 323.84000000000003,
+      "end": 323.92
+    },
+    {
+      "word": "few",
+      "start": 323.92,
+      "end": 324.16
+    },
+    {
+      "word": "days",
+      "start": 324.16,
+      "end": 324.40000000000003
+    },
+    {
+      "word": "before",
+      "start": 324.40000000000003,
+      "end": 324.64
+    },
+    {
+      "word": "those",
+      "start": 324.64,
+      "end": 324.88
+    },
+    {
+      "word": "elections.",
+      "start": 324.88,
+      "end": 325.28000000000003
+    }
+  ],
+  "sentences": [
+    {
+      "text": "All political events this Friday and ordered a closure of the West Bank following a shooting there that wounded at least five Israelis.",
+      "start": 0.16,
+      "end": 8.32
+    },
+    {
+      "text": "The Israeli army says it's launched offensive counter-terrorism operations in the territory after thwarting a terror attack against Israeli civilians.",
+      "start": 8.72,
+      "end": 18.48
+    },
+    {
+      "text": "Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron.",
+      "start": 18.88,
+      "end": 24.400000000000002
+    },
+    {
+      "text": "For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani.",
+      "start": 24.8,
+      "end": 30.16
+    },
+    {
+      "text": "It's great to see you.",
+      "start": 30.400000000000002,
+      "end": 31.36
+    },
+    {
+      "text": "So Ket, at this point, what more do we know about what's happening in the West Bank?",
+      "start": 31.52,
+      "end": 35.68
+    },
+    {
+      "text": "Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+      "start": 36.0,
+      "end": 57.6
+    },
+    {
+      "text": "Uh the Israeli emergency services say that five Israelis, all in their 20s, were injured in uh that attack, and that two at least are currently in a critical uh condition, though it is unclear whether uh those who were wounded uh were civilians or uh were Israeli uh soldiers.",
+      "start": 57.76,
+      "end": 78.24
+    },
+    {
+      "text": "That we don't know at this point.",
+      "start": 78.4,
+      "end": 79.84
+    },
+    {
+      "text": "Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react.",
+      "start": 80.0,
+      "end": 84.32000000000001
+    },
+    {
+      "text": "And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack.",
+      "start": 84.4,
+      "end": 104.0
+    },
+    {
+      "text": "Now, authorities are not uh giving for now any details on what that major attack uh would have entailed, what the target was, and they didn't give more indication about the identities of uh the two men, uh, besides saying that they were from uh the Hebron uh area.",
+      "start": 104.16,
+      "end": 122.32000000000001
+    },
+    {
+      "text": "Uh Hamas has reacted uh to the attack.",
+      "start": 122.48,
+      "end": 126.0
+    },
+    {
+      "text": "They called it a natural and legitimate response to the ongoing crimes and brutal attacks against our people, but they stopped short of uh endorsing of claiming actual responsibility uh for uh this attack, even though uh the Israeli authorities, as I was saying, are pointing the finger at Hamas.",
+      "start": 126.16,
+      "end": 144.4
+    },
+    {
+      "text": "And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday.",
+      "start": 145.44,
+      "end": 152.4
+    },
+    {
+      "text": "How have uh Israeli political figures been reacting to all of this?",
+      "start": 152.56,
+      "end": 156.64000000000001
+    },
+    {
+      "text": "Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement.",
+      "start": 157.04,
+      "end": 167.84
+    },
+    {
+      "text": "Uh he had been uh warning of potential uh attacks uh in the lead up uh to uh this vote, and now he has said, as you mentioned, that he ordered uh the immediate uh closing off of the city of uh Hebron, and he ordered uh the Israeli forces to prepare for a full lockdown across all of Judea and Samaria starting today, using, of course, uh the Israeli uh term for uh the occupied uh West Bank.",
+      "start": 168.0,
+      "end": 193.20000000000002
+    },
+    {
+      "text": "What's interesting, this is uh the statement that he posted on X in a Hebrew originally that has been translated.",
+      "start": 193.36,
+      "end": 200.56
+    },
+    {
+      "text": "And that line that was equaled in yellow is actually not the same one as the one uh that uh was posted uh in uh the English uh language.",
+      "start": 200.64000000000001,
+      "end": 210.96
+    },
+    {
+      "text": "So you're seeing uh the English the Hebrew there talking about this full lockdown of uh the occupied West Bank in the English language statement that was sent to foreign reporters to uh the press, uh, he simply speaks of additional measures to prevent terrorist attacks originating from uh the occupied West Bank.",
+      "start": 211.12,
+      "end": 231.68
+    },
+    {
+      "text": "So not exactly as uh strong of a worded uh statement uh as it is in Hebrew, which is obviously for a domestic audience just four days uh before uh those elections.",
+      "start": 231.76,
+      "end": 242.64000000000001
+    },
+    {
+      "text": "He was not the only one to react, obviously.",
+      "start": 242.8,
+      "end": 245.52
+    },
+    {
+      "text": "Uh the far right national security minister uh Itamar Ben Kvir, he went even further.",
+      "start": 245.6,
+      "end": 250.88
+    },
+    {
+      "text": "He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack.",
+      "start": 251.04,
+      "end": 267.12
+    },
+    {
+      "text": "Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister.",
+      "start": 267.28000000000003,
+      "end": 274.64
+    },
+    {
+      "text": "He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank.",
+      "start": 274.88,
+      "end": 285.92
+    },
+    {
+      "text": "And he said in the next government, this will be one of the first measures that we must demand and apply.",
+      "start": 286.0,
+      "end": 292.08
+    },
+    {
+      "text": "So using this as a political uh tool to motivate his base on uh the far right.",
+      "start": 292.24,
+      "end": 297.44
+    },
+    {
+      "text": "In contrast, you had uh uh Ghadi Azankat, who is the top rival of uh Benjamin Netanyahu in these elections, who simply focused on uh hailing the heroism, as he said, of the soldiers who uh thwarted that attack, and uh speaking and focusing on the recovery of those who were wounded in the attack, but it gives you an idea of how heightened the tensions and the concerns about security are just uh a few days before those elections.",
+      "start": 297.6,
+      "end": 325.28000000000003
+    }
+  ]
+}

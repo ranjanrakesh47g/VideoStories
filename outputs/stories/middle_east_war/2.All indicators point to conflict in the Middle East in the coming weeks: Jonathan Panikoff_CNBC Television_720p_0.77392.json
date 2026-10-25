@@ -1,0 +1,14 @@
+{
+  "start": 26.8,
+  "end": 46.88,
+  "duration": 20.080000000000002,
+  "max_len": 30,
+  "text": "And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+  "parts": {
+    "centrality": 0.9068520216427285,
+    "lead": 0.6596671630277386,
+    "density": 0.5203984029353854,
+    "clarity": 0.8217604160308838
+  },
+  "importance": 0.7739195254300756
+}

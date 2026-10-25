@@ -1,0 +1,14 @@
+{
+  "start": 168.24,
+  "end": 205.44,
+  "duration": 37.19999999999999,
+  "max_len": 45,
+  "text": "These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved. Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US.",
+  "parts": {
+    "centrality": 0.5738782733109359,
+    "lead": 0.32066075516515297,
+    "density": 0.3827055957583989,
+    "clarity": 0.8390757441520691
+  },
+  "importance": 0.5741181093012386
+}

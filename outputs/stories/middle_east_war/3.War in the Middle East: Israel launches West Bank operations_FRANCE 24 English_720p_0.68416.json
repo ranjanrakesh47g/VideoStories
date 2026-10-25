@@ -1,0 +1,14 @@
+{
+  "start": 231.76,
+  "end": 250.88,
+  "duration": 19.120000000000005,
+  "max_len": 30,
+  "text": "So not exactly as uh strong of a worded uh statement uh as it is in Hebrew, which is obviously for a domestic audience just four days uh before uh those elections. He was not the only one to react, obviously. Uh the far right national security minister uh Itamar Ben Kvir, he went even further.",
+  "parts": {
+    "centrality": 0.7383154897881801,
+    "lead": 0.057845743526884666,
+    "density": 0.9016393501154604,
+    "clarity": 0.9297918677330017
+  },
+  "importance": 0.6841630329684596
+}

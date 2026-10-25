@@ -1,0 +1,14 @@
+{
+  "start": 384.24,
+  "end": 413.44,
+  "duration": 29.19999999999999,
+  "max_len": 30,
+  "text": "It has been targeting Saudi Arabia and targeting US military facilities in the Middle East. That has caused a great deal of difficulty for America's allies in the region, and also means that things like patriot missile systems are vital to protect against those ballistic missiles are now running in really short supply. In short, what I'm saying is that there is no military answer to this predicament. If President Trump decides to revert back to using the military, it isn't going to change the game.",
+  "parts": {
+    "centrality": 0.41001686980395735,
+    "lead": 0.10774425197428833,
+    "density": 0.5967783826447279,
+    "clarity": 0.8990327715873718
+  },
+  "importance": 0.5242813436991633
+}

@@ -1,0 +1,14 @@
+{
+  "start": 285.44,
+  "end": 301.04,
+  "duration": 15.600000000000023,
+  "max_len": 30,
+  "text": "And the might of America always prevails over the conventional Iranian forces. But Iran has prepared for this day to be able to control the Strait of Hormuz with drones, with anti-ship missiles, with uh fast patrol boats and mines.",
+  "parts": {
+    "centrality": 0.8283168161835305,
+    "lead": 0.19107133653746067,
+    "density": 0.6236907215617237,
+    "clarity": 0.8648820519447327
+  },
+  "importance": 0.6811433767894062
+}

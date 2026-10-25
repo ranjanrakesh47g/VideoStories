@@ -1,0 +1,14 @@
+{
+  "start": 15.84,
+  "end": 34.08,
+  "duration": 18.24,
+  "max_len": 45,
+  "text": "The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers. Neither claim has been independently confirmed.",
+  "parts": {
+    "centrality": 0.3952096042320203,
+    "lead": 0.8288449208699933,
+    "density": 0.4887463396685717,
+    "clarity": 0.9879519939422607
+  },
+  "importance": 0.6737898947881698
+}

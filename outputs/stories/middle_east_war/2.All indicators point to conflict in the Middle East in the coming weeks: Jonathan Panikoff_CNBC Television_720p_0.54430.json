@@ -1,0 +1,14 @@
+{
+  "start": 188.48,
+  "end": 231.76,
+  "duration": 43.28,
+  "max_len": 45,
+  "text": "I think that's still open. But the reality is there is a lot of frustration and a lot of concern in Ukraine itself, frankly, about what the US has and hasn't been doing. And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute. And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic. In other words, could you see a point where frankly in the coming years the Russians actually uh provide anti-aircraft systems back into Iran?",
+  "parts": {
+    "centrality": 0.8983147686956812,
+    "lead": 0.053621807292931756,
+    "density": 0.2686790383206115,
+    "clarity": 0.5961980819702148
+  },
+  "importance": 0.5442958108412309
+}

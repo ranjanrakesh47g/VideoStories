@@ -1,0 +1,14 @@
+{
+  "start": 335.12,
+  "end": 361.68,
+  "duration": 26.560000000000002,
+  "max_len": 30,
+  "text": "We, for example, have seen that the US has moved another aircraft carrier into the region in recent weeks. What do you think will happen? Well, I know the conjecture is all that there'll be a big increase in military action again, but you have to go back to the start of this war. President Trump claimed within four to six weeks the war would be over, that he would have won, that America's superpower would have devastated Iran. And in many respects it did.",
+  "parts": {
+    "centrality": 0.48217075957928124,
+    "lead": 0.14324838047460198,
+    "density": 0.6850549002599485,
+    "clarity": 0.8617710471153259
+  },
+  "importance": 0.5586989911212589
+}

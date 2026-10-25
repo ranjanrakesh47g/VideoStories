@@ -1,0 +1,14 @@
+{
+  "start": 18.88,
+  "end": 35.68,
+  "duration": 16.8,
+  "max_len": 30,
+  "text": "Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank?",
+  "parts": {
+    "centrality": 0.6103664316180422,
+    "lead": 0.7928119617769328,
+    "density": 1.0,
+    "clarity": 0.271831214427948
+  },
+  "importance": 0.6037400077500857
+}

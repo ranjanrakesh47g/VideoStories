@@ -1,0 +1,14 @@
+{
+  "start": 199.6,
+  "end": 228.8,
+  "duration": 29.200000000000017,
+  "max_len": 30,
+  "text": "But what we do know is that the US president, when it comes to any sort of interruption or decrease in oil, is pointing the finger at Iran, saying that it is Iran that is responsible for any interruptions, particularly ahead of the US midterm elections, making the case that Iran may even even be able, even may even be deliberately taking this sort of action.",
+  "parts": {
+    "centrality": 0.719145377304981,
+    "lead": 0.09390332790229823,
+    "density": 0.19438366786048608,
+    "clarity": 0.8849372267723083
+  },
+  "importance": 0.5651202658479684
+}

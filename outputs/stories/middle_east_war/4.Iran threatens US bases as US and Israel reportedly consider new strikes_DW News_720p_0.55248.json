@@ -1,0 +1,14 @@
+{
+  "start": 227.44,
+  "end": 271.68,
+  "duration": 44.24000000000001,
+  "max_len": 45,
+  "text": "How can it stock up weapons? Yeah, it's interesting, isn't it? We tend to look at these problems through a Western lens. Um, that our economy is based, you know, on a on a um a democratic system. We have to remember in Iran, it's an autocratic system. The leadership have stowed money away for years. There's no doubt I have friends who have relations in Iran, and they say life is very difficult there indeed. But that hasn't stopped the Iranian leadership having plenty of money and facilities to actually make these weapons. It's also worth noting that although there's a blockade on the Strait of Hormuz, there's lots of land routes that provide resupply in to Iran. So they're not short of getting kids and equipment in.",
+  "parts": {
+    "centrality": 0.5992942384808849,
+    "lead": 0.2674564413485791,
+    "density": 0.8357477868328816,
+    "clarity": 0.5462540984153748
+  },
+  "importance": 0.5524826692875702
+}

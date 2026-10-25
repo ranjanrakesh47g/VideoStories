@@ -1,0 +1,14 @@
+{
+  "start": 0.16,
+  "end": 32.24,
+  "duration": 32.080000000000005,
+  "max_len": 45,
+  "text": "Dan, this BRICS summit is really interesting because it came from kind of an off-handed remark that somebody made on the sidelines of Anga, and now it has become a real thing and a real meeting. And Modi is hosting it, and he had some comments already this morning, talking about, you know, countries like his are bearing the brunt of global crises and that they shouldn't remain on the sidelines while decisions are being made. He says, quote, we must transform this pyramid of privilege into a platform of partnership. But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting?",
+  "parts": {
+    "centrality": 0.5869800334690582,
+    "lead": 0.9989189190242674,
+    "density": 0.35965188459187053,
+    "clarity": 0.41288521885871887
+  },
+  "importance": 0.5830401438654201
+}

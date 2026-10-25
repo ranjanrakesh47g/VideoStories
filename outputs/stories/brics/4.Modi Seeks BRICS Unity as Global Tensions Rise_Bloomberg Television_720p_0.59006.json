@@ -1,0 +1,14 @@
+{
+  "start": 188.32,
+  "end": 215.52,
+  "duration": 27.200000000000017,
+  "max_len": 30,
+  "text": "Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US. Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart.",
+  "parts": {
+    "centrality": 0.6017427197498535,
+    "lead": 0.27995662298270224,
+    "density": 0.4913702140462593,
+    "clarity": 0.8325091600418091
+  },
+  "importance": 0.5900595566284708
+}

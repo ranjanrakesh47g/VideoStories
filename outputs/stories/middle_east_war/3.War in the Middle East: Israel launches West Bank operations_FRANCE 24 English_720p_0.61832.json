@@ -1,0 +1,14 @@
+{
+  "start": 122.44,
+  "end": 156.64000000000001,
+  "duration": 34.20000000000002,
+  "max_len": 45,
+  "text": "Uh Hamas has reacted uh to the attack. They called it a natural and legitimate response to the ongoing crimes and brutal attacks against our people, but they stopped short of uh endorsing of claiming actual responsibility uh for uh this attack, even though uh the Israeli authorities, as I was saying, are pointing the finger at Hamas. And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday. How have uh Israeli political figures been reacting to all of this?",
+  "parts": {
+    "centrality": 0.6731432005105622,
+    "lead": 0.22187155069713582,
+    "density": 0.6358626223698267,
+    "clarity": 0.8098781704902649
+  },
+  "importance": 0.6183172748206773
+}

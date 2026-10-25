@@ -1,0 +1,14 @@
+{
+  "start": 390.8,
+  "end": 416.64,
+  "duration": 25.839999999999975,
+  "max_len": 30,
+  "text": "That has caused a great deal of difficulty for America's allies in the region, and also means that things like patriot missile systems are vital to protect against those ballistic missiles are now running in really short supply. In short, what I'm saying is that there is no military answer to this predicament. If President Trump decides to revert back to using the military, it isn't going to change the game. All we are going to see is a lot more uproar from the Middle East.",
+  "parts": {
+    "centrality": 0.6147998798615405,
+    "lead": 0.1037228642752457,
+    "density": 0.5817890742315341,
+    "clarity": 0.6654105186462402
+  },
+  "importance": 0.5228160475351904
+}

@@ -1,0 +1,14 @@
+{
+  "start": 87.36,
+  "end": 127.04,
+  "duration": 39.68000000000001,
+  "max_len": 45,
+  "text": "So in this declaration, they have opposed any unilateral tariffs and sanctions. They say it goes against international law. In their declaration, BRICS Nations have taken aim at the highest power structure of the UN, the United Nations Security Council, calling for it to be more democratic with more representation from Asia, Africa, and Latin America. Apart from the so-called Delhi Declaration, we've seen bilateral meetings between leaders of India and China and the United Arab Emirates and Iran. Beijing has offered to mediate between Washington and Tehran to resolve the ongoing Gulf crisis.",
+  "parts": {
+    "centrality": 0.9238737695794585,
+    "lead": 0.06388761703982383,
+    "density": 0.5793714303707211,
+    "clarity": 0.659953236579895
+  },
+  "importance": 0.621025028290352
+}

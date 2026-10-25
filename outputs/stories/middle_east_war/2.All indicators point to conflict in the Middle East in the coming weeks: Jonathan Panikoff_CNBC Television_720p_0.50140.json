@@ -1,0 +1,14 @@
+{
+  "start": 200.08,
+  "end": 222.24,
+  "duration": 22.159999999999997,
+  "max_len": 30,
+  "text": "And there is a real interesting point here because there's a convergence of factors between Russia and Iran that's starting to become more acute. And I think one of the things that you're gonna see more of, and at least more analysts, myself including looking at, is whether that convergence goes from something that's just tactical of cooperation between Moscow and Tehran in the coming years, to something that's much more strategic.",
+  "parts": {
+    "centrality": 0.7961973801017196,
+    "lead": 0.044785639270937226,
+    "density": 0.26396414725890727,
+    "clarity": 0.5805898904800415
+  },
+  "importance": 0.5013978001226378
+}

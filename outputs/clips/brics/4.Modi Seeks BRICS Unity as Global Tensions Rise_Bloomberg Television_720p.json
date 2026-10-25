@@ -1,0 +1,2104 @@
+{
+  "clips": [
+    {
+      "start": 0.16,
+      "end": 29.2,
+      "duration": 29.04,
+      "max_len": 30,
+      "text": "Dan, this BRICS summit is really interesting because it came from kind of an off-handed remark that somebody made on the sidelines of Anga, and now it has become a real thing and a real meeting. And Modi is hosting it, and he had some comments already this morning, talking about, you know, countries like his are bearing the brunt of global crises and that they shouldn't remain on the sidelines while decisions are being made. He says, quote, we must transform this pyramid of privilege into a platform of partnership. But of course, the big issue is codifying that in a tangible way.",
+      "parts": {
+        "centrality": 0.6008454771846158,
+        "lead": 0.9989189190242674,
+        "density": 0.3115737317966176,
+        "clarity": 0.4596824645996094
+      },
+      "importance": 0.5947204999688445
+    },
+    {
+      "start": 10.0,
+      "end": 32.24,
+      "duration": 22.240000000000002,
+      "max_len": 30,
+      "text": "And Modi is hosting it, and he had some comments already this morning, talking about, you know, countries like his are bearing the brunt of global crises and that they shouldn't remain on the sidelines while decisions are being made. He says, quote, we must transform this pyramid of privilege into a platform of partnership. But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting?",
+      "parts": {
+        "centrality": 0.6559008072930067,
+        "lead": 0.9346304108702228,
+        "density": 0.5614679373336524,
+        "clarity": 0.6405234336853027
+      },
+      "importance": 0.6928685854322355
+    },
+    {
+      "start": 21.2,
+      "end": 48.64,
+      "duration": 27.44,
+      "max_len": 30,
+      "text": "He says, quote, we must transform this pyramid of privilege into a platform of partnership. But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting? So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today.",
+      "parts": {
+        "centrality": 0.662680413931989,
+        "lead": 0.8664761333895006,
+        "density": 0.4163531374412388,
+        "clarity": 0.7136312127113342
+      },
+      "importance": 0.6817757059836823
+    },
+    {
+      "start": 26.240000000000002,
+      "end": 48.64,
+      "duration": 22.4,
+      "max_len": 30,
+      "text": "But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting? So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today.",
+      "parts": {
+        "centrality": 0.7166524921687288,
+        "lead": 0.837450446404499,
+        "density": 0.39247251058385246,
+        "clarity": 0.7088176012039185
+      },
+      "importance": 0.6898346184887083
+    },
+    {
+      "start": 29.28,
+      "end": 48.64,
+      "duration": 19.36,
+      "max_len": 30,
+      "text": "Are we expecting any deliverables out of this meeting? So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today.",
+      "parts": {
+        "centrality": 0.671170513127039,
+        "lead": 0.8204151100513526,
+        "density": 0.35453382133167854,
+        "clarity": 0.6861597299575806
+      },
+      "importance": 0.6580206937917601
+    },
+    {
+      "start": 33.52,
+      "end": 48.64,
+      "duration": 15.119999999999997,
+      "max_len": 30,
+      "text": "So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today.",
+      "parts": {
+        "centrality": 0.9419048957126748,
+        "lead": 0.7972324569189289,
+        "density": 0.32707061493157946,
+        "clarity": 0.5648186802864075
+      },
+      "importance": 0.7076194012088811
+    },
+    {
+      "start": 48.72,
+      "end": 77.92,
+      "duration": 29.200000000000003,
+      "max_len": 30,
+      "text": "I mean, you have, of course, most notably Iran, uh, whose president is is is here and delivered a very fiery speech last night, uh, essentially a speech of defiance against the US saying that Iran will not surrender in the face of the uh uh the the US Israeli war, which is now in its sixth uh sixth month. Um you have uh at the same time, you have the UAE uh and Saudi Arabia, which have sort of been at odds with uh with Iran throughout this war.",
+      "parts": {
+        "centrality": 0.42145662409871326,
+        "lead": 0.7193787939784161,
+        "density": 0.3047529176478842,
+        "clarity": 0.7429815530776978
+      },
+      "importance": 0.5599929808007248
+    },
+    {
+      "start": 69.12,
+      "end": 97.92,
+      "duration": 28.799999999999997,
+      "max_len": 30,
+      "text": "Um you have uh at the same time, you have the UAE uh and Saudi Arabia, which have sort of been at odds with uh with Iran throughout this war. Uh India, of course, trying to sort of straddle all these different camps. Um, and then on the other side, uh where you have a whole other set of interests is of course Russia and and China. Um and so you really have uh uh, you know, in this in this group of BRICS countries, which which has always cast itself as this kind of uh uh group of emerging economies in the world, wildly divergent interests.",
+      "parts": {
+        "centrality": 0.7573335565925654,
+        "lead": 0.6267048325970787,
+        "density": 0.4819999517666698,
+        "clarity": 0.671901285648346
+      },
+      "importance": 0.6642780897863179
+    },
+    {
+      "start": 78.08,
+      "end": 102.88,
+      "duration": 24.799999999999997,
+      "max_len": 30,
+      "text": "Uh India, of course, trying to sort of straddle all these different camps. Um, and then on the other side, uh where you have a whole other set of interests is of course Russia and and China. Um and so you really have uh uh, you know, in this in this group of BRICS countries, which which has always cast itself as this kind of uh uh group of emerging economies in the world, wildly divergent interests. And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement.",
+      "parts": {
+        "centrality": 0.7890189442007228,
+        "lead": 0.5898701249862114,
+        "density": 0.49378587553696196,
+        "clarity": 0.7350715398788452
+      },
+      "importance": 0.6887199987616931
+    },
+    {
+      "start": 81.68,
+      "end": 109.84,
+      "duration": 28.159999999999997,
+      "max_len": 30,
+      "text": "Um, and then on the other side, uh where you have a whole other set of interests is of course Russia and and China. Um and so you really have uh uh, you know, in this in this group of BRICS countries, which which has always cast itself as this kind of uh uh group of emerging economies in the world, wildly divergent interests. And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement. But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry.",
+      "parts": {
+        "centrality": 0.8598488367974713,
+        "lead": 0.575687458008776,
+        "density": 0.5215982851493676,
+        "clarity": 0.7092205882072449
+      },
+      "importance": 0.7070905037154487
+    },
+    {
+      "start": 87.04,
+      "end": 117.04,
+      "duration": 30.0,
+      "max_len": 30,
+      "text": "Um and so you really have uh uh, you know, in this in this group of BRICS countries, which which has always cast itself as this kind of uh uh group of emerging economies in the world, wildly divergent interests. And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement. But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave.",
+      "parts": {
+        "centrality": 0.8175268530658957,
+        "lead": 0.5552003850191316,
+        "density": 0.63461886723777,
+        "clarity": 0.7112303972244263
+      },
+      "importance": 0.7057364248298832
+    },
+    {
+      "start": 98.0,
+      "end": 125.92,
+      "duration": 27.92,
+      "max_len": 30,
+      "text": "And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement. But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders.",
+      "parts": {
+        "centrality": 0.611810653701049,
+        "lead": 0.5155503638676293,
+        "density": 0.5668164428161452,
+        "clarity": 0.6185500621795654
+      },
+      "importance": 0.5878312866451845
+    },
+    {
+      "start": 103.04,
+      "end": 130.08,
+      "duration": 27.040000000000006,
+      "max_len": 30,
+      "text": "But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India.",
+      "parts": {
+        "centrality": 0.6558916149726317,
+        "lead": 0.4982801784464934,
+        "density": 0.6755255751583102,
+        "clarity": 0.7306743860244751
+      },
+      "importance": 0.6497492530108088
+    },
+    {
+      "start": 109.68,
+      "end": 130.08,
+      "duration": 20.400000000000006,
+      "max_len": 30,
+      "text": "I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India.",
+      "parts": {
+        "centrality": 0.6472526362358205,
+        "lead": 0.4764074125570471,
+        "density": 0.750991750314946,
+        "clarity": 0.7575254440307617
+      },
+      "importance": 0.6617263009504171
+    },
+    {
+      "start": 110.0,
+      "end": 130.08,
+      "duration": 20.080000000000013,
+      "max_len": 30,
+      "text": "So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India.",
+      "parts": {
+        "centrality": 0.6573272391253273,
+        "lead": 0.47537789937075026,
+        "density": 0.6656676680290508,
+        "clarity": 0.7554566264152527
+      },
+      "importance": 0.651627251696948
+    },
+    {
+      "start": 112.08,
+      "end": 141.04,
+      "duration": 28.959999999999994,
+      "max_len": 30,
+      "text": "That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention.",
+      "parts": {
+        "centrality": 0.843196317592506,
+        "lead": 0.4687400781299643,
+        "density": 0.4823085487862093,
+        "clarity": 0.5758265256881714
+      },
+      "importance": 0.6339609668077528
+    },
+    {
+      "start": 116.0,
+      "end": 142.56,
+      "duration": 26.560000000000002,
+      "max_len": 30,
+      "text": "That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi?",
+      "parts": {
+        "centrality": 0.6743079782401555,
+        "lead": 0.4564812378339358,
+        "density": 0.6113097440373592,
+        "clarity": 0.7521036267280579
+      },
+      "importance": 0.6446315895748628
+    },
+    {
+      "start": 116.64,
+      "end": 142.56,
+      "duration": 25.92,
+      "max_len": 30,
+      "text": "Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi?",
+      "parts": {
+        "centrality": 0.6342512706355201,
+        "lead": 0.454510463836046,
+        "density": 0.4732029812782187,
+        "clarity": 0.7404559254646301
+      },
+      "importance": 0.6060072623207631
+    },
+    {
+      "start": 117.36,
+      "end": 146.8,
+      "duration": 29.440000000000012,
+      "max_len": 30,
+      "text": "Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India?",
+      "parts": {
+        "centrality": 0.6385114605254276,
+        "lead": 0.45230351152000653,
+        "density": 0.3789665182992919,
+        "clarity": 0.687839686870575
+      },
+      "importance": 0.5771365972939673
+    },
+    {
+      "start": 126.16,
+      "end": 153.36,
+      "duration": 27.200000000000017,
+      "max_len": 30,
+      "text": "Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+      "parts": {
+        "centrality": 0.6064731599114978,
+        "lead": 0.42618001313582393,
+        "density": 0.6275842364821284,
+        "clarity": 0.6920179724693298
+      },
+      "importance": 0.5992446358093072
+    },
+    {
+      "start": 130.24,
+      "end": 153.36,
+      "duration": 23.120000000000005,
+      "max_len": 30,
+      "text": "Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+      "parts": {
+        "centrality": 0.5608450049516867,
+        "lead": 0.41458554980155743,
+        "density": 0.5907990097140526,
+        "clarity": 0.6632328629493713
+      },
+      "importance": 0.5668025720353211
+    },
+    {
+      "start": 141.28,
+      "end": 170.64000000000001,
+      "duration": 29.360000000000014,
+      "max_len": 30,
+      "text": "What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals.",
+      "parts": {
+        "centrality": 0.5287277585274768,
+        "lead": 0.3847694825104187,
+        "density": 0.6700092960966176,
+        "clarity": 0.6018276214599609
+      },
+      "importance": 0.5430582928391815
+    },
+    {
+      "start": 142.72,
+      "end": 170.64000000000001,
+      "duration": 27.920000000000016,
+      "max_len": 30,
+      "text": "How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals.",
+      "parts": {
+        "centrality": 0.4842329625974397,
+        "lead": 0.38104192801434533,
+        "density": 0.5694437136917185,
+        "clarity": 0.5469801425933838
+      },
+      "importance": 0.4952005223437459
+    },
+    {
+      "start": 148.0,
+      "end": 176.96,
+      "duration": 28.960000000000008,
+      "max_len": 30,
+      "text": "Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute.",
+      "parts": {
+        "centrality": 0.5101262871614196,
+        "lead": 0.3676805336655182,
+        "density": 0.5445812034786763,
+        "clarity": 0.5382551550865173
+      },
+      "importance": 0.4952440342873572
+    },
+    {
+      "start": 150.4,
+      "end": 176.96,
+      "duration": 26.560000000000002,
+      "max_len": 30,
+      "text": "The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute.",
+      "parts": {
+        "centrality": 0.452600926495773,
+        "lead": 0.3617630572794759,
+        "density": 0.45742558075206663,
+        "clarity": 0.6203916668891907
+      },
+      "importance": 0.4854942729089829
+    },
+    {
+      "start": 153.52,
+      "end": 176.96,
+      "duration": 23.439999999999998,
+      "max_len": 30,
+      "text": "Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute.",
+      "parts": {
+        "centrality": 0.4760928925429464,
+        "lead": 0.35421248642487724,
+        "density": 0.4185569062404496,
+        "clarity": 0.7041601538658142
+      },
+      "importance": 0.5115065917708184
+    },
+    {
+      "start": 168.24,
+      "end": 188.16,
+      "duration": 19.919999999999987,
+      "max_len": 30,
+      "text": "These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved.",
+      "parts": {
+        "centrality": 0.524071758136713,
+        "lead": 0.32066075516515297,
+        "density": 0.49414949460548085,
+        "clarity": 0.7908535599708557
+      },
+      "importance": 0.5589357585629591
+    },
+    {
+      "start": 170.72,
+      "end": 188.16,
+      "duration": 17.439999999999998,
+      "max_len": 30,
+      "text": "They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved.",
+      "parts": {
+        "centrality": 0.4453476449951105,
+        "lead": 0.3153294317526986,
+        "density": 0.3520498201748159,
+        "clarity": 0.842863142490387
+      },
+      "importance": 0.5246039778721668
+    },
+    {
+      "start": 177.12,
+      "end": 205.44,
+      "duration": 28.319999999999993,
+      "max_len": 30,
+      "text": "Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved. Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US.",
+      "parts": {
+        "centrality": 0.8458884057713714,
+        "lead": 0.3019771272182782,
+        "density": 0.28937286268441603,
+        "clarity": 0.7399865388870239
+      },
+      "importance": 0.6218582585324052
+    },
+    {
+      "start": 188.32,
+      "end": 215.52,
+      "duration": 27.200000000000017,
+      "max_len": 30,
+      "text": "Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US. Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart.",
+      "parts": {
+        "centrality": 0.6017427197498535,
+        "lead": 0.27995662298270224,
+        "density": 0.4913702140462593,
+        "clarity": 0.8325091600418091
+      },
+      "importance": 0.5900595566284708
+    },
+    {
+      "start": 201.84,
+      "end": 229.20000000000002,
+      "duration": 27.360000000000014,
+      "max_len": 30,
+      "text": "On the one hand, you have you know, India, a long-standing partner of the US. Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape.",
+      "parts": {
+        "centrality": 0.5840651667022794,
+        "lead": 0.2555029399122097,
+        "density": 0.5365587977983691,
+        "clarity": 0.50146484375
+      },
+      "importance": 0.48644666912299506
+    },
+    {
+      "start": 205.68,
+      "end": 229.20000000000002,
+      "duration": 23.52000000000001,
+      "max_len": 30,
+      "text": "Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape.",
+      "parts": {
+        "centrality": 0.5353292864893888,
+        "lead": 0.24895544325874652,
+        "density": 0.5517350394409086,
+        "clarity": 0.7138307690620422
+      },
+      "importance": 0.5340658255577844
+    },
+    {
+      "start": 213.36,
+      "end": 240.64000000000001,
+      "duration": 27.28,
+      "max_len": 30,
+      "text": "Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend.",
+      "parts": {
+        "centrality": 0.6334138682735083,
+        "lead": 0.23635950707309186,
+        "density": 0.3548862749142399,
+        "clarity": 0.5755879878997803
+      },
+      "importance": 0.4948760929174163
+    },
+    {
+      "start": 215.76,
+      "end": 240.64000000000001,
+      "duration": 24.880000000000024,
+      "max_len": 30,
+      "text": "At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend.",
+      "parts": {
+        "centrality": 0.6049667008194413,
+        "lead": 0.23255552053135684,
+        "density": 0.2586953896039309,
+        "clarity": 0.5416513085365295
+      },
+      "importance": 0.4595491503946243
+    },
+    {
+      "start": 221.68,
+      "end": 240.64000000000001,
+      "duration": 18.960000000000008,
+      "max_len": 30,
+      "text": "So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend.",
+      "parts": {
+        "centrality": 0.7093579353471664,
+        "lead": 0.22343205451473067,
+        "density": 0.1723299613104793,
+        "clarity": 0.3640989661216736
+      },
+      "importance": 0.4280408723075283
+    },
+    {
+      "start": 229.28,
+      "end": 254.8,
+      "duration": 25.52000000000001,
+      "max_len": 30,
+      "text": "And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend. There's also this interesting anecdote that I was reading, I think in your article or one of our colleagues, that just ahead of the arrival, China's Southern Airlines announced that it's gonna resume its daily route to Guangzhou from New Delhi starting uh September 21st.",
+      "parts": {
+        "centrality": 0.35687318355919256,
+        "lead": 0.21224223437016967,
+        "density": 0.09356964997713746,
+        "clarity": 0.7067978978157043
+      },
+      "importance": 0.3934288779610332
+    },
+    {
+      "start": 241.04,
+      "end": 265.6,
+      "duration": 24.56000000000003,
+      "max_len": 30,
+      "text": "There's also this interesting anecdote that I was reading, I think in your article or one of our colleagues, that just ahead of the arrival, China's Southern Airlines announced that it's gonna resume its daily route to Guangzhou from New Delhi starting uh September 21st. So this is the first time they've relaunched this route after a six-year suspension, and it's the third major Chinese airlines to restore service between the two countries. I mean, is this more than just symbolic?",
+      "parts": {
+        "centrality": 0.0,
+        "lead": 0.19602178550511073,
+        "density": 0.22425285425430122,
+        "clarity": 0.7903685569763184
+      },
+      "importance": 0.3099528523320628
+    },
+    {
+      "start": 254.88,
+      "end": 280.72,
+      "duration": 25.840000000000032,
+      "max_len": 30,
+      "text": "So this is the first time they've relaunched this route after a six-year suspension, and it's the third major Chinese airlines to restore service between the two countries. I mean, is this more than just symbolic? As somebody who covered the Abraham Accords, the first step in a lot of those deals was opening air space to Israeli planes, you know, and then you would see the the accord follow. Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step.",
+      "parts": {
+        "centrality": 0.2733947482471281,
+        "lead": 0.17851305126787106,
+        "density": 0.40337050254012075,
+        "clarity": 0.8519527912139893
+      },
+      "importance": 0.4474821848852839
+    },
+    {
+      "start": 263.36,
+      "end": 289.68,
+      "duration": 26.319999999999993,
+      "max_len": 30,
+      "text": "I mean, is this more than just symbolic? As somebody who covered the Abraham Accords, the first step in a lot of those deals was opening air space to Israeli planes, you know, and then you would see the the accord follow. Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right?",
+      "parts": {
+        "centrality": 0.4282122586080898,
+        "lead": 0.1685670223285238,
+        "density": 0.3004685315514365,
+        "clarity": 0.7244806289672852
+      },
+      "importance": 0.44600216340143717
+    },
+    {
+      "start": 265.68,
+      "end": 289.68,
+      "duration": 24.0,
+      "max_len": 30,
+      "text": "As somebody who covered the Abraham Accords, the first step in a lot of those deals was opening air space to Israeli planes, you know, and then you would see the the accord follow. Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right?",
+      "parts": {
+        "centrality": 0.35954400323209196,
+        "lead": 0.1659438164151418,
+        "density": 0.37406866711790093,
+        "clarity": 0.7350715398788452
+      },
+      "importance": 0.43566092644559923
+    },
+    {
+      "start": 273.76,
+      "end": 296.56,
+      "duration": 22.80000000000001,
+      "max_len": 30,
+      "text": "Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China.",
+      "parts": {
+        "centrality": 0.6529520551099433,
+        "lead": 0.15712240552316606,
+        "density": 0.3653132518714917,
+        "clarity": 0.7844842076301575
+      },
+      "importance": 0.5500999504628843
+    },
+    {
+      "start": 276.48,
+      "end": 296.56,
+      "duration": 20.079999999999984,
+      "max_len": 30,
+      "text": "So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China.",
+      "parts": {
+        "centrality": 0.6627078106515382,
+        "lead": 0.1542595906060706,
+        "density": 0.3181279388952439,
+        "clarity": 0.8755743503570557
+      },
+      "importance": 0.5731911477906557
+    },
+    {
+      "start": 280.8,
+      "end": 307.68,
+      "duration": 26.879999999999995,
+      "max_len": 30,
+      "text": "And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India.",
+      "parts": {
+        "centrality": 0.6850700225004571,
+        "lead": 0.14981959359860675,
+        "density": 0.3459183915081066,
+        "clarity": 0.5722447633743286
+      },
+      "importance": 0.49329961433339586
+    },
+    {
+      "start": 285.28000000000003,
+      "end": 307.68,
+      "duration": 22.399999999999977,
+      "max_len": 30,
+      "text": "You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India.",
+      "parts": {
+        "centrality": 0.5844211438148436,
+        "lead": 0.14535008611781255,
+        "density": 0.34689727441175583,
+        "clarity": 0.6761924028396606
+      },
+      "importance": 0.4885097295724193
+    },
+    {
+      "start": 289.84000000000003,
+      "end": 316.72,
+      "duration": 26.879999999999995,
+      "max_len": 30,
+      "text": "Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship.",
+      "parts": {
+        "centrality": 0.8042836032706275,
+        "lead": 0.14093767130725132,
+        "density": 0.3365670358833248,
+        "clarity": 0.7453984022140503
+      },
+      "importance": 0.5837913714528837
+    },
+    {
+      "start": 296.64,
+      "end": 323.6,
+      "duration": 26.960000000000036,
+      "max_len": 30,
+      "text": "And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship. Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries.",
+      "parts": {
+        "centrality": 0.6781500076737851,
+        "lead": 0.1346053212395942,
+        "density": 0.35532562415329877,
+        "clarity": 0.836821436882019
+      },
+      "importance": 0.5686188416213441
+    },
+    {
+      "start": 307.84000000000003,
+      "end": 323.6,
+      "duration": 15.759999999999991,
+      "max_len": 30,
+      "text": "So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship. Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries.",
+      "parts": {
+        "centrality": 0.5888339983196078,
+        "lead": 0.12478975317392067,
+        "density": 0.3452154329364755,
+        "clarity": 0.5180585384368896
+      },
+      "importance": 0.43824972651818506
+    },
+    {
+      "start": 316.88,
+      "end": 342.08,
+      "duration": 25.19999999999999,
+      "max_len": 30,
+      "text": "Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries. So um so that that is a very good example, and I think, you know, uh it it might this might be the sort of thing where you might see kind of more examples of this kind of you know come out of this announcement uh out of this meeting uh you know in the days in the days to come for sure. Dan, I want to go back to something Christina mentioned, which is kind of the genesis of of this term.",
+      "parts": {
+        "centrality": 0.6009779547429625,
+        "lead": 0.11739170286671112,
+        "density": 0.29787664761427346,
+        "clarity": 0.5491571426391602
+      },
+      "importance": 0.4432492646672681
+    },
+    {
+      "start": 323.76,
+      "end": 349.6,
+      "duration": 25.840000000000032,
+      "max_len": 30,
+      "text": "So um so that that is a very good example, and I think, you know, uh it it might this might be the sort of thing where you might see kind of more examples of this kind of you know come out of this announcement uh out of this meeting uh you know in the days in the days to come for sure. Dan, I want to go back to something Christina mentioned, which is kind of the genesis of of this term. So going back even further, it was Jim O'Neill, the the Goldman Sachs economist who coined the BRIC term and then grew more and more and became this this real vital thing.",
+      "parts": {
+        "centrality": 0.20637281942614868,
+        "lead": 0.11205665626957192,
+        "density": 0.29103854987151423,
+        "clarity": 0.7283620834350586
+      },
+      "importance": 0.35680622556431113
+    },
+    {
+      "start": 338.56,
+      "end": 365.28000000000003,
+      "duration": 26.720000000000027,
+      "max_len": 30,
+      "text": "Dan, I want to go back to something Christina mentioned, which is kind of the genesis of of this term. So going back even further, it was Jim O'Neill, the the Goldman Sachs economist who coined the BRIC term and then grew more and more and became this this real vital thing. We we've seen the consternation from Washington from President Trump about uh its growth, the might that it's been flexing on the international scene. Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward.",
+      "parts": {
+        "centrality": 0.23181653137884176,
+        "lead": 0.10138757201113692,
+        "density": 0.3218732423542219,
+        "clarity": 0.6529055833816528
+      },
+      "importance": 0.34556596175245113
+    },
+    {
+      "start": 342.16,
+      "end": 365.28000000000003,
+      "duration": 23.120000000000005,
+      "max_len": 30,
+      "text": "So going back even further, it was Jim O'Neill, the the Goldman Sachs economist who coined the BRIC term and then grew more and more and became this this real vital thing. We we've seen the consternation from Washington from President Trump about uh its growth, the might that it's been flexing on the international scene. Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward.",
+      "parts": {
+        "centrality": 0.2566709434988621,
+        "lead": 0.0989498385023949,
+        "density": 0.4144948441470938,
+        "clarity": 0.7727022171020508
+      },
+      "importance": 0.40360968967776
+    },
+    {
+      "start": 349.76,
+      "end": 377.04,
+      "duration": 27.28000000000003,
+      "max_len": 30,
+      "text": "We we've seen the consternation from Washington from President Trump about uh its growth, the might that it's been flexing on the international scene. Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward. Yeah, no, it's funny that I mean this this group was basically a branding exercise developed by by Goldman Sachs some years ago, and now it's it's turned into this group to a real kind of grouping that does get together every year.",
+      "parts": {
+        "centrality": 0.7022758833436867,
+        "lead": 0.09399427875256434,
+        "density": 0.2697934207860536,
+        "clarity": 0.5686553716659546
+      },
+      "importance": 0.4756610395384976
+    },
+    {
+      "start": 357.76,
+      "end": 381.28000000000003,
+      "duration": 23.52000000000004,
+      "max_len": 30,
+      "text": "Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward. Yeah, no, it's funny that I mean this this group was basically a branding exercise developed by by Goldman Sachs some years ago, and now it's it's turned into this group to a real kind of grouping that does get together every year. Um there's always been this tension within the BRICS, right?",
+      "parts": {
+        "centrality": 0.48338835057238866,
+        "lead": 0.08904578074031043,
+        "density": 0.33110984423947537,
+        "clarity": 0.5954926013946533
+      },
+      "importance": 0.4153093359027154
+    },
+    {
+      "start": 365.68,
+      "end": 381.28000000000003,
+      "duration": 15.600000000000023,
+      "max_len": 30,
+      "text": "Yeah, no, it's funny that I mean this this group was basically a branding exercise developed by by Goldman Sachs some years ago, and now it's it's turned into this group to a real kind of grouping that does get together every year. Um there's always been this tension within the BRICS, right?",
+      "parts": {
+        "centrality": 0.33630077055977353,
+        "lead": 0.08440344112871925,
+        "density": 0.3726787023965167,
+        "clarity": 0.6148566603660583
+      },
+      "importance": 0.37494476139095956
+    },
+    {
+      "start": 377.2,
+      "end": 396.56,
+      "duration": 19.360000000000014,
+      "max_len": 30,
+      "text": "Um there's always been this tension within the BRICS, right? Is it uh is it uh is it a block with uh a set of of kind of coherent interests that stands in opposition to the US-led order, or is it just kind of uh a bunch of countries, a motley group of countries that gets together once a year and and has a chat?",
+      "parts": {
+        "centrality": 0.8192717717629762,
+        "lead": 0.0780795545730763,
+        "density": 0.34559733869288417,
+        "clarity": 0.4416729807853699
+      },
+      "importance": 0.48670252607120046
+    },
+    {
+      "start": 381.52,
+      "end": 396.56,
+      "duration": 15.04000000000002,
+      "max_len": 30,
+      "text": "Is it uh is it uh is it a block with uh a set of of kind of coherent interests that stands in opposition to the US-led order, or is it just kind of uh a bunch of countries, a motley group of countries that gets together once a year and and has a chat?",
+      "parts": {
+        "centrality": 0.6078572349734626,
+        "lead": 0.07583221949791812,
+        "density": 0.22461523631599026,
+        "clarity": 0.46514448523521423
+      },
+      "importance": 0.40115210715825833
+    },
+    {
+      "start": 396.8,
+      "end": 416.96000000000004,
+      "duration": 20.160000000000025,
+      "max_len": 30,
+      "text": "I think the introduction of countries like Iran and of course, you know, uh the the sort of uh uh posture of countries like Russia have have been trying to push the group over the years in recent years more towards that kind of we're an anti-US group, but we're an alternative US group. That's all an alternative to the US-led order.",
+      "parts": {
+        "centrality": 0.3473971629435216,
+        "lead": 0.06838983353766923,
+        "density": 0.3184874284268579,
+        "clarity": 0.5959630012512207
+      },
+      "importance": 0.36182898837716126
+    },
+    {
+      "start": 414.48,
+      "end": 437.28000000000003,
+      "duration": 22.80000000000001,
+      "max_len": 30,
+      "text": "That's all an alternative to the US-led order. Um, on the other hand, you have countries like India that really wants to kind of keep this group something, something a bit more informal, something that's just kind of a uh a meetup of countries to kind of discuss uh, you know, the issues of the day, issues like trade and and and cooperation on AI and and and things that are that are sort of a bit a bit softer in nature.",
+      "parts": {
+        "centrality": 0.7341743164946546,
+        "lead": 0.060685216249549104,
+        "density": 0.3298068536367884,
+        "clarity": 0.6446726322174072
+      },
+      "importance": 0.5119708717337794
+    },
+    {
+      "start": 417.12,
+      "end": 437.28000000000003,
+      "duration": 20.160000000000025,
+      "max_len": 30,
+      "text": "Um, on the other hand, you have countries like India that really wants to kind of keep this group something, something a bit more informal, something that's just kind of a uh a meetup of countries to kind of discuss uh, you know, the issues of the day, issues like trade and and and cooperation on AI and and and things that are that are sort of a bit a bit softer in nature.",
+      "parts": {
+        "centrality": 0.5792718222306175,
+        "lead": 0.05961174562507867,
+        "density": 0.17374186578761625,
+        "clarity": 0.666496753692627
+      },
+      "importance": 0.44067779288166237
+    },
+    {
+      "start": 437.44,
+      "end": 465.76,
+      "duration": 28.319999999999993,
+      "max_len": 30,
+      "text": "Um, and so uh uh, you know, the fact that this is happening in India, which is a country that does sort of really pride itself on having um uh what they call strategic autonomy, which is this kind of ability to kind of maintain relationships with China, with Russia, with Iran, but also with the US, kind of keep everybody happy and be a conduit of communication for everybody, is is very notable, and I think is is a big reason why you do see kind of really all the BRICS leaders coming here today in New Delhi.",
+      "parts": {
+        "centrality": 0.8976988467873607,
+        "lead": 0.05196035774106368,
+        "density": 0.16335821243746335,
+        "clarity": 0.515863835811615
+      },
+      "importance": 0.5038495505328929
+    },
+    {
+      "start": 465.84000000000003,
+      "end": 492.56,
+      "duration": 26.71999999999997,
+      "max_len": 30,
+      "text": "It says a lot about kind of India's ability to kind of be that that middle ground kind of country where where everybody can kind of come together and at least hash out uh uh uh some of these issues and and be heard. So the evolution of the BRICS has been a super interesting development that that has that has really underscored this over the last you know many years. And Dan, before we let you go, I mean, the thing that's also strikes me is that Iran is actually in the room with these leaders. And whenever we talk about US negotiations, that is not the case.",
+      "parts": {
+        "centrality": 0.9002694521440141,
+        "lead": 0.04288342567471722,
+        "density": 0.4551437989484983,
+        "clarity": 0.32723817229270935
+      },
+      "importance": 0.4901140149154358
+    },
+    {
+      "start": 476.8,
+      "end": 503.52000000000004,
+      "duration": 26.720000000000027,
+      "max_len": 30,
+      "text": "So the evolution of the BRICS has been a super interesting development that that has that has really underscored this over the last you know many years. And Dan, before we let you go, I mean, the thing that's also strikes me is that Iran is actually in the room with these leaders. And whenever we talk about US negotiations, that is not the case. You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal?",
+      "parts": {
+        "centrality": 0.5015307466444201,
+        "lead": 0.0398208760423123,
+        "density": 0.6811996572110279,
+        "clarity": 0.6453434824943542
+      },
+      "importance": 0.4792829298639699
+    },
+    {
+      "start": 484.08,
+      "end": 514.0,
+      "duration": 29.920000000000016,
+      "max_len": 30,
+      "text": "And Dan, before we let you go, I mean, the thing that's also strikes me is that Iran is actually in the room with these leaders. And whenever we talk about US negotiations, that is not the case. You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance.",
+      "parts": {
+        "centrality": 0.2556746581876223,
+        "lead": 0.03790850548850601,
+        "density": 0.6847384848296572,
+        "clarity": 0.7142295837402344
+      },
+      "importance": 0.41404747930988783
+    },
+    {
+      "start": 489.52,
+      "end": 514.0,
+      "duration": 24.480000000000018,
+      "max_len": 30,
+      "text": "And whenever we talk about US negotiations, that is not the case. You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance.",
+      "parts": {
+        "centrality": 0.2216641542492988,
+        "lead": 0.03653968280357882,
+        "density": 0.8408390901295809,
+        "clarity": 0.7094219326972961
+      },
+      "importance": 0.4238428338765963
+    },
+    {
+      "start": 492.72,
+      "end": 514.0,
+      "duration": 21.279999999999973,
+      "max_len": 30,
+      "text": "You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance.",
+      "parts": {
+        "centrality": 0.21992671557762153,
+        "lead": 0.035757697291119835,
+        "density": 0.8006863752573695,
+        "clarity": 0.739610493183136
+      },
+      "importance": 0.42611199415393775
+    },
+    {
+      "start": 498.72,
+      "end": 514.0,
+      "duration": 15.279999999999973,
+      "max_len": 30,
+      "text": "How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance.",
+      "parts": {
+        "centrality": 0.14961627920285278,
+        "lead": 0.034336299485415,
+        "density": 1.0,
+        "clarity": 0.7443777322769165
+      },
+      "importance": 0.4325462773011564
+    },
+    {
+      "start": 502.48,
+      "end": 530.24,
+      "duration": 27.75999999999999,
+      "max_len": 30,
+      "text": "And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.4292827133278462,
+        "lead": 0.0334744996042987,
+        "density": 0.4805613409681885,
+        "clarity": 0.5999540090560913
+      },
+      "importance": 0.4090142534476615
+    },
+    {
+      "start": 503.68,
+      "end": 530.24,
+      "duration": 26.560000000000002,
+      "max_len": 30,
+      "text": "What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.43525898326267715,
+        "lead": 0.033204036500929526,
+        "density": 0.42499074722200675,
+        "clarity": 0.5727227330207825
+      },
+      "importance": 0.39454688343165867
+    },
+    {
+      "start": 507.84000000000003,
+      "end": 530.24,
+      "duration": 22.399999999999977,
+      "max_len": 30,
+      "text": "Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.40546414954499366,
+        "lead": 0.03228323773617123,
+        "density": 0.4126263069917606,
+        "clarity": 0.6667137742042542
+      },
+      "importance": 0.41027717819802234
+    },
+    {
+      "start": 510.56,
+      "end": 530.24,
+      "duration": 19.680000000000007,
+      "max_len": 30,
+      "text": "I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.7347613633076275,
+        "lead": 0.03169502796267955,
+        "density": 0.3448771573383524,
+        "clarity": 0.7345005869865417
+      },
+      "importance": 0.5355872324469209
+    },
+    {
+      "start": 514.24,
+      "end": 530.24,
+      "duration": 16.0,
+      "max_len": 30,
+      "text": "Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.7717721685197453,
+        "lead": 0.030916236821557877,
+        "density": 0.24116000528111134,
+        "clarity": 0.8164063692092896
+      },
+      "importance": 0.557399417901176
+    },
+    {
+      "start": 530.32,
+      "end": 558.4,
+      "duration": 28.079999999999927,
+      "max_len": 30,
+      "text": "Um there's a lot of countries in New Delhi today, a lot of leaders in New Delhi today from countries that have been antagonized that see themselves um as sort of uh perhaps victims of a more um predatory US and and that might have uh a sort of willing uh new kind of partnership uh to be made here with uh uh uh amongst amongst themselves. So I think with Iran, you do really see uh a really clear example of kind of this this new turn that the BRICS might be taking.",
+      "parts": {
+        "centrality": 0.8700881804874255,
+        "lead": 0.02773164278325303,
+        "density": 0.27443212807074013,
+        "clarity": 0.43254268169403076
+      },
+      "importance": 0.48100481544606977
+    },
+    {
+      "start": 551.28,
+      "end": 579.6,
+      "duration": 28.32000000000005,
+      "max_len": 30,
+      "text": "So I think with Iran, you do really see uh a really clear example of kind of this this new turn that the BRICS might be taking. And uh, you know, it it's notable, hard to say if it's coincidence that just overnight you had this this major development in the Middle East where um, you know, these Iranian backed militants in Yemen, the Houthis have attacked uh uh undertaken these attacks that have caused more disruptions in the oil flow from the Middle East, Saudi Arabia closing down its pipeline um and causing further disruptions as well.",
+      "parts": {
+        "centrality": 0.7243242946088213,
+        "lead": 0.024067824962661424,
+        "density": 0.28328359016580645,
+        "clarity": 0.5722447037696838
+      },
+      "importance": 0.47249301776139585
+    },
+    {
+      "start": 558.5600000000001,
+      "end": 586.96,
+      "duration": 28.399999999999977,
+      "max_len": 30,
+      "text": "And uh, you know, it it's notable, hard to say if it's coincidence that just overnight you had this this major development in the Middle East where um, you know, these Iranian backed militants in Yemen, the Houthis have attacked uh uh undertaken these attacks that have caused more disruptions in the oil flow from the Middle East, Saudi Arabia closing down its pipeline um and causing further disruptions as well. And and that's all kind of just just reminded everybody here in New Delhi today what what the real elephant in the room is, which is which is this war.",
+      "parts": {
+        "centrality": 0.5195150708543154,
+        "lead": 0.022911983998644154,
+        "density": 0.24674962790601374,
+        "clarity": 0.7409248948097229
+      },
+      "importance": 0.44570258422755815
+    },
+    {
+      "start": 579.6800000000001,
+      "end": 591.6800000000001,
+      "duration": 12.0,
+      "max_len": 30,
+      "text": "And and that's all kind of just just reminded everybody here in New Delhi today what what the real elephant in the room is, which is which is this war. Um, and and um uh is is is absolutely kind of at the top of the agenda as well.",
+      "parts": {
+        "centrality": 0.4398311713206093,
+        "lead": 0.019863427193510814,
+        "density": 0.4378875207116463,
+        "clarity": 0.5392258763313293
+      },
+      "importance": 0.3853644864070611
+    },
+    {
+      "start": 0.16,
+      "end": 32.24,
+      "duration": 32.080000000000005,
+      "max_len": 45,
+      "text": "Dan, this BRICS summit is really interesting because it came from kind of an off-handed remark that somebody made on the sidelines of Anga, and now it has become a real thing and a real meeting. And Modi is hosting it, and he had some comments already this morning, talking about, you know, countries like his are bearing the brunt of global crises and that they shouldn't remain on the sidelines while decisions are being made. He says, quote, we must transform this pyramid of privilege into a platform of partnership. But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting?",
+      "parts": {
+        "centrality": 0.5869800334690582,
+        "lead": 0.9989189190242674,
+        "density": 0.35965188459187053,
+        "clarity": 0.41288521885871887
+      },
+      "importance": 0.5830401438654201
+    },
+    {
+      "start": 10.0,
+      "end": 48.64,
+      "duration": 38.64,
+      "max_len": 45,
+      "text": "And Modi is hosting it, and he had some comments already this morning, talking about, you know, countries like his are bearing the brunt of global crises and that they shouldn't remain on the sidelines while decisions are being made. He says, quote, we must transform this pyramid of privilege into a platform of partnership. But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting? So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today.",
+      "parts": {
+        "centrality": 0.7544112999211714,
+        "lead": 0.9346304108702228,
+        "density": 0.38624004038435694,
+        "clarity": 0.48072242736816406
+      },
+      "importance": 0.6531227714145573
+    },
+    {
+      "start": 21.2,
+      "end": 48.64,
+      "duration": 27.44,
+      "max_len": 45,
+      "text": "He says, quote, we must transform this pyramid of privilege into a platform of partnership. But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting? So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today.",
+      "parts": {
+        "centrality": 0.662680413931989,
+        "lead": 0.8664761333895006,
+        "density": 0.4163531374412388,
+        "clarity": 0.7134315967559814
+      },
+      "importance": 0.6817158211970764
+    },
+    {
+      "start": 26.240000000000002,
+      "end": 68.96000000000001,
+      "duration": 42.720000000000006,
+      "max_len": 45,
+      "text": "But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting? So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today. I mean, you have, of course, most notably Iran, uh, whose president is is is here and delivered a very fiery speech last night, uh, essentially a speech of defiance against the US saying that Iran will not surrender in the face of the uh uh the the US Israeli war, which is now in its sixth uh sixth month.",
+      "parts": {
+        "centrality": 0.7027358598455925,
+        "lead": 0.837450446404499,
+        "density": 0.28414610686281355,
+        "clarity": 0.6460136771202087
+      },
+      "importance": 0.6498736593923418
+    },
+    {
+      "start": 29.28,
+      "end": 68.96000000000001,
+      "duration": 39.68000000000001,
+      "max_len": 45,
+      "text": "Are we expecting any deliverables out of this meeting? So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today. I mean, you have, of course, most notably Iran, uh, whose president is is is here and delivered a very fiery speech last night, uh, essentially a speech of defiance against the US saying that Iran will not surrender in the face of the uh uh the the US Israeli war, which is now in its sixth uh sixth month.",
+      "parts": {
+        "centrality": 0.6818346862115825,
+        "lead": 0.8204151100513526,
+        "density": 0.2574652223657723,
+        "clarity": 0.5739172697067261
+      },
+      "importance": 0.613520126451208
+    },
+    {
+      "start": 33.52,
+      "end": 77.92,
+      "duration": 44.4,
+      "max_len": 45,
+      "text": "So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today. I mean, you have, of course, most notably Iran, uh, whose president is is is here and delivered a very fiery speech last night, uh, essentially a speech of defiance against the US saying that Iran will not surrender in the face of the uh uh the the US Israeli war, which is now in its sixth uh sixth month. Um you have uh at the same time, you have the UAE uh and Saudi Arabia, which have sort of been at odds with uh with Iran throughout this war.",
+      "parts": {
+        "centrality": 0.7153269956189582,
+        "lead": 0.7972324569189289,
+        "density": 0.2597259511453607,
+        "clarity": 0.4335017502307892
+      },
+      "importance": 0.578820357591462
+    },
+    {
+      "start": 48.72,
+      "end": 86.88,
+      "duration": 38.16,
+      "max_len": 45,
+      "text": "I mean, you have, of course, most notably Iran, uh, whose president is is is here and delivered a very fiery speech last night, uh, essentially a speech of defiance against the US saying that Iran will not surrender in the face of the uh uh the the US Israeli war, which is now in its sixth uh sixth month. Um you have uh at the same time, you have the UAE uh and Saudi Arabia, which have sort of been at odds with uh with Iran throughout this war. Uh India, of course, trying to sort of straddle all these different camps. Um, and then on the other side, uh where you have a whole other set of interests is of course Russia and and China.",
+      "parts": {
+        "centrality": 0.7283528740735921,
+        "lead": 0.7193787939784161,
+        "density": 0.3729655397710251,
+        "clarity": 0.7283620238304138
+      },
+      "importance": 0.6732527028362184
+    },
+    {
+      "start": 69.12,
+      "end": 112.0,
+      "duration": 42.879999999999995,
+      "max_len": 45,
+      "text": "Um you have uh at the same time, you have the UAE uh and Saudi Arabia, which have sort of been at odds with uh with Iran throughout this war. Uh India, of course, trying to sort of straddle all these different camps. Um, and then on the other side, uh where you have a whole other set of interests is of course Russia and and China. Um and so you really have uh uh, you know, in this in this group of BRICS countries, which which has always cast itself as this kind of uh uh group of emerging economies in the world, wildly divergent interests. And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement. But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that.",
+      "parts": {
+        "centrality": 0.8649219161950571,
+        "lead": 0.6267048325970787,
+        "density": 0.5003293322581032,
+        "clarity": 0.6383845210075378
+      },
+      "importance": 0.6946283933286626
+    },
+    {
+      "start": 78.08,
+      "end": 117.04,
+      "duration": 38.96000000000001,
+      "max_len": 45,
+      "text": "Uh India, of course, trying to sort of straddle all these different camps. Um, and then on the other side, uh where you have a whole other set of interests is of course Russia and and China. Um and so you really have uh uh, you know, in this in this group of BRICS countries, which which has always cast itself as this kind of uh uh group of emerging economies in the world, wildly divergent interests. And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement. But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave.",
+      "parts": {
+        "centrality": 0.9392960791419132,
+        "lead": 0.5898701249862114,
+        "density": 0.6068783335536939,
+        "clarity": 0.7626008987426758
+      },
+      "importance": 0.7665396723527687
+    },
+    {
+      "start": 81.68,
+      "end": 125.92,
+      "duration": 44.239999999999995,
+      "max_len": 45,
+      "text": "Um, and then on the other side, uh where you have a whole other set of interests is of course Russia and and China. Um and so you really have uh uh, you know, in this in this group of BRICS countries, which which has always cast itself as this kind of uh uh group of emerging economies in the world, wildly divergent interests. And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement. But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders.",
+      "parts": {
+        "centrality": 0.8994199735964116,
+        "lead": 0.575687458008776,
+        "density": 0.49897104541506837,
+        "clarity": 0.6167050004005432
+      },
+      "importance": 0.6897916392929224
+    },
+    {
+      "start": 87.04,
+      "end": 130.08,
+      "duration": 43.040000000000006,
+      "max_len": 45,
+      "text": "Um and so you really have uh uh, you know, in this in this group of BRICS countries, which which has always cast itself as this kind of uh uh group of emerging economies in the world, wildly divergent interests. And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement. But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India.",
+      "parts": {
+        "centrality": 1.0,
+        "lead": 0.5552003850191316,
+        "density": 0.5361793891536295,
+        "clarity": 0.7300974726676941
+      },
+      "importance": 0.760496227177179
+    },
+    {
+      "start": 98.0,
+      "end": 142.56,
+      "duration": 44.56,
+      "max_len": 45,
+      "text": "And so you do so the fact that there is a joint statement coming, and we're still waiting for that joint statement. But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi?",
+      "parts": {
+        "centrality": 0.8268247950044966,
+        "lead": 0.5155503638676293,
+        "density": 0.5127291543656161,
+        "clarity": 0.6448962688446045
+      },
+      "importance": 0.6628770048333233
+    },
+    {
+      "start": 103.04,
+      "end": 146.8,
+      "duration": 43.760000000000005,
+      "max_len": 45,
+      "text": "But the fact that one has been wrangled um is is remarkable and and and I think we'll see that soon, really, any minute now. I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India?",
+      "parts": {
+        "centrality": 0.8132041193491224,
+        "lead": 0.4982801784464934,
+        "density": 0.5554105455840188,
+        "clarity": 0.6268097758293152
+      },
+      "importance": 0.6556319920478889
+    },
+    {
+      "start": 109.68,
+      "end": 153.36,
+      "duration": 43.68000000000001,
+      "max_len": 45,
+      "text": "I'm sorry. So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+      "parts": {
+        "centrality": 0.7530160498814956,
+        "lead": 0.4764074125570471,
+        "density": 0.5895658182419093,
+        "clarity": 0.5107405781745911
+      },
+      "importance": 0.6004941461585966
+    },
+    {
+      "start": 110.0,
+      "end": 153.36,
+      "duration": 43.360000000000014,
+      "max_len": 45,
+      "text": "So you go ahead and no, no, I just I'm surprised by that. That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+      "parts": {
+        "centrality": 0.7421067482536169,
+        "lead": 0.47537789937075026,
+        "density": 0.548747061290666,
+        "clarity": 0.5087881684303284
+      },
+      "importance": 0.5897614514856143
+    },
+    {
+      "start": 112.08,
+      "end": 153.36,
+      "duration": 41.280000000000015,
+      "max_len": 45,
+      "text": "That was actually one of my other questions is do you think we're gonna see uh a joint statement? That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+      "parts": {
+        "centrality": 0.8512140036169077,
+        "lead": 0.4687400781299643,
+        "density": 0.5828154255154679,
+        "clarity": 0.524151086807251
+      },
+      "importance": 0.636340556761406
+    },
+    {
+      "start": 116.0,
+      "end": 153.36,
+      "duration": 37.360000000000014,
+      "max_len": 45,
+      "text": "That's really surprising. Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+      "parts": {
+        "centrality": 0.7911677842695787,
+        "lead": 0.4564812378339358,
+        "density": 0.6238728861135658,
+        "clarity": 0.5445591807365417
+      },
+      "importance": 0.625153659199137
+    },
+    {
+      "start": 116.64,
+      "end": 153.36,
+      "duration": 36.72000000000001,
+      "max_len": 45,
+      "text": "Sorry, Dave. Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+      "parts": {
+        "centrality": 0.7386468309610688,
+        "lead": 0.454510463836046,
+        "density": 0.5268782918375886,
+        "clarity": 0.5522982478141785
+      },
+      "importance": 0.594149701723475
+    },
+    {
+      "start": 117.36,
+      "end": 153.36,
+      "duration": 36.000000000000014,
+      "max_len": 45,
+      "text": "Always the parlor game at these summits, and another is just watching the footage that's been displayed as as we've been talking with you, Dan, the the kind of pageantry of the arrival of of these leaders. Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here.",
+      "parts": {
+        "centrality": 0.7003357630198178,
+        "lead": 0.45230351152000653,
+        "density": 0.44595605227485,
+        "clarity": 0.5568816065788269
+      },
+      "importance": 0.5695361091758131
+    },
+    {
+      "start": 126.16,
+      "end": 170.64000000000001,
+      "duration": 44.48000000000002,
+      "max_len": 45,
+      "text": "Let me ask you about one in particular, President Xi of China arriving in in India. Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals.",
+      "parts": {
+        "centrality": 0.5840853537587893,
+        "lead": 0.42618001313582393,
+        "density": 0.5057521046388537,
+        "clarity": 0.6060322523117065
+      },
+      "importance": 0.547338367832081
+    },
+    {
+      "start": 130.24,
+      "end": 170.64000000000001,
+      "duration": 40.400000000000006,
+      "max_len": 45,
+      "text": "Uh an interesting kind of uh narrative here is the the relationship between the US and India, particularly when it comes to trade, and I imagine how sore India feels as a result of the way that the US has been turning its attention. What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals.",
+      "parts": {
+        "centrality": 0.5894944034540054,
+        "lead": 0.41458554980155743,
+        "density": 0.4723325986201846,
+        "clarity": 0.5770187973976135
+      },
+      "importance": 0.5331956801815251
+    },
+    {
+      "start": 141.28,
+      "end": 176.96,
+      "duration": 35.68000000000001,
+      "max_len": 45,
+      "text": "What does that mean for President Xi? How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute.",
+      "parts": {
+        "centrality": 0.5786294412538181,
+        "lead": 0.3847694825104187,
+        "density": 0.6239372431199572,
+        "clarity": 0.6783269643783569
+      },
+      "importance": 0.5765628767224207
+    },
+    {
+      "start": 142.72,
+      "end": 176.96,
+      "duration": 34.24000000000001,
+      "max_len": 45,
+      "text": "How opportunistically does he see uh the future of his relationship with India? Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute.",
+      "parts": {
+        "centrality": 0.5095940337875451,
+        "lead": 0.38104192801434533,
+        "density": 0.5400410097834377,
+        "clarity": 0.6252093315124512
+      },
+      "importance": 0.5231352483497609
+    },
+    {
+      "start": 148.0,
+      "end": 188.16,
+      "duration": 40.16,
+      "max_len": 45,
+      "text": "Well, you know, I I mean it's absolutely right. The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved.",
+      "parts": {
+        "centrality": 0.5729294816549674,
+        "lead": 0.3676805336655182,
+        "density": 0.42337221452363444,
+        "clarity": 0.5092763304710388
+      },
+      "importance": 0.49035015663219905
+    },
+    {
+      "start": 150.4,
+      "end": 188.16,
+      "duration": 37.75999999999999,
+      "max_len": 45,
+      "text": "The pageantry is so much of what is on display here. Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved.",
+      "parts": {
+        "centrality": 0.5346887079283493,
+        "lead": 0.3617630572794759,
+        "density": 0.35451302522800016,
+        "clarity": 0.611382007598877
+      },
+      "importance": 0.4960852152946805
+    },
+    {
+      "start": 153.52,
+      "end": 188.16,
+      "duration": 34.639999999999986,
+      "max_len": 45,
+      "text": "Now, I mean, as far as the the Shi Modi kind of dynamic goes, these are two countries that kind of um are two nations trying to kind of keep keep them keep themselves slightly at arm's reach while also trying to draw them draw each other closer. These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved.",
+      "parts": {
+        "centrality": 0.5387008854097057,
+        "lead": 0.35421248642487724,
+        "density": 0.3190562214293395,
+        "clarity": 0.5813031196594238
+      },
+      "importance": 0.48163717629060054
+    },
+    {
+      "start": 168.24,
+      "end": 205.44,
+      "duration": 37.19999999999999,
+      "max_len": 45,
+      "text": "These are two countries that are are historically rivals. They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved. Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US.",
+      "parts": {
+        "centrality": 0.5738782733109359,
+        "lead": 0.32066075516515297,
+        "density": 0.3827055957583989,
+        "clarity": 0.8390757441520691
+      },
+      "importance": 0.5741181093012386
+    },
+    {
+      "start": 170.72,
+      "end": 215.52,
+      "duration": 44.80000000000001,
+      "max_len": 45,
+      "text": "They are are mainly sort of at odds over a long-standing decades long uh border dispute. Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved. Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US. Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart.",
+      "parts": {
+        "centrality": 0.6409068710702267,
+        "lead": 0.3153294317526986,
+        "density": 0.3825659706450095,
+        "clarity": 0.7902067303657532
+      },
+      "importance": 0.5818302059315964
+    },
+    {
+      "start": 177.12,
+      "end": 221.52,
+      "duration": 44.400000000000006,
+      "max_len": 45,
+      "text": "Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved. Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US. Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there.",
+      "parts": {
+        "centrality": 0.6751569160630301,
+        "lead": 0.3019771272182782,
+        "density": 0.3823373711694807,
+        "clarity": 0.6630147099494934
+      },
+      "importance": 0.5529553647259863
+    },
+    {
+      "start": 188.32,
+      "end": 229.20000000000002,
+      "duration": 40.880000000000024,
+      "max_len": 45,
+      "text": "Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US. Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape.",
+      "parts": {
+        "centrality": 0.5405804445640447,
+        "lead": 0.27995662298270224,
+        "density": 0.41115483127207886,
+        "clarity": 0.657758355140686
+      },
+      "importance": 0.5041952114269738
+    },
+    {
+      "start": 201.84,
+      "end": 240.64000000000001,
+      "duration": 38.80000000000001,
+      "max_len": 45,
+      "text": "On the one hand, you have you know, India, a long-standing partner of the US. Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend.",
+      "parts": {
+        "centrality": 0.8552238379577765,
+        "lead": 0.2555029399122097,
+        "density": 0.37986148459695135,
+        "clarity": 0.4821853041648865
+      },
+      "importance": 0.5520637452066723
+    },
+    {
+      "start": 205.68,
+      "end": 240.64000000000001,
+      "duration": 34.96000000000001,
+      "max_len": 45,
+      "text": "Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend.",
+      "parts": {
+        "centrality": 0.804348490237981,
+        "lead": 0.24895544325874652,
+        "density": 0.3728913268463346,
+        "clarity": 0.4863315224647522
+      },
+      "importance": 0.5331462160014184
+    },
+    {
+      "start": 213.36,
+      "end": 254.8,
+      "duration": 41.44,
+      "max_len": 45,
+      "text": "Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend. There's also this interesting anecdote that I was reading, I think in your article or one of our colleagues, that just ahead of the arrival, China's Southern Airlines announced that it's gonna resume its daily route to Guangzhou from New Delhi starting uh September 21st.",
+      "parts": {
+        "centrality": 0.42799236388539197,
+        "lead": 0.23635950707309186,
+        "density": 0.2442311491172982,
+        "clarity": 0.6081287264823914
+      },
+      "importance": 0.4161425190868177
+    },
+    {
+      "start": 215.76,
+      "end": 254.8,
+      "duration": 39.04000000000002,
+      "max_len": 45,
+      "text": "At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend. There's also this interesting anecdote that I was reading, I think in your article or one of our colleagues, that just ahead of the arrival, China's Southern Airlines announced that it's gonna resume its daily route to Guangzhou from New Delhi starting uh September 21st.",
+      "parts": {
+        "centrality": 0.39903979905227177,
+        "lead": 0.23255552053135684,
+        "density": 0.17603102637563112,
+        "clarity": 0.5919591784477234
+      },
+      "importance": 0.3901674412652282
+    },
+    {
+      "start": 221.68,
+      "end": 265.6,
+      "duration": 43.920000000000016,
+      "max_len": 45,
+      "text": "So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape. And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend. There's also this interesting anecdote that I was reading, I think in your article or one of our colleagues, that just ahead of the arrival, China's Southern Airlines announced that it's gonna resume its daily route to Guangzhou from New Delhi starting uh September 21st. So this is the first time they've relaunched this route after a six-year suspension, and it's the third major Chinese airlines to restore service between the two countries. I mean, is this more than just symbolic?",
+      "parts": {
+        "centrality": 0.45133058386825275,
+        "lead": 0.22343205451473067,
+        "density": 0.18334668963589354,
+        "clarity": 0.4493926465511322
+      },
+      "importance": 0.3649719126675583
+    },
+    {
+      "start": 229.28,
+      "end": 273.6,
+      "duration": 44.32000000000002,
+      "max_len": 45,
+      "text": "And I think that that is a lot of what is sort of below the surface um as these two countries kind of kind of you know do do this sort of subtle dance around each other, which is which is really what you're seeing at the BRICS uh uh this weekend. There's also this interesting anecdote that I was reading, I think in your article or one of our colleagues, that just ahead of the arrival, China's Southern Airlines announced that it's gonna resume its daily route to Guangzhou from New Delhi starting uh September 21st. So this is the first time they've relaunched this route after a six-year suspension, and it's the third major Chinese airlines to restore service between the two countries. I mean, is this more than just symbolic? As somebody who covered the Abraham Accords, the first step in a lot of those deals was opening air space to Israeli planes, you know, and then you would see the the accord follow.",
+      "parts": {
+        "centrality": 0.34673099007869257,
+        "lead": 0.21224223437016967,
+        "density": 0.20137964909246087,
+        "clarity": 0.6744794249534607
+      },
+      "importance": 0.3963550682514837
+    },
+    {
+      "start": 241.04,
+      "end": 285.12,
+      "duration": 44.08000000000001,
+      "max_len": 45,
+      "text": "There's also this interesting anecdote that I was reading, I think in your article or one of our colleagues, that just ahead of the arrival, China's Southern Airlines announced that it's gonna resume its daily route to Guangzhou from New Delhi starting uh September 21st. So this is the first time they've relaunched this route after a six-year suspension, and it's the third major Chinese airlines to restore service between the two countries. I mean, is this more than just symbolic? As somebody who covered the Abraham Accords, the first step in a lot of those deals was opening air space to Israeli planes, you know, and then you would see the the accord follow. Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start.",
+      "parts": {
+        "centrality": 0.34497327422971735,
+        "lead": 0.19602178550511073,
+        "density": 0.22285930670266088,
+        "clarity": 0.7872777581214905
+      },
+      "importance": 0.42955722652326944
+    },
+    {
+      "start": 254.88,
+      "end": 296.56,
+      "duration": 41.68000000000001,
+      "max_len": 45,
+      "text": "So this is the first time they've relaunched this route after a six-year suspension, and it's the third major Chinese airlines to restore service between the two countries. I mean, is this more than just symbolic? As somebody who covered the Abraham Accords, the first step in a lot of those deals was opening air space to Israeli planes, you know, and then you would see the the accord follow. Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China.",
+      "parts": {
+        "centrality": 0.45853375821079234,
+        "lead": 0.17851305126787106,
+        "density": 0.35356080313589894,
+        "clarity": 0.879974365234375
+      },
+      "importance": 0.5132158556680488
+    },
+    {
+      "start": 263.36,
+      "end": 307.68,
+      "duration": 44.31999999999999,
+      "max_len": 45,
+      "text": "I mean, is this more than just symbolic? As somebody who covered the Abraham Accords, the first step in a lot of those deals was opening air space to Israeli planes, you know, and then you would see the the accord follow. Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India.",
+      "parts": {
+        "centrality": 0.7640014134544388,
+        "lead": 0.1685670223285238,
+        "density": 0.3068668159466076,
+        "clarity": 0.6723316311836243
+      },
+      "importance": 0.5488434109218367
+    },
+    {
+      "start": 265.68,
+      "end": 307.68,
+      "duration": 42.0,
+      "max_len": 45,
+      "text": "As somebody who covered the Abraham Accords, the first step in a lot of those deals was opening air space to Israeli planes, you know, and then you would see the the accord follow. Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India.",
+      "parts": {
+        "centrality": 0.6928780875719919,
+        "lead": 0.1659438164151418,
+        "density": 0.34917460546629736,
+        "clarity": 0.6770471334457397
+      },
+      "importance": 0.531186424786892
+    },
+    {
+      "start": 273.76,
+      "end": 316.72,
+      "duration": 42.960000000000036,
+      "max_len": 45,
+      "text": "Is this more than just symbolic? So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship.",
+      "parts": {
+        "centrality": 0.8753997194900353,
+        "lead": 0.15712240552316606,
+        "density": 0.27504603288048524,
+        "clarity": 0.487795352935791
+      },
+      "importance": 0.5254098937389556
+    },
+    {
+      "start": 276.48,
+      "end": 316.72,
+      "duration": 40.24000000000001,
+      "max_len": 45,
+      "text": "So I mean, this is this is really, you know, kind of one of these signs of a tentative step. And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship.",
+      "parts": {
+        "centrality": 0.8670440805106676,
+        "lead": 0.1542595906060706,
+        "density": 0.24539871021930332,
+        "clarity": 0.5592900514602661
+      },
+      "importance": 0.5389141682709231
+    },
+    {
+      "start": 280.8,
+      "end": 323.6,
+      "duration": 42.80000000000001,
+      "max_len": 45,
+      "text": "And and to your point, I mean, this is sort of how things start. You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship. Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries.",
+      "parts": {
+        "centrality": 0.6718310985030126,
+        "lead": 0.14981959359860675,
+        "density": 0.2934617197296765,
+        "clarity": 0.7023259401321411
+      },
+      "importance": 0.5198218431948696
+    },
+    {
+      "start": 285.28000000000003,
+      "end": 323.6,
+      "duration": 38.31999999999999,
+      "max_len": 45,
+      "text": "You see the sort of slow kind of people to people uh connections resume, right? Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship. Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries.",
+      "parts": {
+        "centrality": 0.6166559077465937,
+        "lead": 0.14535008611781255,
+        "density": 0.2879151785063215,
+        "clarity": 0.7789857387542725
+      },
+      "importance": 0.5217825833371003
+    },
+    {
+      "start": 289.84000000000003,
+      "end": 323.6,
+      "duration": 33.75999999999999,
+      "max_len": 45,
+      "text": "Things like like this, like in the form of uh uh direct flights, which is which has been slowly kind of resuming between India and China. And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship. Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries.",
+      "parts": {
+        "centrality": 0.6619068170878747,
+        "lead": 0.14093767130725132,
+        "density": 0.33998900005860067,
+        "clarity": 0.8140528202056885
+      },
+      "importance": 0.5550691163127031
+    },
+    {
+      "start": 296.64,
+      "end": 338.24,
+      "duration": 41.60000000000002,
+      "max_len": 45,
+      "text": "And those were those were basically totally suspended um after uh a border clash, uh a really violent border clash in 2020, which sort of set relations into a deep freeze between China and India. So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship. Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries. So um so that that is a very good example, and I think, you know, uh it it might this might be the sort of thing where you might see kind of more examples of this kind of you know come out of this announcement uh out of this meeting uh you know in the days in the days to come for sure.",
+      "parts": {
+        "centrality": 0.960147866584104,
+        "lead": 0.1346053212395942,
+        "density": 0.27940473329855103,
+        "clarity": 0.7017130851745605
+      },
+      "importance": 0.615397453099506
+    },
+    {
+      "start": 307.84000000000003,
+      "end": 349.6,
+      "duration": 41.75999999999999,
+      "max_len": 45,
+      "text": "So I I actually think that's a that's a really good example of of these sort of slow kind of tentative steps towards uh you know a more normalization in the relationship. Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries. So um so that that is a very good example, and I think, you know, uh it it might this might be the sort of thing where you might see kind of more examples of this kind of you know come out of this announcement uh out of this meeting uh you know in the days in the days to come for sure. Dan, I want to go back to something Christina mentioned, which is kind of the genesis of of this term. So going back even further, it was Jim O'Neill, the the Goldman Sachs economist who coined the BRIC term and then grew more and more and became this this real vital thing.",
+      "parts": {
+        "centrality": 0.3747207044129176,
+        "lead": 0.12478975317392067,
+        "density": 0.2696923281677721,
+        "clarity": 0.6180890798568726
+      },
+      "importance": 0.38199077036153284
+    },
+    {
+      "start": 316.88,
+      "end": 357.6,
+      "duration": 40.72000000000003,
+      "max_len": 45,
+      "text": "Uh and and before COVID, of course, I mean, there were plenty of uh uh of commercial flights between between the two countries. So um so that that is a very good example, and I think, you know, uh it it might this might be the sort of thing where you might see kind of more examples of this kind of you know come out of this announcement uh out of this meeting uh you know in the days in the days to come for sure. Dan, I want to go back to something Christina mentioned, which is kind of the genesis of of this term. So going back even further, it was Jim O'Neill, the the Goldman Sachs economist who coined the BRIC term and then grew more and more and became this this real vital thing. We we've seen the consternation from Washington from President Trump about uh its growth, the might that it's been flexing on the international scene.",
+      "parts": {
+        "centrality": 0.5509582137843531,
+        "lead": 0.11739170286671112,
+        "density": 0.3235834632126862,
+        "clarity": 0.4843800663948059
+      },
+      "importance": 0.4101652547982104
+    },
+    {
+      "start": 323.76,
+      "end": 365.28000000000003,
+      "duration": 41.52000000000004,
+      "max_len": 45,
+      "text": "So um so that that is a very good example, and I think, you know, uh it it might this might be the sort of thing where you might see kind of more examples of this kind of you know come out of this announcement uh out of this meeting uh you know in the days in the days to come for sure. Dan, I want to go back to something Christina mentioned, which is kind of the genesis of of this term. So going back even further, it was Jim O'Neill, the the Goldman Sachs economist who coined the BRIC term and then grew more and more and became this this real vital thing. We we've seen the consternation from Washington from President Trump about uh its growth, the might that it's been flexing on the international scene. Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward.",
+      "parts": {
+        "centrality": 0.6459786887767807,
+        "lead": 0.11205665626957192,
+        "density": 0.27594086059232265,
+        "clarity": 0.5693738460540771
+      },
+      "importance": 0.46070715523085914
+    },
+    {
+      "start": 338.56,
+      "end": 381.28000000000003,
+      "duration": 42.72000000000003,
+      "max_len": 45,
+      "text": "Dan, I want to go back to something Christina mentioned, which is kind of the genesis of of this term. So going back even further, it was Jim O'Neill, the the Goldman Sachs economist who coined the BRIC term and then grew more and more and became this this real vital thing. We we've seen the consternation from Washington from President Trump about uh its growth, the might that it's been flexing on the international scene. Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward. Yeah, no, it's funny that I mean this this group was basically a branding exercise developed by by Goldman Sachs some years ago, and now it's it's turned into this group to a real kind of grouping that does get together every year. Um there's always been this tension within the BRICS, right?",
+      "parts": {
+        "centrality": 0.3810637659548717,
+        "lead": 0.10138757201113692,
+        "density": 0.2960925003859775,
+        "clarity": 0.6279512047767639
+      },
+      "importance": 0.38644906897735826
+    },
+    {
+      "start": 342.16,
+      "end": 381.28000000000003,
+      "duration": 39.120000000000005,
+      "max_len": 45,
+      "text": "So going back even further, it was Jim O'Neill, the the Goldman Sachs economist who coined the BRIC term and then grew more and more and became this this real vital thing. We we've seen the consternation from Washington from President Trump about uh its growth, the might that it's been flexing on the international scene. Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward. Yeah, no, it's funny that I mean this this group was basically a branding exercise developed by by Goldman Sachs some years ago, and now it's it's turned into this group to a real kind of grouping that does get together every year. Um there's always been this tension within the BRICS, right?",
+      "parts": {
+        "centrality": 0.3296998734433774,
+        "lead": 0.0989498385023949,
+        "density": 0.3481509772083641,
+        "clarity": 0.671901285648346
+      },
+      "importance": 0.38897795568141946
+    },
+    {
+      "start": 349.76,
+      "end": 381.28000000000003,
+      "duration": 31.52000000000004,
+      "max_len": 45,
+      "text": "We we've seen the consternation from Washington from President Trump about uh its growth, the might that it's been flexing on the international scene. Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward. Yeah, no, it's funny that I mean this this group was basically a branding exercise developed by by Goldman Sachs some years ago, and now it's it's turned into this group to a real kind of grouping that does get together every year. Um there's always been this tension within the BRICS, right?",
+      "parts": {
+        "centrality": 0.8060876412046302,
+        "lead": 0.09399427875256434,
+        "density": 0.32339432795602013,
+        "clarity": 0.4860875904560089
+      },
+      "importance": 0.49526495650233904
+    },
+    {
+      "start": 357.76,
+      "end": 396.56,
+      "duration": 38.80000000000001,
+      "max_len": 45,
+      "text": "Talk a bit more about that, if if you would, kind of the the might that it does have globally and sort of how it's wants to position itself here going forward. Yeah, no, it's funny that I mean this this group was basically a branding exercise developed by by Goldman Sachs some years ago, and now it's it's turned into this group to a real kind of grouping that does get together every year. Um there's always been this tension within the BRICS, right? Is it uh is it uh is it a block with uh a set of of kind of coherent interests that stands in opposition to the US-led order, or is it just kind of uh a bunch of countries, a motley group of countries that gets together once a year and and has a chat?",
+      "parts": {
+        "centrality": 0.6897862235775988,
+        "lead": 0.08904578074031043,
+        "density": 0.2353197947180391,
+        "clarity": 0.6187804341316223
+      },
+      "importance": 0.4801664338474142
+    },
+    {
+      "start": 365.68,
+      "end": 396.56,
+      "duration": 30.879999999999995,
+      "max_len": 45,
+      "text": "Yeah, no, it's funny that I mean this this group was basically a branding exercise developed by by Goldman Sachs some years ago, and now it's it's turned into this group to a real kind of grouping that does get together every year. Um there's always been this tension within the BRICS, right? Is it uh is it uh is it a block with uh a set of of kind of coherent interests that stands in opposition to the US-led order, or is it just kind of uh a bunch of countries, a motley group of countries that gets together once a year and and has a chat?",
+      "parts": {
+        "centrality": 0.5743916013193323,
+        "lead": 0.08440344112871925,
+        "density": 0.23176550532417303,
+        "clarity": 0.6203916072845459
+      },
+      "importance": 0.4388000566714999
+    },
+    {
+      "start": 377.2,
+      "end": 416.96000000000004,
+      "duration": 39.76000000000005,
+      "max_len": 45,
+      "text": "Um there's always been this tension within the BRICS, right? Is it uh is it uh is it a block with uh a set of of kind of coherent interests that stands in opposition to the US-led order, or is it just kind of uh a bunch of countries, a motley group of countries that gets together once a year and and has a chat? I think the introduction of countries like Iran and of course, you know, uh the the sort of uh uh posture of countries like Russia have have been trying to push the group over the years in recent years more towards that kind of we're an anti-US group, but we're an alternative US group. That's all an alternative to the US-led order.",
+      "parts": {
+        "centrality": 0.7123371483565708,
+        "lead": 0.0780795545730763,
+        "density": 0.27881765510218603,
+        "clarity": 0.44215473532676697
+      },
+      "importance": 0.43940298170277303
+    },
+    {
+      "start": 381.52,
+      "end": 416.96000000000004,
+      "duration": 35.440000000000055,
+      "max_len": 45,
+      "text": "Is it uh is it uh is it a block with uh a set of of kind of coherent interests that stands in opposition to the US-led order, or is it just kind of uh a bunch of countries, a motley group of countries that gets together once a year and and has a chat? I think the introduction of countries like Iran and of course, you know, uh the the sort of uh uh posture of countries like Russia have have been trying to push the group over the years in recent years more towards that kind of we're an anti-US group, but we're an alternative US group. That's all an alternative to the US-led order.",
+      "parts": {
+        "centrality": 0.5712170064415636,
+        "lead": 0.07583221949791812,
+        "density": 0.21917122737057992,
+        "clarity": 0.47049328684806824
+      },
+      "importance": 0.3891160663141383
+    },
+    {
+      "start": 396.8,
+      "end": 437.28000000000003,
+      "duration": 40.48000000000002,
+      "max_len": 45,
+      "text": "I think the introduction of countries like Iran and of course, you know, uh the the sort of uh uh posture of countries like Russia have have been trying to push the group over the years in recent years more towards that kind of we're an anti-US group, but we're an alternative US group. That's all an alternative to the US-led order. Um, on the other hand, you have countries like India that really wants to kind of keep this group something, something a bit more informal, something that's just kind of a uh a meetup of countries to kind of discuss uh, you know, the issues of the day, issues like trade and and and cooperation on AI and and and things that are that are sort of a bit a bit softer in nature.",
+      "parts": {
+        "centrality": 0.6832672462574865,
+        "lead": 0.06838983353766923,
+        "density": 0.19984114008875428,
+        "clarity": 0.627266526222229
+      },
+      "importance": 0.4709776317776359
+    },
+    {
+      "start": 414.48,
+      "end": 437.28000000000003,
+      "duration": 22.80000000000001,
+      "max_len": 45,
+      "text": "That's all an alternative to the US-led order. Um, on the other hand, you have countries like India that really wants to kind of keep this group something, something a bit more informal, something that's just kind of a uh a meetup of countries to kind of discuss uh, you know, the issues of the day, issues like trade and and and cooperation on AI and and and things that are that are sort of a bit a bit softer in nature.",
+      "parts": {
+        "centrality": 0.7341743164946546,
+        "lead": 0.060685216249549104,
+        "density": 0.3298068536367884,
+        "clarity": 0.6446726322174072
+      },
+      "importance": 0.5119708717337794
+    },
+    {
+      "start": 417.12,
+      "end": 437.28000000000003,
+      "duration": 20.160000000000025,
+      "max_len": 45,
+      "text": "Um, on the other hand, you have countries like India that really wants to kind of keep this group something, something a bit more informal, something that's just kind of a uh a meetup of countries to kind of discuss uh, you know, the issues of the day, issues like trade and and and cooperation on AI and and and things that are that are sort of a bit a bit softer in nature.",
+      "parts": {
+        "centrality": 0.5792718222306175,
+        "lead": 0.05961174562507867,
+        "density": 0.17374186578761625,
+        "clarity": 0.666279673576355
+      },
+      "importance": 0.44061266884678074
+    },
+    {
+      "start": 437.44,
+      "end": 476.72,
+      "duration": 39.28000000000003,
+      "max_len": 45,
+      "text": "Um, and so uh uh, you know, the fact that this is happening in India, which is a country that does sort of really pride itself on having um uh what they call strategic autonomy, which is this kind of ability to kind of maintain relationships with China, with Russia, with Iran, but also with the US, kind of keep everybody happy and be a conduit of communication for everybody, is is very notable, and I think is is a big reason why you do see kind of really all the BRICS leaders coming here today in New Delhi. It says a lot about kind of India's ability to kind of be that that middle ground kind of country where where everybody can kind of come together and at least hash out uh uh uh some of these issues and and be heard.",
+      "parts": {
+        "centrality": 0.9706600960200947,
+        "lead": 0.05196035774106368,
+        "density": 0.16634867989792068,
+        "clarity": 0.4990234673023224
+      },
+      "importance": 0.5247824473306307
+    },
+    {
+      "start": 465.84000000000003,
+      "end": 510.48,
+      "duration": 44.639999999999986,
+      "max_len": 45,
+      "text": "It says a lot about kind of India's ability to kind of be that that middle ground kind of country where where everybody can kind of come together and at least hash out uh uh uh some of these issues and and be heard. So the evolution of the BRICS has been a super interesting development that that has that has really underscored this over the last you know many years. And Dan, before we let you go, I mean, the thing that's also strikes me is that Iran is actually in the room with these leaders. And whenever we talk about US negotiations, that is not the case. You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda.",
+      "parts": {
+        "centrality": 0.5425147971574822,
+        "lead": 0.04288342567471722,
+        "density": 0.5516128293175019,
+        "clarity": 0.5576044321060181
+      },
+      "importance": 0.4484801181694929
+    },
+    {
+      "start": 476.8,
+      "end": 514.0,
+      "duration": 37.19999999999999,
+      "max_len": 45,
+      "text": "So the evolution of the BRICS has been a super interesting development that that has that has really underscored this over the last you know many years. And Dan, before we let you go, I mean, the thing that's also strikes me is that Iran is actually in the room with these leaders. And whenever we talk about US negotiations, that is not the case. You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance.",
+      "parts": {
+        "centrality": 0.47889114301006497,
+        "lead": 0.0398208760423123,
+        "density": 0.6802002857551268,
+        "clarity": 0.579400360584259
+      },
+      "importance": 0.4514262263005319
+    },
+    {
+      "start": 484.08,
+      "end": 514.0,
+      "duration": 29.920000000000016,
+      "max_len": 45,
+      "text": "And Dan, before we let you go, I mean, the thing that's also strikes me is that Iran is actually in the room with these leaders. And whenever we talk about US negotiations, that is not the case. You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance.",
+      "parts": {
+        "centrality": 0.2556746581876223,
+        "lead": 0.03790850548850601,
+        "density": 0.6847384848296572,
+        "clarity": 0.7146281003952026
+      },
+      "importance": 0.41416703430637836
+    },
+    {
+      "start": 489.52,
+      "end": 530.24,
+      "duration": 40.72000000000003,
+      "max_len": 45,
+      "text": "And whenever we talk about US negotiations, that is not the case. You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.3367715615562382,
+        "lead": 0.03653968280357882,
+        "density": 0.5513247219016748,
+        "clarity": 0.7132318615913391
+      },
+      "importance": 0.4218462498680521
+    },
+    {
+      "start": 492.72,
+      "end": 530.24,
+      "duration": 37.51999999999998,
+      "max_len": 45,
+      "text": "You've got people in different rooms and you've got intermediary shutter intermediary, excuse me, uh shuttling back and forth. How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.3660384676978708,
+        "lead": 0.035757697291119835,
+        "density": 0.5040945043714056,
+        "clarity": 0.723504900932312
+      },
+      "importance": 0.42793064908788314
+    },
+    {
+      "start": 498.72,
+      "end": 530.24,
+      "duration": 31.519999999999982,
+      "max_len": 45,
+      "text": "How significant is it to have face-to-face talks with the Iranian president? And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.30165076950986636,
+        "lead": 0.034336299485415,
+        "density": 0.5439541754409549,
+        "clarity": 0.7475237846374512
+      },
+      "importance": 0.41829529093291484
+    },
+    {
+      "start": 502.48,
+      "end": 530.24,
+      "duration": 27.75999999999999,
+      "max_len": 45,
+      "text": "And what is the goal? What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.4292827133278462,
+        "lead": 0.0334744996042987,
+        "density": 0.4805613409681885,
+        "clarity": 0.6001883745193481
+      },
+      "importance": 0.4090845630866386
+    },
+    {
+      "start": 503.68,
+      "end": 530.24,
+      "duration": 26.560000000000002,
+      "max_len": 45,
+      "text": "What do all of these countries want to get out of those meetings? Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump.",
+      "parts": {
+        "centrality": 0.43525898326267715,
+        "lead": 0.033204036500929526,
+        "density": 0.42499074722200675,
+        "clarity": 0.5727227926254272
+      },
+      "importance": 0.39454690131305203
+    },
+    {
+      "start": 507.84000000000003,
+      "end": 551.2,
+      "duration": 43.360000000000014,
+      "max_len": 45,
+      "text": "Well, Iran for sure is here to push an agenda. I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump. Um there's a lot of countries in New Delhi today, a lot of leaders in New Delhi today from countries that have been antagonized that see themselves um as sort of uh perhaps victims of a more um predatory US and and that might have uh a sort of willing uh new kind of partnership uh to be made here with uh uh uh amongst amongst themselves.",
+      "parts": {
+        "centrality": 0.6664669289602161,
+        "lead": 0.03228323773617123,
+        "density": 0.2739997327218707,
+        "clarity": 0.48803943395614624
+      },
+      "importance": 0.4272318627784344
+    },
+    {
+      "start": 510.56,
+      "end": 551.2,
+      "duration": 40.64000000000004,
+      "max_len": 45,
+      "text": "I mean, its agenda is that is one of defiance. Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump. Um there's a lot of countries in New Delhi today, a lot of leaders in New Delhi today from countries that have been antagonized that see themselves um as sort of uh perhaps victims of a more um predatory US and and that might have uh a sort of willing uh new kind of partnership uh to be made here with uh uh uh amongst amongst themselves.",
+      "parts": {
+        "centrality": 0.9064146084355401,
+        "lead": 0.03169502796267955,
+        "density": 0.23217660520304995,
+        "clarity": 0.5578452944755554
+      },
+      "importance": 0.5257641976680991
+    },
+    {
+      "start": 514.24,
+      "end": 558.4,
+      "duration": 44.15999999999997,
+      "max_len": 45,
+      "text": "Um it it is it is it is seeking kind of uh to build some bridges uh among countries that it sees might be potential allies, you know, sort of non Western countries that might be upset with the turn that the world has taken in the last two years under Trump. Um there's a lot of countries in New Delhi today, a lot of leaders in New Delhi today from countries that have been antagonized that see themselves um as sort of uh perhaps victims of a more um predatory US and and that might have uh a sort of willing uh new kind of partnership uh to be made here with uh uh uh amongst amongst themselves. So I think with Iran, you do really see uh a really clear example of kind of this this new turn that the BRICS might be taking.",
+      "parts": {
+        "centrality": 0.9928274667253774,
+        "lead": 0.030916236821557877,
+        "density": 0.20610307400314953,
+        "clarity": 0.6279512047767639
+      },
+      "importance": 0.5729736832516953
+    },
+    {
+      "start": 530.32,
+      "end": 558.4,
+      "duration": 28.079999999999927,
+      "max_len": 45,
+      "text": "Um there's a lot of countries in New Delhi today, a lot of leaders in New Delhi today from countries that have been antagonized that see themselves um as sort of uh perhaps victims of a more um predatory US and and that might have uh a sort of willing uh new kind of partnership uh to be made here with uh uh uh amongst amongst themselves. So I think with Iran, you do really see uh a really clear example of kind of this this new turn that the BRICS might be taking.",
+      "parts": {
+        "centrality": 0.8700881804874255,
+        "lead": 0.02773164278325303,
+        "density": 0.27443212807074013,
+        "clarity": 0.4323030114173889
+      },
+      "importance": 0.4809329143630772
+    },
+    {
+      "start": 551.28,
+      "end": 591.6800000000001,
+      "duration": 40.40000000000009,
+      "max_len": 45,
+      "text": "So I think with Iran, you do really see uh a really clear example of kind of this this new turn that the BRICS might be taking. And uh, you know, it it's notable, hard to say if it's coincidence that just overnight you had this this major development in the Middle East where um, you know, these Iranian backed militants in Yemen, the Houthis have attacked uh uh undertaken these attacks that have caused more disruptions in the oil flow from the Middle East, Saudi Arabia closing down its pipeline um and causing further disruptions as well. And and that's all kind of just just reminded everybody here in New Delhi today what what the real elephant in the room is, which is which is this war. Um, and and um uh is is is absolutely kind of at the top of the agenda as well.",
+      "parts": {
+        "centrality": 0.7883753015328915,
+        "lead": 0.024067824962661424,
+        "density": 0.2905215327416491,
+        "clarity": 0.5263427495956421
+      },
+      "importance": 0.48222597531898426
+    },
+    {
+      "start": 558.5600000000001,
+      "end": 591.6800000000001,
+      "duration": 33.120000000000005,
+      "max_len": 45,
+      "text": "And uh, you know, it it's notable, hard to say if it's coincidence that just overnight you had this this major development in the Middle East where um, you know, these Iranian backed militants in Yemen, the Houthis have attacked uh uh undertaken these attacks that have caused more disruptions in the oil flow from the Middle East, Saudi Arabia closing down its pipeline um and causing further disruptions as well. And and that's all kind of just just reminded everybody here in New Delhi today what what the real elephant in the room is, which is which is this war. Um, and and um uh is is is absolutely kind of at the top of the agenda as well.",
+      "parts": {
+        "centrality": 0.7698742247246562,
+        "lead": 0.022911983998644154,
+        "density": 0.2810375436247923,
+        "clarity": 0.6779006123542786
+      },
+      "importance": 0.5195641907033608
+    },
+    {
+      "start": 579.6800000000001,
+      "end": 591.6800000000001,
+      "duration": 12.0,
+      "max_len": 45,
+      "text": "And and that's all kind of just just reminded everybody here in New Delhi today what what the real elephant in the room is, which is which is this war. Um, and and um uh is is is absolutely kind of at the top of the agenda as well.",
+      "parts": {
+        "centrality": 0.4398311713206093,
+        "lead": 0.019863427193510814,
+        "density": 0.4378875207116463,
+        "clarity": 0.5387405753135681
+      },
+      "importance": 0.38521889610173277
+    }
+  ]
+}

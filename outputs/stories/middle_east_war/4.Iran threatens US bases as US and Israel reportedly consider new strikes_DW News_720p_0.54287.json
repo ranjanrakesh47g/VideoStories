@@ -1,0 +1,14 @@
+{
+  "start": 622.64,
+  "end": 643.6800000000001,
+  "duration": 21.040000000000077,
+  "max_len": 30,
+  "text": "That's what's happening with Yemen at the moment, and that's why the Houthis are so dangerous equipped with high-tech weapons provided by Iran. Sean, we talked a lot uh about uh the kinetics so far. So let's switch uh to the diplomatic. Um, how all of this develops is of course important globally, and we're seeing this uh with a kind of diplomacy happening.",
+  "parts": {
+    "centrality": 0.8492566362005579,
+    "lead": 0.027042531065534607,
+    "density": 0.6268323804458449,
+    "clarity": 0.4873073995113373
+  },
+  "importance": 0.5428654058035801
+}

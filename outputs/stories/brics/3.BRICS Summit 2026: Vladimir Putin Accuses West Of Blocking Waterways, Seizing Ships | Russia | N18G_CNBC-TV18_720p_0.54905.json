@@ -1,0 +1,14 @@
+{
+  "start": 659.04,
+  "end": 675.92,
+  "duration": 16.879999999999995,
+  "max_len": 30,
+  "text": "It's not been imposed on us by the so-called golden billion, nor are we trying to impose anything on anyone else. Our approaches are based on innovative and cutting edge solutions. We prioritize national interests of our respective countries and pursuing these goals.",
+  "parts": {
+    "centrality": 0.6048673788924398,
+    "lead": 0.023255480059604244,
+    "density": 0.8141471554196389,
+    "clarity": 0.7019174695014954
+  },
+  "importance": 0.5490519927876691
+}

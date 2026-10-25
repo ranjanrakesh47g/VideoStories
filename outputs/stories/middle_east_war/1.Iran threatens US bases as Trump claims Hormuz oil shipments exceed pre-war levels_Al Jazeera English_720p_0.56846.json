@@ -1,0 +1,14 @@
+{
+  "start": 228.96,
+  "end": 266.64,
+  "duration": 37.67999999999998,
+  "max_len": 45,
+  "text": "Now, uh, what is also important to note here is that the US President, as he has said before in his social media post, claims that the United States is in complete control of the Strait of Hormuz and Iran is not able to export its oil. Why is the US President making these claims? Well, he's saying this because he is paying the price right now domestically as well as politically, and that is a real vulnerability ahead of those November 3rd polls. Yeah, can we talk about the elections? Because the price of oil has been, as you mentioned, a sensitive topic for voters these midterms. How is that playing out then the closer we get to election day?",
+  "parts": {
+    "centrality": 0.6841105349060644,
+    "lead": 0.06630836614163711,
+    "density": 0.5124487744930459,
+    "clarity": 0.7962924242019653
+  },
+  "importance": 0.5684554038799965
+}

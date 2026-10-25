@@ -1,0 +1,14 @@
+{
+  "start": 271.84000000000003,
+  "end": 315.76,
+  "duration": 43.91999999999996,
+  "max_len": 45,
+  "text": "The other point I would make is um, and this is not being a smart ass about the whole situation. But when I was in the military, we used to war game this sort of scenario. I have played Iran in those war games. And the might of America always prevails over the conventional Iranian forces. But Iran has prepared for this day to be able to control the Strait of Hormuz with drones, with anti-ship missiles, with uh fast patrol boats and mines. They're all very well hidden, they're very well supplied, and even though America has had a very successful military campaign, most analysts believe Iran probably has at least half of its ballistic missiles left and many thousands of drones.",
+  "parts": {
+    "centrality": 0.805640634747264,
+    "lead": 0.20674904480930606,
+    "density": 0.4638269123819237,
+    "clarity": 0.8085212111473083
+  },
+  "importance": 0.6354544313248847
+}

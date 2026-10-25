@@ -1,0 +1,14 @@
+{
+  "start": 193.12,
+  "end": 212.16,
+  "duration": 19.039999999999992,
+  "max_len": 30,
+  "text": "Now, whether these uh oil tanker strikes happened or not, uh, it is, as you say, something about the narrative. Uh, now, along with the release of the video showing that its military is uh uh is is building these drones, uh the Iran is also saying that it's stocking up weapons, as you said, it's been a relatively quiet time.",
+  "parts": {
+    "centrality": 0.7657334030899302,
+    "lead": 0.32634639685503614,
+    "density": 0.17361512304724136,
+    "clarity": 0.7138307690620422
+  },
+  "importance": 0.5734674696281816
+}

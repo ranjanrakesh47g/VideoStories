@@ -1,0 +1,14 @@
+{
+  "start": 192.16,
+  "end": 212.08,
+  "duration": 19.920000000000016,
+  "max_len": 30,
+  "text": "Uh what unites this block then, other than the relationship to the West? Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc. Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations.",
+  "parts": {
+    "centrality": 0.7314131313520172,
+    "lead": 0.07414898849087971,
+    "density": 0.6880877047103301,
+    "clarity": 0.4561674892902374
+  },
+  "importance": 0.5108877961650027
+}

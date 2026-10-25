@@ -1,0 +1,14 @@
+{
+  "start": 149.68,
+  "end": 174.72,
+  "duration": 25.039999999999992,
+  "max_len": 30,
+  "text": "The one thing that's not been widely reported is the US is providing escorts to oil coming through the Strait of Hormuz, but the US blockade of Iranian oil exports remains pretty robust. So the stemate doesn't suit Iran at all. And that's why they've been fueling arming the Houthi rebels and trying to cause havoc at the bottom of the Baba Mandab straits and the Red Sea.",
+  "parts": {
+    "centrality": 0.5697793045924446,
+    "lead": 0.41982748598270825,
+    "density": 0.5236670393678041,
+    "clarity": 0.8987665176391602
+  },
+  "importance": 0.6315682650008159
+}

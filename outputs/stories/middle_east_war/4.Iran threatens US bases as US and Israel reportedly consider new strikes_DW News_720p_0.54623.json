@@ -1,0 +1,14 @@
+{
+  "start": 142.8,
+  "end": 185.12,
+  "duration": 42.31999999999999,
+  "max_len": 45,
+  "text": "Well, part of that is the run-up to the midterm elections. But part of it is both sides have hit a bit of a stalemate. The one thing that's not been widely reported is the US is providing escorts to oil coming through the Strait of Hormuz, but the US blockade of Iranian oil exports remains pretty robust. So the stemate doesn't suit Iran at all. And that's why they've been fueling arming the Houthi rebels and trying to cause havoc at the bottom of the Baba Mandab straits and the Red Sea. So what we're seeing at the moment is a bit of a lull, which doesn't suit either side, and that's why the oil prices remain stubbornly high at record levels, certainly in the UK.",
+  "parts": {
+    "centrality": 0.4960629727961547,
+    "lead": 0.4369143532191541,
+    "density": 0.48267949629399587,
+    "clarity": 0.7094218730926514
+  },
+  "importance": 0.5462333974943797
+}

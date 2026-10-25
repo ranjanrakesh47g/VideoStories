@@ -1,0 +1,14 @@
+{
+  "start": 56.64,
+  "end": 80.88,
+  "duration": 24.239999999999995,
+  "max_len": 30,
+  "text": "Now, there are a number of indicators that the fighting might pick back up after Americans vote on November 3rd from the New York Times, US and Israel draw up plans for renewed strikes on Iran after elections. It doesn't get more explicit than that. And the Wall Street Journal says quote, Iran threatens wider strikes on economic and civilian targets if U.S. attacks.",
+  "parts": {
+    "centrality": 0.3261743123692477,
+    "lead": 0.7200576632204417,
+    "density": 0.686305620233863,
+    "clarity": 0.8610715866088867
+  },
+  "importance": 0.6194398609910705
+}

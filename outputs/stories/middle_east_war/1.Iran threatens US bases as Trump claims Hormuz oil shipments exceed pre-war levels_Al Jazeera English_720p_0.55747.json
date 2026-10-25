@@ -1,0 +1,14 @@
+{
+  "start": 150.56,
+  "end": 163.76,
+  "duration": 13.199999999999989,
+  "max_len": 30,
+  "text": "The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before.",
+  "parts": {
+    "centrality": 0.3052157248029263,
+    "lead": 0.16791303574456623,
+    "density": 1.0,
+    "clarity": 0.8901987671852112
+  },
+  "importance": 0.5574677409855008
+}

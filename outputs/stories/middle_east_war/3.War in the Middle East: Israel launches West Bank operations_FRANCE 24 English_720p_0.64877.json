@@ -1,0 +1,14 @@
+{
+  "start": 242.8,
+  "end": 267.12,
+  "duration": 24.319999999999993,
+  "max_len": 30,
+  "text": "He was not the only one to react, obviously. Uh the far right national security minister uh Itamar Ben Kvir, he went even further. He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack.",
+  "parts": {
+    "centrality": 0.8318510691417036,
+    "lead": 0.050502352155265814,
+    "density": 0.7123416513343306,
+    "clarity": 0.8022458553314209
+  },
+  "importance": 0.6487733489302252
+}

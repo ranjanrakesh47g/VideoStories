@@ -1,0 +1,14 @@
+{
+  "start": 141.36,
+  "end": 182.32,
+  "duration": 40.95999999999998,
+  "max_len": 45,
+  "text": "The number of ships reportedly attacked in and around the Strait of Hormuz has increased. That's according to the UK Maritime Trade Operations Center. The agency says at least 14 vessels were attacked between October 8th and the 17th. The number transiting the waterway also fell to 42 during the same period. That's down from 60 the week before. That's correct.",
+  "parts": {
+    "centrality": 0.47367836182847356,
+    "lead": 0.18725602104005504,
+    "density": 0.5811519089772059,
+    "clarity": 0.8683809638023376
+  },
+  "importance": 0.550925706335259
+}

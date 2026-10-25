@@ -1,0 +1,4736 @@
+{
+  "words": [
+    {
+      "word": "First",
+      "start": 0.16,
+      "end": 0.32
+    },
+    {
+      "word": "review",
+      "start": 0.4,
+      "end": 0.72
+    },
+    {
+      "word": "of",
+      "start": 0.72,
+      "end": 0.8
+    },
+    {
+      "word": "this",
+      "start": 0.8,
+      "end": 0.88
+    },
+    {
+      "word": "hour,",
+      "start": 0.88,
+      "end": 1.04
+    },
+    {
+      "word": "the",
+      "start": 1.12,
+      "end": 1.2
+    },
+    {
+      "word": "BRIC",
+      "start": 1.2,
+      "end": 1.52
+    },
+    {
+      "word": "alliance",
+      "start": 1.6,
+      "end": 2.0
+    },
+    {
+      "word": "is",
+      "start": 2.0,
+      "end": 2.16
+    },
+    {
+      "word": "meeting",
+      "start": 2.16,
+      "end": 2.48
+    },
+    {
+      "word": "in",
+      "start": 2.48,
+      "end": 2.64
+    },
+    {
+      "word": "India",
+      "start": 2.64,
+      "end": 2.96
+    },
+    {
+      "word": "to",
+      "start": 2.96,
+      "end": 3.12
+    },
+    {
+      "word": "discuss",
+      "start": 3.12,
+      "end": 3.52
+    },
+    {
+      "word": "the",
+      "start": 3.52,
+      "end": 3.68
+    },
+    {
+      "word": "consequences",
+      "start": 3.68,
+      "end": 4.32
+    },
+    {
+      "word": "of",
+      "start": 4.32,
+      "end": 4.48
+    },
+    {
+      "word": "the",
+      "start": 4.48,
+      "end": 4.64
+    },
+    {
+      "word": "wars",
+      "start": 4.64,
+      "end": 4.96
+    },
+    {
+      "word": "in",
+      "start": 4.96,
+      "end": 5.12
+    },
+    {
+      "word": "the",
+      "start": 5.12,
+      "end": 5.2
+    },
+    {
+      "word": "Middle",
+      "start": 5.2,
+      "end": 5.5200000000000005
+    },
+    {
+      "word": "East",
+      "start": 5.5200000000000005,
+      "end": 5.76
+    },
+    {
+      "word": "amongst",
+      "start": 5.84,
+      "end": 6.24
+    },
+    {
+      "word": "a",
+      "start": 6.24,
+      "end": 6.32
+    },
+    {
+      "word": "host",
+      "start": 6.32,
+      "end": 6.640000000000001
+    },
+    {
+      "word": "of",
+      "start": 6.640000000000001,
+      "end": 6.88
+    },
+    {
+      "word": "other",
+      "start": 6.88,
+      "end": 7.12
+    },
+    {
+      "word": "topics.",
+      "start": 7.12,
+      "end": 7.76
+    },
+    {
+      "word": "Before",
+      "start": 7.92,
+      "end": 8.24
+    },
+    {
+      "word": "the",
+      "start": 8.24,
+      "end": 8.32
+    },
+    {
+      "word": "summit",
+      "start": 8.32,
+      "end": 8.72
+    },
+    {
+      "word": "even",
+      "start": 8.72,
+      "end": 8.88
+    },
+    {
+      "word": "got",
+      "start": 8.88,
+      "end": 9.040000000000001
+    },
+    {
+      "word": "off",
+      "start": 9.040000000000001,
+      "end": 9.200000000000001
+    },
+    {
+      "word": "to",
+      "start": 9.200000000000001,
+      "end": 9.28
+    },
+    {
+      "word": "a",
+      "start": 9.28,
+      "end": 9.36
+    },
+    {
+      "word": "start",
+      "start": 9.36,
+      "end": 9.6
+    },
+    {
+      "word": "on",
+      "start": 9.6,
+      "end": 9.76
+    },
+    {
+      "word": "Saturday,",
+      "start": 9.76,
+      "end": 10.08
+    },
+    {
+      "word": "the",
+      "start": 10.16,
+      "end": 10.32
+    },
+    {
+      "word": "Black's",
+      "start": 10.32,
+      "end": 10.72
+    },
+    {
+      "word": "members",
+      "start": 10.72,
+      "end": 11.120000000000001
+    },
+    {
+      "word": "had",
+      "start": 11.120000000000001,
+      "end": 11.28
+    },
+    {
+      "word": "already",
+      "start": 11.28,
+      "end": 11.6
+    },
+    {
+      "word": "agreed",
+      "start": 11.6,
+      "end": 12.0
+    },
+    {
+      "word": "to",
+      "start": 12.0,
+      "end": 12.16
+    },
+    {
+      "word": "a",
+      "start": 12.16,
+      "end": 12.32
+    },
+    {
+      "word": "joint",
+      "start": 12.32,
+      "end": 12.64
+    },
+    {
+      "word": "declaration.",
+      "start": 12.64,
+      "end": 13.280000000000001
+    },
+    {
+      "word": "Now",
+      "start": 13.52,
+      "end": 13.68
+    },
+    {
+      "word": "it",
+      "start": 13.76,
+      "end": 14.0
+    },
+    {
+      "word": "condemns",
+      "start": 14.0,
+      "end": 14.64
+    },
+    {
+      "word": "unilateral",
+      "start": 14.64,
+      "end": 15.36
+    },
+    {
+      "word": "aggression",
+      "start": 15.36,
+      "end": 15.92
+    },
+    {
+      "word": "by",
+      "start": 15.92,
+      "end": 16.16
+    },
+    {
+      "word": "any",
+      "start": 16.16,
+      "end": 16.4
+    },
+    {
+      "word": "country.",
+      "start": 16.4,
+      "end": 16.8
+    },
+    {
+      "word": "And",
+      "start": 16.88,
+      "end": 17.2
+    },
+    {
+      "word": "while",
+      "start": 17.2,
+      "end": 17.52
+    },
+    {
+      "word": "it",
+      "start": 17.52,
+      "end": 17.68
+    },
+    {
+      "word": "does",
+      "start": 17.68,
+      "end": 18.0
+    },
+    {
+      "word": "stop",
+      "start": 18.0,
+      "end": 18.32
+    },
+    {
+      "word": "short",
+      "start": 18.32,
+      "end": 18.72
+    },
+    {
+      "word": "of",
+      "start": 18.72,
+      "end": 19.04
+    },
+    {
+      "word": "openly",
+      "start": 19.04,
+      "end": 19.6
+    },
+    {
+      "word": "naming",
+      "start": 19.6,
+      "end": 20.080000000000002
+    },
+    {
+      "word": "any",
+      "start": 20.080000000000002,
+      "end": 20.400000000000002
+    },
+    {
+      "word": "specific",
+      "start": 20.400000000000002,
+      "end": 20.88
+    },
+    {
+      "word": "nations,",
+      "start": 20.88,
+      "end": 21.28
+    },
+    {
+      "word": "it",
+      "start": 21.36,
+      "end": 21.52
+    },
+    {
+      "word": "does",
+      "start": 21.52,
+      "end": 21.92
+    },
+    {
+      "word": "call",
+      "start": 21.92,
+      "end": 22.400000000000002
+    },
+    {
+      "word": "for",
+      "start": 22.400000000000002,
+      "end": 22.64
+    },
+    {
+      "word": "maximum",
+      "start": 22.64,
+      "end": 23.28
+    },
+    {
+      "word": "restraint",
+      "start": 23.28,
+      "end": 23.84
+    },
+    {
+      "word": "in",
+      "start": 23.84,
+      "end": 24.0
+    },
+    {
+      "word": "the",
+      "start": 24.0,
+      "end": 24.080000000000002
+    },
+    {
+      "word": "Middle",
+      "start": 24.080000000000002,
+      "end": 24.400000000000002
+    },
+    {
+      "word": "East.",
+      "start": 24.400000000000002,
+      "end": 24.72
+    },
+    {
+      "word": "Now,",
+      "start": 24.88,
+      "end": 25.04
+    },
+    {
+      "word": "this",
+      "start": 25.12,
+      "end": 25.28
+    },
+    {
+      "word": "is",
+      "start": 25.28,
+      "end": 25.36
+    },
+    {
+      "word": "all",
+      "start": 25.36,
+      "end": 25.6
+    },
+    {
+      "word": "likely",
+      "start": 25.6,
+      "end": 25.92
+    },
+    {
+      "word": "to",
+      "start": 25.92,
+      "end": 26.0
+    },
+    {
+      "word": "be",
+      "start": 26.0,
+      "end": 26.16
+    },
+    {
+      "word": "framed",
+      "start": 26.16,
+      "end": 26.64
+    },
+    {
+      "word": "as",
+      "start": 26.64,
+      "end": 26.8
+    },
+    {
+      "word": "a",
+      "start": 26.8,
+      "end": 27.04
+    },
+    {
+      "word": "significant",
+      "start": 27.04,
+      "end": 27.6
+    },
+    {
+      "word": "diplomatic",
+      "start": 27.6,
+      "end": 28.32
+    },
+    {
+      "word": "breakthrough,",
+      "start": 28.32,
+      "end": 28.88
+    },
+    {
+      "word": "spurring",
+      "start": 28.96,
+      "end": 29.52
+    },
+    {
+      "word": "momentum",
+      "start": 29.52,
+      "end": 30.080000000000002
+    },
+    {
+      "word": "for",
+      "start": 30.080000000000002,
+      "end": 30.32
+    },
+    {
+      "word": "a",
+      "start": 30.32,
+      "end": 30.48
+    },
+    {
+      "word": "summit",
+      "start": 30.48,
+      "end": 30.8
+    },
+    {
+      "word": "that",
+      "start": 30.8,
+      "end": 30.96
+    },
+    {
+      "word": "is",
+      "start": 30.96,
+      "end": 31.12
+    },
+    {
+      "word": "aimed",
+      "start": 31.12,
+      "end": 31.6
+    },
+    {
+      "word": "at",
+      "start": 31.6,
+      "end": 31.76
+    },
+    {
+      "word": "boosting",
+      "start": 31.76,
+      "end": 32.160000000000004
+    },
+    {
+      "word": "the",
+      "start": 32.160000000000004,
+      "end": 32.24
+    },
+    {
+      "word": "blocks",
+      "start": 32.24,
+      "end": 32.64
+    },
+    {
+      "word": "global",
+      "start": 32.8,
+      "end": 33.2
+    },
+    {
+      "word": "clout.",
+      "start": 33.2,
+      "end": 33.6
+    },
+    {
+      "word": "Here's",
+      "start": 33.68,
+      "end": 33.92
+    },
+    {
+      "word": "uh",
+      "start": 34.0,
+      "end": 34.08
+    },
+    {
+      "word": "Narendra",
+      "start": 34.24,
+      "end": 34.72
+    },
+    {
+      "word": "Modi.",
+      "start": 34.88,
+      "end": 35.2
+    },
+    {
+      "word": "It",
+      "start": 36.800000000000004,
+      "end": 36.96
+    },
+    {
+      "word": "is",
+      "start": 36.96,
+      "end": 37.12
+    },
+    {
+      "word": "clear",
+      "start": 37.12,
+      "end": 37.52
+    },
+    {
+      "word": "from",
+      "start": 37.52,
+      "end": 37.76
+    },
+    {
+      "word": "today's",
+      "start": 37.76,
+      "end": 38.160000000000004
+    },
+    {
+      "word": "discussions",
+      "start": 38.160000000000004,
+      "end": 38.72
+    },
+    {
+      "word": "that",
+      "start": 39.68,
+      "end": 39.84
+    },
+    {
+      "word": "the",
+      "start": 39.84,
+      "end": 40.08
+    },
+    {
+      "word": "management",
+      "start": 40.08,
+      "end": 40.56
+    },
+    {
+      "word": "of",
+      "start": 40.56,
+      "end": 40.72
+    },
+    {
+      "word": "the",
+      "start": 40.72,
+      "end": 40.96
+    },
+    {
+      "word": "changing",
+      "start": 40.96,
+      "end": 41.6
+    },
+    {
+      "word": "world",
+      "start": 41.6,
+      "end": 42.08
+    },
+    {
+      "word": "cannot",
+      "start": 42.08,
+      "end": 42.64
+    },
+    {
+      "word": "be",
+      "start": 42.64,
+      "end": 42.800000000000004
+    },
+    {
+      "word": "done",
+      "start": 42.800000000000004,
+      "end": 43.2
+    },
+    {
+      "word": "with",
+      "start": 43.2,
+      "end": 43.44
+    },
+    {
+      "word": "the",
+      "start": 43.44,
+      "end": 43.76
+    },
+    {
+      "word": "old",
+      "start": 43.76,
+      "end": 44.160000000000004
+    },
+    {
+      "word": "institutions.",
+      "start": 44.160000000000004,
+      "end": 44.72
+    },
+    {
+      "word": "Representation,",
+      "start": 46.08,
+      "end": 46.96
+    },
+    {
+      "word": "responsiveness,",
+      "start": 47.2,
+      "end": 48.0
+    },
+    {
+      "word": "and",
+      "start": 48.4,
+      "end": 48.56
+    },
+    {
+      "word": "rulemaking.",
+      "start": 48.56,
+      "end": 49.36
+    },
+    {
+      "word": "All",
+      "start": 49.6,
+      "end": 49.84
+    },
+    {
+      "word": "three",
+      "start": 49.84,
+      "end": 50.160000000000004
+    },
+    {
+      "word": "need",
+      "start": 50.96,
+      "end": 51.2
+    },
+    {
+      "word": "to",
+      "start": 51.2,
+      "end": 51.36
+    },
+    {
+      "word": "be",
+      "start": 51.36,
+      "end": 51.52
+    },
+    {
+      "word": "improved.",
+      "start": 51.52,
+      "end": 52.0
+    },
+    {
+      "word": "Well,",
+      "start": 54.24,
+      "end": 54.480000000000004
+    },
+    {
+      "word": "for",
+      "start": 54.64,
+      "end": 54.88
+    },
+    {
+      "word": "more",
+      "start": 54.88,
+      "end": 55.04
+    },
+    {
+      "word": "on",
+      "start": 55.04,
+      "end": 55.2
+    },
+    {
+      "word": "this,",
+      "start": 55.2,
+      "end": 55.36
+    },
+    {
+      "word": "then",
+      "start": 55.52,
+      "end": 55.76
+    },
+    {
+      "word": "our",
+      "start": 55.92,
+      "end": 56.24
+    },
+    {
+      "word": "international",
+      "start": 56.24,
+      "end": 56.72
+    },
+    {
+      "word": "affairs",
+      "start": 56.88,
+      "end": 57.120000000000005
+    },
+    {
+      "word": "editor,",
+      "start": 57.2,
+      "end": 57.44
+    },
+    {
+      "word": "Andy",
+      "start": 57.52,
+      "end": 57.84
+    },
+    {
+      "word": "Hillier",
+      "start": 57.84,
+      "end": 58.4
+    },
+    {
+      "word": "joins",
+      "start": 58.480000000000004,
+      "end": 58.72
+    },
+    {
+      "word": "me",
+      "start": 58.72,
+      "end": 58.88
+    },
+    {
+      "word": "from",
+      "start": 58.88,
+      "end": 58.96
+    },
+    {
+      "word": "our",
+      "start": 58.96,
+      "end": 59.120000000000005
+    },
+    {
+      "word": "international",
+      "start": 59.120000000000005,
+      "end": 59.52
+    },
+    {
+      "word": "affairs",
+      "start": 59.52,
+      "end": 59.76
+    },
+    {
+      "word": "desk.",
+      "start": 59.84,
+      "end": 60.08
+    },
+    {
+      "word": "Hi",
+      "start": 60.24,
+      "end": 60.32
+    },
+    {
+      "word": "there,",
+      "start": 60.4,
+      "end": 60.56
+    },
+    {
+      "word": "Andy.",
+      "start": 60.64,
+      "end": 60.96
+    },
+    {
+      "word": "So",
+      "start": 61.36,
+      "end": 61.44
+    },
+    {
+      "word": "what",
+      "start": 61.52,
+      "end": 61.68
+    },
+    {
+      "word": "are",
+      "start": 61.68,
+      "end": 61.84
+    },
+    {
+      "word": "the",
+      "start": 61.84,
+      "end": 61.92
+    },
+    {
+      "word": "main",
+      "start": 61.92,
+      "end": 62.160000000000004
+    },
+    {
+      "word": "takeaways",
+      "start": 62.160000000000004,
+      "end": 62.56
+    },
+    {
+      "word": "then",
+      "start": 62.64,
+      "end": 62.88
+    },
+    {
+      "word": "from",
+      "start": 62.88,
+      "end": 63.04
+    },
+    {
+      "word": "this",
+      "start": 63.04,
+      "end": 63.2
+    },
+    {
+      "word": "joint",
+      "start": 63.2,
+      "end": 63.440000000000005
+    },
+    {
+      "word": "statement?",
+      "start": 63.440000000000005,
+      "end": 63.68
+    },
+    {
+      "word": "Well,",
+      "start": 64.0,
+      "end": 64.08
+    },
+    {
+      "word": "first",
+      "start": 64.16,
+      "end": 64.24
+    },
+    {
+      "word": "off,",
+      "start": 64.32000000000001,
+      "end": 64.48
+    },
+    {
+      "word": "I",
+      "start": 64.56,
+      "end": 64.64
+    },
+    {
+      "word": "think",
+      "start": 64.64,
+      "end": 64.8
+    },
+    {
+      "word": "it's",
+      "start": 64.8,
+      "end": 65.04
+    },
+    {
+      "word": "important",
+      "start": 65.04,
+      "end": 65.2
+    },
+    {
+      "word": "to",
+      "start": 65.2,
+      "end": 65.36
+    },
+    {
+      "word": "point",
+      "start": 65.36,
+      "end": 65.52
+    },
+    {
+      "word": "out",
+      "start": 65.52,
+      "end": 65.68
+    },
+    {
+      "word": "that",
+      "start": 65.68,
+      "end": 65.84
+    },
+    {
+      "word": "uh",
+      "start": 65.84,
+      "end": 65.92
+    },
+    {
+      "word": "the",
+      "start": 65.92,
+      "end": 66.0
+    },
+    {
+      "word": "fact",
+      "start": 66.0,
+      "end": 66.16
+    },
+    {
+      "word": "that",
+      "start": 66.16,
+      "end": 66.32000000000001
+    },
+    {
+      "word": "there",
+      "start": 66.32000000000001,
+      "end": 66.48
+    },
+    {
+      "word": "is",
+      "start": 66.48,
+      "end": 66.64
+    },
+    {
+      "word": "a",
+      "start": 66.64,
+      "end": 66.72
+    },
+    {
+      "word": "joint",
+      "start": 66.72,
+      "end": 67.04
+    },
+    {
+      "word": "statement",
+      "start": 67.04,
+      "end": 67.36
+    },
+    {
+      "word": "does",
+      "start": 67.44,
+      "end": 67.6
+    },
+    {
+      "word": "show",
+      "start": 67.6,
+      "end": 67.84
+    },
+    {
+      "word": "that",
+      "start": 67.84,
+      "end": 68.0
+    },
+    {
+      "word": "to",
+      "start": 68.0,
+      "end": 68.16
+    },
+    {
+      "word": "some",
+      "start": 68.16,
+      "end": 68.32000000000001
+    },
+    {
+      "word": "extent",
+      "start": 68.32000000000001,
+      "end": 68.56
+    },
+    {
+      "word": "they",
+      "start": 68.64,
+      "end": 68.72
+    },
+    {
+      "word": "have",
+      "start": 68.72,
+      "end": 68.88
+    },
+    {
+      "word": "managed",
+      "start": 68.88,
+      "end": 69.2
+    },
+    {
+      "word": "to",
+      "start": 69.2,
+      "end": 69.36
+    },
+    {
+      "word": "paper",
+      "start": 69.36,
+      "end": 69.84
+    },
+    {
+      "word": "over",
+      "start": 69.84,
+      "end": 70.16
+    },
+    {
+      "word": "uh",
+      "start": 70.16,
+      "end": 70.32000000000001
+    },
+    {
+      "word": "many",
+      "start": 70.32000000000001,
+      "end": 70.56
+    },
+    {
+      "word": "of",
+      "start": 70.56,
+      "end": 70.8
+    },
+    {
+      "word": "the",
+      "start": 70.8,
+      "end": 70.96000000000001
+    },
+    {
+      "word": "decent",
+      "start": 70.96000000000001,
+      "end": 71.36
+    },
+    {
+      "word": "differences",
+      "start": 71.52,
+      "end": 72.08
+    },
+    {
+      "word": "uh",
+      "start": 72.16,
+      "end": 72.4
+    },
+    {
+      "word": "uh",
+      "start": 72.4,
+      "end": 72.56
+    },
+    {
+      "word": "and",
+      "start": 72.88,
+      "end": 73.12
+    },
+    {
+      "word": "the",
+      "start": 73.12,
+      "end": 73.28
+    },
+    {
+      "word": "tensions",
+      "start": 73.28,
+      "end": 73.76
+    },
+    {
+      "word": "that",
+      "start": 73.76,
+      "end": 73.92
+    },
+    {
+      "word": "there",
+      "start": 73.92,
+      "end": 74.16
+    },
+    {
+      "word": "are",
+      "start": 74.16,
+      "end": 74.32000000000001
+    },
+    {
+      "word": "within",
+      "start": 74.56,
+      "end": 75.12
+    },
+    {
+      "word": "uh",
+      "start": 75.12,
+      "end": 75.36
+    },
+    {
+      "word": "the",
+      "start": 75.36,
+      "end": 75.52
+    },
+    {
+      "word": "BRICS",
+      "start": 75.52,
+      "end": 76.08
+    },
+    {
+      "word": "members.",
+      "start": 76.24,
+      "end": 76.64
+    },
+    {
+      "word": "Uh",
+      "start": 76.8,
+      "end": 76.88
+    },
+    {
+      "word": "back",
+      "start": 76.96000000000001,
+      "end": 77.12
+    },
+    {
+      "word": "in",
+      "start": 77.2,
+      "end": 77.36
+    },
+    {
+      "word": "uh",
+      "start": 77.36,
+      "end": 77.52
+    },
+    {
+      "word": "May",
+      "start": 77.52,
+      "end": 77.76
+    },
+    {
+      "word": "at",
+      "start": 77.84,
+      "end": 78.0
+    },
+    {
+      "word": "a",
+      "start": 78.0,
+      "end": 78.08
+    },
+    {
+      "word": "gathering",
+      "start": 78.08,
+      "end": 78.4
+    },
+    {
+      "word": "of",
+      "start": 78.4,
+      "end": 78.48
+    },
+    {
+      "word": "BRICS",
+      "start": 78.48,
+      "end": 78.8
+    },
+    {
+      "word": "foreign",
+      "start": 78.88,
+      "end": 79.12
+    },
+    {
+      "word": "ministers,",
+      "start": 79.2,
+      "end": 79.52
+    },
+    {
+      "word": "there",
+      "start": 79.60000000000001,
+      "end": 79.76
+    },
+    {
+      "word": "was",
+      "start": 79.76,
+      "end": 80.0
+    },
+    {
+      "word": "no",
+      "start": 80.0,
+      "end": 80.16
+    },
+    {
+      "word": "such",
+      "start": 80.16,
+      "end": 80.48
+    },
+    {
+      "word": "uh",
+      "start": 80.48,
+      "end": 80.64
+    },
+    {
+      "word": "joint",
+      "start": 80.64,
+      "end": 81.04
+    },
+    {
+      "word": "statement.",
+      "start": 81.04,
+      "end": 81.52
+    },
+    {
+      "word": "So",
+      "start": 81.68,
+      "end": 81.84
+    },
+    {
+      "word": "uh",
+      "start": 82.0,
+      "end": 82.16
+    },
+    {
+      "word": "I've",
+      "start": 82.24,
+      "end": 82.48
+    },
+    {
+      "word": "picked",
+      "start": 82.48,
+      "end": 82.8
+    },
+    {
+      "word": "out",
+      "start": 82.8,
+      "end": 82.96000000000001
+    },
+    {
+      "word": "just",
+      "start": 82.96000000000001,
+      "end": 83.12
+    },
+    {
+      "word": "a",
+      "start": 83.12,
+      "end": 83.2
+    },
+    {
+      "word": "couple",
+      "start": 83.2,
+      "end": 83.52
+    },
+    {
+      "word": "of",
+      "start": 83.52,
+      "end": 83.68
+    },
+    {
+      "word": "uh",
+      "start": 83.68,
+      "end": 83.92
+    },
+    {
+      "word": "key",
+      "start": 83.92,
+      "end": 84.32000000000001
+    },
+    {
+      "word": "points.",
+      "start": 84.32000000000001,
+      "end": 84.88
+    },
+    {
+      "word": "Uh",
+      "start": 85.04,
+      "end": 85.2
+    },
+    {
+      "word": "the",
+      "start": 85.28,
+      "end": 85.60000000000001
+    },
+    {
+      "word": "first",
+      "start": 85.60000000000001,
+      "end": 85.92
+    },
+    {
+      "word": "one,",
+      "start": 86.08,
+      "end": 86.4
+    },
+    {
+      "word": "a",
+      "start": 86.72,
+      "end": 87.04
+    },
+    {
+      "word": "statement",
+      "start": 87.04,
+      "end": 87.68
+    },
+    {
+      "word": "expressing",
+      "start": 87.68,
+      "end": 88.4
+    },
+    {
+      "word": "concern",
+      "start": 88.4,
+      "end": 89.04
+    },
+    {
+      "word": "over",
+      "start": 89.2,
+      "end": 89.44
+    },
+    {
+      "word": "the",
+      "start": 89.44,
+      "end": 89.68
+    },
+    {
+      "word": "uh",
+      "start": 89.68,
+      "end": 89.92
+    },
+    {
+      "word": "continued",
+      "start": 89.92,
+      "end": 90.56
+    },
+    {
+      "word": "escalation",
+      "start": 90.56,
+      "end": 91.28
+    },
+    {
+      "word": "of",
+      "start": 91.28,
+      "end": 91.52
+    },
+    {
+      "word": "tensions",
+      "start": 91.52,
+      "end": 92.08
+    },
+    {
+      "word": "uh",
+      "start": 92.16,
+      "end": 92.32000000000001
+    },
+    {
+      "word": "in",
+      "start": 92.32000000000001,
+      "end": 92.4
+    },
+    {
+      "word": "the",
+      "start": 92.4,
+      "end": 92.56
+    },
+    {
+      "word": "Middle",
+      "start": 92.56,
+      "end": 92.8
+    },
+    {
+      "word": "East",
+      "start": 92.8,
+      "end": 93.12
+    },
+    {
+      "word": "West",
+      "start": 93.2,
+      "end": 93.28
+    },
+    {
+      "word": "Asia,",
+      "start": 93.44,
+      "end": 93.76
+    },
+    {
+      "word": "calling",
+      "start": 93.84,
+      "end": 94.24
+    },
+    {
+      "word": "for",
+      "start": 94.24,
+      "end": 94.4
+    },
+    {
+      "word": "a",
+      "start": 94.4,
+      "end": 94.56
+    },
+    {
+      "word": "maximum",
+      "start": 94.56,
+      "end": 95.04
+    },
+    {
+      "word": "restraint,",
+      "start": 95.04,
+      "end": 95.52
+    },
+    {
+      "word": "as",
+      "start": 95.60000000000001,
+      "end": 95.76
+    },
+    {
+      "word": "you",
+      "start": 95.76,
+      "end": 95.84
+    },
+    {
+      "word": "can",
+      "start": 95.84,
+      "end": 95.92
+    },
+    {
+      "word": "see",
+      "start": 95.92,
+      "end": 96.08
+    },
+    {
+      "word": "on",
+      "start": 96.08,
+      "end": 96.24000000000001
+    },
+    {
+      "word": "your",
+      "start": 96.24000000000001,
+      "end": 96.4
+    },
+    {
+      "word": "screen",
+      "start": 96.4,
+      "end": 96.72
+    },
+    {
+      "word": "there,",
+      "start": 96.8,
+      "end": 97.12
+    },
+    {
+      "word": "uh,",
+      "start": 97.28,
+      "end": 97.36
+    },
+    {
+      "word": "and",
+      "start": 97.44,
+      "end": 97.68
+    },
+    {
+      "word": "uh",
+      "start": 97.68,
+      "end": 97.76
+    },
+    {
+      "word": "avoiding",
+      "start": 97.84,
+      "end": 98.48
+    },
+    {
+      "word": "actions",
+      "start": 98.48,
+      "end": 98.8
+    },
+    {
+      "word": "that",
+      "start": 98.8,
+      "end": 99.04
+    },
+    {
+      "word": "could",
+      "start": 99.04,
+      "end": 99.2
+    },
+    {
+      "word": "further",
+      "start": 99.2,
+      "end": 99.52
+    },
+    {
+      "word": "aggravate",
+      "start": 99.52,
+      "end": 100.16
+    },
+    {
+      "word": "the",
+      "start": 100.16,
+      "end": 100.24000000000001
+    },
+    {
+      "word": "situation.",
+      "start": 100.24000000000001,
+      "end": 100.56
+    },
+    {
+      "word": "Now",
+      "start": 100.72,
+      "end": 100.88
+    },
+    {
+      "word": "the",
+      "start": 100.96000000000001,
+      "end": 101.12
+    },
+    {
+      "word": "statement",
+      "start": 101.12,
+      "end": 101.52
+    },
+    {
+      "word": "goes",
+      "start": 101.52,
+      "end": 101.76
+    },
+    {
+      "word": "on",
+      "start": 101.76,
+      "end": 102.08
+    },
+    {
+      "word": "to",
+      "start": 102.08,
+      "end": 102.4
+    },
+    {
+      "word": "say",
+      "start": 102.4,
+      "end": 102.72
+    },
+    {
+      "word": "uh",
+      "start": 102.88,
+      "end": 103.04
+    },
+    {
+      "word": "uh",
+      "start": 103.04,
+      "end": 103.2
+    },
+    {
+      "word": "goes",
+      "start": 103.68,
+      "end": 103.92
+    },
+    {
+      "word": "on",
+      "start": 103.92,
+      "end": 104.08
+    },
+    {
+      "word": "to",
+      "start": 104.08,
+      "end": 104.24000000000001
+    },
+    {
+      "word": "criticize",
+      "start": 104.24000000000001,
+      "end": 104.72
+    },
+    {
+      "word": "deliberate",
+      "start": 104.72,
+      "end": 105.36
+    },
+    {
+      "word": "tax",
+      "start": 105.36,
+      "end": 105.60000000000001
+    },
+    {
+      "word": "on",
+      "start": 105.76,
+      "end": 106.0
+    },
+    {
+      "word": "attacks",
+      "start": 106.16,
+      "end": 106.64
+    },
+    {
+      "word": "on",
+      "start": 106.64,
+      "end": 106.8
+    },
+    {
+      "word": "civilian",
+      "start": 106.8,
+      "end": 107.36
+    },
+    {
+      "word": "infrastructure",
+      "start": 107.36,
+      "end": 108.08
+    },
+    {
+      "word": "and",
+      "start": 108.08,
+      "end": 108.4
+    },
+    {
+      "word": "peaceful",
+      "start": 108.4,
+      "end": 109.04
+    },
+    {
+      "word": "nuclear",
+      "start": 109.04,
+      "end": 109.76
+    },
+    {
+      "word": "facilities.",
+      "start": 109.76,
+      "end": 110.32000000000001
+    },
+    {
+      "word": "So",
+      "start": 110.48,
+      "end": 110.64
+    },
+    {
+      "word": "that",
+      "start": 110.72,
+      "end": 110.88
+    },
+    {
+      "word": "will",
+      "start": 110.88,
+      "end": 111.04
+    },
+    {
+      "word": "be,",
+      "start": 111.04,
+      "end": 111.2
+    },
+    {
+      "word": "of",
+      "start": 111.28,
+      "end": 111.36
+    },
+    {
+      "word": "course,",
+      "start": 111.36,
+      "end": 111.52
+    },
+    {
+      "word": "interpreted",
+      "start": 111.68,
+      "end": 112.4
+    },
+    {
+      "word": "as",
+      "start": 112.4,
+      "end": 112.56
+    },
+    {
+      "word": "uh",
+      "start": 112.56,
+      "end": 112.8
+    },
+    {
+      "word": "indirect",
+      "start": 112.8,
+      "end": 113.36
+    },
+    {
+      "word": "criticism",
+      "start": 113.36,
+      "end": 114.0
+    },
+    {
+      "word": "of",
+      "start": 114.0,
+      "end": 114.16
+    },
+    {
+      "word": "the",
+      "start": 114.16,
+      "end": 114.4
+    },
+    {
+      "word": "US",
+      "start": 114.4,
+      "end": 114.96000000000001
+    },
+    {
+      "word": "and",
+      "start": 114.96000000000001,
+      "end": 115.2
+    },
+    {
+      "word": "Israeli",
+      "start": 115.2,
+      "end": 115.92
+    },
+    {
+      "word": "strikes",
+      "start": 115.92,
+      "end": 116.48
+    },
+    {
+      "word": "on",
+      "start": 116.48,
+      "end": 116.64
+    },
+    {
+      "word": "Iranian",
+      "start": 116.64,
+      "end": 117.12
+    },
+    {
+      "word": "nuclear",
+      "start": 117.28,
+      "end": 117.84
+    },
+    {
+      "word": "facilities.",
+      "start": 117.84,
+      "end": 118.32000000000001
+    },
+    {
+      "word": "So",
+      "start": 118.4,
+      "end": 118.48
+    },
+    {
+      "word": "that's",
+      "start": 118.56,
+      "end": 118.8
+    },
+    {
+      "word": "one",
+      "start": 118.8,
+      "end": 118.96000000000001
+    },
+    {
+      "word": "of",
+      "start": 118.96000000000001,
+      "end": 119.04
+    },
+    {
+      "word": "the",
+      "start": 119.04,
+      "end": 119.36
+    },
+    {
+      "word": "first",
+      "start": 119.36,
+      "end": 119.68
+    },
+    {
+      "word": "points",
+      "start": 119.68,
+      "end": 120.32000000000001
+    },
+    {
+      "word": "uh",
+      "start": 120.4,
+      "end": 120.64
+    },
+    {
+      "word": "uh",
+      "start": 120.64,
+      "end": 120.88
+    },
+    {
+      "word": "to",
+      "start": 120.88,
+      "end": 121.2
+    },
+    {
+      "word": "make",
+      "start": 121.44,
+      "end": 121.68
+    },
+    {
+      "word": "here",
+      "start": 121.68,
+      "end": 121.92
+    },
+    {
+      "word": "with",
+      "start": 122.0,
+      "end": 122.24000000000001
+    },
+    {
+      "word": "this",
+      "start": 122.24000000000001,
+      "end": 122.56
+    },
+    {
+      "word": "joint",
+      "start": 122.56,
+      "end": 122.96000000000001
+    },
+    {
+      "word": "statement.",
+      "start": 122.96000000000001,
+      "end": 123.44
+    },
+    {
+      "word": "Uh",
+      "start": 123.52,
+      "end": 123.60000000000001
+    },
+    {
+      "word": "a",
+      "start": 123.68,
+      "end": 123.84
+    },
+    {
+      "word": "second",
+      "start": 123.84,
+      "end": 124.16
+    },
+    {
+      "word": "point",
+      "start": 124.16,
+      "end": 124.4
+    },
+    {
+      "word": "you",
+      "start": 124.56,
+      "end": 124.64
+    },
+    {
+      "word": "can",
+      "start": 124.64,
+      "end": 124.8
+    },
+    {
+      "word": "see",
+      "start": 124.8,
+      "end": 124.96000000000001
+    },
+    {
+      "word": "uh",
+      "start": 125.04,
+      "end": 125.2
+    },
+    {
+      "word": "on",
+      "start": 125.2,
+      "end": 125.36
+    },
+    {
+      "word": "your",
+      "start": 125.36,
+      "end": 125.60000000000001
+    },
+    {
+      "word": "screen",
+      "start": 125.60000000000001,
+      "end": 125.92
+    },
+    {
+      "word": "there,",
+      "start": 125.92,
+      "end": 126.08
+    },
+    {
+      "word": "the",
+      "start": 126.16,
+      "end": 126.4
+    },
+    {
+      "word": "second",
+      "start": 126.4,
+      "end": 126.88000000000001
+    },
+    {
+      "word": "uh",
+      "start": 126.88000000000001,
+      "end": 127.04
+    },
+    {
+      "word": "quote",
+      "start": 127.04,
+      "end": 127.44
+    },
+    {
+      "word": "I've",
+      "start": 127.52,
+      "end": 127.92
+    },
+    {
+      "word": "taken",
+      "start": 127.92,
+      "end": 128.24
+    },
+    {
+      "word": "from",
+      "start": 128.24,
+      "end": 128.4
+    },
+    {
+      "word": "that",
+      "start": 128.4,
+      "end": 128.64000000000001
+    },
+    {
+      "word": "joint",
+      "start": 128.64000000000001,
+      "end": 128.88
+    },
+    {
+      "word": "statement.",
+      "start": 128.88,
+      "end": 129.2
+    },
+    {
+      "word": "Leaders",
+      "start": 129.36,
+      "end": 129.76
+    },
+    {
+      "word": "taking",
+      "start": 129.84,
+      "end": 130.08
+    },
+    {
+      "word": "aim",
+      "start": 130.08,
+      "end": 130.48
+    },
+    {
+      "word": "at",
+      "start": 130.48,
+      "end": 130.72
+    },
+    {
+      "word": "unilateral",
+      "start": 130.72,
+      "end": 131.44
+    },
+    {
+      "word": "sanctions",
+      "start": 131.44,
+      "end": 131.92000000000002
+    },
+    {
+      "word": "not",
+      "start": 132.0,
+      "end": 132.24
+    },
+    {
+      "word": "authorized",
+      "start": 132.24,
+      "end": 132.88
+    },
+    {
+      "word": "by",
+      "start": 132.88,
+      "end": 133.04
+    },
+    {
+      "word": "the",
+      "start": 133.04,
+      "end": 133.2
+    },
+    {
+      "word": "UN",
+      "start": 133.2,
+      "end": 133.68
+    },
+    {
+      "word": "Security",
+      "start": 133.68,
+      "end": 134.24
+    },
+    {
+      "word": "Council.",
+      "start": 134.24,
+      "end": 134.72
+    },
+    {
+      "word": "Uh",
+      "start": 134.88,
+      "end": 134.96
+    },
+    {
+      "word": "I",
+      "start": 135.04,
+      "end": 135.12
+    },
+    {
+      "word": "quote,",
+      "start": 135.2,
+      "end": 135.6
+    },
+    {
+      "word": "uh,",
+      "start": 135.68,
+      "end": 135.84
+    },
+    {
+      "word": "we",
+      "start": 135.92000000000002,
+      "end": 136.08
+    },
+    {
+      "word": "call",
+      "start": 136.08,
+      "end": 136.32
+    },
+    {
+      "word": "for",
+      "start": 136.32,
+      "end": 136.48
+    },
+    {
+      "word": "the",
+      "start": 136.48,
+      "end": 136.56
+    },
+    {
+      "word": "elimination",
+      "start": 136.56,
+      "end": 137.04
+    },
+    {
+      "word": "of",
+      "start": 137.04,
+      "end": 137.20000000000002
+    },
+    {
+      "word": "such",
+      "start": 137.20000000000002,
+      "end": 137.52
+    },
+    {
+      "word": "unlawful",
+      "start": 137.52,
+      "end": 138.4
+    },
+    {
+      "word": "measures",
+      "start": 138.4,
+      "end": 138.8
+    },
+    {
+      "word": "which",
+      "start": 138.96,
+      "end": 139.28
+    },
+    {
+      "word": "undermine",
+      "start": 139.28,
+      "end": 139.84
+    },
+    {
+      "word": "international",
+      "start": 140.0,
+      "end": 140.48
+    },
+    {
+      "word": "law",
+      "start": 140.48,
+      "end": 140.8
+    },
+    {
+      "word": "and",
+      "start": 140.8,
+      "end": 140.96
+    },
+    {
+      "word": "the",
+      "start": 140.96,
+      "end": 141.04
+    },
+    {
+      "word": "principles",
+      "start": 141.04,
+      "end": 141.52
+    },
+    {
+      "word": "and",
+      "start": 141.52,
+      "end": 141.68
+    },
+    {
+      "word": "purposes",
+      "start": 141.68,
+      "end": 142.16
+    },
+    {
+      "word": "of",
+      "start": 142.16,
+      "end": 142.24
+    },
+    {
+      "word": "the",
+      "start": 142.24,
+      "end": 142.4
+    },
+    {
+      "word": "UN",
+      "start": 142.4,
+      "end": 142.72
+    },
+    {
+      "word": "Charter.",
+      "start": 142.72,
+      "end": 143.12
+    },
+    {
+      "word": "Now,",
+      "start": 143.20000000000002,
+      "end": 143.52
+    },
+    {
+      "word": "even",
+      "start": 143.6,
+      "end": 143.92000000000002
+    },
+    {
+      "word": "though",
+      "start": 143.92000000000002,
+      "end": 144.24
+    },
+    {
+      "word": "no",
+      "start": 144.24,
+      "end": 144.48
+    },
+    {
+      "word": "country",
+      "start": 144.48,
+      "end": 145.04
+    },
+    {
+      "word": "has",
+      "start": 145.04,
+      "end": 145.28
+    },
+    {
+      "word": "been",
+      "start": 145.28,
+      "end": 145.52
+    },
+    {
+      "word": "singled",
+      "start": 145.52,
+      "end": 146.08
+    },
+    {
+      "word": "out",
+      "start": 146.08,
+      "end": 146.32
+    },
+    {
+      "word": "here,",
+      "start": 146.32,
+      "end": 146.64000000000001
+    },
+    {
+      "word": "um,",
+      "start": 146.8,
+      "end": 146.96
+    },
+    {
+      "word": "BRICS",
+      "start": 147.20000000000002,
+      "end": 147.68
+    },
+    {
+      "word": "founding",
+      "start": 147.84,
+      "end": 148.16
+    },
+    {
+      "word": "major",
+      "start": 148.16,
+      "end": 148.32
+    },
+    {
+      "word": "BRICS",
+      "start": 148.64000000000001,
+      "end": 149.04
+    },
+    {
+      "word": "founding",
+      "start": 149.20000000000002,
+      "end": 149.6
+    },
+    {
+      "word": "member",
+      "start": 149.6,
+      "end": 149.92000000000002
+    },
+    {
+      "word": "Russia,",
+      "start": 150.0,
+      "end": 150.4
+    },
+    {
+      "word": "of",
+      "start": 150.56,
+      "end": 150.72
+    },
+    {
+      "word": "course,",
+      "start": 150.72,
+      "end": 150.96
+    },
+    {
+      "word": "has",
+      "start": 151.20000000000002,
+      "end": 151.52
+    },
+    {
+      "word": "faced",
+      "start": 151.52,
+      "end": 151.92000000000002
+    },
+    {
+      "word": "Western",
+      "start": 151.92000000000002,
+      "end": 152.4
+    },
+    {
+      "word": "sanctions",
+      "start": 152.4,
+      "end": 153.04
+    },
+    {
+      "word": "since",
+      "start": 153.04,
+      "end": 153.28
+    },
+    {
+      "word": "its",
+      "start": 153.28,
+      "end": 153.36
+    },
+    {
+      "word": "uh",
+      "start": 153.52,
+      "end": 153.76
+    },
+    {
+      "word": "full-scale",
+      "start": 153.76,
+      "end": 154.96
+    },
+    {
+      "word": "invasion",
+      "start": 154.96,
+      "end": 155.68
+    },
+    {
+      "word": "of",
+      "start": 155.68,
+      "end": 155.92000000000002
+    },
+    {
+      "word": "Ukraine",
+      "start": 155.92000000000002,
+      "end": 156.56
+    },
+    {
+      "word": "in",
+      "start": 156.56,
+      "end": 156.8
+    },
+    {
+      "word": "2022.",
+      "start": 156.8,
+      "end": 158.4
+    },
+    {
+      "word": "Uh",
+      "start": 158.72,
+      "end": 158.8
+    },
+    {
+      "word": "now,",
+      "start": 158.88,
+      "end": 159.04
+    },
+    {
+      "word": "just",
+      "start": 159.20000000000002,
+      "end": 159.44
+    },
+    {
+      "word": "one",
+      "start": 159.44,
+      "end": 159.6
+    },
+    {
+      "word": "more",
+      "start": 159.6,
+      "end": 159.76
+    },
+    {
+      "word": "point",
+      "start": 159.76,
+      "end": 160.0
+    },
+    {
+      "word": "I",
+      "start": 160.08,
+      "end": 160.24
+    },
+    {
+      "word": "would",
+      "start": 160.24,
+      "end": 160.4
+    },
+    {
+      "word": "make",
+      "start": 160.4,
+      "end": 160.56
+    },
+    {
+      "word": "is",
+      "start": 160.64000000000001,
+      "end": 160.8
+    },
+    {
+      "word": "that",
+      "start": 160.8,
+      "end": 161.04
+    },
+    {
+      "word": "few",
+      "start": 161.04,
+      "end": 161.36
+    },
+    {
+      "word": "policies",
+      "start": 161.36,
+      "end": 161.92000000000002
+    },
+    {
+      "word": "will",
+      "start": 161.92000000000002,
+      "end": 162.16
+    },
+    {
+      "word": "have",
+      "start": 162.16,
+      "end": 162.4
+    },
+    {
+      "word": "had",
+      "start": 162.4,
+      "end": 162.64000000000001
+    },
+    {
+      "word": "a",
+      "start": 162.64000000000001,
+      "end": 162.8
+    },
+    {
+      "word": "bigger",
+      "start": 162.8,
+      "end": 163.20000000000002
+    },
+    {
+      "word": "impact",
+      "start": 163.20000000000002,
+      "end": 163.52
+    },
+    {
+      "word": "on",
+      "start": 163.52,
+      "end": 163.68
+    },
+    {
+      "word": "BRICS",
+      "start": 163.68,
+      "end": 164.16
+    },
+    {
+      "word": "countries",
+      "start": 164.24,
+      "end": 164.48
+    },
+    {
+      "word": "than",
+      "start": 164.56,
+      "end": 164.72
+    },
+    {
+      "word": "the",
+      "start": 164.72,
+      "end": 164.8
+    },
+    {
+      "word": "policies",
+      "start": 164.8,
+      "end": 165.20000000000002
+    },
+    {
+      "word": "put",
+      "start": 165.20000000000002,
+      "end": 165.36
+    },
+    {
+      "word": "in",
+      "start": 165.36,
+      "end": 165.52
+    },
+    {
+      "word": "place",
+      "start": 165.52,
+      "end": 165.76
+    },
+    {
+      "word": "by",
+      "start": 165.76,
+      "end": 165.92000000000002
+    },
+    {
+      "word": "US",
+      "start": 165.92000000000002,
+      "end": 166.48
+    },
+    {
+      "word": "President",
+      "start": 166.48,
+      "end": 167.12
+    },
+    {
+      "word": "Donald",
+      "start": 167.12,
+      "end": 167.68
+    },
+    {
+      "word": "Trump,",
+      "start": 168.0,
+      "end": 168.4
+    },
+    {
+      "word": "whether",
+      "start": 168.56,
+      "end": 168.88
+    },
+    {
+      "word": "it's",
+      "start": 168.88,
+      "end": 169.12
+    },
+    {
+      "word": "the",
+      "start": 169.12,
+      "end": 169.28
+    },
+    {
+      "word": "war",
+      "start": 169.28,
+      "end": 169.6
+    },
+    {
+      "word": "in",
+      "start": 169.6,
+      "end": 169.76
+    },
+    {
+      "word": "Iran",
+      "start": 169.76,
+      "end": 170.16
+    },
+    {
+      "word": "or",
+      "start": 170.24,
+      "end": 170.4
+    },
+    {
+      "word": "the",
+      "start": 170.4,
+      "end": 170.56
+    },
+    {
+      "word": "ever-lingering",
+      "start": 170.56,
+      "end": 171.28
+    },
+    {
+      "word": "threat",
+      "start": 171.44,
+      "end": 172.0
+    },
+    {
+      "word": "of",
+      "start": 172.0,
+      "end": 172.32
+    },
+    {
+      "word": "tariffs,",
+      "start": 172.32,
+      "end": 172.8
+    },
+    {
+      "word": "but",
+      "start": 172.88,
+      "end": 173.04
+    },
+    {
+      "word": "BRICS",
+      "start": 173.04,
+      "end": 173.44
+    },
+    {
+      "word": "countries",
+      "start": 173.44,
+      "end": 174.0
+    },
+    {
+      "word": "haven't",
+      "start": 174.0,
+      "end": 174.4
+    },
+    {
+      "word": "called",
+      "start": 174.4,
+      "end": 174.88
+    },
+    {
+      "word": "out",
+      "start": 174.88,
+      "end": 175.04
+    },
+    {
+      "word": "uh",
+      "start": 175.12,
+      "end": 175.28
+    },
+    {
+      "word": "Donald",
+      "start": 175.36,
+      "end": 175.84
+    },
+    {
+      "word": "Trump",
+      "start": 175.84,
+      "end": 176.24
+    },
+    {
+      "word": "or",
+      "start": 176.24,
+      "end": 176.48
+    },
+    {
+      "word": "laid",
+      "start": 176.48,
+      "end": 176.8
+    },
+    {
+      "word": "out",
+      "start": 176.8,
+      "end": 176.96
+    },
+    {
+      "word": "a",
+      "start": 176.96,
+      "end": 177.04
+    },
+    {
+      "word": "strategy",
+      "start": 177.04,
+      "end": 177.52
+    },
+    {
+      "word": "to",
+      "start": 177.52,
+      "end": 177.76
+    },
+    {
+      "word": "counter",
+      "start": 177.76,
+      "end": 178.4
+    },
+    {
+      "word": "his",
+      "start": 178.4,
+      "end": 178.72
+    },
+    {
+      "word": "policies",
+      "start": 178.72,
+      "end": 179.36
+    },
+    {
+      "word": "because",
+      "start": 179.52,
+      "end": 179.84
+    },
+    {
+      "word": "they",
+      "start": 179.84,
+      "end": 180.16
+    },
+    {
+      "word": "are",
+      "start": 180.16,
+      "end": 180.4
+    },
+    {
+      "word": "themselves",
+      "start": 180.4,
+      "end": 180.8
+    },
+    {
+      "word": "are",
+      "start": 180.88,
+      "end": 181.04
+    },
+    {
+      "word": "individed",
+      "start": 181.20000000000002,
+      "end": 182.16
+    },
+    {
+      "word": "on",
+      "start": 182.16,
+      "end": 182.4
+    },
+    {
+      "word": "how",
+      "start": 182.4,
+      "end": 182.72
+    },
+    {
+      "word": "far",
+      "start": 182.72,
+      "end": 182.96
+    },
+    {
+      "word": "they",
+      "start": 182.96,
+      "end": 183.12
+    },
+    {
+      "word": "should",
+      "start": 183.12,
+      "end": 183.44
+    },
+    {
+      "word": "go",
+      "start": 183.44,
+      "end": 183.68
+    },
+    {
+      "word": "in",
+      "start": 183.68,
+      "end": 183.84
+    },
+    {
+      "word": "challenging",
+      "start": 183.84,
+      "end": 184.32
+    },
+    {
+      "word": "him.",
+      "start": 184.32,
+      "end": 184.56
+    },
+    {
+      "word": "So",
+      "start": 184.96,
+      "end": 185.12
+    },
+    {
+      "word": "Andy,",
+      "start": 185.36,
+      "end": 185.68
+    },
+    {
+      "word": "India's",
+      "start": 185.84,
+      "end": 186.32
+    },
+    {
+      "word": "Prime",
+      "start": 186.32,
+      "end": 186.64000000000001
+    },
+    {
+      "word": "Minister",
+      "start": 186.64000000000001,
+      "end": 186.96
+    },
+    {
+      "word": "uh",
+      "start": 187.04,
+      "end": 187.20000000000002
+    },
+    {
+      "word": "has",
+      "start": 187.20000000000002,
+      "end": 187.36
+    },
+    {
+      "word": "made",
+      "start": 187.36,
+      "end": 187.6
+    },
+    {
+      "word": "clear",
+      "start": 187.6,
+      "end": 187.84
+    },
+    {
+      "word": "that",
+      "start": 187.84,
+      "end": 188.0
+    },
+    {
+      "word": "he",
+      "start": 188.0,
+      "end": 188.16
+    },
+    {
+      "word": "does",
+      "start": 188.16,
+      "end": 188.32
+    },
+    {
+      "word": "not",
+      "start": 188.32,
+      "end": 188.48
+    },
+    {
+      "word": "want",
+      "start": 188.48,
+      "end": 188.64000000000001
+    },
+    {
+      "word": "BRICS",
+      "start": 188.64000000000001,
+      "end": 189.04
+    },
+    {
+      "word": "to",
+      "start": 189.12,
+      "end": 189.20000000000002
+    },
+    {
+      "word": "be",
+      "start": 189.20000000000002,
+      "end": 189.28
+    },
+    {
+      "word": "seen",
+      "start": 189.28,
+      "end": 189.6
+    },
+    {
+      "word": "as",
+      "start": 189.6,
+      "end": 189.76
+    },
+    {
+      "word": "an",
+      "start": 189.76,
+      "end": 190.08
+    },
+    {
+      "word": "anti-Western",
+      "start": 190.08,
+      "end": 191.12
+    },
+    {
+      "word": "coalition.",
+      "start": 191.12,
+      "end": 192.0
+    },
+    {
+      "word": "Uh",
+      "start": 192.16,
+      "end": 192.24
+    },
+    {
+      "word": "what",
+      "start": 192.4,
+      "end": 192.64000000000001
+    },
+    {
+      "word": "unites",
+      "start": 192.88,
+      "end": 193.52
+    },
+    {
+      "word": "this",
+      "start": 193.52,
+      "end": 193.68
+    },
+    {
+      "word": "block",
+      "start": 193.68,
+      "end": 193.84
+    },
+    {
+      "word": "then,",
+      "start": 194.0,
+      "end": 194.24
+    },
+    {
+      "word": "other",
+      "start": 194.32,
+      "end": 194.48000000000002
+    },
+    {
+      "word": "than",
+      "start": 194.48000000000002,
+      "end": 194.64000000000001
+    },
+    {
+      "word": "the",
+      "start": 194.64000000000001,
+      "end": 194.8
+    },
+    {
+      "word": "relationship",
+      "start": 194.8,
+      "end": 195.20000000000002
+    },
+    {
+      "word": "to",
+      "start": 195.20000000000002,
+      "end": 195.28
+    },
+    {
+      "word": "the",
+      "start": 195.28,
+      "end": 195.36
+    },
+    {
+      "word": "West?",
+      "start": 195.36,
+      "end": 195.44
+    },
+    {
+      "word": "Well,",
+      "start": 195.92000000000002,
+      "end": 196.0
+    },
+    {
+      "word": "look,",
+      "start": 196.08,
+      "end": 196.16
+    },
+    {
+      "word": "I",
+      "start": 196.24,
+      "end": 196.32
+    },
+    {
+      "word": "mean,",
+      "start": 196.32,
+      "end": 196.32
+    },
+    {
+      "word": "uh",
+      "start": 196.4,
+      "end": 196.48000000000002
+    },
+    {
+      "word": "Nurendra",
+      "start": 196.56,
+      "end": 197.04
+    },
+    {
+      "word": "Modi",
+      "start": 197.12,
+      "end": 197.36
+    },
+    {
+      "word": "did",
+      "start": 197.52,
+      "end": 197.68
+    },
+    {
+      "word": "say",
+      "start": 197.68,
+      "end": 197.84
+    },
+    {
+      "word": "uh,",
+      "start": 197.92000000000002,
+      "end": 198.08
+    },
+    {
+      "word": "as",
+      "start": 198.16,
+      "end": 198.32
+    },
+    {
+      "word": "you",
+      "start": 198.32,
+      "end": 198.4
+    },
+    {
+      "word": "just",
+      "start": 198.4,
+      "end": 198.56
+    },
+    {
+      "word": "pointed",
+      "start": 198.56,
+      "end": 198.88
+    },
+    {
+      "word": "out,",
+      "start": 198.88,
+      "end": 198.96
+    },
+    {
+      "word": "that",
+      "start": 199.04,
+      "end": 199.12
+    },
+    {
+      "word": "he",
+      "start": 199.44,
+      "end": 199.6
+    },
+    {
+      "word": "didn't",
+      "start": 199.6,
+      "end": 199.84
+    },
+    {
+      "word": "want",
+      "start": 199.84,
+      "end": 200.0
+    },
+    {
+      "word": "the",
+      "start": 200.0,
+      "end": 200.16
+    },
+    {
+      "word": "bloc",
+      "start": 200.16,
+      "end": 200.4
+    },
+    {
+      "word": "to",
+      "start": 200.48000000000002,
+      "end": 200.56
+    },
+    {
+      "word": "be",
+      "start": 200.56,
+      "end": 200.72
+    },
+    {
+      "word": "seen",
+      "start": 200.72,
+      "end": 200.96
+    },
+    {
+      "word": "as",
+      "start": 200.96,
+      "end": 201.12
+    },
+    {
+      "word": "uh",
+      "start": 201.12,
+      "end": 201.28
+    },
+    {
+      "word": "just",
+      "start": 201.28,
+      "end": 201.44
+    },
+    {
+      "word": "an",
+      "start": 201.44,
+      "end": 201.6
+    },
+    {
+      "word": "anti-West",
+      "start": 201.6,
+      "end": 202.32
+    },
+    {
+      "word": "bloc.",
+      "start": 202.32,
+      "end": 202.56
+    },
+    {
+      "word": "Uh",
+      "start": 202.72,
+      "end": 202.8
+    },
+    {
+      "word": "but",
+      "start": 203.04,
+      "end": 203.12
+    },
+    {
+      "word": "you",
+      "start": 203.20000000000002,
+      "end": 203.28
+    },
+    {
+      "word": "know,",
+      "start": 203.28,
+      "end": 203.36
+    },
+    {
+      "word": "BRICS",
+      "start": 203.52,
+      "end": 204.0
+    },
+    {
+      "word": "nations",
+      "start": 204.08,
+      "end": 204.48000000000002
+    },
+    {
+      "word": "essentially",
+      "start": 204.56,
+      "end": 205.28
+    },
+    {
+      "word": "uh",
+      "start": 205.36,
+      "end": 205.6
+    },
+    {
+      "word": "want",
+      "start": 205.6,
+      "end": 205.92000000000002
+    },
+    {
+      "word": "to",
+      "start": 205.92000000000002,
+      "end": 206.16
+    },
+    {
+      "word": "strengthen",
+      "start": 206.16,
+      "end": 206.8
+    },
+    {
+      "word": "their",
+      "start": 206.8,
+      "end": 207.04
+    },
+    {
+      "word": "position",
+      "start": 207.04,
+      "end": 207.44
+    },
+    {
+      "word": "in",
+      "start": 207.44,
+      "end": 207.68
+    },
+    {
+      "word": "global",
+      "start": 207.68,
+      "end": 208.0
+    },
+    {
+      "word": "affairs",
+      "start": 208.0,
+      "end": 208.48000000000002
+    },
+    {
+      "word": "uh",
+      "start": 208.56,
+      "end": 208.72
+    },
+    {
+      "word": "in",
+      "start": 208.72,
+      "end": 208.96
+    },
+    {
+      "word": "in",
+      "start": 208.96,
+      "end": 209.12
+    },
+    {
+      "word": "order",
+      "start": 209.12,
+      "end": 209.44
+    },
+    {
+      "word": "to",
+      "start": 209.44,
+      "end": 209.68
+    },
+    {
+      "word": "rival",
+      "start": 209.68,
+      "end": 210.24
+    },
+    {
+      "word": "the",
+      "start": 210.24,
+      "end": 210.4
+    },
+    {
+      "word": "influence",
+      "start": 210.4,
+      "end": 211.12
+    },
+    {
+      "word": "of",
+      "start": 211.12,
+      "end": 211.36
+    },
+    {
+      "word": "Western",
+      "start": 211.36,
+      "end": 211.76
+    },
+    {
+      "word": "nations.",
+      "start": 211.76,
+      "end": 212.08
+    },
+    {
+      "word": "They",
+      "start": 212.16,
+      "end": 212.32
+    },
+    {
+      "word": "want",
+      "start": 212.32,
+      "end": 212.48000000000002
+    },
+    {
+      "word": "to",
+      "start": 212.48000000000002,
+      "end": 212.56
+    },
+    {
+      "word": "emerge",
+      "start": 212.56,
+      "end": 212.88
+    },
+    {
+      "word": "as",
+      "start": 212.88,
+      "end": 212.96
+    },
+    {
+      "word": "a",
+      "start": 212.96,
+      "end": 213.04
+    },
+    {
+      "word": "credible",
+      "start": 213.04,
+      "end": 213.44
+    },
+    {
+      "word": "alternative",
+      "start": 213.44,
+      "end": 213.76
+    },
+    {
+      "word": "to",
+      "start": 213.76,
+      "end": 213.92000000000002
+    },
+    {
+      "word": "blocks",
+      "start": 213.92000000000002,
+      "end": 214.24
+    },
+    {
+      "word": "like",
+      "start": 214.24,
+      "end": 214.32
+    },
+    {
+      "word": "the",
+      "start": 214.32,
+      "end": 214.48000000000002
+    },
+    {
+      "word": "G7",
+      "start": 214.48000000000002,
+      "end": 214.88
+    },
+    {
+      "word": "or",
+      "start": 215.12,
+      "end": 215.28
+    },
+    {
+      "word": "the",
+      "start": 215.28,
+      "end": 215.44
+    },
+    {
+      "word": "G20,",
+      "start": 215.44,
+      "end": 216.08
+    },
+    {
+      "word": "the",
+      "start": 216.16,
+      "end": 216.24
+    },
+    {
+      "word": "G20,",
+      "start": 216.24,
+      "end": 216.96
+    },
+    {
+      "word": "which",
+      "start": 217.04,
+      "end": 217.36
+    },
+    {
+      "word": "uh",
+      "start": 217.36,
+      "end": 217.6
+    },
+    {
+      "word": "accounts",
+      "start": 217.6,
+      "end": 218.08
+    },
+    {
+      "word": "for",
+      "start": 218.08,
+      "end": 218.24
+    },
+    {
+      "word": "the",
+      "start": 218.24,
+      "end": 218.4
+    },
+    {
+      "word": "lion's",
+      "start": 218.4,
+      "end": 219.04
+    },
+    {
+      "word": "share",
+      "start": 219.04,
+      "end": 219.36
+    },
+    {
+      "word": "of",
+      "start": 219.36,
+      "end": 219.52
+    },
+    {
+      "word": "world",
+      "start": 219.52,
+      "end": 219.84
+    },
+    {
+      "word": "GDP,",
+      "start": 219.84,
+      "end": 220.4
+    },
+    {
+      "word": "80%",
+      "start": 220.56,
+      "end": 220.88
+    },
+    {
+      "word": "compared",
+      "start": 221.20000000000002,
+      "end": 221.52
+    },
+    {
+      "word": "to",
+      "start": 221.52,
+      "end": 221.68
+    },
+    {
+      "word": "40%",
+      "start": 221.68,
+      "end": 222.08
+    },
+    {
+      "word": "for",
+      "start": 222.4,
+      "end": 222.64000000000001
+    },
+    {
+      "word": "BRICS",
+      "start": 222.64000000000001,
+      "end": 223.12
+    },
+    {
+      "word": "countries.",
+      "start": 223.20000000000002,
+      "end": 223.52
+    },
+    {
+      "word": "However,",
+      "start": 223.68,
+      "end": 223.92000000000002
+    },
+    {
+      "word": "the",
+      "start": 224.0,
+      "end": 224.08
+    },
+    {
+      "word": "fact",
+      "start": 224.08,
+      "end": 224.24
+    },
+    {
+      "word": "that",
+      "start": 224.24,
+      "end": 224.32
+    },
+    {
+      "word": "the",
+      "start": 224.32,
+      "end": 224.4
+    },
+    {
+      "word": "BRICS",
+      "start": 224.4,
+      "end": 224.88
+    },
+    {
+      "word": "has",
+      "start": 224.88,
+      "end": 225.04
+    },
+    {
+      "word": "become",
+      "start": 225.04,
+      "end": 225.28
+    },
+    {
+      "word": "more",
+      "start": 225.28,
+      "end": 225.52
+    },
+    {
+      "word": "significant",
+      "start": 225.52,
+      "end": 225.92000000000002
+    },
+    {
+      "word": "through",
+      "start": 225.92000000000002,
+      "end": 226.16
+    },
+    {
+      "word": "its",
+      "start": 226.16,
+      "end": 226.32
+    },
+    {
+      "word": "expansion",
+      "start": 226.32,
+      "end": 226.8
+    },
+    {
+      "word": "also",
+      "start": 226.88,
+      "end": 227.12
+    },
+    {
+      "word": "means",
+      "start": 227.12,
+      "end": 227.44
+    },
+    {
+      "word": "that",
+      "start": 227.44,
+      "end": 227.6
+    },
+    {
+      "word": "consensus",
+      "start": 227.6,
+      "end": 228.32
+    },
+    {
+      "word": "is",
+      "start": 228.32,
+      "end": 228.48000000000002
+    },
+    {
+      "word": "harder",
+      "start": 228.48000000000002,
+      "end": 229.04
+    },
+    {
+      "word": "to",
+      "start": 229.04,
+      "end": 229.28
+    },
+    {
+      "word": "reach.",
+      "start": 229.28,
+      "end": 229.6
+    },
+    {
+      "word": "And",
+      "start": 229.68,
+      "end": 229.84
+    },
+    {
+      "word": "there",
+      "start": 229.84,
+      "end": 230.0
+    },
+    {
+      "word": "are",
+      "start": 230.0,
+      "end": 230.24
+    },
+    {
+      "word": "not",
+      "start": 230.24,
+      "end": 230.4
+    },
+    {
+      "word": "many",
+      "start": 230.4,
+      "end": 230.64000000000001
+    },
+    {
+      "word": "common",
+      "start": 230.64000000000001,
+      "end": 230.96
+    },
+    {
+      "word": "issues",
+      "start": 230.96,
+      "end": 231.28
+    },
+    {
+      "word": "around",
+      "start": 231.28,
+      "end": 231.68
+    },
+    {
+      "word": "which",
+      "start": 231.68,
+      "end": 231.92000000000002
+    },
+    {
+      "word": "members",
+      "start": 231.92000000000002,
+      "end": 232.4
+    },
+    {
+      "word": "can",
+      "start": 232.4,
+      "end": 232.72
+    },
+    {
+      "word": "unite.",
+      "start": 232.72,
+      "end": 233.12
+    },
+    {
+      "word": "If",
+      "start": 233.20000000000002,
+      "end": 233.36
+    },
+    {
+      "word": "you",
+      "start": 233.44,
+      "end": 233.6
+    },
+    {
+      "word": "can",
+      "start": 233.6,
+      "end": 233.68
+    },
+    {
+      "word": "see",
+      "start": 233.68,
+      "end": 233.84
+    },
+    {
+      "word": "on",
+      "start": 233.84,
+      "end": 233.92000000000002
+    },
+    {
+      "word": "your",
+      "start": 233.92000000000002,
+      "end": 234.08
+    },
+    {
+      "word": "screen",
+      "start": 234.08,
+      "end": 234.32
+    },
+    {
+      "word": "there,",
+      "start": 234.4,
+      "end": 234.64000000000001
+    },
+    {
+      "word": "some",
+      "start": 234.8,
+      "end": 234.96
+    },
+    {
+      "word": "of",
+      "start": 234.96,
+      "end": 235.12
+    },
+    {
+      "word": "the",
+      "start": 235.12,
+      "end": 235.28
+    },
+    {
+      "word": "uh",
+      "start": 235.28,
+      "end": 235.52
+    },
+    {
+      "word": "tensions",
+      "start": 235.52,
+      "end": 236.0
+    },
+    {
+      "word": "within",
+      "start": 236.0,
+      "end": 236.24
+    },
+    {
+      "word": "the",
+      "start": 236.24,
+      "end": 236.32
+    },
+    {
+      "word": "BRICS.",
+      "start": 236.32,
+      "end": 236.72
+    },
+    {
+      "word": "For",
+      "start": 236.88,
+      "end": 236.96
+    },
+    {
+      "word": "example,",
+      "start": 236.96,
+      "end": 237.20000000000002
+    },
+    {
+      "word": "the",
+      "start": 237.28,
+      "end": 237.36
+    },
+    {
+      "word": "war",
+      "start": 237.36,
+      "end": 237.6
+    },
+    {
+      "word": "in",
+      "start": 237.6,
+      "end": 237.68
+    },
+    {
+      "word": "Iran,",
+      "start": 237.68,
+      "end": 238.0
+    },
+    {
+      "word": "the",
+      "start": 238.08,
+      "end": 238.16
+    },
+    {
+      "word": "fact",
+      "start": 238.16,
+      "end": 238.4
+    },
+    {
+      "word": "that",
+      "start": 238.4,
+      "end": 238.56
+    },
+    {
+      "word": "you",
+      "start": 238.56,
+      "end": 238.64000000000001
+    },
+    {
+      "word": "have",
+      "start": 238.64000000000001,
+      "end": 238.8
+    },
+    {
+      "word": "within",
+      "start": 238.8,
+      "end": 239.12
+    },
+    {
+      "word": "the",
+      "start": 239.12,
+      "end": 239.20000000000002
+    },
+    {
+      "word": "same",
+      "start": 239.20000000000002,
+      "end": 239.44
+    },
+    {
+      "word": "group",
+      "start": 239.44,
+      "end": 239.76
+    },
+    {
+      "word": "uh",
+      "start": 239.84,
+      "end": 240.08
+    },
+    {
+      "word": "Iran",
+      "start": 240.08,
+      "end": 240.4
+    },
+    {
+      "word": "and",
+      "start": 240.48000000000002,
+      "end": 240.64000000000001
+    },
+    {
+      "word": "the",
+      "start": 240.64000000000001,
+      "end": 240.8
+    },
+    {
+      "word": "United",
+      "start": 240.8,
+      "end": 241.20000000000002
+    },
+    {
+      "word": "Arab",
+      "start": 241.20000000000002,
+      "end": 241.6
+    },
+    {
+      "word": "Emirates,",
+      "start": 241.6,
+      "end": 242.08
+    },
+    {
+      "word": "the",
+      "start": 242.16,
+      "end": 242.24
+    },
+    {
+      "word": "UAE,",
+      "start": 242.24,
+      "end": 242.64000000000001
+    },
+    {
+      "word": "which",
+      "start": 242.88,
+      "end": 243.12
+    },
+    {
+      "word": "suspended",
+      "start": 243.12,
+      "end": 243.6
+    },
+    {
+      "word": "commercial",
+      "start": 243.6,
+      "end": 244.16
+    },
+    {
+      "word": "and",
+      "start": 244.16,
+      "end": 244.32
+    },
+    {
+      "word": "financial",
+      "start": 244.32,
+      "end": 244.88
+    },
+    {
+      "word": "dealings",
+      "start": 244.88,
+      "end": 245.44
+    },
+    {
+      "word": "with",
+      "start": 245.44,
+      "end": 245.6
+    },
+    {
+      "word": "uh",
+      "start": 245.6,
+      "end": 245.84
+    },
+    {
+      "word": "Iran",
+      "start": 245.84,
+      "end": 246.4
+    },
+    {
+      "word": "in",
+      "start": 246.4,
+      "end": 246.56
+    },
+    {
+      "word": "mid-August",
+      "start": 246.56,
+      "end": 247.12
+    },
+    {
+      "word": "after",
+      "start": 247.20000000000002,
+      "end": 247.44
+    },
+    {
+      "word": "it",
+      "start": 247.44,
+      "end": 247.52
+    },
+    {
+      "word": "was",
+      "start": 247.52,
+      "end": 247.68
+    },
+    {
+      "word": "targeted",
+      "start": 247.68,
+      "end": 248.16
+    },
+    {
+      "word": "by",
+      "start": 248.16,
+      "end": 248.32
+    },
+    {
+      "word": "Iranian",
+      "start": 248.32,
+      "end": 248.88
+    },
+    {
+      "word": "missiles.",
+      "start": 249.04,
+      "end": 249.52
+    },
+    {
+      "word": "You",
+      "start": 249.6,
+      "end": 249.76000000000002
+    },
+    {
+      "word": "have,",
+      "start": 249.76000000000002,
+      "end": 249.84
+    },
+    {
+      "word": "of",
+      "start": 249.92000000000002,
+      "end": 250.0
+    },
+    {
+      "word": "course,",
+      "start": 250.0,
+      "end": 250.16
+    },
+    {
+      "word": "the",
+      "start": 250.24,
+      "end": 250.4
+    },
+    {
+      "word": "war",
+      "start": 250.4,
+      "end": 250.56
+    },
+    {
+      "word": "in",
+      "start": 250.56,
+      "end": 250.64000000000001
+    },
+    {
+      "word": "Ukraine",
+      "start": 250.64000000000001,
+      "end": 251.12
+    },
+    {
+      "word": "as",
+      "start": 251.12,
+      "end": 251.20000000000002
+    },
+    {
+      "word": "well.",
+      "start": 251.20000000000002,
+      "end": 251.36
+    },
+    {
+      "word": "This",
+      "start": 251.44,
+      "end": 251.6
+    },
+    {
+      "word": "is",
+      "start": 251.6,
+      "end": 251.68
+    },
+    {
+      "word": "another",
+      "start": 251.68,
+      "end": 252.0
+    },
+    {
+      "word": "issue",
+      "start": 252.0,
+      "end": 252.24
+    },
+    {
+      "word": "which",
+      "start": 252.32,
+      "end": 252.48000000000002
+    },
+    {
+      "word": "uh",
+      "start": 252.48000000000002,
+      "end": 252.72
+    },
+    {
+      "word": "causes",
+      "start": 252.72,
+      "end": 253.20000000000002
+    },
+    {
+      "word": "tensions",
+      "start": 253.20000000000002,
+      "end": 253.84
+    },
+    {
+      "word": "and",
+      "start": 253.84,
+      "end": 254.08
+    },
+    {
+      "word": "frictions",
+      "start": 254.08,
+      "end": 254.56
+    },
+    {
+      "word": "uh",
+      "start": 254.64000000000001,
+      "end": 254.8
+    },
+    {
+      "word": "within",
+      "start": 254.8,
+      "end": 255.20000000000002
+    },
+    {
+      "word": "uh",
+      "start": 255.20000000000002,
+      "end": 255.44
+    },
+    {
+      "word": "BRICS",
+      "start": 255.44,
+      "end": 256.08
+    },
+    {
+      "word": "uh",
+      "start": 256.4,
+      "end": 256.48
+    },
+    {
+      "word": "members.",
+      "start": 256.72,
+      "end": 257.04
+    },
+    {
+      "word": "Narendra",
+      "start": 257.2,
+      "end": 257.76
+    },
+    {
+      "word": "Modi",
+      "start": 257.84000000000003,
+      "end": 258.08
+    },
+    {
+      "word": "back",
+      "start": 258.32,
+      "end": 258.48
+    },
+    {
+      "word": "in",
+      "start": 258.48,
+      "end": 258.56
+    },
+    {
+      "word": "May",
+      "start": 258.56,
+      "end": 258.8
+    },
+    {
+      "word": "telling",
+      "start": 258.88,
+      "end": 259.12
+    },
+    {
+      "word": "Vladimir",
+      "start": 259.12,
+      "end": 259.6
+    },
+    {
+      "word": "Putin",
+      "start": 259.6,
+      "end": 260.0
+    },
+    {
+      "word": "that",
+      "start": 260.0,
+      "end": 260.16
+    },
+    {
+      "word": "the",
+      "start": 260.16,
+      "end": 260.24
+    },
+    {
+      "word": "war",
+      "start": 260.24,
+      "end": 260.4
+    },
+    {
+      "word": "in",
+      "start": 260.4,
+      "end": 260.48
+    },
+    {
+      "word": "Ukraine",
+      "start": 260.48,
+      "end": 260.88
+    },
+    {
+      "word": "had",
+      "start": 260.88,
+      "end": 261.04
+    },
+    {
+      "word": "to",
+      "start": 261.04,
+      "end": 261.2
+    },
+    {
+      "word": "end",
+      "start": 261.2,
+      "end": 261.44
+    },
+    {
+      "word": "for",
+      "start": 261.44,
+      "end": 261.68
+    },
+    {
+      "word": "humanity's",
+      "start": 261.68,
+      "end": 262.4
+    },
+    {
+      "word": "sake.",
+      "start": 262.4,
+      "end": 262.72
+    },
+    {
+      "word": "And",
+      "start": 262.8,
+      "end": 262.96
+    },
+    {
+      "word": "don't",
+      "start": 262.96,
+      "end": 263.2
+    },
+    {
+      "word": "forget",
+      "start": 263.2,
+      "end": 263.52
+    },
+    {
+      "word": "also",
+      "start": 263.6,
+      "end": 263.92
+    },
+    {
+      "word": "that",
+      "start": 264.16,
+      "end": 264.48
+    },
+    {
+      "word": "China",
+      "start": 264.48,
+      "end": 264.88
+    },
+    {
+      "word": "is",
+      "start": 264.88,
+      "end": 265.04
+    },
+    {
+      "word": "a",
+      "start": 265.04,
+      "end": 265.2
+    },
+    {
+      "word": "major",
+      "start": 265.2,
+      "end": 265.52
+    },
+    {
+      "word": "supplier",
+      "start": 265.52,
+      "end": 266.0
+    },
+    {
+      "word": "of",
+      "start": 266.0,
+      "end": 266.08
+    },
+    {
+      "word": "weapons",
+      "start": 266.08,
+      "end": 266.48
+    },
+    {
+      "word": "to",
+      "start": 266.48,
+      "end": 266.64
+    },
+    {
+      "word": "Pakistan.",
+      "start": 266.64,
+      "end": 267.12
+    },
+    {
+      "word": "Pakistan",
+      "start": 267.28000000000003,
+      "end": 267.92
+    },
+    {
+      "word": "uh",
+      "start": 268.0,
+      "end": 268.08
+    },
+    {
+      "word": "which",
+      "start": 268.16,
+      "end": 268.4
+    },
+    {
+      "word": "was",
+      "start": 268.4,
+      "end": 268.56
+    },
+    {
+      "word": "at",
+      "start": 268.56,
+      "end": 268.8
+    },
+    {
+      "word": "war",
+      "start": 268.8,
+      "end": 269.04
+    },
+    {
+      "word": "with",
+      "start": 269.04,
+      "end": 269.36
+    },
+    {
+      "word": "India",
+      "start": 269.36,
+      "end": 269.76
+    },
+    {
+      "word": "uh",
+      "start": 269.84000000000003,
+      "end": 270.08
+    },
+    {
+      "word": "only",
+      "start": 270.08,
+      "end": 270.4
+    },
+    {
+      "word": "in",
+      "start": 270.4,
+      "end": 270.72
+    },
+    {
+      "word": "May",
+      "start": 270.72,
+      "end": 271.28000000000003
+    },
+    {
+      "word": "last",
+      "start": 271.28000000000003,
+      "end": 271.6
+    },
+    {
+      "word": "year.",
+      "start": 271.92,
+      "end": 272.24
+    },
+    {
+      "word": "So",
+      "start": 272.4,
+      "end": 272.56
+    },
+    {
+      "word": "many",
+      "start": 272.64,
+      "end": 272.88
+    },
+    {
+      "word": "issues",
+      "start": 272.88,
+      "end": 273.36
+    },
+    {
+      "word": "that",
+      "start": 273.36,
+      "end": 273.52
+    },
+    {
+      "word": "uh",
+      "start": 273.52,
+      "end": 273.68
+    },
+    {
+      "word": "still",
+      "start": 273.68,
+      "end": 274.08
+    },
+    {
+      "word": "uh",
+      "start": 274.08,
+      "end": 274.32
+    },
+    {
+      "word": "divide",
+      "start": 274.32,
+      "end": 274.96
+    },
+    {
+      "word": "uh",
+      "start": 275.04,
+      "end": 275.28000000000003
+    },
+    {
+      "word": "BRICS",
+      "start": 275.28000000000003,
+      "end": 275.84000000000003
+    },
+    {
+      "word": "members.",
+      "start": 275.92,
+      "end": 276.16
+    },
+    {
+      "word": "And",
+      "start": 276.24,
+      "end": 276.40000000000003
+    },
+    {
+      "word": "in",
+      "start": 276.40000000000003,
+      "end": 276.56
+    },
+    {
+      "word": "the",
+      "start": 276.56,
+      "end": 276.64
+    },
+    {
+      "word": "end,",
+      "start": 276.64,
+      "end": 276.8
+    },
+    {
+      "word": "it",
+      "start": 276.88,
+      "end": 276.96
+    },
+    {
+      "word": "is",
+      "start": 276.96,
+      "end": 277.04
+    },
+    {
+      "word": "perhaps",
+      "start": 277.12,
+      "end": 277.44
+    },
+    {
+      "word": "Donald",
+      "start": 277.68,
+      "end": 278.08
+    },
+    {
+      "word": "Trump",
+      "start": 278.08,
+      "end": 278.56
+    },
+    {
+      "word": "being",
+      "start": 278.64,
+      "end": 278.96
+    },
+    {
+      "word": "back",
+      "start": 278.96,
+      "end": 279.12
+    },
+    {
+      "word": "in",
+      "start": 279.12,
+      "end": 279.28000000000003
+    },
+    {
+      "word": "the",
+      "start": 279.28000000000003,
+      "end": 279.36
+    },
+    {
+      "word": "White",
+      "start": 279.36,
+      "end": 279.6
+    },
+    {
+      "word": "House",
+      "start": 279.6,
+      "end": 279.84000000000003
+    },
+    {
+      "word": "that",
+      "start": 279.92,
+      "end": 280.16
+    },
+    {
+      "word": "may",
+      "start": 280.16,
+      "end": 280.40000000000003
+    },
+    {
+      "word": "be",
+      "start": 280.40000000000003,
+      "end": 280.56
+    },
+    {
+      "word": "exactly",
+      "start": 280.56,
+      "end": 281.12
+    },
+    {
+      "word": "what",
+      "start": 281.12,
+      "end": 281.36
+    },
+    {
+      "word": "gives",
+      "start": 281.36,
+      "end": 281.92
+    },
+    {
+      "word": "some",
+      "start": 281.92,
+      "end": 282.08
+    },
+    {
+      "word": "of",
+      "start": 282.08,
+      "end": 282.32
+    },
+    {
+      "word": "uh",
+      "start": 282.32,
+      "end": 282.48
+    },
+    {
+      "word": "these",
+      "start": 282.48,
+      "end": 282.72
+    },
+    {
+      "word": "BRICS",
+      "start": 282.72,
+      "end": 283.2
+    },
+    {
+      "word": "members",
+      "start": 283.28000000000003,
+      "end": 283.44
+    },
+    {
+      "word": "and",
+      "start": 283.52,
+      "end": 283.68
+    },
+    {
+      "word": "the",
+      "start": 283.68,
+      "end": 283.76
+    },
+    {
+      "word": "block",
+      "start": 283.76,
+      "end": 284.0
+    },
+    {
+      "word": "itself",
+      "start": 284.08,
+      "end": 284.40000000000003
+    },
+    {
+      "word": "some",
+      "start": 284.48,
+      "end": 284.64
+    },
+    {
+      "word": "kind",
+      "start": 284.64,
+      "end": 284.88
+    },
+    {
+      "word": "of",
+      "start": 284.88,
+      "end": 285.12
+    },
+    {
+      "word": "raison",
+      "start": 285.12,
+      "end": 285.44
+    },
+    {
+      "word": "d'\u00eatre,",
+      "start": 285.6,
+      "end": 285.84000000000003
+    },
+    {
+      "word": "if",
+      "start": 286.08,
+      "end": 286.24
+    },
+    {
+      "word": "you",
+      "start": 286.24,
+      "end": 286.40000000000003
+    },
+    {
+      "word": "will.",
+      "start": 286.40000000000003,
+      "end": 286.64
+    },
+    {
+      "word": "Uh",
+      "start": 286.72,
+      "end": 286.8
+    },
+    {
+      "word": "a",
+      "start": 286.88,
+      "end": 287.04
+    },
+    {
+      "word": "bloc",
+      "start": 287.04,
+      "end": 287.52
+    },
+    {
+      "word": "that",
+      "start": 287.52,
+      "end": 287.76
+    },
+    {
+      "word": "stands",
+      "start": 287.76,
+      "end": 288.16
+    },
+    {
+      "word": "for",
+      "start": 288.16,
+      "end": 288.32
+    },
+    {
+      "word": "a",
+      "start": 288.32,
+      "end": 288.48
+    },
+    {
+      "word": "semblance",
+      "start": 288.48,
+      "end": 289.04
+    },
+    {
+      "word": "of",
+      "start": 289.04,
+      "end": 289.28000000000003
+    },
+    {
+      "word": "stability",
+      "start": 289.28000000000003,
+      "end": 289.84000000000003
+    },
+    {
+      "word": "in",
+      "start": 289.84000000000003,
+      "end": 290.0
+    },
+    {
+      "word": "the",
+      "start": 290.0,
+      "end": 290.08
+    },
+    {
+      "word": "midst",
+      "start": 290.08,
+      "end": 290.40000000000003
+    },
+    {
+      "word": "of",
+      "start": 290.40000000000003,
+      "end": 290.56
+    },
+    {
+      "word": "a",
+      "start": 290.56,
+      "end": 290.72
+    },
+    {
+      "word": "world",
+      "start": 290.72,
+      "end": 291.12
+    },
+    {
+      "word": "order",
+      "start": 291.12,
+      "end": 291.44
+    },
+    {
+      "word": "that",
+      "start": 291.44,
+      "end": 291.68
+    },
+    {
+      "word": "is",
+      "start": 291.68,
+      "end": 291.84000000000003
+    },
+    {
+      "word": "rapidly",
+      "start": 291.84000000000003,
+      "end": 292.48
+    },
+    {
+      "word": "changing.",
+      "start": 292.48,
+      "end": 293.04
+    },
+    {
+      "word": "Indeed,",
+      "start": 293.44,
+      "end": 293.76
+    },
+    {
+      "word": "Andy",
+      "start": 293.84000000000003,
+      "end": 294.24
+    },
+    {
+      "word": "Hillier,",
+      "start": 294.24,
+      "end": 294.72
+    },
+    {
+      "word": "thank",
+      "start": 294.8,
+      "end": 294.88
+    },
+    {
+      "word": "you",
+      "start": 294.88,
+      "end": 295.04
+    },
+    {
+      "word": "very",
+      "start": 295.04,
+      "end": 295.2
+    },
+    {
+      "word": "much.",
+      "start": 295.2,
+      "end": 295.44
+    }
+  ],
+  "sentences": [
+    {
+      "text": "First review of this hour, the BRIC alliance is meeting in India to discuss the consequences of the wars in the Middle East amongst a host of other topics.",
+      "start": 0.16,
+      "end": 7.76
+    },
+    {
+      "text": "Before the summit even got off to a start on Saturday, the Black's members had already agreed to a joint declaration.",
+      "start": 7.92,
+      "end": 13.280000000000001
+    },
+    {
+      "text": "Now it condemns unilateral aggression by any country.",
+      "start": 13.52,
+      "end": 16.8
+    },
+    {
+      "text": "And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East.",
+      "start": 16.88,
+      "end": 24.72
+    },
+    {
+      "text": "Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout.",
+      "start": 24.88,
+      "end": 33.6
+    },
+    {
+      "text": "Here's uh Narendra Modi.",
+      "start": 33.68,
+      "end": 35.2
+    },
+    {
+      "text": "It is clear from today's discussions that the management of the changing world cannot be done with the old institutions.",
+      "start": 36.800000000000004,
+      "end": 44.72
+    },
+    {
+      "text": "Representation, responsiveness, and rulemaking.",
+      "start": 46.08,
+      "end": 49.36
+    },
+    {
+      "text": "All three need to be improved.",
+      "start": 49.6,
+      "end": 52.0
+    },
+    {
+      "text": "Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk.",
+      "start": 54.24,
+      "end": 60.08
+    },
+    {
+      "text": "Hi there, Andy.",
+      "start": 60.24,
+      "end": 60.96
+    },
+    {
+      "text": "So what are the main takeaways then from this joint statement?",
+      "start": 61.36,
+      "end": 63.68
+    },
+    {
+      "text": "Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members.",
+      "start": 64.0,
+      "end": 76.64
+    },
+    {
+      "text": "Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement.",
+      "start": 76.8,
+      "end": 81.52
+    },
+    {
+      "text": "So uh I've picked out just a couple of uh key points.",
+      "start": 81.68,
+      "end": 84.88
+    },
+    {
+      "text": "Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation.",
+      "start": 85.04,
+      "end": 100.56
+    },
+    {
+      "text": "Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities.",
+      "start": 100.72,
+      "end": 110.32000000000001
+    },
+    {
+      "text": "So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities.",
+      "start": 110.48,
+      "end": 118.32000000000001
+    },
+    {
+      "text": "So that's one of the first points uh uh to make here with this joint statement.",
+      "start": 118.4,
+      "end": 123.44
+    },
+    {
+      "text": "Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement.",
+      "start": 123.52,
+      "end": 129.2
+    },
+    {
+      "text": "Leaders taking aim at unilateral sanctions not authorized by the UN Security Council.",
+      "start": 129.36,
+      "end": 134.72
+    },
+    {
+      "text": "Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter.",
+      "start": 134.88,
+      "end": 143.12
+    },
+    {
+      "text": "Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022.",
+      "start": 143.20000000000002,
+      "end": 158.4
+    },
+    {
+      "text": "Uh now, just one more point I would make is that few policies will have had a bigger impact on BRICS countries than the policies put in place by US President Donald Trump, whether it's the war in Iran or the ever-lingering threat of tariffs, but BRICS countries haven't called out uh Donald Trump or laid out a strategy to counter his policies because they are themselves are individed on how far they should go in challenging him.",
+      "start": 158.72,
+      "end": 184.56
+    },
+    {
+      "text": "So Andy, India's Prime Minister uh has made clear that he does not want BRICS to be seen as an anti-Western coalition.",
+      "start": 184.96,
+      "end": 192.0
+    },
+    {
+      "text": "Uh what unites this block then, other than the relationship to the West?",
+      "start": 192.16,
+      "end": 195.44
+    },
+    {
+      "text": "Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc.",
+      "start": 195.92000000000002,
+      "end": 202.56
+    },
+    {
+      "text": "Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations.",
+      "start": 202.72,
+      "end": 212.08
+    },
+    {
+      "text": "They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries.",
+      "start": 212.16,
+      "end": 223.52
+    },
+    {
+      "text": "However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach.",
+      "start": 223.68,
+      "end": 229.6
+    },
+    {
+      "text": "And there are not many common issues around which members can unite.",
+      "start": 229.68,
+      "end": 233.12
+    },
+    {
+      "text": "If you can see on your screen there, some of the uh tensions within the BRICS.",
+      "start": 233.20000000000002,
+      "end": 236.72
+    },
+    {
+      "text": "For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles.",
+      "start": 236.88,
+      "end": 249.52
+    },
+    {
+      "text": "You have, of course, the war in Ukraine as well.",
+      "start": 249.6,
+      "end": 251.36
+    },
+    {
+      "text": "This is another issue which uh causes tensions and frictions uh within uh BRICS uh members.",
+      "start": 251.44,
+      "end": 257.04
+    },
+    {
+      "text": "Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake.",
+      "start": 257.2,
+      "end": 262.72
+    },
+    {
+      "text": "And don't forget also that China is a major supplier of weapons to Pakistan.",
+      "start": 262.8,
+      "end": 267.12
+    },
+    {
+      "text": "Pakistan uh which was at war with India uh only in May last year.",
+      "start": 267.28000000000003,
+      "end": 272.24
+    },
+    {
+      "text": "So many issues that uh still uh divide uh BRICS members.",
+      "start": 272.4,
+      "end": 276.16
+    },
+    {
+      "text": "And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will.",
+      "start": 276.24,
+      "end": 286.64
+    },
+    {
+      "text": "Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing.",
+      "start": 286.72,
+      "end": 293.04
+    },
+    {
+      "text": "Indeed, Andy Hillier, thank you very much.",
+      "start": 293.44,
+      "end": 295.44
+    }
+  ]
+}

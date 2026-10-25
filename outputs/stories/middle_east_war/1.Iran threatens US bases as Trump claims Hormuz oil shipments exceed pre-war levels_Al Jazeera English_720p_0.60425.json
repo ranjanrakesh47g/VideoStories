@@ -1,0 +1,14 @@
+{
+  "start": 70.32000000000001,
+  "end": 110.8,
+  "duration": 40.47999999999999,
+  "max_len": 45,
+  "text": "Uh, which is in the context of uh the news statements uh from the RGC that uh right now there is a new um uh doctrine regarding how to face what they call an American aggression on Iran. Uh in these statements, the dust dust imposing the blockade, the maritime blockade on Iran is considered an act of war. So it is no longer the situation when Iran was waiting for an attack, an air attack from the United States or Israel. Now they are talking about retaliation, even when it's just ships crossing, because they believe that these crossings are encouraged, aided and debated by the Americans.",
+  "parts": {
+    "centrality": 0.7732454363402748,
+    "lead": 0.43458104055161983,
+    "density": 0.27021527517882077,
+    "clarity": 0.6872103214263916
+  },
+  "importance": 0.6042474985341607
+}

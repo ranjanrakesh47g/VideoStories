@@ -1,0 +1,14 @@
+{
+  "start": 205.68,
+  "end": 229.20000000000002,
+  "duration": 23.52000000000001,
+  "max_len": 30,
+  "text": "Ties have really frayed with Trump uh in this second Trump administration, uh, particularly over uh over trade, uh, over tariffs. Um these two countries have been much farther apart. At the same time, you have China getting closer to the US and slowly sort of sort of a thaw underway there. So what you have is kind of an opportunity for both of these countries to try to find common ground in the face of this kind of shifting global landscape.",
+  "parts": {
+    "centrality": 0.5353292864893888,
+    "lead": 0.24895544325874652,
+    "density": 0.5517350394409086,
+    "clarity": 0.7138307690620422
+  },
+  "importance": 0.5340658255577844
+}

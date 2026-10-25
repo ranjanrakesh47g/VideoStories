@@ -1,0 +1,774 @@
+{
+  "clips": [
+    {
+      "start": 0.16,
+      "end": 30.16,
+      "duration": 30.0,
+      "max_len": 30,
+      "text": "All political events this Friday and ordered a closure of the West Bank following a shooting there that wounded at least five Israelis. The Israeli army says it's launched offensive counter-terrorism operations in the territory after thwarting a terror attack against Israeli civilians. Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani.",
+      "parts": {
+        "centrality": 0.6132691613279023,
+        "lead": 0.9980343986678772,
+        "density": 0.7691006376734253,
+        "clarity": 0.5717666745185852
+      },
+      "importance": 0.7011461842049307
+    },
+    {
+      "start": 8.72,
+      "end": 35.68,
+      "duration": 26.96,
+      "max_len": 30,
+      "text": "The Israeli army says it's launched offensive counter-terrorism operations in the territory after thwarting a terror attack against Israeli civilians. Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank?",
+      "parts": {
+        "centrality": 0.6583956702797524,
+        "lead": 0.8983184128150706,
+        "density": 0.7738860780001118,
+        "clarity": 0.2080180048942566
+      },
+      "importance": 0.5885904803292212
+    },
+    {
+      "start": 18.88,
+      "end": 35.68,
+      "duration": 16.8,
+      "max_len": 30,
+      "text": "Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank?",
+      "parts": {
+        "centrality": 0.6103664316180422,
+        "lead": 0.7928119617769328,
+        "density": 1.0,
+        "clarity": 0.271831214427948
+      },
+      "importance": 0.6037400077500857
+    },
+    {
+      "start": 30.400000000000002,
+      "end": 57.6,
+      "duration": 27.2,
+      "max_len": 30,
+      "text": "It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank? Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+      "parts": {
+        "centrality": 0.7035890730083939,
+        "lead": 0.688092655997963,
+        "density": 0.36109519649846633,
+        "clarity": 0.3390612304210663
+      },
+      "importance": 0.5397573553536202
+    },
+    {
+      "start": 31.52,
+      "end": 57.6,
+      "duration": 26.080000000000002,
+      "max_len": 30,
+      "text": "So Ket, at this point, what more do we know about what's happening in the West Bank? Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+      "parts": {
+        "centrality": 0.6828048314071378,
+        "lead": 0.6786806912192206,
+        "density": 0.3667758315470242,
+        "clarity": 0.8710366487503052
+      },
+      "importance": 0.6910451985934876
+    },
+    {
+      "start": 36.0,
+      "end": 57.6,
+      "duration": 21.6,
+      "max_len": 30,
+      "text": "Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+      "parts": {
+        "centrality": 0.6921589481602815,
+        "lead": 0.6423027431805336,
+        "density": 0.41053812036842474,
+        "clarity": 0.9592879414558411
+      },
+      "importance": 0.7200832809842213
+    },
+    {
+      "start": 57.76,
+      "end": 84.32000000000001,
+      "duration": 26.56000000000001,
+      "max_len": 30,
+      "text": "Uh the Israeli emergency services say that five Israelis, all in their 20s, were injured in uh that attack, and that two at least are currently in a critical uh condition, though it is unclear whether uh those who were wounded uh were civilians or uh were Israeli uh soldiers. That we don't know at this point. Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react.",
+      "parts": {
+        "centrality": 0.5937208931946347,
+        "lead": 0.4915063726155956,
+        "density": 0.63250382788557,
+        "clarity": 0.7829945087432861
+      },
+      "importance": 0.6358775139470626
+    },
+    {
+      "start": 78.4,
+      "end": 104.0,
+      "duration": 25.599999999999994,
+      "max_len": 30,
+      "text": "That we don't know at this point. Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react. And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack.",
+      "parts": {
+        "centrality": 0.8668462115358729,
+        "lead": 0.3813291087685222,
+        "density": 0.5922414611830269,
+        "clarity": 0.8976055979728699
+      },
+      "importance": 0.7377798943605749
+    },
+    {
+      "start": 80.0,
+      "end": 104.0,
+      "duration": 24.0,
+      "max_len": 30,
+      "text": "Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react. And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack.",
+      "parts": {
+        "centrality": 0.8123277834508741,
+        "lead": 0.3738996508550112,
+        "density": 0.5422812954433294,
+        "clarity": 0.9358173608779907
+      },
+      "importance": 0.7211820569587049
+    },
+    {
+      "start": 84.4,
+      "end": 104.0,
+      "duration": 19.599999999999994,
+      "max_len": 30,
+      "text": "And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack.",
+      "parts": {
+        "centrality": 0.7859455024454031,
+        "lead": 0.3542065499793527,
+        "density": 0.4532857429762431,
+        "clarity": 0.9545204043388367
+      },
+      "importance": 0.7002712185998491
+    },
+    {
+      "start": 104.16,
+      "end": 126.0,
+      "duration": 21.840000000000003,
+      "max_len": 30,
+      "text": "Now, authorities are not uh giving for now any details on what that major attack uh would have entailed, what the target was, and they didn't give more indication about the identities of uh the two men, uh, besides saying that they were from uh the Hebron uh area. Uh Hamas has reacted uh to the attack.",
+      "parts": {
+        "centrality": 0.7787543392612396,
+        "lead": 0.2777967033588481,
+        "density": 0.5377588746396866,
+        "clarity": 0.8297680616378784
+      },
+      "importance": 0.65771760910052
+    },
+    {
+      "start": 122.44,
+      "end": 152.4,
+      "duration": 29.960000000000008,
+      "max_len": 30,
+      "text": "Uh Hamas has reacted uh to the attack. They called it a natural and legitimate response to the ongoing crimes and brutal attacks against our people, but they stopped short of uh endorsing of claiming actual responsibility uh for uh this attack, even though uh the Israeli authorities, as I was saying, are pointing the finger at Hamas. And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday.",
+      "parts": {
+        "centrality": 0.5938096466085595,
+        "lead": 0.22187155069713582,
+        "density": 0.582205750665311,
+        "clarity": 0.8436375856399536
+      },
+      "importance": 0.5926298247442057
+    },
+    {
+      "start": 126.16,
+      "end": 152.4,
+      "duration": 26.24000000000001,
+      "max_len": 30,
+      "text": "They called it a natural and legitimate response to the ongoing crimes and brutal attacks against our people, but they stopped short of uh endorsing of claiming actual responsibility uh for uh this attack, even though uh the Israeli authorities, as I was saying, are pointing the finger at Hamas. And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday.",
+      "parts": {
+        "centrality": 0.6374538091896929,
+        "lead": 0.2119506383995781,
+        "density": 0.5179317780500187,
+        "clarity": 0.7749241590499878
+      },
+      "importance": 0.5756659753188073
+    },
+    {
+      "start": 145.44,
+      "end": 167.84,
+      "duration": 22.400000000000006,
+      "max_len": 30,
+      "text": "And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday. How have uh Israeli political figures been reacting to all of this? Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement.",
+      "parts": {
+        "centrality": 0.7694607063161039,
+        "lead": 0.16721248394437327,
+        "density": 0.7463830077655169,
+        "clarity": 0.9513686299324036
+      },
+      "importance": 0.7001217841440596
+    },
+    {
+      "start": 152.56,
+      "end": 167.84,
+      "duration": 15.280000000000001,
+      "max_len": 30,
+      "text": "How have uh Israeli political figures been reacting to all of this? Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement.",
+      "parts": {
+        "centrality": 0.78842369499199,
+        "lead": 0.15319475580181113,
+        "density": 0.7996942635753101,
+        "clarity": 0.9226219058036804
+      },
+      "importance": 0.7033279556849594
+    },
+    {
+      "start": 168.0,
+      "end": 193.20000000000002,
+      "duration": 25.200000000000017,
+      "max_len": 30,
+      "text": "Uh he had been uh warning of potential uh attacks uh in the lead up uh to uh this vote, and now he has said, as you mentioned, that he ordered uh the immediate uh closing off of the city of uh Hebron, and he ordered uh the Israeli forces to prepare for a full lockdown across all of Judea and Samaria starting today, using, of course, uh the Israeli uh term for uh the occupied uh West Bank.",
+      "parts": {
+        "centrality": 0.8102662388752115,
+        "lead": 0.12670262867115284,
+        "density": 0.34565468520637155,
+        "clarity": 0.9706268906593323
+      },
+      "importance": 0.65196997931931
+    },
+    {
+      "start": 193.36,
+      "end": 210.96,
+      "duration": 17.599999999999994,
+      "max_len": 30,
+      "text": "What's interesting, this is uh the statement that he posted on X in a Hebrew originally that has been translated. And that line that was equaled in yellow is actually not the same one as the one uh that uh was posted uh in uh the English uh language.",
+      "parts": {
+        "centrality": 0.0,
+        "lead": 0.09275748805339094,
+        "density": 0.4927889644373939,
+        "clarity": 0.9463492631912231
+      },
+      "importance": 0.37637462123365417
+    },
+    {
+      "start": 211.12,
+      "end": 231.68,
+      "duration": 20.560000000000002,
+      "max_len": 30,
+      "text": "So you're seeing uh the English the Hebrew there talking about this full lockdown of uh the occupied West Bank in the English language statement that was sent to foreign reporters to uh the press, uh, he simply speaks of additional measures to prevent terrorist attacks originating from uh the occupied West Bank.",
+      "parts": {
+        "centrality": 0.7424957755840345,
+        "lead": 0.07455909060802887,
+        "density": 0.3039792924302636,
+        "clarity": 0.5346125364303589
+      },
+      "importance": 0.480765994369665
+    },
+    {
+      "start": 231.76,
+      "end": 250.88,
+      "duration": 19.120000000000005,
+      "max_len": 30,
+      "text": "So not exactly as uh strong of a worded uh statement uh as it is in Hebrew, which is obviously for a domestic audience just four days uh before uh those elections. He was not the only one to react, obviously. Uh the far right national security minister uh Itamar Ben Kvir, he went even further.",
+      "parts": {
+        "centrality": 0.7383154897881801,
+        "lead": 0.057845743526884666,
+        "density": 0.9016393501154604,
+        "clarity": 0.9297918677330017
+      },
+      "importance": 0.6841630329684596
+    },
+    {
+      "start": 242.8,
+      "end": 267.12,
+      "duration": 24.319999999999993,
+      "max_len": 30,
+      "text": "He was not the only one to react, obviously. Uh the far right national security minister uh Itamar Ben Kvir, he went even further. He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack.",
+      "parts": {
+        "centrality": 0.8318510691417036,
+        "lead": 0.050502352155265814,
+        "density": 0.7123416513343306,
+        "clarity": 0.8022458553314209
+      },
+      "importance": 0.6487733489302252
+    },
+    {
+      "start": 245.6,
+      "end": 274.64,
+      "duration": 29.039999999999992,
+      "max_len": 30,
+      "text": "Uh the far right national security minister uh Itamar Ben Kvir, he went even further. He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack. Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister.",
+      "parts": {
+        "centrality": 0.7549983375170707,
+        "lead": 0.04879305750276146,
+        "density": 0.5790373829644992,
+        "clarity": 0.6011253595352173
+      },
+      "importance": 0.5412012449367671
+    },
+    {
+      "start": 251.04,
+      "end": 274.64,
+      "duration": 23.599999999999994,
+      "max_len": 30,
+      "text": "He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack. Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister.",
+      "parts": {
+        "centrality": 0.7465182775329114,
+        "lead": 0.045635769412048124,
+        "density": 0.5167486583679761,
+        "clarity": 0.4790162444114685
+      },
+      "importance": 0.4916257230975656
+    },
+    {
+      "start": 267.28000000000003,
+      "end": 292.08,
+      "duration": 24.799999999999955,
+      "max_len": 30,
+      "text": "Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister. He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank. And he said in the next government, this will be one of the first measures that we must demand and apply.",
+      "parts": {
+        "centrality": 0.4369976495137546,
+        "lead": 0.03737443656100154,
+        "density": 0.7255087228643703,
+        "clarity": 0.8398653268814087
+      },
+      "importance": 0.5212099711360925
+    },
+    {
+      "start": 274.88,
+      "end": 297.44,
+      "duration": 22.560000000000002,
+      "max_len": 30,
+      "text": "He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank. And he said in the next government, this will be one of the first measures that we must demand and apply. So using this as a political uh tool to motivate his base on uh the far right.",
+      "parts": {
+        "centrality": 0.5331432366693605,
+        "lead": 0.03403975180423186,
+        "density": 0.6519152002004305,
+        "clarity": 0.9133293032646179
+      },
+      "importance": 0.5651941542045724
+    },
+    {
+      "start": 297.6,
+      "end": 325.28000000000003,
+      "duration": 27.680000000000007,
+      "max_len": 30,
+      "text": "In contrast, you had uh uh Ghadi Azankat, who is the top rival of uh Benjamin Netanyahu in these elections, who simply focused on uh hailing the heroism, as he said, of the soldiers who uh thwarted that attack, and uh speaking and focusing on the recovery of those who were wounded in the attack, but it gives you an idea of how heightened the tensions and the concerns about security are just uh a few days before those elections.",
+      "parts": {
+        "centrality": 0.4458269706175249,
+        "lead": 0.025742387399652067,
+        "density": 0.25791530238463845,
+        "clarity": 0.7822468876838684
+      },
+      "importance": 0.4345492788589204
+    },
+    {
+      "start": 0.16,
+      "end": 35.68,
+      "duration": 35.52,
+      "max_len": 45,
+      "text": "All political events this Friday and ordered a closure of the West Bank following a shooting there that wounded at least five Israelis. The Israeli army says it's launched offensive counter-terrorism operations in the territory after thwarting a terror attack against Israeli civilians. Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank?",
+      "parts": {
+        "centrality": 0.5727576655419637,
+        "lead": 0.9980343986678772,
+        "density": 0.7213803266702308,
+        "clarity": 0.17638768255710602
+      },
+      "importance": 0.5611954164409292
+    },
+    {
+      "start": 8.72,
+      "end": 35.68,
+      "duration": 26.96,
+      "max_len": 45,
+      "text": "The Israeli army says it's launched offensive counter-terrorism operations in the territory after thwarting a terror attack against Israeli civilians. Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank?",
+      "parts": {
+        "centrality": 0.6583956702797524,
+        "lead": 0.8983184128150706,
+        "density": 0.7738860780001118,
+        "clarity": 0.20817893743515015
+      },
+      "importance": 0.5886387600914893
+    },
+    {
+      "start": 18.88,
+      "end": 57.6,
+      "duration": 38.72,
+      "max_len": 45,
+      "text": "Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank? Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+      "parts": {
+        "centrality": 0.5850812414235851,
+        "lead": 0.7928119617769328,
+        "density": 0.5425432937589878,
+        "clarity": 0.5686553716659546
+      },
+      "importance": 0.6153189324172759
+    },
+    {
+      "start": 24.8,
+      "end": 57.6,
+      "duration": 32.8,
+      "max_len": 45,
+      "text": "For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank? Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+      "parts": {
+        "centrality": 0.6753479010557218,
+        "lead": 0.7371469424119387,
+        "density": 0.4522046340227137,
+        "clarity": 0.5336405038833618
+      },
+      "importance": 0.611724000120306
+    },
+    {
+      "start": 30.400000000000002,
+      "end": 57.6,
+      "duration": 27.2,
+      "max_len": 45,
+      "text": "It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank? Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+      "parts": {
+        "centrality": 0.7035890730083939,
+        "lead": 0.688092655997963,
+        "density": 0.36109519649846633,
+        "clarity": 0.34015634655952454
+      },
+      "importance": 0.5400858901951577
+    },
+    {
+      "start": 31.52,
+      "end": 57.6,
+      "duration": 26.080000000000002,
+      "max_len": 45,
+      "text": "So Ket, at this point, what more do we know about what's happening in the West Bank? Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+      "parts": {
+        "centrality": 0.6828048314071378,
+        "lead": 0.6786806912192206,
+        "density": 0.3667758315470242,
+        "clarity": 0.8709269762039185
+      },
+      "importance": 0.6910122968295715
+    },
+    {
+      "start": 36.0,
+      "end": 79.84,
+      "duration": 43.84,
+      "max_len": 45,
+      "text": "Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces. Uh the Israeli emergency services say that five Israelis, all in their 20s, were injured in uh that attack, and that two at least are currently in a critical uh condition, though it is unclear whether uh those who were wounded uh were civilians or uh were Israeli uh soldiers. That we don't know at this point.",
+      "parts": {
+        "centrality": 0.5987372690212948,
+        "lead": 0.6423027431805336,
+        "density": 0.36809356942438837,
+        "clarity": 0.888372004032135
+      },
+      "importance": 0.6597442294168587
+    },
+    {
+      "start": 57.76,
+      "end": 84.32000000000001,
+      "duration": 26.56000000000001,
+      "max_len": 45,
+      "text": "Uh the Israeli emergency services say that five Israelis, all in their 20s, were injured in uh that attack, and that two at least are currently in a critical uh condition, though it is unclear whether uh those who were wounded uh were civilians or uh were Israeli uh soldiers. That we don't know at this point. Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react.",
+      "parts": {
+        "centrality": 0.5937208931946347,
+        "lead": 0.4915063726155956,
+        "density": 0.63250382788557,
+        "clarity": 0.7826624512672424
+      },
+      "importance": 0.6357778967042496
+    },
+    {
+      "start": 78.4,
+      "end": 122.44,
+      "duration": 44.03999999999999,
+      "max_len": 45,
+      "text": "That we don't know at this point. Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react. And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack. Now, authorities are not uh giving for now any details on what that major attack uh would have entailed, what the target was, and they didn't give more indication about the identities of uh the two men, uh, besides saying that they were from uh the Hebron uh area.",
+      "parts": {
+        "centrality": 0.8997139017266319,
+        "lead": 0.3813291087685222,
+        "density": 0.42349454044768314,
+        "clarity": 0.7435406446456909
+      },
+      "importance": 0.6777520618188854
+    },
+    {
+      "start": 80.0,
+      "end": 122.44,
+      "duration": 42.44,
+      "max_len": 45,
+      "text": "Now, of course, uh the Prime Minister Benjamin Netanyahu was quick uh to react. And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack. Now, authorities are not uh giving for now any details on what that major attack uh would have entailed, what the target was, and they didn't give more indication about the identities of uh the two men, uh, besides saying that they were from uh the Hebron uh area.",
+      "parts": {
+        "centrality": 0.8881697123058088,
+        "lead": 0.3738996508550112,
+        "density": 0.3887324301538346,
+        "clarity": 0.8446654081344604
+      },
+      "importance": 0.6973488164414486
+    },
+    {
+      "start": 84.4,
+      "end": 126.0,
+      "duration": 41.599999999999994,
+      "max_len": 45,
+      "text": "And uh one of his uh first uh reactions was to point uh the finger at uh Hamas uh uh and saying that it appears that Hamas terrorists were planning a major attack, uh, pointing to the large quantities of weapons and ammunition that he said were found at the scene of uh that attack. Now, authorities are not uh giving for now any details on what that major attack uh would have entailed, what the target was, and they didn't give more indication about the identities of uh the two men, uh, besides saying that they were from uh the Hebron uh area. Uh Hamas has reacted uh to the attack.",
+      "parts": {
+        "centrality": 0.8334888983449625,
+        "lead": 0.3542065499793527,
+        "density": 0.3936682410193415,
+        "clarity": 0.878314197063446
+      },
+      "importance": 0.6851069196885424
+    },
+    {
+      "start": 104.16,
+      "end": 144.4,
+      "duration": 40.24000000000001,
+      "max_len": 45,
+      "text": "Now, authorities are not uh giving for now any details on what that major attack uh would have entailed, what the target was, and they didn't give more indication about the identities of uh the two men, uh, besides saying that they were from uh the Hebron uh area. Uh Hamas has reacted uh to the attack. They called it a natural and legitimate response to the ongoing crimes and brutal attacks against our people, but they stopped short of uh endorsing of claiming actual responsibility uh for uh this attack, even though uh the Israeli authorities, as I was saying, are pointing the finger at Hamas.",
+      "parts": {
+        "centrality": 0.7042844724423115,
+        "lead": 0.2777967033588481,
+        "density": 0.38949163469724124,
+        "clarity": 0.8125700354576111
+      },
+      "importance": 0.6042536618684482
+    },
+    {
+      "start": 122.44,
+      "end": 156.64000000000001,
+      "duration": 34.20000000000002,
+      "max_len": 45,
+      "text": "Uh Hamas has reacted uh to the attack. They called it a natural and legitimate response to the ongoing crimes and brutal attacks against our people, but they stopped short of uh endorsing of claiming actual responsibility uh for uh this attack, even though uh the Israeli authorities, as I was saying, are pointing the finger at Hamas. And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday. How have uh Israeli political figures been reacting to all of this?",
+      "parts": {
+        "centrality": 0.6731432005105622,
+        "lead": 0.22187155069713582,
+        "density": 0.6358626223698267,
+        "clarity": 0.8098781704902649
+      },
+      "importance": 0.6183172748206773
+    },
+    {
+      "start": 126.16,
+      "end": 167.84,
+      "duration": 41.68000000000001,
+      "max_len": 45,
+      "text": "They called it a natural and legitimate response to the ongoing crimes and brutal attacks against our people, but they stopped short of uh endorsing of claiming actual responsibility uh for uh this attack, even though uh the Israeli authorities, as I was saying, are pointing the finger at Hamas. And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday. How have uh Israeli political figures been reacting to all of this? Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement.",
+      "parts": {
+        "centrality": 0.8021988822658024,
+        "lead": 0.2119506383995781,
+        "density": 0.5178718682375061,
+        "clarity": 0.8020908832550049
+      },
+      "importance": 0.6414677816850738
+    },
+    {
+      "start": 145.44,
+      "end": 167.84,
+      "duration": 22.400000000000006,
+      "max_len": 45,
+      "text": "And uh this is happening uh just four days ahead of elections in Israel, elections on Tuesday. How have uh Israeli political figures been reacting to all of this? Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement.",
+      "parts": {
+        "centrality": 0.7694607063161039,
+        "lead": 0.16721248394437327,
+        "density": 0.7463830077655169,
+        "clarity": 0.9513007998466492
+      },
+      "importance": 0.7001014351183332
+    },
+    {
+      "start": 152.56,
+      "end": 193.20000000000002,
+      "duration": 40.640000000000015,
+      "max_len": 45,
+      "text": "How have uh Israeli political figures been reacting to all of this? Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement. Uh he had been uh warning of potential uh attacks uh in the lead up uh to uh this vote, and now he has said, as you mentioned, that he ordered uh the immediate uh closing off of the city of uh Hebron, and he ordered uh the Israeli forces to prepare for a full lockdown across all of Judea and Samaria starting today, using, of course, uh the Israeli uh term for uh the occupied uh West Bank.",
+      "parts": {
+        "centrality": 1.0,
+        "lead": 0.15319475580181113,
+        "density": 0.41891268426288913,
+        "clarity": 0.9048609137535095
+      },
+      "importance": 0.7149341279258484
+    },
+    {
+      "start": 157.04,
+      "end": 200.56,
+      "duration": 43.52000000000001,
+      "max_len": 45,
+      "text": "Well, look, uh the immediate reactions uh came, of course, from the whole uh political class, but I was talking about the the prime minister, and I'll get a little bit deeper into what he said in his statement. Uh he had been uh warning of potential uh attacks uh in the lead up uh to uh this vote, and now he has said, as you mentioned, that he ordered uh the immediate uh closing off of the city of uh Hebron, and he ordered uh the Israeli forces to prepare for a full lockdown across all of Judea and Samaria starting today, using, of course, uh the Israeli uh term for uh the occupied uh West Bank. What's interesting, this is uh the statement that he posted on X in a Hebrew originally that has been translated.",
+      "parts": {
+        "centrality": 0.9955107208371485,
+        "lead": 0.14498336723799898,
+        "density": 0.3365311185863496,
+        "clarity": 0.9420285820960999
+      },
+      "importance": 0.7105136681573841
+    },
+    {
+      "start": 168.0,
+      "end": 210.96,
+      "duration": 42.96000000000001,
+      "max_len": 45,
+      "text": "Uh he had been uh warning of potential uh attacks uh in the lead up uh to uh this vote, and now he has said, as you mentioned, that he ordered uh the immediate uh closing off of the city of uh Hebron, and he ordered uh the Israeli forces to prepare for a full lockdown across all of Judea and Samaria starting today, using, of course, uh the Israeli uh term for uh the occupied uh West Bank. What's interesting, this is uh the statement that he posted on X in a Hebrew originally that has been translated. And that line that was equaled in yellow is actually not the same one as the one uh that uh was posted uh in uh the English uh language.",
+      "parts": {
+        "centrality": 0.8723145723408532,
+        "lead": 0.12670262867115284,
+        "density": 0.35146254415591494,
+        "clarity": 0.9682764410972595
+      },
+      "importance": 0.6738529400060942
+    },
+    {
+      "start": 193.36,
+      "end": 231.68,
+      "duration": 38.31999999999999,
+      "max_len": 45,
+      "text": "What's interesting, this is uh the statement that he posted on X in a Hebrew originally that has been translated. And that line that was equaled in yellow is actually not the same one as the one uh that uh was posted uh in uh the English uh language. So you're seeing uh the English the Hebrew there talking about this full lockdown of uh the occupied West Bank in the English language statement that was sent to foreign reporters to uh the press, uh, he simply speaks of additional measures to prevent terrorist attacks originating from uh the occupied West Bank.",
+      "parts": {
+        "centrality": 0.6974044392814064,
+        "lead": 0.09275748805339094,
+        "density": 0.30672630791285777,
+        "clarity": 0.6855285167694092
+      },
+      "importance": 0.5143105525769218
+    },
+    {
+      "start": 200.64000000000001,
+      "end": 245.52,
+      "duration": 44.879999999999995,
+      "max_len": 45,
+      "text": "And that line that was equaled in yellow is actually not the same one as the one uh that uh was posted uh in uh the English uh language. So you're seeing uh the English the Hebrew there talking about this full lockdown of uh the occupied West Bank in the English language statement that was sent to foreign reporters to uh the press, uh, he simply speaks of additional measures to prevent terrorist attacks originating from uh the occupied West Bank. So not exactly as uh strong of a worded uh statement uh as it is in Hebrew, which is obviously for a domestic audience just four days uh before uh those elections. He was not the only one to react, obviously.",
+      "parts": {
+        "centrality": 0.8752906057962883,
+        "lead": 0.08481441862979604,
+        "density": 0.4294004870205311,
+        "clarity": 0.937953770160675
+      },
+      "importance": 0.6691107998559422
+    },
+    {
+      "start": 211.12,
+      "end": 250.88,
+      "duration": 39.75999999999999,
+      "max_len": 45,
+      "text": "So you're seeing uh the English the Hebrew there talking about this full lockdown of uh the occupied West Bank in the English language statement that was sent to foreign reporters to uh the press, uh, he simply speaks of additional measures to prevent terrorist attacks originating from uh the occupied West Bank. So not exactly as uh strong of a worded uh statement uh as it is in Hebrew, which is obviously for a domestic audience just four days uh before uh those elections. He was not the only one to react, obviously. Uh the far right national security minister uh Itamar Ben Kvir, he went even further.",
+      "parts": {
+        "centrality": 0.9910960602852633,
+        "lead": 0.07455909060802887,
+        "density": 0.4973465906663051,
+        "clarity": 0.9168570637702942
+      },
+      "importance": 0.711454546952482
+    },
+    {
+      "start": 231.76,
+      "end": 274.64,
+      "duration": 42.879999999999995,
+      "max_len": 45,
+      "text": "So not exactly as uh strong of a worded uh statement uh as it is in Hebrew, which is obviously for a domestic audience just four days uh before uh those elections. He was not the only one to react, obviously. Uh the far right national security minister uh Itamar Ben Kvir, he went even further. He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack. Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister.",
+      "parts": {
+        "centrality": 0.9809387251361009,
+        "lead": 0.057845743526884666,
+        "density": 0.5942248494979084,
+        "clarity": 0.6001883149147034
+      },
+      "importance": 0.6240879244021096
+    },
+    {
+      "start": 242.8,
+      "end": 285.92,
+      "duration": 43.120000000000005,
+      "max_len": 45,
+      "text": "He was not the only one to react, obviously. Uh the far right national security minister uh Itamar Ben Kvir, he went even further. He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack. Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister. He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank.",
+      "parts": {
+        "centrality": 0.9372079457973039,
+        "lead": 0.050502352155265814,
+        "density": 0.6109319297818645,
+        "clarity": 0.8042522072792053
+      },
+      "importance": 0.6710387031111508
+    },
+    {
+      "start": 245.6,
+      "end": 285.92,
+      "duration": 40.32000000000002,
+      "max_len": 45,
+      "text": "Uh the far right national security minister uh Itamar Ben Kvir, he went even further. He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack. Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister. He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank.",
+      "parts": {
+        "centrality": 0.8909236978682581,
+        "lead": 0.04879305750276146,
+        "density": 0.5265565665536439,
+        "clarity": 0.7360212802886963
+      },
+      "importance": 0.6213717748240981
+    },
+    {
+      "start": 251.04,
+      "end": 292.08,
+      "duration": 41.03999999999999,
+      "max_len": 45,
+      "text": "He called for the dismantling of the Palestinian Authority, uh, even though there is absolutely no evidence uh so far pointing or suggesting uh that the Palestinian Authority, which rules the occupied West Bank, had anything uh to do uh with uh this attack. Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister. He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank. And he said in the next government, this will be one of the first measures that we must demand and apply.",
+      "parts": {
+        "centrality": 0.8006355073153358,
+        "lead": 0.045635769412048124,
+        "density": 0.5092744986762585,
+        "clarity": 0.6619228720664978
+      },
+      "importance": 0.5643176178641652
+    },
+    {
+      "start": 267.28000000000003,
+      "end": 297.44,
+      "duration": 30.159999999999968,
+      "max_len": 45,
+      "text": "Uh his uh partner uh in uh the far right, uh Bezamel Smotrich, uh, he's the finance minister. He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank. And he said in the next government, this will be one of the first measures that we must demand and apply. So using this as a political uh tool to motivate his base on uh the far right.",
+      "parts": {
+        "centrality": 0.41885842400562895,
+        "lead": 0.03737443656100154,
+        "density": 0.6583315702438958,
+        "clarity": 0.8892887234687805
+      },
+      "importance": 0.519611688291389
+    },
+    {
+      "start": 274.88,
+      "end": 297.44,
+      "duration": 22.560000000000002,
+      "max_len": 45,
+      "text": "He went uh all the way to saying that uh he wanted a military campaign, quote, exactly like in Gaza and in Lebanon to be happening uh in the West Bank. And he said in the next government, this will be one of the first measures that we must demand and apply. So using this as a political uh tool to motivate his base on uh the far right.",
+      "parts": {
+        "centrality": 0.5331432366693605,
+        "lead": 0.03403975180423186,
+        "density": 0.6519152002004305,
+        "clarity": 0.9135609269142151
+      },
+      "importance": 0.5652636412994516
+    },
+    {
+      "start": 286.0,
+      "end": 325.28000000000003,
+      "duration": 39.28000000000003,
+      "max_len": 45,
+      "text": "And he said in the next government, this will be one of the first measures that we must demand and apply. So using this as a political uh tool to motivate his base on uh the far right. In contrast, you had uh uh Ghadi Azankat, who is the top rival of uh Benjamin Netanyahu in these elections, who simply focused on uh hailing the heroism, as he said, of the soldiers who uh thwarted that attack, and uh speaking and focusing on the recovery of those who were wounded in the attack, but it gives you an idea of how heightened the tensions and the concerns about security are just uh a few days before those elections.",
+      "parts": {
+        "centrality": 0.5187191633248541,
+        "lead": 0.029689257614552062,
+        "density": 0.34634091638634973,
+        "clarity": 0.6986379623413086
+      },
+      "importance": 0.44903208484695434
+    },
+    {
+      "start": 292.24,
+      "end": 325.28000000000003,
+      "duration": 33.04000000000002,
+      "max_len": 45,
+      "text": "So using this as a political uh tool to motivate his base on uh the far right. In contrast, you had uh uh Ghadi Azankat, who is the top rival of uh Benjamin Netanyahu in these elections, who simply focused on uh hailing the heroism, as he said, of the soldiers who uh thwarted that attack, and uh speaking and focusing on the recovery of those who were wounded in the attack, but it gives you an idea of how heightened the tensions and the concerns about security are just uh a few days before those elections.",
+      "parts": {
+        "centrality": 0.5362279108777663,
+        "lead": 0.02749629843087631,
+        "density": 0.25672341873102367,
+        "clarity": 0.6706082820892334
+      },
+      "importance": 0.43287002592981705
+    },
+    {
+      "start": 297.6,
+      "end": 325.28000000000003,
+      "duration": 27.680000000000007,
+      "max_len": 45,
+      "text": "In contrast, you had uh uh Ghadi Azankat, who is the top rival of uh Benjamin Netanyahu in these elections, who simply focused on uh hailing the heroism, as he said, of the soldiers who uh thwarted that attack, and uh speaking and focusing on the recovery of those who were wounded in the attack, but it gives you an idea of how heightened the tensions and the concerns about security are just uh a few days before those elections.",
+      "parts": {
+        "centrality": 0.4458269706175249,
+        "lead": 0.025742387399652067,
+        "density": 0.25791530238463845,
+        "clarity": 0.7821637392044067
+      },
+      "importance": 0.4345243343150819
+    }
+  ]
+}

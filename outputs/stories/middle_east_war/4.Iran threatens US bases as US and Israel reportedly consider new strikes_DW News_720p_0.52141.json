@@ -1,0 +1,14 @@
+{
+  "start": 462.48,
+  "end": 490.88,
+  "duration": 28.399999999999977,
+  "max_len": 30,
+  "text": "Um, Pete Hex said that's been very public and saying, well, we're not providing those. I know they NATO's paid for them, but we have to prioritize getting our own stockpiles sorted first. So it's having an impact on the ability of NATO to support Ukraine and stop the Russian aggression. But I think more importantly, things like patriot. We're gonna pick on Patriot for a minute because um the ballistic missile threat from Iran is significant for every one ballistic missile fired, you generally fire two patriots.",
+  "parts": {
+    "centrality": 0.4823947209325403,
+    "lead": 0.06844907001393488,
+    "density": 0.5675812229213191,
+    "clarity": 0.8458151817321777
+  },
+  "importance": 0.5214097042870273
+}

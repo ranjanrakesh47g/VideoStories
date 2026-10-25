@@ -1,0 +1,14 @@
+{
+  "start": 71.44,
+  "end": 110.72,
+  "duration": 39.28,
+  "max_len": 45,
+  "text": "It doesn't get more explicit than that. And the Wall Street Journal says quote, Iran threatens wider strikes on economic and civilian targets if U.S. attacks. The Guardian reports on how Iran will hit AI facilities across the Gulf if the fighting resumes. There have been other clues, including US Secretary of Defense Pete Heggseth's visit to Israel earlier this week, where he met Prime Minister Benjamin Netanyahu. Keep in mind that Israel also has elections happening in just a matter of days. So for both the US and Israel, everything after the election. To dive into all this, we have military analyst Sean Bell joining us.",
+  "parts": {
+    "centrality": 0.6583395909381762,
+    "lead": 0.6608416801900182,
+    "density": 0.7142873187884636,
+    "clarity": 0.6197014451026917
+  },
+  "importance": 0.6556407242154423
+}

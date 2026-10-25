@@ -1,0 +1,14 @@
+{
+  "start": 200.24,
+  "end": 244.64000000000001,
+  "duration": 44.400000000000006,
+  "max_len": 45,
+  "text": "Uh, now, along with the release of the video showing that its military is uh uh is is building these drones, uh the Iran is also saying that it's stocking up weapons, as you said, it's been a relatively quiet time. To what extent do you think it can, given the limited resources of Iran, given that uh even before the start of the war, its economy uh was in the doldrums and kind of uh in many uh people's opinion, kind of it's on its last legs. How can it stock up weapons? Yeah, it's interesting, isn't it? We tend to look at these problems through a Western lens. Um, that our economy is based, you know, on a on a um a democratic system. We have to remember in Iran, it's an autocratic system.",
+  "parts": {
+    "centrality": 0.6726226979166401,
+    "lead": 0.3131475385483508,
+    "density": 0.5294122074903015,
+    "clarity": 0.7749242186546326
+  },
+  "importance": 0.6099365487004291
+}

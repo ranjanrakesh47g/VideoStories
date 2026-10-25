@@ -1,0 +1,14 @@
+{
+  "start": 117.04,
+  "end": 146.72,
+  "duration": 29.679999999999993,
+  "max_len": 30,
+  "text": "It is a matter of time to see whether they will uh fulfill these threats in the in the coming days when we see more ships uh trying to cross the Strait of Hormuz. The Americans and the Israelis, of course, on their side are talking about uh uh an imminent uh resumption of war, and that's felt here in Iran. Iran is bracing for this and saying that it has what it takes to uh take measures. The number of ships reportedly attacked in and around the Strait of Hormuz has increased.",
+  "parts": {
+    "centrality": 0.8616636666705252,
+    "lead": 0.2498090270887373,
+    "density": 0.5001249611753626,
+    "clarity": 0.9237988591194153
+  },
+  "importance": 0.7037024906645601
+}

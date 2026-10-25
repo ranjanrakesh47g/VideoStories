@@ -1,0 +1,14 @@
+{
+  "start": 26.240000000000002,
+  "end": 48.64,
+  "duration": 22.4,
+  "max_len": 30,
+  "text": "But of course, the big issue is codifying that in a tangible way. Are we expecting any deliverables out of this meeting? So I think probably the highest level deliverable that we should expect is actually a joint statement out of this uh uh this year's BRICS meeting, which is actually pretty remarkable because of the uh you know really wildly divergent interests of a lot of the countries that are here today.",
+  "parts": {
+    "centrality": 0.7166524921687288,
+    "lead": 0.837450446404499,
+    "density": 0.39247251058385246,
+    "clarity": 0.7088176012039185
+  },
+  "importance": 0.6898346184887083
+}

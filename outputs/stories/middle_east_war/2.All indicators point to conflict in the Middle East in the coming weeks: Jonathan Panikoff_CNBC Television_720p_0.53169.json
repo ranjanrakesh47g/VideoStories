@@ -1,0 +1,14 @@
+{
+  "start": 6.32,
+  "end": 46.88,
+  "duration": 40.56,
+  "max_len": 45,
+  "text": "Jonathan, it's great to see you again. You're just out um with a new piece talking about how you think the new Middle East is going to be more modular. Does that mean that Washington's influence is ultimately going to be diminished? Great to be back with you. Look, I think it means that Washington's influence probably is going to be less than it was, but less leverage shouldn't be taken as zero leverage. And I think that's the case right now, frankly, with Iran, right? That's the exact point that we're seeing at the moment. We're pretty far from a negotiated settlement.",
+  "parts": {
+    "centrality": 0.7786272332462948,
+    "lead": 0.9065526425107915,
+    "density": 0.3876434162156124,
+    "clarity": 0.06572467088699341
+  },
+  "importance": 0.5316939738368013
+}

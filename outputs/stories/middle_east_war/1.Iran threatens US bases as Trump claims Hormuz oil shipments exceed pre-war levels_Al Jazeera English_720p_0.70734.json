@@ -1,0 +1,14 @@
+{
+  "start": 10.96,
+  "end": 34.08,
+  "duration": 23.119999999999997,
+  "max_len": 30,
+  "text": "Shipping through the vital waterway has been disrupted since the war began late February. The IRGC says its naval forces hit four vessels in the Northern Gulf on Wednesday, accusing them of illegal oil transfers. Neither claim has been independently confirmed.",
+  "parts": {
+    "centrality": 0.4888782136614615,
+    "lead": 0.8781932569080495,
+    "density": 0.522834131580274,
+    "clarity": 0.9405717849731445
+  },
+  "importance": 0.7073426813921059
+}

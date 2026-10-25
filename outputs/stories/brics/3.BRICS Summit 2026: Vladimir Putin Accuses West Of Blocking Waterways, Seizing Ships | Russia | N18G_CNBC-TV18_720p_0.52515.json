@@ -1,0 +1,14 @@
+{
+  "start": 322.56,
+  "end": 363.44,
+  "duration": 40.879999999999995,
+  "max_len": 45,
+  "text": "And I know Kulik can cite hundreds of examples to support that, but you know that more than 30,000 sanctions have been slapped on Russia, which is twice as much as uh the number of all sanctions against all the other countries of the world combined. This is the statistics. Against this uh difficult backdrop, Russia has been working actively, relying on its business, science, education, engineering schools on our personnel, on Russian citizens. And Russia has managed to achieve great success. We've reinforced our national sovereignty, we are developing ties with reliable, predictable partners.",
+  "parts": {
+    "centrality": 0.5075322188824717,
+    "lead": 0.15867681686343404,
+    "density": 0.5091413906454124,
+    "clarity": 0.7980294227600098
+  },
+  "importance": 0.5251516754063666
+}

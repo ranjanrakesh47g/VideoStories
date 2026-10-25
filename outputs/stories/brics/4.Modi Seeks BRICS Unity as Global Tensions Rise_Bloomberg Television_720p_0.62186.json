@@ -1,0 +1,14 @@
+{
+  "start": 177.12,
+  "end": 205.44,
+  "duration": 28.319999999999993,
+  "max_len": 30,
+  "text": "Um there has been some tentative signs that uh uh a rapprochement is underway, sort of sort of signs that that border dispute is taking small steps towards being resolved. Um both of these countries are uh increasingly dealing with a shifting relationship with the US, which is underscoring kind of a lot of what's happening here at the BRICS today, but that but also underscoring the relationship between India and China. On the one hand, you have you know, India, a long-standing partner of the US.",
+  "parts": {
+    "centrality": 0.8458884057713714,
+    "lead": 0.3019771272182782,
+    "density": 0.28937286268441603,
+    "clarity": 0.7399865388870239
+  },
+  "importance": 0.6218582585324052
+}

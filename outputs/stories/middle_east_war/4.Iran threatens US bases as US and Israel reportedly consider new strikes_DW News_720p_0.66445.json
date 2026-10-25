@@ -1,0 +1,14 @@
+{
+  "start": 29.6,
+  "end": 56.32,
+  "duration": 26.72,
+  "max_len": 30,
+  "text": "That is the message, at least. Another message on Thursday, Iran also claimed that it struck seven oil tankers in the Strait of Hormuz, which, if true, would be the largest single-day hit in the strait since the start of the war in late February. US President Donald Trump, however, called those claims fake, saying the regime is intentionally driving up the price of oil ahead of the US midterm elections.",
+  "parts": {
+    "centrality": 0.6819091628991212,
+    "lead": 0.8422873921886165,
+    "density": 0.36354501739421824,
+    "clarity": 0.6759785413742065
+  },
+  "importance": 0.6644510004738103
+}

@@ -1,0 +1,14 @@
+{
+  "start": 234.64000000000001,
+  "end": 257.68,
+  "duration": 23.039999999999992,
+  "max_len": 45,
+  "text": "And if so, then what is it that the US is doing right now vis-a-vis Russia vis-a-vis Ukraine? How does it make strategic sense uh when you think about the broader geostrategic challenges that we're facing across the world? That would be a nightmare, kind of Russian-provided weapons uh to Iran. Jonathan, thanks for now. Appreciate it. Thanks. Jonathan Panakoff of the Atlantic Council.",
+  "parts": {
+    "centrality": 0.7931290893631547,
+    "lead": 0.026190799417105903,
+    "density": 0.784146628797905,
+    "clarity": 0.7006900310516357
+  },
+  "importance": 0.6106623447957018
+}

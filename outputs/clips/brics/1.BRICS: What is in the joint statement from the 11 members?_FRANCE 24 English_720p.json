@@ -1,0 +1,1124 @@
+{
+  "clips": [
+    {
+      "start": 0.16,
+      "end": 24.72,
+      "duration": 24.56,
+      "max_len": 30,
+      "text": "First review of this hour, the BRIC alliance is meeting in India to discuss the consequences of the wars in the Middle East amongst a host of other topics. Before the summit even got off to a start on Saturday, the Black's members had already agreed to a joint declaration. Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East.",
+      "parts": {
+        "centrality": 0.8929807803356945,
+        "lead": 0.9978360841560915,
+        "density": 0.7548318270517924,
+        "clarity": 0.14608724415302277
+      },
+      "importance": 0.6691614372523872
+    },
+    {
+      "start": 7.92,
+      "end": 35.52,
+      "duration": 27.6,
+      "max_len": 30,
+      "text": "Before the summit even got off to a start on Saturday, the Black's members had already agreed to a joint declaration. Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi.",
+      "parts": {
+        "centrality": 0.4861285417308285,
+        "lead": 0.8983191307168654,
+        "density": 0.8739544300739954,
+        "clarity": 0.5421361327171326
+      },
+      "importance": 0.6435428200754021
+    },
+    {
+      "start": 13.36,
+      "end": 35.52,
+      "duration": 22.160000000000004,
+      "max_len": 30,
+      "text": "Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi.",
+      "parts": {
+        "centrality": 0.40342720203264554,
+        "lead": 0.8345332010171446,
+        "density": 0.8941234015896589,
+        "clarity": 0.45719727873802185
+      },
+      "importance": 0.5793838547747102
+    },
+    {
+      "start": 16.88,
+      "end": 44.72,
+      "duration": 27.84,
+      "max_len": 30,
+      "text": "And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions.",
+      "parts": {
+        "centrality": 0.275661187249769,
+        "lead": 0.7956940852701294,
+        "density": 0.6578566439757895,
+        "clarity": 0.371934711933136
+      },
+      "importance": 0.4658791427677543
+    },
+    {
+      "start": 24.88,
+      "end": 52.0,
+      "duration": 27.12,
+      "max_len": 30,
+      "text": "Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved.",
+      "parts": {
+        "centrality": 0.2286201686171851,
+        "lead": 0.7140134304722965,
+        "density": 0.8103671193125385,
+        "clarity": 0.7021728157997131
+      },
+      "importance": 0.5550266577472688
+    },
+    {
+      "start": 33.68,
+      "end": 63.68,
+      "duration": 30.0,
+      "max_len": 30,
+      "text": "Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement?",
+      "parts": {
+        "centrality": 0.20646053087465352,
+        "lead": 0.6338152101059112,
+        "density": 0.7365032729947515,
+        "clarity": 0.5832033753395081
+      },
+      "importance": 0.4844607313783761
+    },
+    {
+      "start": 36.800000000000004,
+      "end": 63.68,
+      "duration": 26.879999999999995,
+      "max_len": 30,
+      "text": "It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement?",
+      "parts": {
+        "centrality": 0.2331337099630428,
+        "lead": 0.6075991462684863,
+        "density": 0.6176976272615976,
+        "clarity": 0.44432365894317627
+      },
+      "importance": 0.4290683695129548
+    },
+    {
+      "start": 46.08,
+      "end": 63.68,
+      "duration": 17.6,
+      "max_len": 30,
+      "text": "Representation, responsiveness, and rulemaking. All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement?",
+      "parts": {
+        "centrality": 0.39484427933477056,
+        "lead": 0.5358596378256912,
+        "density": 0.7826424379882866,
+        "clarity": 0.4746311604976654
+      },
+      "importance": 0.5051531391798505
+    },
+    {
+      "start": 49.6,
+      "end": 76.64,
+      "duration": 27.04,
+      "max_len": 30,
+      "text": "All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members.",
+      "parts": {
+        "centrality": 0.7307868320757622,
+        "lead": 0.5109207684406276,
+        "density": 0.41551364584325573,
+        "clarity": 0.4687906801700592
+      },
+      "importance": 0.5609237958421485
+    },
+    {
+      "start": 54.24,
+      "end": 81.52,
+      "duration": 27.279999999999994,
+      "max_len": 30,
+      "text": "Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement.",
+      "parts": {
+        "centrality": 0.7449992300585155,
+        "lead": 0.4798113337339342,
+        "density": 0.4324895559647668,
+        "clarity": 0.3993430435657501
+      },
+      "importance": 0.5413883437317074
+    },
+    {
+      "start": 60.24,
+      "end": 84.88,
+      "duration": 24.639999999999993,
+      "max_len": 30,
+      "text": "Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points.",
+      "parts": {
+        "centrality": 0.7168795234062211,
+        "lead": 0.44237511712683686,
+        "density": 0.4375643614599992,
+        "clarity": 0.16282881796360016
+      },
+      "importance": 0.4538661562256247
+    },
+    {
+      "start": 61.36,
+      "end": 84.88,
+      "duration": 23.519999999999996,
+      "max_len": 30,
+      "text": "So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points.",
+      "parts": {
+        "centrality": 0.710420195565137,
+        "lead": 0.4357176230535753,
+        "density": 0.4907429685838116,
+        "clarity": 0.43758317828178406
+      },
+      "importance": 0.54067699183062
+    },
+    {
+      "start": 64.0,
+      "end": 84.88,
+      "duration": 20.879999999999995,
+      "max_len": 30,
+      "text": "Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points.",
+      "parts": {
+        "centrality": 0.610681975669849,
+        "lead": 0.4204186841891733,
+        "density": 0.4914974790225192,
+        "clarity": 0.499267578125
+      },
+      "importance": 0.5213273236131597
+    },
+    {
+      "start": 76.8,
+      "end": 100.56,
+      "duration": 23.760000000000005,
+      "max_len": 30,
+      "text": "Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation.",
+      "parts": {
+        "centrality": 0.826202311749307,
+        "lead": 0.3535235994189724,
+        "density": 0.6645853562038614,
+        "clarity": 0.7922232151031494
+      },
+      "importance": 0.6972302969575759
+    },
+    {
+      "start": 81.68,
+      "end": 110.32000000000001,
+      "duration": 28.64,
+      "max_len": 30,
+      "text": "So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation. Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities.",
+      "parts": {
+        "centrality": 0.3710639147674777,
+        "lead": 0.3309208746469951,
+        "density": 0.4837076727975897,
+        "clarity": 0.8231862783432007
+      },
+      "importance": 0.5155685795206149
+    },
+    {
+      "start": 85.04,
+      "end": 110.32000000000001,
+      "duration": 25.28,
+      "max_len": 30,
+      "text": "Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation. Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities.",
+      "parts": {
+        "centrality": 0.35434631967970437,
+        "lead": 0.31620407972430464,
+        "density": 0.44628094664466883,
+        "clarity": 0.7403621077537537
+      },
+      "importance": 0.4763128021555839
+    },
+    {
+      "start": 100.72,
+      "end": 129.2,
+      "duration": 28.47999999999999,
+      "max_len": 30,
+      "text": "Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities. So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities. So that's one of the first points uh uh to make here with this joint statement. Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement.",
+      "parts": {
+        "centrality": 0.022510442331382816,
+        "lead": 0.2557228648090377,
+        "density": 0.4161031503869921,
+        "clarity": 0.11787641793489456
+      },
+      "importance": 0.1568016257163087
+    },
+    {
+      "start": 110.48,
+      "end": 134.72,
+      "duration": 24.239999999999995,
+      "max_len": 30,
+      "text": "So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities. So that's one of the first points uh uh to make here with this joint statement. Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement. Leaders taking aim at unilateral sanctions not authorized by the UN Security Council.",
+      "parts": {
+        "centrality": 0.39513276678472437,
+        "lead": 0.22406863444313393,
+        "density": 0.6159825359739715,
+        "clarity": 0.14749376475811005
+      },
+      "importance": 0.319755705086809
+    },
+    {
+      "start": 118.4,
+      "end": 143.12,
+      "duration": 24.72,
+      "max_len": 30,
+      "text": "So that's one of the first points uh uh to make here with this joint statement. Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement. Leaders taking aim at unilateral sanctions not authorized by the UN Security Council. Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter.",
+      "parts": {
+        "centrality": 0.16985149753618725,
+        "lead": 0.2012851409138712,
+        "density": 0.537752986074433,
+        "clarity": 0.18631702661514282
+      },
+      "importance": 0.23626310821614754
+    },
+    {
+      "start": 123.52,
+      "end": 143.12,
+      "duration": 19.60000000000001,
+      "max_len": 30,
+      "text": "Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement. Leaders taking aim at unilateral sanctions not authorized by the UN Security Council. Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter.",
+      "parts": {
+        "centrality": 0.03757170080073914,
+        "lead": 0.18780462214308688,
+        "density": 0.6483049632922836,
+        "clarity": 0.5624168515205383
+      },
+      "importance": 0.3166818196588801
+    },
+    {
+      "start": 129.36,
+      "end": 158.4,
+      "duration": 29.039999999999992,
+      "max_len": 30,
+      "text": "Leaders taking aim at unilateral sanctions not authorized by the UN Security Council. Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter. Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022.",
+      "parts": {
+        "centrality": 0.1916668270711426,
+        "lead": 0.17352708045715504,
+        "density": 0.5527355512896447,
+        "clarity": 0.9048188924789429
+      },
+      "importance": 0.45614480600346047
+    },
+    {
+      "start": 134.88,
+      "end": 158.4,
+      "duration": 23.52000000000001,
+      "max_len": 30,
+      "text": "Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter. Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022.",
+      "parts": {
+        "centrality": 0.3043193717277487,
+        "lead": 0.16103112729468297,
+        "density": 0.47355875001423847,
+        "clarity": 0.802710235118866
+      },
+      "importance": 0.45056488860144417
+    },
+    {
+      "start": 143.20000000000002,
+      "end": 158.4,
+      "duration": 15.199999999999989,
+      "max_len": 30,
+      "text": "Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022.",
+      "parts": {
+        "centrality": 0.2490452725592855,
+        "lead": 0.14387604609912727,
+        "density": 0.5279491851513382,
+        "clarity": 0.9120452404022217
+      },
+      "importance": 0.4687470045089426
+    },
+    {
+      "start": 158.72,
+      "end": 184.56,
+      "duration": 25.840000000000003,
+      "max_len": 30,
+      "text": "Uh now, just one more point I would make is that few policies will have had a bigger impact on BRICS countries than the policies put in place by US President Donald Trump, whether it's the war in Iran or the ever-lingering threat of tariffs, but BRICS countries haven't called out uh Donald Trump or laid out a strategy to counter his policies because they are themselves are individed on how far they should go in challenging him.",
+      "parts": {
+        "centrality": 0.43381510817677854,
+        "lead": 0.11660881484824362,
+        "density": 0.20615021477408033,
+        "clarity": 0.5874698758125305
+      },
+      "importance": 0.3823205457913924
+    },
+    {
+      "start": 184.96,
+      "end": 212.08,
+      "duration": 27.120000000000005,
+      "max_len": 30,
+      "text": "So Andy, India's Prime Minister uh has made clear that he does not want BRICS to be seen as an anti-Western coalition. Uh what unites this block then, other than the relationship to the West? Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc. Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations.",
+      "parts": {
+        "centrality": 0.5284952937326763,
+        "lead": 0.08174119922787529,
+        "density": 0.6666088046198364,
+        "clarity": 0.6383845210075378
+      },
+      "importance": 0.4928282696472486
+    },
+    {
+      "start": 192.16,
+      "end": 212.08,
+      "duration": 19.920000000000016,
+      "max_len": 30,
+      "text": "Uh what unites this block then, other than the relationship to the West? Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc. Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations.",
+      "parts": {
+        "centrality": 0.7314131313520172,
+        "lead": 0.07414898849087971,
+        "density": 0.6880877047103301,
+        "clarity": 0.4561674892902374
+      },
+      "importance": 0.5108877961650027
+    },
+    {
+      "start": 195.92000000000002,
+      "end": 223.52,
+      "duration": 27.599999999999994,
+      "max_len": 30,
+      "text": "Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc. Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations. They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries.",
+      "parts": {
+        "centrality": 0.41418135971666153,
+        "lead": 0.07046874692627832,
+        "density": 0.547884132133653,
+        "clarity": 0.6781138181686401
+      },
+      "importance": 0.4446739905567272
+    },
+    {
+      "start": 202.72,
+      "end": 229.6,
+      "duration": 26.879999999999995,
+      "max_len": 30,
+      "text": "Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations. They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries. However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach.",
+      "parts": {
+        "centrality": 0.3067239952263628,
+        "lead": 0.06427066038989282,
+        "density": 0.5069698774723136,
+        "clarity": 0.7300974726676941
+      },
+      "importance": 0.4152822538283608
+    },
+    {
+      "start": 212.16,
+      "end": 236.72,
+      "duration": 24.560000000000002,
+      "max_len": 30,
+      "text": "They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries. However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach. And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS.",
+      "parts": {
+        "centrality": 0.4148627579303973,
+        "lead": 0.056559538693365684,
+        "density": 0.57227784267342,
+        "clarity": 0.7013040781021118
+      },
+      "importance": 0.4527467728459587
+    },
+    {
+      "start": 223.68,
+      "end": 251.36,
+      "duration": 27.680000000000007,
+      "max_len": 30,
+      "text": "However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach. And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS. For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well.",
+      "parts": {
+        "centrality": 0.7920585348013551,
+        "lead": 0.048391448296076806,
+        "density": 0.6253364673963171,
+        "clarity": 0.7509182691574097
+      },
+      "importance": 0.6059747276963601
+    },
+    {
+      "start": 229.68,
+      "end": 257.04,
+      "duration": 27.360000000000014,
+      "max_len": 30,
+      "text": "And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS. For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members.",
+      "parts": {
+        "centrality": 0.6979543617185094,
+        "lead": 0.044615812722308454,
+        "density": 0.7135420610249943,
+        "clarity": 0.564578652381897
+      },
+      "importance": 0.5296120940142582
+    },
+    {
+      "start": 233.20000000000002,
+      "end": 262.72,
+      "duration": 29.52000000000001,
+      "max_len": 30,
+      "text": "If you can see on your screen there, some of the uh tensions within the BRICS. For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake.",
+      "parts": {
+        "centrality": 0.7637997574684324,
+        "lead": 0.04253939597536911,
+        "density": 0.6918651474479239,
+        "clarity": 0.7146280407905579
+      },
+      "importance": 0.5940059786633811
+    },
+    {
+      "start": 236.88,
+      "end": 262.72,
+      "duration": 25.840000000000032,
+      "max_len": 30,
+      "text": "For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake.",
+      "parts": {
+        "centrality": 0.3940714505697567,
+        "lead": 0.04047184792132985,
+        "density": 0.760937349363525,
+        "clarity": 0.7599387168884277
+      },
+      "importance": 0.48814159475473784
+    },
+    {
+      "start": 249.6,
+      "end": 276.16,
+      "duration": 26.56000000000003,
+      "max_len": 30,
+      "text": "You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members.",
+      "parts": {
+        "centrality": 0.7064338235294118,
+        "lead": 0.03406903510027504,
+        "density": 1.0,
+        "clarity": 0.6909762620925903
+      },
+      "importance": 0.6113585238831262
+    },
+    {
+      "start": 251.44,
+      "end": 276.16,
+      "duration": 24.720000000000027,
+      "max_len": 30,
+      "text": "This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members.",
+      "parts": {
+        "centrality": 0.8721098321527564,
+        "lead": 0.03323079195152574,
+        "density": 0.9923477195493452,
+        "clarity": 0.7859664559364319
+      },
+      "importance": 0.6965266943571011
+    },
+    {
+      "start": 257.2,
+      "end": 286.64,
+      "duration": 29.439999999999998,
+      "max_len": 30,
+      "text": "Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will.",
+      "parts": {
+        "centrality": 0.7488835848475516,
+        "lead": 0.030737749873063692,
+        "density": 0.7600364268768871,
+        "clarity": 0.5510905981063843
+      },
+      "importance": 0.5475894481347041
+    },
+    {
+      "start": 262.8,
+      "end": 286.64,
+      "duration": 23.839999999999975,
+      "max_len": 30,
+      "text": "And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will.",
+      "parts": {
+        "centrality": 0.606928751539883,
+        "lead": 0.02849339823368265,
+        "density": 0.7237022373351851,
+        "clarity": 0.43254274129867554
+      },
+      "importance": 0.456441900675576
+    },
+    {
+      "start": 267.28000000000003,
+      "end": 295.44,
+      "duration": 28.159999999999968,
+      "max_len": 30,
+      "text": "Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 0.6956228826609178,
+        "lead": 0.02681649345700637,
+        "density": 0.7510471308839326,
+        "clarity": 0.21700547635555267
+      },
+      "importance": 0.42659002016197817
+    },
+    {
+      "start": 272.4,
+      "end": 295.44,
+      "duration": 23.04000000000002,
+      "max_len": 30,
+      "text": "So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 0.5701912342161995,
+        "lead": 0.02502053255411751,
+        "density": 0.6402718989156028,
+        "clarity": 0.27231472730636597
+      },
+      "importance": 0.38230624151574355
+    },
+    {
+      "start": 276.24,
+      "end": 295.44,
+      "duration": 19.19999999999999,
+      "max_len": 30,
+      "text": "And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 0.47309439482599325,
+        "lead": 0.023752945364079504,
+        "density": 0.640064290258784,
+        "clarity": 0.18641652166843414
+      },
+      "importance": 0.32226822730126137
+    },
+    {
+      "start": 0.16,
+      "end": 44.72,
+      "duration": 44.56,
+      "max_len": 45,
+      "text": "First review of this hour, the BRIC alliance is meeting in India to discuss the consequences of the wars in the Middle East amongst a host of other topics. Before the summit even got off to a start on Saturday, the Black's members had already agreed to a joint declaration. Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions.",
+      "parts": {
+        "centrality": 0.8259592989682785,
+        "lead": 0.9978360841560915,
+        "density": 0.6836661452104307,
+        "clarity": 0.5095202922821045
+      },
+      "importance": 0.7440589809363117
+    },
+    {
+      "start": 7.92,
+      "end": 52.0,
+      "duration": 44.08,
+      "max_len": 45,
+      "text": "Before the summit even got off to a start on Saturday, the Black's members had already agreed to a joint declaration. Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved.",
+      "parts": {
+        "centrality": 0.503288612565445,
+        "lead": 0.8983191307168654,
+        "density": 0.7640507002910237,
+        "clarity": 0.3922204077243805
+      },
+      "importance": 0.5880885679022465
+    },
+    {
+      "start": 13.36,
+      "end": 52.0,
+      "duration": 38.64,
+      "max_len": 45,
+      "text": "Now it condemns unilateral aggression by any country. And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved.",
+      "parts": {
+        "centrality": 0.3988482156606098,
+        "lead": 0.8345332010171446,
+        "density": 0.7600507467213783,
+        "clarity": 0.46964192390441895
+      },
+      "importance": 0.5614037048641748
+    },
+    {
+      "start": 16.88,
+      "end": 60.96,
+      "duration": 44.08,
+      "max_len": 45,
+      "text": "And while it does stop short of openly naming any specific nations, it does call for maximum restraint in the Middle East. Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy.",
+      "parts": {
+        "centrality": 0.39766467123498617,
+        "lead": 0.7956940852701294,
+        "density": 0.6252858575102367,
+        "clarity": 0.3170032501220703
+      },
+      "importance": 0.4872153056494276
+    },
+    {
+      "start": 24.88,
+      "end": 63.68,
+      "duration": 38.8,
+      "max_len": 45,
+      "text": "Now, this is all likely to be framed as a significant diplomatic breakthrough, spurring momentum for a summit that is aimed at boosting the blocks global clout. Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement?",
+      "parts": {
+        "centrality": 0.5441693775023099,
+        "lead": 0.7140134304722965,
+        "density": 0.6790848303519311,
+        "clarity": 0.5763034820556641
+      },
+      "importance": 0.6080157373897567
+    },
+    {
+      "start": 33.68,
+      "end": 76.64,
+      "duration": 42.96,
+      "max_len": 45,
+      "text": "Here's uh Narendra Modi. It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members.",
+      "parts": {
+        "centrality": 0.7598343182168156,
+        "lead": 0.6338152101059112,
+        "density": 0.5377997740429012,
+        "clarity": 0.46101677417755127
+      },
+      "importance": 0.6116800517567682
+    },
+    {
+      "start": 36.800000000000004,
+      "end": 81.52,
+      "duration": 44.71999999999999,
+      "max_len": 45,
+      "text": "It is clear from today's discussions that the management of the changing world cannot be done with the old institutions. Representation, responsiveness, and rulemaking. All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement.",
+      "parts": {
+        "centrality": 0.6917433400061596,
+        "lead": 0.6075991462684863,
+        "density": 0.4743778567882809,
+        "clarity": 0.42321962118148804
+      },
+      "importance": 0.5617525631285416
+    },
+    {
+      "start": 46.08,
+      "end": 84.88,
+      "duration": 38.8,
+      "max_len": 45,
+      "text": "Representation, responsiveness, and rulemaking. All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points.",
+      "parts": {
+        "centrality": 0.7944434285494303,
+        "lead": 0.5358596378256912,
+        "density": 0.5537716652454431,
+        "clarity": 0.4780414402484894
+      },
+      "importance": 0.6117053094188022
+    },
+    {
+      "start": 49.6,
+      "end": 84.88,
+      "duration": 35.279999999999994,
+      "max_len": 45,
+      "text": "All three need to be improved. Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points.",
+      "parts": {
+        "centrality": 0.6907696046350478,
+        "lead": 0.5109207684406276,
+        "density": 0.5086068296069626,
+        "clarity": 0.498779296875
+      },
+      "importance": 0.5698783288139366
+    },
+    {
+      "start": 54.24,
+      "end": 84.88,
+      "duration": 30.639999999999993,
+      "max_len": 45,
+      "text": "Well, for more on this, then our international affairs editor, Andy Hillier joins me from our international affairs desk. Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points.",
+      "parts": {
+        "centrality": 0.810968057052664,
+        "lead": 0.4798113337339342,
+        "density": 0.49024315826895015,
+        "clarity": 0.5156199336051941
+      },
+      "importance": 0.6080235405371199
+    },
+    {
+      "start": 60.24,
+      "end": 100.56,
+      "duration": 40.32,
+      "max_len": 45,
+      "text": "Hi there, Andy. So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation.",
+      "parts": {
+        "centrality": 0.9849673737295965,
+        "lead": 0.44237511712683686,
+        "density": 0.38373524864084907,
+        "clarity": 0.2026403546333313
+      },
+      "importance": 0.5515659979168529
+    },
+    {
+      "start": 61.36,
+      "end": 100.56,
+      "duration": 39.2,
+      "max_len": 45,
+      "text": "So what are the main takeaways then from this joint statement? Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation.",
+      "parts": {
+        "centrality": 0.988606309670465,
+        "lead": 0.4357176230535753,
+        "density": 0.41430281221338067,
+        "clarity": 0.36840564012527466
+      },
+      "importance": 0.6058228468649673
+    },
+    {
+      "start": 64.0,
+      "end": 100.56,
+      "duration": 36.56,
+      "max_len": 45,
+      "text": "Well, first off, I think it's important to point out that uh the fact that there is a joint statement does show that to some extent they have managed to paper over uh many of the decent differences uh uh and the tensions that there are within uh the BRICS members. Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation.",
+      "parts": {
+        "centrality": 0.9296995303356945,
+        "lead": 0.4204186841891733,
+        "density": 0.40899052225154114,
+        "clarity": 0.42131370306015015
+      },
+      "importance": 0.5972212617111039
+    },
+    {
+      "start": 76.8,
+      "end": 118.32000000000001,
+      "duration": 41.52000000000001,
+      "max_len": 45,
+      "text": "Uh back in uh May at a gathering of BRICS foreign ministers, there was no such uh joint statement. So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation. Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities. So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities.",
+      "parts": {
+        "centrality": 0.6743272636279642,
+        "lead": 0.3535235994189724,
+        "density": 0.5388630182036807,
+        "clarity": 0.5554352402687073
+      },
+      "importance": 0.5541792869647462
+    },
+    {
+      "start": 81.68,
+      "end": 123.44,
+      "duration": 41.75999999999999,
+      "max_len": 45,
+      "text": "So uh I've picked out just a couple of uh key points. Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation. Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities. So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities. So that's one of the first points uh uh to make here with this joint statement.",
+      "parts": {
+        "centrality": 0.3789774695873114,
+        "lead": 0.3309208746469951,
+        "density": 0.44543067513279067,
+        "clarity": 0.39326852560043335
+      },
+      "importance": 0.3836214482350066
+    },
+    {
+      "start": 85.04,
+      "end": 129.2,
+      "duration": 44.15999999999998,
+      "max_len": 45,
+      "text": "Uh the first one, a statement expressing concern over the uh continued escalation of tensions uh in the Middle East West Asia, calling for a maximum restraint, as you can see on your screen there, uh, and uh avoiding actions that could further aggravate the situation. Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities. So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities. So that's one of the first points uh uh to make here with this joint statement. Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement.",
+      "parts": {
+        "centrality": 0.4051335848475516,
+        "lead": 0.31620407972430464,
+        "density": 0.39181237586593776,
+        "clarity": 0.12984344363212585
+      },
+      "importance": 0.3027624601110324
+    },
+    {
+      "start": 100.72,
+      "end": 143.12,
+      "duration": 42.400000000000006,
+      "max_len": 45,
+      "text": "Now the statement goes on to say uh uh goes on to criticize deliberate tax on attacks on civilian infrastructure and peaceful nuclear facilities. So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities. So that's one of the first points uh uh to make here with this joint statement. Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement. Leaders taking aim at unilateral sanctions not authorized by the UN Security Council. Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter.",
+      "parts": {
+        "centrality": 0.0,
+        "lead": 0.2557228648090377,
+        "density": 0.4708358717040595,
+        "clarity": 0.15065254271030426
+      },
+      "importance": 0.16696571653050774
+    },
+    {
+      "start": 110.48,
+      "end": 143.12,
+      "duration": 32.64,
+      "max_len": 45,
+      "text": "So that will be, of course, interpreted as uh indirect criticism of the US and Israeli strikes on Iranian nuclear facilities. So that's one of the first points uh uh to make here with this joint statement. Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement. Leaders taking aim at unilateral sanctions not authorized by the UN Security Council. Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter.",
+      "parts": {
+        "centrality": 0.2293778391592239,
+        "lead": 0.22406863444313393,
+        "density": 0.5500627646348889,
+        "clarity": 0.14463143050670624
+      },
+      "importance": 0.2509948144416004
+    },
+    {
+      "start": 118.4,
+      "end": 158.4,
+      "duration": 40.0,
+      "max_len": 45,
+      "text": "So that's one of the first points uh uh to make here with this joint statement. Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement. Leaders taking aim at unilateral sanctions not authorized by the UN Security Council. Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter. Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022.",
+      "parts": {
+        "centrality": 0.34158093047428395,
+        "lead": 0.2012851409138712,
+        "density": 0.4497302337046976,
+        "clarity": 0.14804719388484955
+      },
+      "importance": 0.2716840470699331
+    },
+    {
+      "start": 123.52,
+      "end": 158.4,
+      "duration": 34.88000000000001,
+      "max_len": 45,
+      "text": "Uh a second point you can see uh on your screen there, the second uh quote I've taken from that joint statement. Leaders taking aim at unilateral sanctions not authorized by the UN Security Council. Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter. Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022.",
+      "parts": {
+        "centrality": 0.1749761799353249,
+        "lead": 0.18780462214308688,
+        "density": 0.4985499143442025,
+        "clarity": 0.6774739623069763
+      },
+      "importance": 0.3768272632497044
+    },
+    {
+      "start": 129.36,
+      "end": 158.4,
+      "duration": 29.039999999999992,
+      "max_len": 45,
+      "text": "Leaders taking aim at unilateral sanctions not authorized by the UN Security Council. Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter. Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022.",
+      "parts": {
+        "centrality": 0.1916668270711426,
+        "lead": 0.17352708045715504,
+        "density": 0.5527355512896447,
+        "clarity": 0.9049029350280762
+      },
+      "importance": 0.45617001876820046
+    },
+    {
+      "start": 134.88,
+      "end": 158.4,
+      "duration": 23.52000000000001,
+      "max_len": 45,
+      "text": "Uh I quote, uh, we call for the elimination of such unlawful measures which undermine international law and the principles and purposes of the UN Charter. Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022.",
+      "parts": {
+        "centrality": 0.3043193717277487,
+        "lead": 0.16103112729468297,
+        "density": 0.47355875001423847,
+        "clarity": 0.8033280968666077
+      },
+      "importance": 0.4507502471257667
+    },
+    {
+      "start": 143.20000000000002,
+      "end": 184.56,
+      "duration": 41.359999999999985,
+      "max_len": 45,
+      "text": "Now, even though no country has been singled out here, um, BRICS founding major BRICS founding member Russia, of course, has faced Western sanctions since its uh full-scale invasion of Ukraine in 2022. Uh now, just one more point I would make is that few policies will have had a bigger impact on BRICS countries than the policies put in place by US President Donald Trump, whether it's the war in Iran or the ever-lingering threat of tariffs, but BRICS countries haven't called out uh Donald Trump or laid out a strategy to counter his policies because they are themselves are individed on how far they should go in challenging him.",
+      "parts": {
+        "centrality": 0.3452051894056052,
+        "lead": 0.14387604609912727,
+        "density": 0.24600464013378795,
+        "clarity": 0.4431183934211731
+      },
+      "importance": 0.31943323955820735
+    },
+    {
+      "start": 158.72,
+      "end": 202.56,
+      "duration": 43.84,
+      "max_len": 45,
+      "text": "Uh now, just one more point I would make is that few policies will have had a bigger impact on BRICS countries than the policies put in place by US President Donald Trump, whether it's the war in Iran or the ever-lingering threat of tariffs, but BRICS countries haven't called out uh Donald Trump or laid out a strategy to counter his policies because they are themselves are individed on how far they should go in challenging him. So Andy, India's Prime Minister uh has made clear that he does not want BRICS to be seen as an anti-Western coalition. Uh what unites this block then, other than the relationship to the West? Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc.",
+      "parts": {
+        "centrality": 0.6855210097782568,
+        "lead": 0.11660881484824362,
+        "density": 0.36277223822775917,
+        "clarity": 0.633183479309082
+      },
+      "importance": 0.5076249959189271
+    },
+    {
+      "start": 184.96,
+      "end": 229.6,
+      "duration": 44.639999999999986,
+      "max_len": 45,
+      "text": "So Andy, India's Prime Minister uh has made clear that he does not want BRICS to be seen as an anti-Western coalition. Uh what unites this block then, other than the relationship to the West? Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc. Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations. They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries. However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach.",
+      "parts": {
+        "centrality": 0.44922091546042503,
+        "lead": 0.08174119922787529,
+        "density": 0.538048481752139,
+        "clarity": 0.6071974635124207
+      },
+      "importance": 0.43644207157327086
+    },
+    {
+      "start": 192.16,
+      "end": 236.72,
+      "duration": 44.56,
+      "max_len": 45,
+      "text": "Uh what unites this block then, other than the relationship to the West? Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc. Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations. They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries. However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach. And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS.",
+      "parts": {
+        "centrality": 0.6759118994456421,
+        "lead": 0.07414898849087971,
+        "density": 0.5367630363015427,
+        "clarity": 0.5872331857681274
+      },
+      "importance": 0.5080833736798203
+    },
+    {
+      "start": 195.92000000000002,
+      "end": 236.72,
+      "duration": 40.79999999999998,
+      "max_len": 45,
+      "text": "Well, look, I mean, uh Nurendra Modi did say uh, as you just pointed out, that he didn't want the bloc to be seen as uh just an anti-West bloc. Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations. They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries. However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach. And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS.",
+      "parts": {
+        "centrality": 0.5774835425007699,
+        "lead": 0.07046874692627832,
+        "density": 0.5303046197471657,
+        "clarity": 0.6980208158493042
+      },
+      "importance": 0.5051649269773912
+    },
+    {
+      "start": 202.72,
+      "end": 236.72,
+      "duration": 34.0,
+      "max_len": 45,
+      "text": "Uh but you know, BRICS nations essentially uh want to strengthen their position in global affairs uh in in order to rival the influence of Western nations. They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries. However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach. And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS.",
+      "parts": {
+        "centrality": 0.47939516284262396,
+        "lead": 0.06427066038989282,
+        "density": 0.5269114859891552,
+        "clarity": 0.7509182691574097
+      },
+      "importance": 0.4849546427184931
+    },
+    {
+      "start": 212.16,
+      "end": 257.04,
+      "duration": 44.880000000000024,
+      "max_len": 45,
+      "text": "They want to emerge as a credible alternative to blocks like the G7 or the G20, the G20, which uh accounts for the lion's share of world GDP, 80% compared to 40% for BRICS countries. However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach. And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS. For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members.",
+      "parts": {
+        "centrality": 0.8133397174314753,
+        "lead": 0.056559538693365684,
+        "density": 0.5726158455623301,
+        "clarity": 0.5921949744224548
+      },
+      "importance": 0.5595316780007754
+    },
+    {
+      "start": 223.68,
+      "end": 267.12,
+      "duration": 43.44,
+      "max_len": 45,
+      "text": "However, the fact that the BRICS has become more significant through its expansion also means that consensus is harder to reach. And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS. For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan.",
+      "parts": {
+        "centrality": 0.9183145018478596,
+        "lead": 0.048391448296076806,
+        "density": 0.688143770093781,
+        "clarity": 0.6955448985099792
+      },
+      "importance": 0.6429734003730271
+    },
+    {
+      "start": 229.68,
+      "end": 272.24,
+      "duration": 42.56,
+      "max_len": 45,
+      "text": "And there are not many common issues around which members can unite. If you can see on your screen there, some of the uh tensions within the BRICS. For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year.",
+      "parts": {
+        "centrality": 0.8222748883584847,
+        "lead": 0.044615812722308454,
+        "density": 0.7631343003241542,
+        "clarity": 0.6206216216087341
+      },
+      "importance": 0.5973760050011747
+    },
+    {
+      "start": 233.20000000000002,
+      "end": 276.16,
+      "duration": 42.96000000000001,
+      "max_len": 45,
+      "text": "If you can see on your screen there, some of the uh tensions within the BRICS. For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members.",
+      "parts": {
+        "centrality": 0.8917339563443178,
+        "lead": 0.04253939597536911,
+        "density": 0.7255260515659182,
+        "clarity": 0.6224592924118042
+      },
+      "importance": 0.616181459374014
+    },
+    {
+      "start": 236.88,
+      "end": 276.16,
+      "duration": 39.28000000000003,
+      "max_len": 45,
+      "text": "For example, the war in Iran, the fact that you have within the same group uh Iran and the United Arab Emirates, the UAE, which suspended commercial and financial dealings with uh Iran in mid-August after it was targeted by Iranian missiles. You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members.",
+      "parts": {
+        "centrality": 0.7223518825069295,
+        "lead": 0.04047184792132985,
+        "density": 0.7738922750824282,
+        "clarity": 0.6610482335090637
+      },
+      "importance": 0.5753158397767746
+    },
+    {
+      "start": 249.6,
+      "end": 293.04,
+      "duration": 43.440000000000026,
+      "max_len": 45,
+      "text": "You have, of course, the war in Ukraine as well. This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing.",
+      "parts": {
+        "centrality": 0.8880026274253157,
+        "lead": 0.03406903510027504,
+        "density": 0.7331474761741021,
+        "clarity": 0.4378235340118408
+      },
+      "importance": 0.558933908248583
+    },
+    {
+      "start": 251.44,
+      "end": 295.44,
+      "duration": 44.0,
+      "max_len": 45,
+      "text": "This is another issue which uh causes tensions and frictions uh within uh BRICS uh members. Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 1.0,
+        "lead": 0.03323079195152574,
+        "density": 0.7726319946635385,
+        "clarity": 0.4598037302494049
+      },
+      "importance": 0.6104820766646574
+    },
+    {
+      "start": 257.2,
+      "end": 295.44,
+      "duration": 38.24000000000001,
+      "max_len": 45,
+      "text": "Narendra Modi back in May telling Vladimir Putin that the war in Ukraine had to end for humanity's sake. And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 0.8677668809670465,
+        "lead": 0.030737749873063692,
+        "density": 0.7796793274997494,
+        "clarity": 0.30611202120780945
+      },
+      "importance": 0.5186514638003843
+    },
+    {
+      "start": 262.8,
+      "end": 295.44,
+      "duration": 32.639999999999986,
+      "max_len": 45,
+      "text": "And don't forget also that China is a major supplier of weapons to Pakistan. Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 0.7258695526639976,
+        "lead": 0.02849339823368265,
+        "density": 0.7567803604051145,
+        "clarity": 0.3156304955482483
+      },
+      "importance": 0.4679592258043773
+    },
+    {
+      "start": 267.28000000000003,
+      "end": 295.44,
+      "duration": 28.159999999999968,
+      "max_len": 45,
+      "text": "Pakistan uh which was at war with India uh only in May last year. So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 0.6956228826609178,
+        "lead": 0.02681649345700637,
+        "density": 0.7510471308839326,
+        "clarity": 0.21766993403434753
+      },
+      "importance": 0.42678935746561664
+    },
+    {
+      "start": 272.4,
+      "end": 295.44,
+      "duration": 23.04000000000002,
+      "max_len": 45,
+      "text": "So many issues that uh still uh divide uh BRICS members. And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 0.5701912342161995,
+        "lead": 0.02502053255411751,
+        "density": 0.6402718989156028,
+        "clarity": 0.27212128043174744
+      },
+      "importance": 0.38224820745335797
+    },
+    {
+      "start": 276.24,
+      "end": 295.44,
+      "duration": 19.19999999999999,
+      "max_len": 45,
+      "text": "And in the end, it is perhaps Donald Trump being back in the White House that may be exactly what gives some of uh these BRICS members and the block itself some kind of raison d'\u00eatre, if you will. Uh a bloc that stands for a semblance of stability in the midst of a world order that is rapidly changing. Indeed, Andy Hillier, thank you very much.",
+      "parts": {
+        "centrality": 0.47309439482599325,
+        "lead": 0.023752945364079504,
+        "density": 0.640064290258784,
+        "clarity": 0.18614128232002258
+      },
+      "importance": 0.3221856554967379
+    }
+  ]
+}

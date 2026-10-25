@@ -1,0 +1,14 @@
+{
+  "start": 53.120000000000005,
+  "end": 68.0,
+  "duration": 14.879999999999995,
+  "max_len": 30,
+  "text": "It is evident that reliable business to business ties and economic partnerships, that is the backbone of international economic relations. It helps build these relations in a stronger, resilient manner.",
+  "parts": {
+    "centrality": 0.6033317061574324,
+    "lead": 0.7384796453618949,
+    "density": 0.31767040780350725,
+    "clarity": 0.37983834743499756
+  },
+  "importance": 0.5204640916285057
+}

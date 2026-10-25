@@ -1,0 +1,14 @@
+{
+  "start": 24.72,
+  "end": 56.32,
+  "duration": 31.6,
+  "max_len": 45,
+  "text": "Tehran is ready should fighting resume in a big way. That is the message, at least. Another message on Thursday, Iran also claimed that it struck seven oil tankers in the Strait of Hormuz, which, if true, would be the largest single-day hit in the strait since the start of the war in late February. US President Donald Trump, however, called those claims fake, saying the regime is intentionally driving up the price of oil ahead of the US midterm elections.",
+  "parts": {
+    "centrality": 0.8202477869889595,
+    "lead": 0.8664615146501112,
+    "density": 0.45908642011555084,
+    "clarity": 0.7583316564559937
+  },
+  "importance": 0.7567414883302888
+}

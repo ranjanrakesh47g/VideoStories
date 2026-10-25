@@ -1,0 +1,14 @@
+{
+  "start": 211.12,
+  "end": 250.88,
+  "duration": 39.75999999999999,
+  "max_len": 45,
+  "text": "So you're seeing uh the English the Hebrew there talking about this full lockdown of uh the occupied West Bank in the English language statement that was sent to foreign reporters to uh the press, uh, he simply speaks of additional measures to prevent terrorist attacks originating from uh the occupied West Bank. So not exactly as uh strong of a worded uh statement uh as it is in Hebrew, which is obviously for a domestic audience just four days uh before uh those elections. He was not the only one to react, obviously. Uh the far right national security minister uh Itamar Ben Kvir, he went even further.",
+  "parts": {
+    "centrality": 0.9910960602852633,
+    "lead": 0.07455909060802887,
+    "density": 0.4973465906663051,
+    "clarity": 0.9168570637702942
+  },
+  "importance": 0.711454546952482
+}

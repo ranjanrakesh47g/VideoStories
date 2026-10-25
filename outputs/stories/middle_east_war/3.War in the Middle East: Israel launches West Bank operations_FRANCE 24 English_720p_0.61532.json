@@ -1,0 +1,14 @@
+{
+  "start": 18.88,
+  "end": 57.6,
+  "duration": 38.72,
+  "max_len": 45,
+  "text": "Two suspected Palestinian assailants were shot and killed at a checkpoint near Hebron. For more on this, I'm joined by our international affairs editor, Kedevin Gorjistani. It's great to see you. So Ket, at this point, what more do we know about what's happening in the West Bank? Well, look, uh, what we know is that Israeli officials uh say that two Palestinian uh men armed with uh an M16 rifle and a handgun attacked a security checkpoint near uh Hebron in the occupied uh West Bank before being uh in a shootout with Israeli uh forces and being killed by those Israeli forces.",
+  "parts": {
+    "centrality": 0.5850812414235851,
+    "lead": 0.7928119617769328,
+    "density": 0.5425432937589878,
+    "clarity": 0.5686553716659546
+  },
+  "importance": 0.6153189324172759
+}
