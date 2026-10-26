@@ -224,3 +224,7 @@ __marimo__/
 
 # Source videos
 data/
+
+cloudflared
+.colab_serve/
+videostories_colab.zip

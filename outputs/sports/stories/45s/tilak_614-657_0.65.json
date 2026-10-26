@@ -1,0 +1,11 @@
+{
+  "start": 614.64,
+  "end": 657.88,
+  "duration": 43.24,
+  "max_len": 45,
+  "importance": 0.65,
+  "cue": "six",
+  "desc": "a flat fast six",
+  "reason": "the commentary mentions a flat fast six, which is a significant event in the match, hence the importance_score is 0.65",
+  "peak": 635.0
+}

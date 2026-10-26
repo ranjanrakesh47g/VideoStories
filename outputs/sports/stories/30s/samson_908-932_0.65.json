@@ -1,0 +1,11 @@
+{
+  "start": 908.68,
+  "end": 932.64,
+  "duration": 23.96,
+  "max_len": 30,
+  "importance": 0.65,
+  "cue": "wickets",
+  "desc": "wickets",
+  "reason": "heard wickets, so the score is wickets.",
+  "peak": 914.0
+}

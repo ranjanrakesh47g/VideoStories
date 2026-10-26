@@ -1,0 +1,1795 @@
+{
+  "video": "1.Sanju Samson's 67 Sparks Victory | 1st T20I | English | Highlights | India Tour of New Zealand 2026_Sony LIV_720p.mp4",
+  "clips": [
+    {
+      "start": 0.0,
+      "end": 20.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"start of video\", \"time\": 0.0},\n{\"action\": \"start of music\", \"time\": 10.0},\n{\"action\": \"end of music\", \"time\": 18.0},\n{\"action\": \"start of speech\", \"time\":"
+    },
+    {
+      "start": 20.0,
+      "end": 40.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"start recording\", \"time\": \"0:00\"},\n{\"action\": \"end recording\", \"time\": \"0:01\"},\n{\"action\": \"start recording\", \"time\": \"0:02\"},\n{\"action\": \"end recording\","
+    },
+    {
+      "start": 40.0,
+      "end": 60.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"click\", \"coordinate\": [100, 140] },\n{\"action\": \"click\", \"coordinate\": [100, 150] },\n{\"action\": \"click\", \"coordinate\": [100, 160] },\n{\"action\": \"click\", \"c"
+    },
+    {
+      "start": 60.0,
+      "end": 80.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 80.0,
+      "end": 100.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 100.0,
+      "end": 120.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 120.0,
+      "end": 140.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out of the game\"}\n]\n```"
+    },
+    {
+      "start": 140.0,
+      "end": 160.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a ball is bowled\", \"reason\": \"a wicket\"},\n{\"action\": \"a player hits the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"a player hits the ball\", \"reason\": \"a w"
+    },
+    {
+      "start": 160.0,
+      "end": 180.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 180.0,
+      "end": 200.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+    },
+    {
+      "start": 200.0,
+      "end": 220.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Daryl Mitchell\", \"reason\": \"boundary\"}\n]\n```"
+    },
+    {
+      "start": 220.0,
+      "end": 240.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"batsman hits the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hits the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hits the ball\", \"reason\": \"bo"
+    },
+    {
+      "start": 240.0,
+      "end": 260.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out\"}\n]\n```"
+    },
+    {
+      "start": 260.0,
+      "end": 280.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"a player hits the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"a player hits the ball\", \"rea"
+    },
+    {
+      "start": 280.0,
+      "end": 300.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 300.0,
+      "end": 320.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a cricket clip\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 320.0,
+      "end": 340.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket of the batsman player\"}\n]\n```"
+    },
+    {
+      "start": 340.0,
+      "end": 360.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+    },
+    {
+      "start": 360.0,
+      "end": 380.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out of the game\"}\n]\n```"
+    },
+    {
+      "start": 380.0,
+      "end": 400.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the ball, boundary, milestone, or the ball that decides the match scores near 1.\"}\n]\n```"
+    },
+    {
+      "start": 400.0,
+      "end": 420.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a wicket\"},\n{\"action\": \"the batsman hits the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"the ball goes towards the st"
+    },
+    {
+      "start": 420.0,
+      "end": 440.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a ball is hit by a bat\", \"reason\": \"a boundary\"}\n]\n```"
+    },
+    {
+      "start": 440.0,
+      "end": 460.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"boundary\"}\n]\n```"
+    },
+    {
+      "start": 460.0,
+      "end": 480.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player is out\"}\n]\n```"
+    },
+    {
+      "start": 480.0,
+      "end": 500.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"Boundary\"}\n]\n```"
+    },
+    {
+      "start": 500.0,
+      "end": 520.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out of the pitch\"}\n]\n```"
+    },
+    {
+      "start": 520.0,
+      "end": 540.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " This is a cricket clip"
+    },
+    {
+      "start": 540.0,
+      "end": 560.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"New Zealand equalled their best score against India in a T20\"}\n]\n```"
+    },
+    {
+      "start": 560.0,
+      "end": 580.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 580.0,
+      "end": 600.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out\"}\n]\n```"
+    },
+    {
+      "start": 600.0,
+      "end": 620.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out\"}\n]\n```"
+    },
+    {
+      "start": 620.0,
+      "end": 640.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player was in trouble\"}\n]\n```"
+    },
+    {
+      "start": 640.0,
+      "end": 660.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+    },
+    {
+      "start": 660.0,
+      "end": 680.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+    },
+    {
+      "start": 680.0,
+      "end": 700.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " This is a cricket clip"
+    },
+    {
+      "start": 700.0,
+      "end": 720.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the ball that decides the match scores\"}\n]\n```"
+    },
+    {
+      "start": 720.0,
+      "end": 740.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"ABHISHEK\", \"reason\": \"not out\"}\n]\n```"
+    },
+    {
+      "start": 740.0,
+      "end": 760.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"breakthrough\"}\n]\n```"
+    },
+    {
+      "start": 760.0,
+      "end": 780.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"ABHISHEK SHARMA\", \"reason\": \"not his best delivery\"}\n]\n```"
+    },
+    {
+      "start": 780.0,
+      "end": 800.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has taken a wicket\"}\n]\n```"
+    },
+    {
+      "start": 800.0,
+      "end": 820.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"wicket\"}\n]\n```"
+    },
+    {
+      "start": 820.0,
+      "end": 840.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " This is a cricket clip"
+    },
+    {
+      "start": 840.0,
+      "end": 860.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a cricket clip\"},\n{\"action\": \"the bowler claps his hands\", \"reason\": \"a cricket clip\"},\n{\"action\": \"a batsman hits th"
+    },
+    {
+      "start": 860.0,
+      "end": 880.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " This is a cricket clip."
+    },
+    {
+      "start": 880.0,
+      "end": 900.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"a boundary\"}\n]\n```"
+    },
+    {
+      "start": 900.0,
+      "end": 920.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"hug\", \"player\": \"11\", \"reason\": \"team mates\"}\n]\n```"
+    },
+    {
+      "start": 920.0,
+      "end": 940.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"a wicket\"}\n]\n```"
+    },
+    {
+      "start": 940.0,
+      "end": 960.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a wicket\"},\n{\"action\": \"the batsman hits the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"the bowler runs\", \"reason\":"
+    },
+    {
+      "start": 960.0,
+      "end": 980.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"The batsman is out of the game\"}\n]\n```"
+    },
+    {
+      "start": 980.0,
+      "end": 1000.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the ball that decides the match scores\"}\n]\n```"
+    },
+    {
+      "start": 1000.0,
+      "end": 1020.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"short third man over the top of short third man\"}\n]\n```"
+    },
+    {
+      "start": 1020.0,
+      "end": 1040.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"boundary\"}\n]\n```"
+    },
+    {
+      "start": 1040.0,
+      "end": 1060.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"the ball is hit\"}\n]\n```"
+    },
+    {
+      "start": 1060.0,
+      "end": 1080.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out\"}\n]\n```"
+    },
+    {
+      "start": 1080.0,
+      "end": 1100.0,
+      "duration": 20.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"wicket\"}\n]\n```"
+    },
+    {
+      "start": 1100.0,
+      "end": 1113.0,
+      "duration": 13.0,
+      "max_len": 20,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"click\", \"coordinate\": [100, 117] },\n{\"action\": \"click\", \"coordinate\": [100, 137] },\n{\"action\": \"click\", \"coordinate\": [100, 157] },\n{\"action\": \"click\", \"c"
+    },
+    {
+      "start": 0.0,
+      "end": 30.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"importance\", \"value\": 0.0},\n{\"action\": \"reason\", \"value\": \"This is a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 20.0,
+      "end": 50.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"captain Shere saiyar won the toss and decided that India will bowl first\"},\n{\"action\": \"player\", \"reason\": \"Tim Seifert and Finn Allen a"
+    },
+    {
+      "start": 40.0,
+      "end": 70.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " This is a cricket clip"
+    },
+    {
+      "start": 60.0,
+      "end": 90.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 80.0,
+      "end": 110.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " The player is standing on the pitch, wearing a pink shirt, and the scoreboard shows his name and stats."
+    },
+    {
+      "start": 100.0,
+      "end": 130.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 120.0,
+      "end": 150.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reas"
+    },
+    {
+      "start": 140.0,
+      "end": 170.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"overstepping\", \"reason\": \"free hit\"},\n{\"action\": \"squeezes it down towards third man\", \"reason\": \"free hit\"},\n{\"action\": \"make it all away\", \"reason\": \"fre"
+    },
+    {
+      "start": 160.0,
+      "end": 190.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler caught the ball\"},\n{\"action\": \"boundary\", \"reason\": \"the batsman hit the ball\"},\n{\"action\": \"wicket\", \"reason\": \"the bowler"
+    },
+    {
+      "start": 180.0,
+      "end": 210.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"Daryl Mitchell got caught by the fielder\"}\n]\n```"
+    },
+    {
+      "start": 200.0,
+      "end": 230.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"pitch\", \"reason\": \"a cricket clip\"},\n{\"action\": \"hit ball\", \"reason\": \"a cricket clip\"},\n{\"action\": \"run\", \"reason\": \"a cricket clip\"},\n{\"action\": \"run\","
+    },
+    {
+      "start": 220.0,
+      "end": 250.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a wicket\"},\n{\"action\": \"the ball hits the ground\", \"reason\": \"a boundary\"},\n{\"action\": \"a player hits the ball\", \"rea"
+    },
+    {
+      "start": 240.0,
+      "end": 270.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out of the crease\"}\n]\n```"
+    },
+    {
+      "start": 260.0,
+      "end": 290.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"batsman hits the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hits the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hits the ball\", \"reason\": \"bo"
+    },
+    {
+      "start": 280.0,
+      "end": 310.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 300.0,
+      "end": 330.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"Daryl Mitchell held costly made that be for India\"},\n{\"action\": \"boundary\", \"reason\": \"Daryl Mitchell held costly made that be for India"
+    },
+    {
+      "start": 320.0,
+      "end": 350.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Daryl Mitchell\", \"reason\": \"catch\"}\n]\n```"
+    },
+    {
+      "start": 340.0,
+      "end": 370.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"dismissed\"}\n]\n```"
+    },
+    {
+      "start": 360.0,
+      "end": 390.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out of the game\"}\n]\n```"
+    },
+    {
+      "start": 380.0,
+      "end": 410.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+    },
+    {
+      "start": 400.0,
+      "end": 430.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player got wicket\"}\n]\n```"
+    },
+    {
+      "start": 420.0,
+      "end": 450.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"boundary\"},\n{\"action\": \"a batsman hits the ball\", \"reason\": \"wicket\"},\n{\"action\": \"a fielder catches the ball\", \"reas"
+    },
+    {
+      "start": 440.0,
+      "end": 470.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " A cricket clip."
+    },
+    {
+      "start": 460.0,
+      "end": 490.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Phillips\", \"reason\": \"not out\"},\n{\"action\": \"ball\", \"score\": \"200-4\"},\n{\"action\": \"boundary\", \"score\": \"200\"},\n{\"action\": \"boundary\","
+    },
+    {
+      "start": 480.0,
+      "end": 510.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 500.0,
+      "end": 530.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"that struck away slice to wit\"},\n{\"action\": \"wicket\", \"reason\": \"Phillips running hard comes to the strikers head\"},\n{\"action\": \"wicket"
+    },
+    {
+      "start": 520.0,
+      "end": 550.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"wicket\"},\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reason\":"
+    },
+    {
+      "start": 540.0,
+      "end": 570.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.8,
+      "reason": " The player scoredd a century and helped his team to equal their best ever score against India in a T20 international."
+    },
+    {
+      "start": 560.0,
+      "end": 590.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 580.0,
+      "end": 610.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player got wicket\"}\n]\n```"
+    },
+    {
+      "start": 600.0,
+      "end": 630.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"batsman hit the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hit the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hit the ball\", \"reason\": \"bound"
+    },
+    {
+      "start": 620.0,
+      "end": 650.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player hit the ball and got wicket\"}\n]\n```"
+    },
+    {
+      "start": 640.0,
+      "end": 670.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out\"}\n]\n```"
+    },
+    {
+      "start": 660.0,
+      "end": 690.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " A cricket clip."
+    },
+    {
+      "start": 680.0,
+      "end": 710.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+    },
+    {
+      "start": 700.0,
+      "end": 730.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler got the wicket of the batsman player\"},\n{\"action\": \"boundary\", \"reason\": \"the batsman player hit the ball and the ball went o"
+    },
+    {
+      "start": 720.0,
+      "end": 750.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Michael Bracewell\", \"reason\": \"catch\"}\n]\n```"
+    },
+    {
+      "start": 740.0,
+      "end": 770.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"breakthrough\"}\n]\n```"
+    },
+    {
+      "start": 760.0,
+      "end": 790.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " A cricket clip."
+    },
+    {
+      "start": 780.0,
+      "end": 810.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " This is a cricket clip"
+    },
+    {
+      "start": 800.0,
+      "end": 830.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"catch\"}\n]\n```"
+    },
+    {
+      "start": 820.0,
+      "end": 850.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Shreyas\", \"reason\": \"hit the ground\"}\n]\n```"
+    },
+    {
+      "start": 840.0,
+      "end": 870.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"boundary\"}\n]\n```"
+    },
+    {
+      "start": 860.0,
+      "end": 890.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " A cricket clip."
+    },
+    {
+      "start": 880.0,
+      "end": 910.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"hitting ball\", \"reason\": \"boundary\"},\n{\"action\": \"hitting ball\", \"reason\": \"wicket\"},\n{\"action\": \"hitting ball\", \"reason\": \"wicket\"},\n{\"action\": \"hitting"
+    },
+    {
+      "start": 900.0,
+      "end": 930.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"batsman hits the ball\", \"reason\": \"wicket\"}\n]\n```"
+    },
+    {
+      "start": 920.0,
+      "end": 950.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n{"
+    },
+    {
+      "start": 940.0,
+      "end": 970.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " A cricket clip."
+    },
+    {
+      "start": 960.0,
+      "end": 990.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket of the batsman player\"}\n]\n```"
+    },
+    {
+      "start": 980.0,
+      "end": 1010.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the ball that decides the match scores\"}\n]\n```"
+    },
+    {
+      "start": 1000.0,
+      "end": 1030.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"boundary\"}\n]\n```"
+    },
+    {
+      "start": 1020.0,
+      "end": 1050.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " A cricket clip."
+    },
+    {
+      "start": 1040.0,
+      "end": 1070.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"the ball is hit\"}\n]\n```"
+    },
+    {
+      "start": 1060.0,
+      "end": 1090.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket of the batsman player\"}\n]\n```"
+    },
+    {
+      "start": 1080.0,
+      "end": 1110.0,
+      "duration": 30.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+    },
+    {
+      "start": 1100.0,
+      "end": 1113.0,
+      "duration": 13.0,
+      "max_len": 30,
+      "importance": 0.0,
+      "reason": " ```json\n[\n{\"action\": \"click\", \"coordinate\": [100, 118] },\n{\"action\": \"click\", \"coordinate\": [100, 138] },\n{\"action\": \"click\", \"coordinate\": [100, 158] },\n{\"action\": \"click\", \"c"
+    }
+  ],
+  "kept": {
+    "20": [
+      {
+        "start": 0.0,
+        "end": 20.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"start of video\", \"time\": 0.0},\n{\"action\": \"start of music\", \"time\": 10.0},\n{\"action\": \"end of music\", \"time\": 18.0},\n{\"action\": \"start of speech\", \"time\":"
+      },
+      {
+        "start": 20.0,
+        "end": 40.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"start recording\", \"time\": \"0:00\"},\n{\"action\": \"end recording\", \"time\": \"0:01\"},\n{\"action\": \"start recording\", \"time\": \"0:02\"},\n{\"action\": \"end recording\","
+      },
+      {
+        "start": 40.0,
+        "end": 60.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"click\", \"coordinate\": [100, 140] },\n{\"action\": \"click\", \"coordinate\": [100, 150] },\n{\"action\": \"click\", \"coordinate\": [100, 160] },\n{\"action\": \"click\", \"c"
+      },
+      {
+        "start": 60.0,
+        "end": 80.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 80.0,
+        "end": 100.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 100.0,
+        "end": 120.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 120.0,
+        "end": 140.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out of the game\"}\n]\n```"
+      },
+      {
+        "start": 140.0,
+        "end": 160.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a ball is bowled\", \"reason\": \"a wicket\"},\n{\"action\": \"a player hits the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"a player hits the ball\", \"reason\": \"a w"
+      },
+      {
+        "start": 160.0,
+        "end": 180.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 180.0,
+        "end": 200.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+      },
+      {
+        "start": 200.0,
+        "end": 220.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Daryl Mitchell\", \"reason\": \"boundary\"}\n]\n```"
+      },
+      {
+        "start": 220.0,
+        "end": 240.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"batsman hits the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hits the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hits the ball\", \"reason\": \"bo"
+      },
+      {
+        "start": 240.0,
+        "end": 260.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out\"}\n]\n```"
+      },
+      {
+        "start": 260.0,
+        "end": 280.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"a player hits the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"a player hits the ball\", \"rea"
+      },
+      {
+        "start": 280.0,
+        "end": 300.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 300.0,
+        "end": 320.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a cricket clip\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 320.0,
+        "end": 340.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket of the batsman player\"}\n]\n```"
+      },
+      {
+        "start": 340.0,
+        "end": 360.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+      },
+      {
+        "start": 360.0,
+        "end": 380.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out of the game\"}\n]\n```"
+      },
+      {
+        "start": 380.0,
+        "end": 400.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the ball, boundary, milestone, or the ball that decides the match scores near 1.\"}\n]\n```"
+      },
+      {
+        "start": 400.0,
+        "end": 420.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a wicket\"},\n{\"action\": \"the batsman hits the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"the ball goes towards the st"
+      },
+      {
+        "start": 420.0,
+        "end": 440.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a ball is hit by a bat\", \"reason\": \"a boundary\"}\n]\n```"
+      },
+      {
+        "start": 440.0,
+        "end": 460.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"boundary\"}\n]\n```"
+      },
+      {
+        "start": 460.0,
+        "end": 480.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player is out\"}\n]\n```"
+      },
+      {
+        "start": 480.0,
+        "end": 500.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"Boundary\"}\n]\n```"
+      },
+      {
+        "start": 500.0,
+        "end": 520.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out of the pitch\"}\n]\n```"
+      },
+      {
+        "start": 520.0,
+        "end": 540.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " This is a cricket clip"
+      },
+      {
+        "start": 540.0,
+        "end": 560.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"New Zealand equalled their best score against India in a T20\"}\n]\n```"
+      },
+      {
+        "start": 560.0,
+        "end": 580.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 580.0,
+        "end": 600.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out\"}\n]\n```"
+      },
+      {
+        "start": 600.0,
+        "end": 620.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out\"}\n]\n```"
+      },
+      {
+        "start": 620.0,
+        "end": 640.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player was in trouble\"}\n]\n```"
+      },
+      {
+        "start": 640.0,
+        "end": 660.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+      },
+      {
+        "start": 660.0,
+        "end": 680.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+      },
+      {
+        "start": 680.0,
+        "end": 700.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " This is a cricket clip"
+      },
+      {
+        "start": 700.0,
+        "end": 720.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the ball that decides the match scores\"}\n]\n```"
+      },
+      {
+        "start": 720.0,
+        "end": 740.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"ABHISHEK\", \"reason\": \"not out\"}\n]\n```"
+      },
+      {
+        "start": 740.0,
+        "end": 760.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"breakthrough\"}\n]\n```"
+      },
+      {
+        "start": 760.0,
+        "end": 780.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"ABHISHEK SHARMA\", \"reason\": \"not his best delivery\"}\n]\n```"
+      },
+      {
+        "start": 780.0,
+        "end": 800.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has taken a wicket\"}\n]\n```"
+      },
+      {
+        "start": 800.0,
+        "end": 820.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"wicket\"}\n]\n```"
+      },
+      {
+        "start": 820.0,
+        "end": 840.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " This is a cricket clip"
+      },
+      {
+        "start": 840.0,
+        "end": 860.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a cricket clip\"},\n{\"action\": \"the bowler claps his hands\", \"reason\": \"a cricket clip\"},\n{\"action\": \"a batsman hits th"
+      },
+      {
+        "start": 860.0,
+        "end": 880.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " This is a cricket clip."
+      },
+      {
+        "start": 880.0,
+        "end": 900.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"a boundary\"}\n]\n```"
+      },
+      {
+        "start": 900.0,
+        "end": 920.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"hug\", \"player\": \"11\", \"reason\": \"team mates\"}\n]\n```"
+      },
+      {
+        "start": 920.0,
+        "end": 940.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"a wicket\"}\n]\n```"
+      },
+      {
+        "start": 940.0,
+        "end": 960.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a wicket\"},\n{\"action\": \"the batsman hits the ball\", \"reason\": \"a boundary\"},\n{\"action\": \"the bowler runs\", \"reason\":"
+      },
+      {
+        "start": 960.0,
+        "end": 980.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"The batsman is out of the game\"}\n]\n```"
+      },
+      {
+        "start": 980.0,
+        "end": 1000.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the ball that decides the match scores\"}\n]\n```"
+      },
+      {
+        "start": 1000.0,
+        "end": 1020.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"short third man over the top of short third man\"}\n]\n```"
+      },
+      {
+        "start": 1020.0,
+        "end": 1040.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"boundary\"}\n]\n```"
+      },
+      {
+        "start": 1040.0,
+        "end": 1060.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"the ball is hit\"}\n]\n```"
+      },
+      {
+        "start": 1060.0,
+        "end": 1080.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out\"}\n]\n```"
+      },
+      {
+        "start": 1080.0,
+        "end": 1100.0,
+        "duration": 20.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"wicket\"}\n]\n```"
+      },
+      {
+        "start": 1100.0,
+        "end": 1113.0,
+        "duration": 13.0,
+        "max_len": 20,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"click\", \"coordinate\": [100, 117] },\n{\"action\": \"click\", \"coordinate\": [100, 137] },\n{\"action\": \"click\", \"coordinate\": [100, 157] },\n{\"action\": \"click\", \"c"
+      }
+    ],
+    "30": [
+      {
+        "start": 540.0,
+        "end": 570.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.8,
+        "reason": " The player scoredd a century and helped his team to equal their best ever score against India in a T20 international."
+      },
+      {
+        "start": 0.0,
+        "end": 30.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"importance\", \"value\": 0.0},\n{\"action\": \"reason\", \"value\": \"This is a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 20.0,
+        "end": 50.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"captain Shere saiyar won the toss and decided that India will bowl first\"},\n{\"action\": \"player\", \"reason\": \"Tim Seifert and Finn Allen a"
+      },
+      {
+        "start": 40.0,
+        "end": 70.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " This is a cricket clip"
+      },
+      {
+        "start": 60.0,
+        "end": 90.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 80.0,
+        "end": 110.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " The player is standing on the pitch, wearing a pink shirt, and the scoreboard shows his name and stats."
+      },
+      {
+        "start": 100.0,
+        "end": 130.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 120.0,
+        "end": 150.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reas"
+      },
+      {
+        "start": 140.0,
+        "end": 170.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"overstepping\", \"reason\": \"free hit\"},\n{\"action\": \"squeezes it down towards third man\", \"reason\": \"free hit\"},\n{\"action\": \"make it all away\", \"reason\": \"fre"
+      },
+      {
+        "start": 160.0,
+        "end": 190.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler caught the ball\"},\n{\"action\": \"boundary\", \"reason\": \"the batsman hit the ball\"},\n{\"action\": \"wicket\", \"reason\": \"the bowler"
+      },
+      {
+        "start": 180.0,
+        "end": 210.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"Daryl Mitchell got caught by the fielder\"}\n]\n```"
+      },
+      {
+        "start": 200.0,
+        "end": 230.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"pitch\", \"reason\": \"a cricket clip\"},\n{\"action\": \"hit ball\", \"reason\": \"a cricket clip\"},\n{\"action\": \"run\", \"reason\": \"a cricket clip\"},\n{\"action\": \"run\","
+      },
+      {
+        "start": 220.0,
+        "end": 250.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"a wicket\"},\n{\"action\": \"the ball hits the ground\", \"reason\": \"a boundary\"},\n{\"action\": \"a player hits the ball\", \"rea"
+      },
+      {
+        "start": 240.0,
+        "end": 270.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the batsman out of the crease\"}\n]\n```"
+      },
+      {
+        "start": 260.0,
+        "end": 290.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"batsman hits the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hits the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hits the ball\", \"reason\": \"bo"
+      },
+      {
+        "start": 280.0,
+        "end": 310.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 300.0,
+        "end": 330.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"Daryl Mitchell held costly made that be for India\"},\n{\"action\": \"boundary\", \"reason\": \"Daryl Mitchell held costly made that be for India"
+      },
+      {
+        "start": 320.0,
+        "end": 350.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Daryl Mitchell\", \"reason\": \"catch\"}\n]\n```"
+      },
+      {
+        "start": 340.0,
+        "end": 370.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"dismissed\"}\n]\n```"
+      },
+      {
+        "start": 360.0,
+        "end": 390.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out of the game\"}\n]\n```"
+      },
+      {
+        "start": 380.0,
+        "end": 410.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+      },
+      {
+        "start": 400.0,
+        "end": 430.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player got wicket\"}\n]\n```"
+      },
+      {
+        "start": 420.0,
+        "end": 450.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a bowler throws the ball\", \"reason\": \"boundary\"},\n{\"action\": \"a batsman hits the ball\", \"reason\": \"wicket\"},\n{\"action\": \"a fielder catches the ball\", \"reas"
+      },
+      {
+        "start": 440.0,
+        "end": 470.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " A cricket clip."
+      },
+      {
+        "start": 460.0,
+        "end": 490.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Phillips\", \"reason\": \"not out\"},\n{\"action\": \"ball\", \"score\": \"200-4\"},\n{\"action\": \"boundary\", \"score\": \"200\"},\n{\"action\": \"boundary\","
+      },
+      {
+        "start": 480.0,
+        "end": 510.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 500.0,
+        "end": 530.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"that struck away slice to wit\"},\n{\"action\": \"wicket\", \"reason\": \"Phillips running hard comes to the strikers head\"},\n{\"action\": \"wicket"
+      },
+      {
+        "start": 520.0,
+        "end": 550.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"wicket\"},\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reason\": \"boundary\"},\n{\"action\": \"boundary\", \"reason\":"
+      },
+      {
+        "start": 560.0,
+        "end": 590.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      },
+      {
+        "start": 580.0,
+        "end": 610.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player got wicket\"}\n]\n```"
+      },
+      {
+        "start": 600.0,
+        "end": 630.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"batsman hit the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hit the ball\", \"reason\": \"boundary\"},\n{\"action\": \"batsman hit the ball\", \"reason\": \"bound"
+      },
+      {
+        "start": 620.0,
+        "end": 650.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the player hit the ball and got wicket\"}\n]\n```"
+      },
+      {
+        "start": 640.0,
+        "end": 670.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the batsman is out\"}\n]\n```"
+      },
+      {
+        "start": 660.0,
+        "end": 690.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " A cricket clip."
+      },
+      {
+        "start": 680.0,
+        "end": 710.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket\"}\n]\n```"
+      },
+      {
+        "start": 700.0,
+        "end": 730.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler got the wicket of the batsman player\"},\n{\"action\": \"boundary\", \"reason\": \"the batsman player hit the ball and the ball went o"
+      },
+      {
+        "start": 720.0,
+        "end": 750.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Michael Bracewell\", \"reason\": \"catch\"}\n]\n```"
+      },
+      {
+        "start": 740.0,
+        "end": 770.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"breakthrough\"}\n]\n```"
+      },
+      {
+        "start": 760.0,
+        "end": 790.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " A cricket clip."
+      },
+      {
+        "start": 780.0,
+        "end": 810.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " This is a cricket clip"
+      },
+      {
+        "start": 800.0,
+        "end": 830.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"catch\"}\n]\n```"
+      },
+      {
+        "start": 820.0,
+        "end": 850.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"player\": \"Shreyas\", \"reason\": \"hit the ground\"}\n]\n```"
+      },
+      {
+        "start": 840.0,
+        "end": 870.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"boundary\"}\n]\n```"
+      },
+      {
+        "start": 860.0,
+        "end": 890.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " A cricket clip."
+      },
+      {
+        "start": 880.0,
+        "end": 910.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"hitting ball\", \"reason\": \"boundary\"},\n{\"action\": \"hitting ball\", \"reason\": \"wicket\"},\n{\"action\": \"hitting ball\", \"reason\": \"wicket\"},\n{\"action\": \"hitting"
+      },
+      {
+        "start": 900.0,
+        "end": 930.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"batsman hits the ball\", \"reason\": \"wicket\"}\n]\n```"
+      },
+      {
+        "start": 920.0,
+        "end": 950.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n{"
+      },
+      {
+        "start": 940.0,
+        "end": 970.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " A cricket clip."
+      },
+      {
+        "start": 960.0,
+        "end": 990.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket of the batsman player\"}\n]\n```"
+      },
+      {
+        "start": 980.0,
+        "end": 1010.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the ball that decides the match scores\"}\n]\n```"
+      },
+      {
+        "start": 1000.0,
+        "end": 1030.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"boundary\"}\n]\n```"
+      },
+      {
+        "start": 1020.0,
+        "end": 1050.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " A cricket clip."
+      },
+      {
+        "start": 1040.0,
+        "end": 1070.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"a player hits the ball\", \"reason\": \"the ball is hit\"}\n]\n```"
+      },
+      {
+        "start": 1060.0,
+        "end": 1090.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"wicket\", \"reason\": \"the bowler has got the wicket of the batsman player\"}\n]\n```"
+      },
+      {
+        "start": 1080.0,
+        "end": 1110.0,
+        "duration": 30.0,
+        "max_len": 30,
+        "importance": 0.0,
+        "reason": " ```json\n[\n{\"action\": \"cricket\", \"reason\": \"a cricket clip\"}\n]\n```"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "start": 535.08,
+  "end": 556.48,
+  "duration": 21.4,
+  "max_len": 45,
+  "importance": 0.65,
+  "cue": "boundary",
+  "desc": "boundary",
+  "reason": "heard boundary, so the score is boundary",
+  "peak": 528.0
+}

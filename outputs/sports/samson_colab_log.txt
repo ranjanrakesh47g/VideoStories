@@ -1,0 +1,524 @@
+0.00  20s  0-20  ```json
+[
+	{"action": "start of video", "time": 0.0},
+	{"action": "start of music", "time": 10.0},
+	{"action": "end of music", "time": 18.0},
+	{"action": "start of speech", "time":
+0.00  20s  20-40  ```json
+[
+	{"action": "start recording", "time": "0:00"},
+	{"action": "end recording", "time": "0:01"},
+	{"action": "start recording", "time": "0:02"},
+	{"action": "end recording",
+0.00  20s  40-60  ```json
+[
+	{"action": "click", "coordinate": [100, 140] },
+	{"action": "click", "coordinate": [100, 150] },
+	{"action": "click", "coordinate": [100, 160] },
+	{"action": "click", "c
+0.00  20s  60-80  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  20s  80-100  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  20s  100-120  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  20s  120-140  ```json
+[
+	{"action": "wicket", "reason": "the batsman is out of the game"}
+]
+```
+0.00  20s  140-160  ```json
+[
+	{"action": "a ball is bowled", "reason": "a wicket"},
+	{"action": "a player hits the ball", "reason": "a boundary"},
+	{"action": "a player hits the ball", "reason": "a w
+
+0.00  20s  160-180  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  20s  180-200  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket"}
+]
+```
+0.00  20s  200-220  ```json
+[
+	{"action": "wicket", "player": "Daryl Mitchell", "reason": "boundary"}
+]
+```
+0.00  20s  220-240  ```json
+[
+	{"action": "batsman hits the ball", "reason": "boundary"},
+	{"action": "batsman hits the ball", "reason": "boundary"},
+	{"action": "batsman hits the ball", "reason": "bo
+0.00  20s  240-260  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the batsman out"}
+]
+```
+0.00  20s  260-280  ```json
+[
+	{"action": "a bowler throws the ball", "reason": "a boundary"},
+	{"action": "a player hits the ball", "reason": "a boundary"},
+	{"action": "a player hits the ball", "rea
+0.00  20s  280-300  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  20s  300-320  ```json
+[
+	{"action": "a cricket clip", "reason": "a cricket clip"}
+]
+```
+
+0.00  20s  320-340  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket of the batsman player"}
+]
+```
+0.00  20s  340-360  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket"}
+]
+```
+0.00  20s  360-380  ```json
+[
+	{"action": "wicket", "reason": "the batsman is out of the game"}
+]
+```
+0.00  20s  380-400  ```json
+[
+	{"action": "wicket", "reason": "the ball, boundary, milestone, or the ball that decides the match scores near 1."}
+]
+```
+0.00  20s  400-420  ```json
+[
+	{"action": "a bowler throws the ball", "reason": "a wicket"},
+	{"action": "the batsman hits the ball", "reason": "a boundary"},
+	{"action": "the ball goes towards the st
+0.00  20s  420-440  ```json
+[
+	{"action": "a ball is hit by a bat", "reason": "a boundary"}
+]
+```
+0.00  20s  440-460  ```json
+[
+	{"action": "a player hits the ball", "reason": "boundary"}
+]
+```
+0.00  20s  460-480  ```json
+[
+	{"action": "wicket", "reason": "the player is out"}
+]
+```
+
+0.00  20s  480-500  ```json
+[
+	{"action": "a player hits the ball", "reason": "Boundary"}
+]
+```
+0.00  20s  500-520  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the batsman out of the pitch"}
+]
+```
+0.00  20s  520-540  This is a cricket clip
+0.00  20s  540-560  ```json
+[
+	{"action": "wicket", "reason": "New Zealand equalled their best score against India in a T20"}
+]
+```
+0.00  20s  560-580  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  20s  580-600  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the batsman out"}
+]
+```
+0.00  20s  600-620  ```json
+[
+	{"action": "wicket", "reason": "the batsman is out"}
+]
+```
+0.00  20s  620-640  ```json
+[
+	{"action": "wicket", "reason": "the player was in trouble"}
+]
+```
+
+0.00  20s  640-660  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket"}
+]
+```
+0.00  20s  660-680  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket"}
+]
+```
+0.00  20s  680-700  This is a cricket clip
+0.00  20s  700-720  ```json
+[
+	{"action": "wicket", "reason": "the ball that decides the match scores"}
+]
+```
+0.00  20s  720-740  ```json
+[
+	{"action": "wicket", "player": "ABHISHEK", "reason": "not out"}
+]
+```
+0.00  20s  740-760  ```json
+[
+	{"action": "wicket", "reason": "breakthrough"}
+]
+```
+0.00  20s  760-780  ```json
+[
+	{"action": "wicket", "player": "ABHISHEK SHARMA", "reason": "not his best delivery"}
+]
+```
+0.00  20s  780-800  ```json
+[
+	{"action": "wicket", "reason": "the bowler has taken a wicket"}
+]
+```
+
+0.00  20s  800-820  ```json
+[
+	{"action": "wicket", "reason": "wicket"}
+]
+```
+0.00  20s  820-840  This is a cricket clip
+0.00  20s  840-860  ```json
+[
+	{"action": "a bowler throws the ball", "reason": "a cricket clip"},
+	{"action": "the bowler claps his hands", "reason": "a cricket clip"},
+	{"action": "a batsman hits th
+0.00  20s  860-880  This is a cricket clip.
+0.00  20s  880-900  ```json
+[
+	{"action": "a player hits the ball", "reason": "a boundary"}
+]
+```
+0.00  20s  900-920  ```json
+[
+	{"action": "hug", "player": "11", "reason": "team mates"}
+]
+```
+0.00  20s  920-940  ```json
+[
+	{"action": "a player hits the ball", "reason": "a wicket"}
+]
+```
+0.00  20s  940-960  ```json
+[
+	{"action": "a bowler throws the ball", "reason": "a wicket"},
+	{"action": "the batsman hits the ball", "reason": "a boundary"},
+	{"action": "the bowler runs", "reason": 
+
+0.00  20s  960-980  ```json
+[
+	{"action": "wicket", "reason": "The batsman is out of the game"}
+]
+```
+0.00  20s  980-1000  ```json
+[
+	{"action": "wicket", "reason": "the ball that decides the match scores"}
+]
+```
+0.00  20s  1000-1020  ```json
+[
+	{"action": "wicket", "reason": "short third man over the top of short third man"}
+]
+```
+0.00  20s  1020-1040  ```json
+[
+	{"action": "a player hits the ball", "reason": "boundary"}
+]
+```
+0.00  20s  1040-1060  ```json
+[
+	{"action": "a player hits the ball", "reason": "the ball is hit"}
+]
+```
+0.00  20s  1060-1080  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the batsman out"}
+]
+```
+0.00  20s  1080-1100  ```json
+[
+	{"action": "wicket", "reason": "wicket"}
+]
+```
+0.00  20s  1100-1113  ```json
+[
+	{"action": "click", "coordinate": [100, 117] },
+	{"action": "click", "coordinate": [100, 137] },
+	{"action": "click", "coordinate": [100, 157] },
+	{"action": "click", "c
+
+0.00  30s  0-30  ```json
+[
+	{"action": "importance", "value": 0.0},
+	{"action": "reason", "value": "This is a cricket clip"}
+]
+```
+0.00  30s  20-50  ```json
+[
+	{"action": "wicket", "reason": "captain Shere saiyar won the toss and decided that India will bowl first"},
+	{"action": "player", "reason": "Tim Seifert and Finn Allen a
+0.00  30s  40-70  This is a cricket clip
+0.00  30s  60-90  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  30s  80-110  The player is standing on the pitch, wearing a pink shirt, and the scoreboard shows his name and stats.
+0.00  30s  100-130  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  30s  120-150  ```json
+[
+	{"action": "boundary", "reason": "boundary"},
+	{"action": "boundary", "reason": "boundary"},
+	{"action": "boundary", "reason": "boundary"},
+	{"action": "boundary", "reas
+0.00  30s  140-170  ```json
+[
+	{"action": "overstepping", "reason": "free hit"},
+	{"action": "squeezes it down towards third man", "reason": "free hit"},
+	{"action": "make it all away", "reason": "fre
+
+0.00  30s  160-190  ```json
+[
+	{"action": "wicket", "reason": "the bowler caught the ball"},
+	{"action": "boundary", "reason": "the batsman hit the ball"},
+	{"action": "wicket", "reason": "the bowler 
+0.00  30s  180-210  ```json
+[
+	{"action": "wicket", "reason": "Daryl Mitchell got caught by the fielder"}
+]
+```
+0.00  30s  200-230  ```json
+[
+	{"action": "pitch", "reason": "a cricket clip"},
+	{"action": "hit ball", "reason": "a cricket clip"},
+	{"action": "run", "reason": "a cricket clip"},
+	{"action": "run", 
+0.00  30s  220-250  ```json
+[
+	{"action": "a bowler throws the ball", "reason": "a wicket"},
+	{"action": "the ball hits the ground", "reason": "a boundary"},
+	{"action": "a player hits the ball", "rea
+0.00  30s  240-270  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the batsman out of the crease"}
+]
+```
+0.00  30s  260-290  ```json
+[
+	{"action": "batsman hits the ball", "reason": "boundary"},
+	{"action": "batsman hits the ball", "reason": "boundary"},
+	{"action": "batsman hits the ball", "reason": "bo
+0.00  30s  280-310  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  30s  300-330  ```json
+[
+	{"action": "wicket", "reason": "Daryl Mitchell held costly made that be for India"},
+	{"action": "boundary", "reason": "Daryl Mitchell held costly made that be for India
+
+0.00  30s  320-350  ```json
+[
+	{"action": "wicket", "player": "Daryl Mitchell", "reason": "catch"}
+]
+```
+0.00  30s  340-370  ```json
+[
+	{"action": "wicket", "reason": "dismissed"}
+]
+```
+0.00  30s  360-390  ```json
+[
+	{"action": "wicket", "reason": "the batsman is out of the game"}
+]
+```
+0.00  30s  380-410  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket"}
+]
+```
+0.00  30s  400-430  ```json
+[
+	{"action": "wicket", "reason": "the player got wicket"}
+]
+```
+0.00  30s  420-450  ```json
+[
+	{"action": "a bowler throws the ball", "reason": "boundary"},
+	{"action": "a batsman hits the ball", "reason": "wicket"},
+	{"action": "a fielder catches the ball", "reas
+0.00  30s  440-470  A cricket clip.
+0.00  30s  460-490  ```json
+[
+	{"action": "wicket", "player": "Phillips", "reason": "not out"},
+	{"action": "ball", "score": "200-4"},
+	{"action": "boundary", "score": "200"},
+	{"action": "boundary", 
+
+0.00  30s  480-510  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  30s  500-530  ```json
+[
+	{"action": "wicket", "reason": "that struck away slice to wit"},
+	{"action": "wicket", "reason": "Phillips running hard comes to the strikers head"},
+	{"action": "wicket
+0.00  30s  520-550  ```json
+[
+	{"action": "wicket", "reason": "wicket"},
+	{"action": "boundary", "reason": "boundary"},
+	{"action": "boundary", "reason": "boundary"},
+	{"action": "boundary", "reason":
+0.80  30s  540-570  The player scoredd a century and helped his team to equal their best ever score against India in a T20 international.
+0.00  30s  560-590  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  30s  580-610  ```json
+[
+	{"action": "wicket", "reason": "the player got wicket"}
+]
+```
+0.00  30s  600-630  ```json
+[
+	{"action": "batsman hit the ball", "reason": "boundary"},
+	{"action": "batsman hit the ball", "reason": "boundary"},
+	{"action": "batsman hit the ball", "reason": "bound
+0.00  30s  620-650  ```json
+[
+	{"action": "wicket", "reason": "the player hit the ball and got wicket"}
+]
+```
+
+0.00  30s  640-670  ```json
+[
+	{"action": "wicket", "reason": "the batsman is out"}
+]
+```
+0.00  30s  660-690  A cricket clip.
+0.00  30s  680-710  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket"}
+]
+```
+0.00  30s  700-730  ```json
+[
+	{"action": "wicket", "reason": "the bowler got the wicket of the batsman player"},
+	{"action": "boundary", "reason": "the batsman player hit the ball and the ball went o
+0.00  30s  720-750  ```json
+[
+	{"action": "wicket", "player": "Michael Bracewell", "reason": "catch"}
+]
+```
+0.00  30s  740-770  ```json
+[
+	{"action": "wicket", "reason": "breakthrough"}
+]
+```
+0.00  30s  760-790  A cricket clip.
+0.00  30s  780-810  This is a cricket clip
+
+0.00  30s  800-830  ```json
+[
+	{"action": "wicket", "reason": "catch"}
+]
+```
+0.00  30s  820-850  ```json
+[
+	{"action": "wicket", "player": "Shreyas", "reason": "hit the ground"}
+]
+```
+0.00  30s  840-870  ```json
+[
+	{"action": "a player hits the ball", "reason": "boundary"}
+]
+```
+0.00  30s  860-890  A cricket clip.
+0.00  30s  880-910  ```json
+[
+	{"action": "hitting ball", "reason": "boundary"},
+	{"action": "hitting ball", "reason": "wicket"},
+	{"action": "hitting ball", "reason": "wicket"},
+	{"action": "hitting 
+0.00  30s  900-930  ```json
+[
+	{"action": "batsman hits the ball", "reason": "wicket"}
+]
+```
+0.00  30s  920-950  ```json
+{
+  "importance": 0.7,
+  "reason": "A crucial moment in the play, potentially leading to two wickets in the over, but instead, the score is 171 for 5 with 5 wickets to go. 
+0.00  30s  940-970  A cricket clip.
+
+0.00  30s  960-990  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket of the batsman player"}
+]
+```
+0.00  30s  980-1010  ```json
+[
+	{"action": "wicket", "reason": "the ball that decides the match scores"}
+]
+```
+0.00  30s  1000-1030  ```json
+[
+	{"action": "a player hits the ball", "reason": "boundary"}
+]
+```
+0.00  30s  1020-1050  A cricket clip.
+0.00  30s  1040-1070  ```json
+[
+	{"action": "a player hits the ball", "reason": "the ball is hit"}
+]
+```
+0.00  30s  1060-1090  ```json
+[
+	{"action": "wicket", "reason": "the bowler has got the wicket of the batsman player"}
+]
+```
+0.00  30s  1080-1110  ```json
+[
+	{"action": "cricket", "reason": "a cricket clip"}
+]
+```
+0.00  30s  1100-1113  ```json
+[
+	{"action": "click", "coordinate": [100, 118] },
+	{"action": "click", "coordinate": [100, 138] },
+	{"action": "click", "coordinate": [100, 158] },
+	{"action": "click", "c

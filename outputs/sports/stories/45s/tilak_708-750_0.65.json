@@ -1,0 +1,11 @@
+{
+  "start": 708.08,
+  "end": 750.44,
+  "duration": 42.36,
+  "max_len": 45,
+  "importance": 0.65,
+  "cue": "six",
+  "desc": "the commentator says this ball wins or loses the match, or the match is won or lost",
+  "reason": "hear <word>, so the score is <number>.",
+  "peak": 746.0
+}

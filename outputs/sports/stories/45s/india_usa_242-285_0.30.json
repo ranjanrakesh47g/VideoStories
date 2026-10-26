@@ -1,0 +1,11 @@
+{
+  "start": 242.16,
+  "end": 285.16,
+  "duration": 43.0,
+  "max_len": 45,
+  "importance": 0.3,
+  "cue": "edge",
+  "desc": "hit that ball",
+  "reason": "heard hit that ball, so the score is hit that ball",
+  "peak": 255.0
+}

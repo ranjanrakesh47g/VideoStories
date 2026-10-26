@@ -1,0 +1,11 @@
+{
+  "start": 1081.24,
+  "end": 1107.78,
+  "duration": 26.54,
+  "max_len": 30,
+  "importance": 0.3,
+  "cue": "six",
+  "desc": "a 30 second window and a 45 second window with the same commentary word get the same importance_score",
+  "reason": "heard \u0633\u062a\u0627\u064a\u0631\u060c so the score is \u0633\u062a\u0627\u064a\u0631. This window runs from 1081.24 to 1082.64 seconds. The commentary word is \u0633\u062a\u0627\u064a\u0631. The commentary word is a 30 second window, a",
+  "peak": 1073.0
+}
