@@ -28,16 +28,12 @@ The news pipeline is transcript-driven and runs locally with a GPU.
 2. **Shot alignment.** FFmpeg scene detection (threshold 0.3) yields cut times. Sentence boundaries are snapped to a nearby cut only when the cut lies within 0.4 seconds and falls in the inter-sentence gap.
 3. **Candidate generation.** From each sentence start, contiguous sentence spans are grown up to 30 and 45 seconds. Spans shorter than 12 seconds are discarded.
 4. **Scoring.** Each candidate receives four normalised component scores, combined as:
-
-   > importance = 0.35 × centrality + 0.20 × lead + 0.15 × density + 0.30 × clarity
-
-   - **Centrality** — semantic similarity of the clip text to the full-video sentence embedding centroid (`sentence-transformers/all-MiniLM-L6-v2`).
-   - **Lead** — preference for material in the first 25% of the video.
-   - **Density** — zero-shot factuality via `MoritzLaurer/deberta-v3-base-zeroshot-v2.0`, with MMR diversification (λ = 0.7).
-   - **Clarity** — zero-shot preference for standalone news statements over greetings or sign-offs.
+  > importance = 0.35 × centrality + 0.20 × lead + 0.15 × density + 0.30 × clarity
+  - **Centrality** — semantic similarity of the clip text to the full-video sentence embedding centroid (`sentence-transformers/all-MiniLM-L6-v2`).
+  - **Lead** — preference for material in the first 25% of the video.
+  - **Density** — zero-shot factuality via `MoritzLaurer/deberta-v3-base-zeroshot-v2.0`, with MMR diversification (λ = 0.7).
+  - **Clarity** — zero-shot preference for standalone news statements over greetings or sign-offs.
 5. **Selection and export.** Clips with importance below 0.5 are removed. Within each duration bucket, a lower-scoring clip that overlaps a retained clip by more than 0.2 (fractional overlap) is dropped. The top three clips per video and duration are cut to `outputs/stories/clips/`.
-
-
 
 ### Sports
 
@@ -68,10 +64,10 @@ Highest observed importance scores were approximately 0.77 (BRICS) and 0.84 (Mid
 For the three cricket highlight videos, the pipeline exported:
 
 
-| Duration   | Story JSON / MP4 pairs |
-| ---------- | ---------------------- |
-| 30 seconds | 37                     |
-| 45 seconds | 33                     |
+| Duration   | Story clips |
+| ---------- | ----------- |
+| 30 seconds | 37          |
+| 45 seconds | 33          |
 
 
 Scored moments are concentrated on dismissals, catches, and high-impact batting events (importance commonly 0.65), with filenames encoding source shorthand, time range, and score (e.g. `samson_313-336_0.65`). Metadata includes the triggering cue word, peak time, and model rationale.
@@ -99,3 +95,4 @@ python3.12 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
