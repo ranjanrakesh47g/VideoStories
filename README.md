@@ -29,12 +29,12 @@ The news pipeline is transcript-driven and runs locally with a GPU.
 3. **Candidate generation.** From each sentence start, contiguous sentence spans are grown up to 30 and 45 seconds. Spans shorter than 12 seconds are discarded.
 4. **Scoring.** Each candidate receives four normalised component scores, combined as:
 
-   \mathrm{importance} = 0.35\cdot\mathrm{centrality} + 0.20\cdot\mathrm{lead} + 0.15\cdot\mathrm{density} + 0.30\cdot\mathrm{clarity}
-   
-  - **Centrality** — semantic similarity of the clip text to the full-video sentence embedding centroid (`sentence-transformers/all-MiniLM-L6-v2`).
-  - **Lead** — preference for material in the first 25% of the video.
-  - **Density** — zero-shot factuality via `MoritzLaurer/deberta-v3-base-zeroshot-v2.0`, with MMR diversification (\lambda = 0.7).
-  - **Clarity** — zero-shot preference for standalone news statements over greetings or sign-offs.
+   > importance = 0.35 × centrality + 0.20 × lead + 0.15 × density + 0.30 × clarity
+
+   - **Centrality** — semantic similarity of the clip text to the full-video sentence embedding centroid (`sentence-transformers/all-MiniLM-L6-v2`).
+   - **Lead** — preference for material in the first 25% of the video.
+   - **Density** — zero-shot factuality via `MoritzLaurer/deberta-v3-base-zeroshot-v2.0`, with MMR diversification (λ = 0.7).
+   - **Clarity** — zero-shot preference for standalone news statements over greetings or sign-offs.
 5. **Selection and export.** Clips with importance below 0.5 are removed. Within each duration bucket, a lower-scoring clip that overlaps a retained clip by more than 0.2 (fractional overlap) is dropped. The top three clips per video and duration are cut to `outputs/stories/clips/`.
 
 
